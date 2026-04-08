@@ -1,0 +1,12 @@
+[
+  { "slug": "zhi-yu", "name": "治愈", "type": "mood", "description": "情绪被轻柔安放。" },
+  { "slug": "gu-du", "name": "孤独", "type": "mood", "description": "更偏内向和独处的情绪。" },
+  { "slug": "cheng-zhang", "name": "成长", "type": "mood", "description": "从经验中慢慢变化。" },
+  { "slug": "wen-rou", "name": "温柔", "type": "mood", "description": "表达克制但有温度。" },
+  { "slug": "xiang-nian", "name": "想念", "type": "mood", "description": "指向某个人或某段时间。" },
+  { "slug": "shi-ran", "name": "释然", "type": "mood", "description": "不是遗忘，而是接受。" },
+  { "slug": "qing-chun", "name": "青春", "type": "theme", "description": "与成长、记忆和早期经验有关。" },
+  { "slug": "zi-wo-he-jie", "name": "自我和解", "type": "theme", "description": "面向内心的理解与接纳。" },
+  { "slug": "guan-xi-bian-hua", "name": "关系变化", "type": "theme", "description": "人与人之间的远近变化。" },
+  { "slug": "nei-xin-du-bai", "name": "内心独白", "type": "theme", "description": "偏内向、自述式表达。" }
+]

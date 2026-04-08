@@ -1,0 +1,677 @@
+[
+  {
+    "slug": "yanzi",
+    "title": "孙燕姿同名专辑",
+    "releaseYear": 2000,
+    "era": "出道起点",
+    "summary": "以清澈、直接又带民谣感的表达打开大众认知，是燕姿作品脉络的起点。",
+    "coreThemes": [
+      "青春",
+      "自我表达",
+      "早期辨识度"
+    ],
+    "representativeSongs": [
+      "天黑黑",
+      "直来直往"
+    ],
+    "songSlugs": [
+      "tian-hei-hei",
+      "zhi-lai-zhi-wang",
+      "shang-bu-liao",
+      "ai-qing-zheng-shu",
+      "hen-hao",
+      "chao-kuai-gan",
+      "leave-me-alone",
+      "e-lover",
+      "zi-ran"
+    ]
+  },
+  {
+    "slug": "wo-yao-de-xing-fu",
+    "title": "我要的幸福",
+    "releaseYear": 2000,
+    "era": "出道延展",
+    "summary": "在出道之年继续扩展个人表达，把成长、确认和向前的姿态写得更稳。",
+    "coreThemes": [
+      "成长",
+      "勇气",
+      "继续向前"
+    ],
+    "representativeSongs": [
+      "开始懂了",
+      "我要的幸福",
+      "零缺点"
+    ],
+    "songSlugs": [
+      "kai-shi-dong-le",
+      "wo-yao-de-xing-fu",
+      "xiang-xin",
+      "hai-pa",
+      "nan-de-yi-jian",
+      "huai-tian-qi",
+      "ling-que-dian"
+    ]
+  },
+  {
+    "slug": "feng-zheng",
+    "title": "风筝",
+    "releaseYear": 2001,
+    "era": "展开期",
+    "summary": "在明亮流行感之外加入自由、距离和前卫气息，是早期风格扩张的重要一步。",
+    "coreThemes": [
+      "希望",
+      "距离",
+      "自由"
+    ],
+    "representativeSongs": [
+      "绿光",
+      "风筝",
+      "爱情字典"
+    ],
+    "songSlugs": [
+      "lu-guang",
+      "feng-zheng",
+      "ren-xing",
+      "zhen-de",
+      "sui-tang-ce-yan",
+      "ai-qing-zi-dian",
+      "tao-wang"
+    ]
+  },
+  {
+    "slug": "leave",
+    "title": "Leave",
+    "releaseYear": 2002,
+    "era": "2002 时期",
+    "summary": "《Leave》资料整理中。",
+    "coreThemes": [
+      "资料整理中"
+    ],
+    "representativeSongs": [
+      "Leave"
+    ],
+    "songSlugs": [
+      "leave"
+    ]
+  },
+  {
+    "slug": "start",
+    "title": "Start 自选集",
+    "releaseYear": 2002,
+    "era": "2002 时期",
+    "summary": "《Start 自选集》资料整理中。",
+    "coreThemes": [
+      "资料整理中"
+    ],
+    "representativeSongs": [
+      "资料整理中"
+    ],
+    "songSlugs": [
+      "lu-guang",
+      "feng-zheng"
+    ]
+  },
+  {
+    "slug": "the-moment",
+    "title": "The Moment",
+    "releaseYear": 2003,
+    "era": "阶段节点",
+    "summary": "像一次阶段性的凝视与整理，也承接了这一时期的重要大众记忆。",
+    "coreThemes": [
+      "阶段回望",
+      "情绪沉淀"
+    ],
+    "representativeSongs": [
+      "The Moment",
+      "遇见"
+    ],
+    "songSlugs": [
+      "yu-jian",
+      "the-moment"
+    ]
+  },
+  {
+    "slug": "wei-wan-cheng",
+    "title": "未完成",
+    "releaseYear": 2003,
+    "era": "成熟过渡",
+    "summary": "开始更稳定地处理复杂关系与成年人语境，许多经典情歌的成熟气质在这里成形。",
+    "coreThemes": [
+      "关系变化",
+      "克制",
+      "未完成感"
+    ],
+    "representativeSongs": [
+      "我不难过",
+      "第一天",
+      "神奇"
+    ],
+    "songSlugs": [
+      "wo-bu-nan-guo",
+      "di-yi-tian",
+      "shen-qi",
+      "mei-you-ren-de-fang-xiang",
+      "xiu-zhi-fu",
+      "wei-wan-cheng"
+    ]
+  },
+  {
+    "slug": "stefanie-self-titled",
+    "title": "孙燕姿 Stefanie 同名专辑",
+    "releaseYear": 2004,
+    "era": "自我整合",
+    "summary": "重新整理个人表达的位置，既有成熟感，也保留柔软与私语。",
+    "coreThemes": [
+      "内心独白",
+      "回看",
+      "成熟表达"
+    ],
+    "representativeSongs": [
+      "我也很想他",
+      "我的爱",
+      "奔"
+    ],
+    "songSlugs": [
+      "wo-ye-hen-xiang-ta",
+      "zhu-ni-kai-xin",
+      "wei-zhi-de-jing-cai",
+      "man-man-lai",
+      "zhong",
+      "wo-de-ai",
+      "ben"
+    ]
+  },
+  {
+    "slug": "wan-mei-de-yi-tian",
+    "title": "完美的一天",
+    "releaseYear": 2005,
+    "era": "阶段平衡",
+    "summary": "在成熟与轻盈之间保持平衡，也让日常生活感进入代表作序列。",
+    "coreThemes": [
+      "日常感",
+      "愿望",
+      "平衡"
+    ],
+    "representativeSongs": [
+      "完美的一天",
+      "隐形人",
+      "眼泪成诗"
+    ],
+    "songSlugs": [
+      "wan-mei-de-yi-tian",
+      "honey-honey",
+      "xin-yuan",
+      "yin-xing-ren",
+      "ling-yi-zhang-lian",
+      "yan-lei-cheng-shi"
+    ]
+  },
+  {
+    "slug": "my-story",
+    "title": "My Story, Your Song",
+    "releaseYear": 2006,
+    "era": "阶段回看",
+    "summary": "像一次阶段性的整理与回看，把重要作品重新放到同一张精选里。",
+    "coreThemes": [
+      "回看",
+      "精选",
+      "阶段整理",
+      "重新记忆"
+    ],
+    "representativeSongs": [
+      "雨天",
+      "Leave",
+      "了解",
+      "第六感"
+    ],
+    "songSlugs": [
+      "yu-tian",
+      "leave",
+      "liao-jie",
+      "di-liu-gan",
+      "shen-qi",
+      "honey-honey",
+      "sui-tang-ce-yan",
+      "wo-ye-hen-xiang-ta",
+      "wo-bu-ai"
+    ]
+  },
+  {
+    "slug": "ni-guang",
+    "title": "逆光",
+    "releaseYear": 2007,
+    "era": "成熟高峰",
+    "summary": "在成熟表达与大众传唱之间取得很强平衡，是这一时期的重要代表作。",
+    "coreThemes": [
+      "回望",
+      "韧性",
+      "成熟情感"
+    ],
+    "representativeSongs": [
+      "我怀念的",
+      "逆光",
+      "咕叽咕叽"
+    ],
+    "songSlugs": [
+      "wo-huai-nian-de",
+      "ni-guang",
+      "meng-you",
+      "ai-qing-de-hua-yang",
+      "gu-ji-gu-ji",
+      "piao-zhe",
+      "an-ning"
+    ]
+  },
+  {
+    "slug": "shi-shi-hou",
+    "title": "是时候",
+    "releaseYear": 2011,
+    "era": "成熟内省",
+    "summary": "更集中地处理语言、判断、关系困局与成熟后的心理压强。",
+    "coreThemes": [
+      "内省",
+      "语言失效",
+      "复杂关系"
+    ],
+    "representativeSongs": [
+      "是时候",
+      "世说心语",
+      "愚人的国度"
+    ],
+    "songSlugs": [
+      "shi-shi-hou",
+      "shi-shuo-xin-yu",
+      "kuai-feng-le",
+      "kong-kou-yan",
+      "yu-ren-de-guo-du"
+    ]
+  },
+  {
+    "slug": "ke-bu-le",
+    "title": "克卜勒",
+    "releaseYear": 2014,
+    "era": "后期凝练",
+    "summary": "把宇宙感、时间感、城市感和成熟关系感收束到一个更凝练的后期阶段。",
+    "coreThemes": [
+      "时间感",
+      "命运感",
+      "成熟表达"
+    ],
+    "representativeSongs": [
+      "克卜勒",
+      "尚好的青春",
+      "比较幸福"
+    ],
+    "songSlugs": [
+      "ke-bu-le",
+      "shang-hao-de-qing-chun",
+      "cuo-jue",
+      "yin-tai",
+      "bi-jiao-xing-fu",
+      "yu-hai-shi-bu-ting-de-luo-xia"
+    ]
+  },
+  {
+    "slug": "ban-ju-zai-jian-single",
+    "title": "Ban Ju Zai Jian Single",
+    "releaseYear": 2015,
+    "era": "2015 时期",
+    "summary": "《Ban JU Zai Jian Single》资料整理中。",
+    "coreThemes": [
+      "资料整理中"
+    ],
+    "representativeSongs": [
+      "资料整理中"
+    ],
+    "songSlugs": [
+      "ban-ju-zai-jian"
+    ]
+  },
+  {
+    "slug": "shi-jie-zhong-jie-qian-yi-tian-single",
+    "title": "Shi Jie Zhong Jie Qian Yi Tian Single",
+    "releaseYear": 2017,
+    "era": "2017 时期",
+    "summary": "《Shi Jie Zhong Jie Qian YI Tian Single》资料整理中。",
+    "coreThemes": [
+      "资料整理中"
+    ],
+    "representativeSongs": [
+      "资料整理中"
+    ],
+    "songSlugs": [
+      "shi-jie-zhong-jie-qian-yi-tian"
+    ]
+  },
+  {
+    "slug": "no-13",
+    "title": "No.13 作品：跳舞的梵谷",
+    "releaseYear": 2017,
+    "era": "2017 时期",
+    "summary": "《No.13 作品：跳舞的梵谷》资料整理中。",
+    "coreThemes": [
+      "资料整理中"
+    ],
+    "representativeSongs": [
+      "资料整理中"
+    ],
+    "songSlugs": [
+      "tiao-wu-de-fan-gu",
+      "feng-yi",
+      "wo-hen-yu-kuai",
+      "tian-tian-nian-nian",
+      "piao-fu-qun-dao",
+      "ji-mei",
+      "chong-yang-qi",
+      "jie-xia-lai"
+    ]
+  },
+  {
+    "slug": "cai-hong-jin-gang-ep",
+    "title": "Cai Hong Jin Gang Ep",
+    "releaseYear": 2019,
+    "era": "2019 时期",
+    "summary": "《Cai Hong Jin Gang EP》资料整理中。",
+    "coreThemes": [
+      "资料整理中"
+    ],
+    "representativeSongs": [
+      "资料整理中"
+    ],
+    "songSlugs": [
+      "cai-hong-jin-gang"
+    ]
+  },
+  {
+    "slug": "yu-e-single",
+    "title": "Yu E Single",
+    "releaseYear": 2024,
+    "era": "2024 时期",
+    "summary": "《YU E Single》资料整理中。",
+    "coreThemes": [
+      "资料整理中"
+    ],
+    "representativeSongs": [
+      "资料整理中"
+    ],
+    "songSlugs": [
+      "yu-e"
+    ]
+  },
+  {
+    "slug": "zui-hou-zhi-hou-single",
+    "title": "最后之后 - Single",
+    "releaseYear": 2024,
+    "era": "近期单曲",
+    "summary": "聚焦终点之后的余波与继续，是近年成熟单曲样本。",
+    "coreThemes": [
+      "近期单曲",
+      "余波"
+    ],
+    "representativeSongs": [
+      "最后之后"
+    ],
+    "songSlugs": [
+      "zui-hou-zhi-hou"
+    ]
+  },
+  {
+    "slug": "ri-luo-single",
+    "title": "日落 - Single",
+    "releaseYear": 2025,
+    "era": "近期单曲",
+    "summary": "以光线退场和傍晚时间感组织情绪的近年单曲。",
+    "coreThemes": [
+      "近期单曲",
+      "时间感"
+    ],
+    "representativeSongs": [
+      "日落"
+    ],
+    "songSlugs": [
+      "ri-luo"
+    ]
+  },
+  {
+    "slug": "fei-pu-er-xia-single",
+    "title": "飞瀑而下 - Single",
+    "releaseYear": 2026,
+    "era": "近期单曲",
+    "summary": "近年的高动态单曲，强调冲刷式情绪与强动作感。",
+    "coreThemes": [
+      "近期单曲",
+      "强动态"
+    ],
+    "representativeSongs": [
+      "飞瀑而下"
+    ],
+    "songSlugs": [
+      "fei-pu-er-xia"
+    ]
+  },
+  {
+    "slug": "shou-hu-yong-heng-de-ai-single",
+    "title": "Shou Hu Yong Heng De Ai Single",
+    "releaseYear": 2010,
+    "era": "2010 时期",
+    "summary": "《Shou HU Yong Heng DE AI Single》资料整理中。",
+    "coreThemes": [
+      "资料整理中"
+    ],
+    "representativeSongs": [
+      "资料整理中"
+    ],
+    "songSlugs": [
+      "shou-hu-yong-heng-de-ai"
+    ]
+  },
+  {
+    "slug": "archive-unassigned-mainline",
+    "title": "Archive Unassigned Mainline",
+    "releaseYear": 9999,
+    "era": "9999 时期",
+    "summary": "《Archive Unassigned Mainline》资料整理中。",
+    "coreThemes": [
+      "资料整理中"
+    ],
+    "representativeSongs": [
+      "资料整理中"
+    ],
+    "songSlugs": [
+      "180-du",
+      "ai-cong-ling-kai-shi",
+      "bu-neng-he-ni-yi-qi",
+      "bu-shi-zhen-de-ai-wo",
+      "bu-tong",
+      "chao-ren-lei",
+      "dang-dong-ye-jian-nuan",
+      "dong-shi",
+      "fan-guo-lai-zou-zou",
+      "guan-yu",
+      "he-ping",
+      "jiu-shi-zhe-yang",
+      "ke",
+      "lan-de-qu-guan",
+      "lei-zhui",
+      "lets-vino",
+      "lian-xi",
+      "liu-lang-di-tu",
+      "mei-shi-jian",
+      "meng-bu-luo",
+      "meng-xiang-tian-kong",
+      "ming-tian-de-ji-yi",
+      "ming-tian-qing-tian",
+      "ni-hao-bu-hao",
+      "ni-ming-wan-sui",
+      "nian-qing-wu-xian",
+      "nong-mei-mao",
+      "on-the-road",
+      "one-united-people",
+      "ping-ri-kuai-le",
+      "qin-guang",
+      "quan-xin-quan-yi",
+      "ren-zhi",
+      "rise",
+      "shi-guang-xiao-tou",
+      "sweet-child-o-mine",
+      "ta-men-de-ge",
+      "tai-yang-di-xia",
+      "the-moment",
+      "tian-kong",
+      "tian-yue-liang-ye-yue-hei",
+      "ting-jian",
+      "tong-yao-1987",
+      "we-will-get-there",
+      "wei-rao",
+      "wei-wan-cheng",
+      "wen-rou-mayday-blue-20th",
+      "wo-bu-ai",
+      "wo-hen-wo-ai-ni",
+      "wo-shi-wo",
+      "wo-wei-shen-me-na-me-ai-ni",
+      "wo-xiang",
+      "wo-yao-kuai-le",
+      "wu-xian-da",
+      "xing-qi-yi-tian-qi-qing-wo-li-kai-ni",
+      "xu-yao-ni",
+      "xuan-wo",
+      "xue-hui",
+      "yan-shen",
+      "yang-zi",
+      "yi-qi-zou-dao",
+      "yi-yang-de-xia-tian",
+      "yong-gan",
+      "yong-yuan",
+      "zai-ye-bu-jian",
+      "zhong-jian-di-dai",
+      "zhong-yu",
+      "zhui",
+      "zuo-zhan"
+    ]
+  },
+  {
+    "slug": "archive-live-start-concert",
+    "title": "Archive Live Start Concert",
+    "releaseYear": 9999,
+    "era": "9999 时期",
+    "summary": "《Archive Live Start Concert》资料整理中。",
+    "coreThemes": [
+      "资料整理中"
+    ],
+    "representativeSongs": [
+      "资料整理中"
+    ],
+    "songSlugs": []
+  },
+  {
+    "slug": "archive-alternate-versions",
+    "title": "Archive Alternate Versions",
+    "releaseYear": 9999,
+    "era": "9999 时期",
+    "summary": "《Archive Alternate Versions》资料整理中。",
+    "coreThemes": [
+      "资料整理中"
+    ],
+    "representativeSongs": [
+      "资料整理中"
+    ],
+    "songSlugs": []
+  },
+  {
+    "slug": "archive-english-cover-candidates",
+    "title": "Archive English Cover Candidates",
+    "releaseYear": 9999,
+    "era": "9999 时期",
+    "summary": "《Archive English Cover Candidates》资料整理中。",
+    "coreThemes": [
+      "资料整理中"
+    ],
+    "representativeSongs": [
+      "资料整理中"
+    ],
+    "songSlugs": []
+  },
+  {
+    "slug": "start-live",
+    "title": "Start Live",
+    "releaseYear": 2002,
+    "era": "2002 时期",
+    "summary": "《Start Live》资料整理中。",
+    "coreThemes": [
+      "资料整理中"
+    ],
+    "representativeSongs": [
+      "资料整理中"
+    ],
+    "songSlugs": [
+      "ai-qing-zheng-shu-start-concert",
+      "ai-qing-zi-dian-start-concert",
+      "chao-kuai-gan-start-concert",
+      "feng-zheng-start-concert",
+      "hai-pa-start-concert",
+      "hen-hao-start-concert",
+      "hey-jude-start-concert",
+      "leave-me-alone-start-concert",
+      "ling-que-dian-start-concert",
+      "lu-guang-start-concert",
+      "nan-de-yi-jian-start-concert",
+      "someone-start-concert",
+      "sparkling-diamonds-start-concert",
+      "sui-tang-ce-yan-start-concert",
+      "venus-start-concert",
+      "wo-yao-de-xing-fu-start-concert",
+      "zhen-de-start-concert"
+    ]
+  },
+  {
+    "slug": "alternate-versions-archive",
+    "title": "Alternate Versions Archive",
+    "releaseYear": 9999,
+    "era": "9999 时期",
+    "summary": "《Alternate Versions Archive》资料整理中。",
+    "coreThemes": [
+      "资料整理中"
+    ],
+    "representativeSongs": [
+      "e-lover-2",
+      "wei-zhi-de-jing-cai-2"
+    ],
+    "songSlugs": [
+      "e-lover-2",
+      "sweet-child-o-mine-2",
+      "tian-yue-liang-ye-yue-hei-2",
+      "wei-zhi-de-jing-cai-2",
+      "zhong-yu-2"
+    ]
+  },
+  {
+    "slug": "english-cover-archive",
+    "title": "English Cover Archive",
+    "releaseYear": 9999,
+    "era": "9999 时期",
+    "summary": "《English Cover Archive》资料整理中。",
+    "coreThemes": [
+      "资料整理中"
+    ],
+    "representativeSongs": [
+      "Hey Jude",
+      "Silent All These Years",
+      "Dream a Little Dream of Me"
+    ],
+    "songSlugs": [
+      "dream-a-little-dream-of-me",
+      "hey-jude",
+      "my-story-your-song",
+      "opening",
+      "radio",
+      "silent-all-these-years",
+      "someone",
+      "sometimes-love-just-aint-enough",
+      "sparking-diamonds",
+      "stefanie",
+      "that-i-would-be-good",
+      "up2u",
+      "venus"
+    ]
+  }
+]

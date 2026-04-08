@@ -1,0 +1,1745 @@
+{
+  "count": 174,
+  "items": [
+    {
+      "slug": "180-du",
+      "titleGuess": "180 du",
+      "rawLyricsPath": "content/songs/raw-lyrics/180-du.txt",
+      "deepReadPath": "content/songs/deep-reads/180-du.md",
+      "album": null,
+      "releaseYear": null,
+      "era": null,
+      "status": "needs-indexing"
+    },
+    {
+      "slug": "ai-cong-ling-kai-shi",
+      "titleGuess": "ai cong ling kai shi",
+      "rawLyricsPath": "content/songs/raw-lyrics/ai-cong-ling-kai-shi.txt",
+      "deepReadPath": "content/songs/deep-reads/ai-cong-ling-kai-shi.md",
+      "album": null,
+      "releaseYear": null,
+      "era": null,
+      "status": "needs-indexing"
+    },
+    {
+      "slug": "ai-qing-de-hua-yang",
+      "titleGuess": "ai qing de hua yang",
+      "rawLyricsPath": "content/songs/raw-lyrics/ai-qing-de-hua-yang.txt",
+      "deepReadPath": "content/songs/deep-reads/ai-qing-de-hua-yang.md",
+      "album": null,
+      "releaseYear": null,
+      "era": null,
+      "status": "needs-indexing"
+    },
+    {
+      "slug": "ai-qing-zheng-shu",
+      "titleGuess": "ai qing zheng shu",
+      "rawLyricsPath": "content/songs/raw-lyrics/ai-qing-zheng-shu.txt",
+      "deepReadPath": "content/songs/deep-reads/ai-qing-zheng-shu.md",
+      "album": null,
+      "releaseYear": null,
+      "era": null,
+      "status": "needs-indexing"
+    },
+    {
+      "slug": "ai-qing-zheng-shu-start-concert",
+      "titleGuess": "ai qing zheng shu start concert",
+      "rawLyricsPath": "content/songs/raw-lyrics/ai-qing-zheng-shu-start-concert.txt",
+      "deepReadPath": "content/songs/deep-reads/ai-qing-zheng-shu-start-concert.md",
+      "album": null,
+      "releaseYear": null,
+      "era": null,
+      "status": "needs-indexing"
+    },
+    {
+      "slug": "ai-qing-zi-dian",
+      "titleGuess": "ai qing zi dian",
+      "rawLyricsPath": "content/songs/raw-lyrics/ai-qing-zi-dian.txt",
+      "deepReadPath": "content/songs/deep-reads/ai-qing-zi-dian.md",
+      "album": null,
+      "releaseYear": null,
+      "era": null,
+      "status": "needs-indexing"
+    },
+    {
+      "slug": "ai-qing-zi-dian-start-concert",
+      "titleGuess": "ai qing zi dian start concert",
+      "rawLyricsPath": "content/songs/raw-lyrics/ai-qing-zi-dian-start-concert.txt",
+      "deepReadPath": "content/songs/deep-reads/ai-qing-zi-dian-start-concert.md",
+      "album": null,
+      "releaseYear": null,
+      "era": null,
+      "status": "needs-indexing"
+    },
+    {
+      "slug": "an-ning",
+      "titleGuess": "an ning",
+      "rawLyricsPath": "content/songs/raw-lyrics/an-ning.txt",
+      "deepReadPath": "content/songs/deep-reads/an-ning.md",
+      "album": null,
+      "releaseYear": null,
+      "era": null,
+      "status": "needs-indexing"
+    },
+    {
+      "slug": "ban-ju-zai-jian",
+      "titleGuess": "ban ju zai jian",
+      "rawLyricsPath": "content/songs/raw-lyrics/ban-ju-zai-jian.txt",
+      "deepReadPath": "content/songs/deep-reads/ban-ju-zai-jian.md",
+      "album": null,
+      "releaseYear": null,
+      "era": null,
+      "status": "needs-indexing"
+    },
+    {
+      "slug": "ben",
+      "titleGuess": "ben",
+      "rawLyricsPath": "content/songs/raw-lyrics/ben.txt",
+      "deepReadPath": "content/songs/deep-reads/ben.md",
+      "album": null,
+      "releaseYear": null,
+      "era": null,
+      "status": "needs-indexing"
+    },
+    {
+      "slug": "bi-jiao-xing-fu",
+      "titleGuess": "bi jiao xing fu",
+      "rawLyricsPath": "content/songs/raw-lyrics/bi-jiao-xing-fu.txt",
+      "deepReadPath": "content/songs/deep-reads/bi-jiao-xing-fu.md",
+      "album": null,
+      "releaseYear": null,
+      "era": null,
+      "status": "needs-indexing"
+    },
+    {
+      "slug": "bu-neng-he-ni-yi-qi",
+      "titleGuess": "bu neng he ni yi qi",
+      "rawLyricsPath": "content/songs/raw-lyrics/bu-neng-he-ni-yi-qi.txt",
+      "deepReadPath": "content/songs/deep-reads/bu-neng-he-ni-yi-qi.md",
+      "album": null,
+      "releaseYear": null,
+      "era": null,
+      "status": "needs-indexing"
+    },
+    {
+      "slug": "bu-shi-zhen-de-ai-wo",
+      "titleGuess": "bu shi zhen de ai wo",
+      "rawLyricsPath": "content/songs/raw-lyrics/bu-shi-zhen-de-ai-wo.txt",
+      "deepReadPath": "content/songs/deep-reads/bu-shi-zhen-de-ai-wo.md",
+      "album": null,
+      "releaseYear": null,
+      "era": null,
+      "status": "needs-indexing"
+    },
+    {
+      "slug": "bu-tong",
+      "titleGuess": "bu tong",
+      "rawLyricsPath": "content/songs/raw-lyrics/bu-tong.txt",
+      "deepReadPath": "content/songs/deep-reads/bu-tong.md",
+      "album": null,
+      "releaseYear": null,
+      "era": null,
+      "status": "needs-indexing"
+    },
+    {
+      "slug": "cai-hong-jin-gang",
+      "titleGuess": "cai hong jin gang",
+      "rawLyricsPath": "content/songs/raw-lyrics/cai-hong-jin-gang.txt",
+      "deepReadPath": "content/songs/deep-reads/cai-hong-jin-gang.md",
+      "album": null,
+      "releaseYear": null,
+      "era": null,
+      "status": "needs-indexing"
+    },
+    {
+      "slug": "chao-kuai-gan",
+      "titleGuess": "chao kuai gan",
+      "rawLyricsPath": "content/songs/raw-lyrics/chao-kuai-gan.txt",
+      "deepReadPath": "content/songs/deep-reads/chao-kuai-gan.md",
+      "album": null,
+      "releaseYear": null,
+      "era": null,
+      "status": "needs-indexing"
+    },
+    {
+      "slug": "chao-kuai-gan-start-concert",
+      "titleGuess": "chao kuai gan start concert",
+      "rawLyricsPath": "content/songs/raw-lyrics/chao-kuai-gan-start-concert.txt",
+      "deepReadPath": "content/songs/deep-reads/chao-kuai-gan-start-concert.md",
+      "album": null,
+      "releaseYear": null,
+      "era": null,
+      "status": "needs-indexing"
+    },
+    {
+      "slug": "chao-ren-lei",
+      "titleGuess": "chao ren lei",
+      "rawLyricsPath": "content/songs/raw-lyrics/chao-ren-lei.txt",
+      "deepReadPath": "content/songs/deep-reads/chao-ren-lei.md",
+      "album": null,
+      "releaseYear": null,
+      "era": null,
+      "status": "needs-indexing"
+    },
+    {
+      "slug": "chong-yang-qi",
+      "titleGuess": "chong yang qi",
+      "rawLyricsPath": "content/songs/raw-lyrics/chong-yang-qi.txt",
+      "deepReadPath": "content/songs/deep-reads/chong-yang-qi.md",
+      "album": null,
+      "releaseYear": null,
+      "era": null,
+      "status": "needs-indexing"
+    },
+    {
+      "slug": "cuo-jue",
+      "titleGuess": "cuo jue",
+      "rawLyricsPath": "content/songs/raw-lyrics/cuo-jue.txt",
+      "deepReadPath": "content/songs/deep-reads/cuo-jue.md",
+      "album": null,
+      "releaseYear": null,
+      "era": null,
+      "status": "needs-indexing"
+    },
+    {
+      "slug": "dang-dong-ye-jian-nuan",
+      "titleGuess": "dang dong ye jian nuan",
+      "rawLyricsPath": "content/songs/raw-lyrics/dang-dong-ye-jian-nuan.txt",
+      "deepReadPath": "content/songs/deep-reads/dang-dong-ye-jian-nuan.md",
+      "album": null,
+      "releaseYear": null,
+      "era": null,
+      "status": "needs-indexing"
+    },
+    {
+      "slug": "di-liu-gan",
+      "titleGuess": "di liu gan",
+      "rawLyricsPath": "content/songs/raw-lyrics/di-liu-gan.txt",
+      "deepReadPath": "content/songs/deep-reads/di-liu-gan.md",
+      "album": null,
+      "releaseYear": null,
+      "era": null,
+      "status": "needs-indexing"
+    },
+    {
+      "slug": "di-yi-tian",
+      "titleGuess": "di yi tian",
+      "rawLyricsPath": "content/songs/raw-lyrics/di-yi-tian.txt",
+      "deepReadPath": "content/songs/deep-reads/di-yi-tian.md",
+      "album": null,
+      "releaseYear": null,
+      "era": null,
+      "status": "needs-indexing"
+    },
+    {
+      "slug": "dong-shi",
+      "titleGuess": "dong shi",
+      "rawLyricsPath": "content/songs/raw-lyrics/dong-shi.txt",
+      "deepReadPath": "content/songs/deep-reads/dong-shi.md",
+      "album": null,
+      "releaseYear": null,
+      "era": null,
+      "status": "needs-indexing"
+    },
+    {
+      "slug": "dream-a-little-dream-of-me",
+      "titleGuess": "dream a little dream of me",
+      "rawLyricsPath": "content/songs/raw-lyrics/dream-a-little-dream-of-me.txt",
+      "deepReadPath": "content/songs/deep-reads/dream-a-little-dream-of-me.md",
+      "album": null,
+      "releaseYear": null,
+      "era": null,
+      "status": "needs-indexing"
+    },
+    {
+      "slug": "e-lover",
+      "titleGuess": "e lover",
+      "rawLyricsPath": "content/songs/raw-lyrics/e-lover.txt",
+      "deepReadPath": "content/songs/deep-reads/e-lover.md",
+      "album": null,
+      "releaseYear": null,
+      "era": null,
+      "status": "needs-indexing"
+    },
+    {
+      "slug": "e-lover-2",
+      "titleGuess": "e lover 2",
+      "rawLyricsPath": "content/songs/raw-lyrics/e-lover-2.txt",
+      "deepReadPath": "content/songs/deep-reads/e-lover-2.md",
+      "album": null,
+      "releaseYear": null,
+      "era": null,
+      "status": "needs-indexing"
+    },
+    {
+      "slug": "fan-guo-lai-zou-zou",
+      "titleGuess": "fan guo lai zou zou",
+      "rawLyricsPath": "content/songs/raw-lyrics/fan-guo-lai-zou-zou.txt",
+      "deepReadPath": "content/songs/deep-reads/fan-guo-lai-zou-zou.md",
+      "album": null,
+      "releaseYear": null,
+      "era": null,
+      "status": "needs-indexing"
+    },
+    {
+      "slug": "fei-pu-er-xia",
+      "titleGuess": "fei pu er xia",
+      "rawLyricsPath": "content/songs/raw-lyrics/fei-pu-er-xia.txt",
+      "deepReadPath": "content/songs/deep-reads/fei-pu-er-xia.md",
+      "album": null,
+      "releaseYear": null,
+      "era": null,
+      "status": "needs-indexing"
+    },
+    {
+      "slug": "feng-yi",
+      "titleGuess": "feng yi",
+      "rawLyricsPath": "content/songs/raw-lyrics/feng-yi.txt",
+      "deepReadPath": "content/songs/deep-reads/feng-yi.md",
+      "album": null,
+      "releaseYear": null,
+      "era": null,
+      "status": "needs-indexing"
+    },
+    {
+      "slug": "feng-zheng-start-concert",
+      "titleGuess": "feng zheng start concert",
+      "rawLyricsPath": "content/songs/raw-lyrics/feng-zheng-start-concert.txt",
+      "deepReadPath": "content/songs/deep-reads/feng-zheng-start-concert.md",
+      "album": null,
+      "releaseYear": null,
+      "era": null,
+      "status": "needs-indexing"
+    },
+    {
+      "slug": "gu-ji-gu-ji",
+      "titleGuess": "gu ji gu ji",
+      "rawLyricsPath": "content/songs/raw-lyrics/gu-ji-gu-ji.txt",
+      "deepReadPath": "content/songs/deep-reads/gu-ji-gu-ji.md",
+      "album": null,
+      "releaseYear": null,
+      "era": null,
+      "status": "needs-indexing"
+    },
+    {
+      "slug": "guan-yu",
+      "titleGuess": "guan yu",
+      "rawLyricsPath": "content/songs/raw-lyrics/guan-yu.txt",
+      "deepReadPath": "content/songs/deep-reads/guan-yu.md",
+      "album": null,
+      "releaseYear": null,
+      "era": null,
+      "status": "needs-indexing"
+    },
+    {
+      "slug": "hai-pa",
+      "titleGuess": "hai pa",
+      "rawLyricsPath": "content/songs/raw-lyrics/hai-pa.txt",
+      "deepReadPath": "content/songs/deep-reads/hai-pa.md",
+      "album": null,
+      "releaseYear": null,
+      "era": null,
+      "status": "needs-indexing"
+    },
+    {
+      "slug": "hai-pa-start-concert",
+      "titleGuess": "hai pa start concert",
+      "rawLyricsPath": "content/songs/raw-lyrics/hai-pa-start-concert.txt",
+      "deepReadPath": "content/songs/deep-reads/hai-pa-start-concert.md",
+      "album": null,
+      "releaseYear": null,
+      "era": null,
+      "status": "needs-indexing"
+    },
+    {
+      "slug": "he-ping",
+      "titleGuess": "he ping",
+      "rawLyricsPath": "content/songs/raw-lyrics/he-ping.txt",
+      "deepReadPath": "content/songs/deep-reads/he-ping.md",
+      "album": null,
+      "releaseYear": null,
+      "era": null,
+      "status": "needs-indexing"
+    },
+    {
+      "slug": "hen-hao",
+      "titleGuess": "hen hao",
+      "rawLyricsPath": "content/songs/raw-lyrics/hen-hao.txt",
+      "deepReadPath": "content/songs/deep-reads/hen-hao.md",
+      "album": null,
+      "releaseYear": null,
+      "era": null,
+      "status": "needs-indexing"
+    },
+    {
+      "slug": "hen-hao-start-concert",
+      "titleGuess": "hen hao start concert",
+      "rawLyricsPath": "content/songs/raw-lyrics/hen-hao-start-concert.txt",
+      "deepReadPath": "content/songs/deep-reads/hen-hao-start-concert.md",
+      "album": null,
+      "releaseYear": null,
+      "era": null,
+      "status": "needs-indexing"
+    },
+    {
+      "slug": "hey-jude",
+      "titleGuess": "hey jude",
+      "rawLyricsPath": "content/songs/raw-lyrics/hey-jude.txt",
+      "deepReadPath": "content/songs/deep-reads/hey-jude.md",
+      "album": null,
+      "releaseYear": null,
+      "era": null,
+      "status": "needs-indexing"
+    },
+    {
+      "slug": "hey-jude-start-concert",
+      "titleGuess": "hey jude start concert",
+      "rawLyricsPath": "content/songs/raw-lyrics/hey-jude-start-concert.txt",
+      "deepReadPath": "content/songs/deep-reads/hey-jude-start-concert.md",
+      "album": null,
+      "releaseYear": null,
+      "era": null,
+      "status": "needs-indexing"
+    },
+    {
+      "slug": "honey-honey",
+      "titleGuess": "honey honey",
+      "rawLyricsPath": "content/songs/raw-lyrics/honey-honey.txt",
+      "deepReadPath": "content/songs/deep-reads/honey-honey.md",
+      "album": null,
+      "releaseYear": null,
+      "era": null,
+      "status": "needs-indexing"
+    },
+    {
+      "slug": "huai-tian-qi",
+      "titleGuess": "huai tian qi",
+      "rawLyricsPath": "content/songs/raw-lyrics/huai-tian-qi.txt",
+      "deepReadPath": "content/songs/deep-reads/huai-tian-qi.md",
+      "album": null,
+      "releaseYear": null,
+      "era": null,
+      "status": "needs-indexing"
+    },
+    {
+      "slug": "ji-mei",
+      "titleGuess": "ji mei",
+      "rawLyricsPath": "content/songs/raw-lyrics/ji-mei.txt",
+      "deepReadPath": "content/songs/deep-reads/ji-mei.md",
+      "album": null,
+      "releaseYear": null,
+      "era": null,
+      "status": "needs-indexing"
+    },
+    {
+      "slug": "jie-xia-lai",
+      "titleGuess": "jie xia lai",
+      "rawLyricsPath": "content/songs/raw-lyrics/jie-xia-lai.txt",
+      "deepReadPath": "content/songs/deep-reads/jie-xia-lai.md",
+      "album": null,
+      "releaseYear": null,
+      "era": null,
+      "status": "needs-indexing"
+    },
+    {
+      "slug": "jiu-shi-zhe-yang",
+      "titleGuess": "jiu shi zhe yang",
+      "rawLyricsPath": "content/songs/raw-lyrics/jiu-shi-zhe-yang.txt",
+      "deepReadPath": "content/songs/deep-reads/jiu-shi-zhe-yang.md",
+      "album": null,
+      "releaseYear": null,
+      "era": null,
+      "status": "needs-indexing"
+    },
+    {
+      "slug": "ke",
+      "titleGuess": "ke",
+      "rawLyricsPath": "content/songs/raw-lyrics/ke.txt",
+      "deepReadPath": "content/songs/deep-reads/ke.md",
+      "album": null,
+      "releaseYear": null,
+      "era": null,
+      "status": "needs-indexing"
+    },
+    {
+      "slug": "ke-bu-le",
+      "titleGuess": "ke bu le",
+      "rawLyricsPath": "content/songs/raw-lyrics/ke-bu-le.txt",
+      "deepReadPath": "content/songs/deep-reads/ke-bu-le.md",
+      "album": null,
+      "releaseYear": null,
+      "era": null,
+      "status": "needs-indexing"
+    },
+    {
+      "slug": "kong-kou-yan",
+      "titleGuess": "kong kou yan",
+      "rawLyricsPath": "content/songs/raw-lyrics/kong-kou-yan.txt",
+      "deepReadPath": "content/songs/deep-reads/kong-kou-yan.md",
+      "album": null,
+      "releaseYear": null,
+      "era": null,
+      "status": "needs-indexing"
+    },
+    {
+      "slug": "kuai-feng-le",
+      "titleGuess": "kuai feng le",
+      "rawLyricsPath": "content/songs/raw-lyrics/kuai-feng-le.txt",
+      "deepReadPath": "content/songs/deep-reads/kuai-feng-le.md",
+      "album": null,
+      "releaseYear": null,
+      "era": null,
+      "status": "needs-indexing"
+    },
+    {
+      "slug": "lan-de-qu-guan",
+      "titleGuess": "lan de qu guan",
+      "rawLyricsPath": "content/songs/raw-lyrics/lan-de-qu-guan.txt",
+      "deepReadPath": "content/songs/deep-reads/lan-de-qu-guan.md",
+      "album": null,
+      "releaseYear": null,
+      "era": null,
+      "status": "needs-indexing"
+    },
+    {
+      "slug": "leave",
+      "titleGuess": "leave",
+      "rawLyricsPath": "content/songs/raw-lyrics/leave.txt",
+      "deepReadPath": "content/songs/deep-reads/leave.md",
+      "album": null,
+      "releaseYear": null,
+      "era": null,
+      "status": "needs-indexing"
+    },
+    {
+      "slug": "leave-me-alone",
+      "titleGuess": "leave me alone",
+      "rawLyricsPath": "content/songs/raw-lyrics/leave-me-alone.txt",
+      "deepReadPath": "content/songs/deep-reads/leave-me-alone.md",
+      "album": null,
+      "releaseYear": null,
+      "era": null,
+      "status": "needs-indexing"
+    },
+    {
+      "slug": "leave-me-alone-start-concert",
+      "titleGuess": "leave me alone start concert",
+      "rawLyricsPath": "content/songs/raw-lyrics/leave-me-alone-start-concert.txt",
+      "deepReadPath": "content/songs/deep-reads/leave-me-alone-start-concert.md",
+      "album": null,
+      "releaseYear": null,
+      "era": null,
+      "status": "needs-indexing"
+    },
+    {
+      "slug": "lei-zhui",
+      "titleGuess": "lei zhui",
+      "rawLyricsPath": "content/songs/raw-lyrics/lei-zhui.txt",
+      "deepReadPath": "content/songs/deep-reads/lei-zhui.md",
+      "album": null,
+      "releaseYear": null,
+      "era": null,
+      "status": "needs-indexing"
+    },
+    {
+      "slug": "lets-vino",
+      "titleGuess": "lets vino",
+      "rawLyricsPath": "content/songs/raw-lyrics/lets-vino.txt",
+      "deepReadPath": "content/songs/deep-reads/lets-vino.md",
+      "album": null,
+      "releaseYear": null,
+      "era": null,
+      "status": "needs-indexing"
+    },
+    {
+      "slug": "lian-xi",
+      "titleGuess": "lian xi",
+      "rawLyricsPath": "content/songs/raw-lyrics/lian-xi.txt",
+      "deepReadPath": "content/songs/deep-reads/lian-xi.md",
+      "album": null,
+      "releaseYear": null,
+      "era": null,
+      "status": "needs-indexing"
+    },
+    {
+      "slug": "liao-jie",
+      "titleGuess": "liao jie",
+      "rawLyricsPath": "content/songs/raw-lyrics/liao-jie.txt",
+      "deepReadPath": "content/songs/deep-reads/liao-jie.md",
+      "album": null,
+      "releaseYear": null,
+      "era": null,
+      "status": "needs-indexing"
+    },
+    {
+      "slug": "ling-que-dian",
+      "titleGuess": "ling que dian",
+      "rawLyricsPath": "content/songs/raw-lyrics/ling-que-dian.txt",
+      "deepReadPath": "content/songs/deep-reads/ling-que-dian.md",
+      "album": null,
+      "releaseYear": null,
+      "era": null,
+      "status": "needs-indexing"
+    },
+    {
+      "slug": "ling-que-dian-start-concert",
+      "titleGuess": "ling que dian start concert",
+      "rawLyricsPath": "content/songs/raw-lyrics/ling-que-dian-start-concert.txt",
+      "deepReadPath": "content/songs/deep-reads/ling-que-dian-start-concert.md",
+      "album": null,
+      "releaseYear": null,
+      "era": null,
+      "status": "needs-indexing"
+    },
+    {
+      "slug": "ling-yi-zhang-lian",
+      "titleGuess": "ling yi zhang lian",
+      "rawLyricsPath": "content/songs/raw-lyrics/ling-yi-zhang-lian.txt",
+      "deepReadPath": "content/songs/deep-reads/ling-yi-zhang-lian.md",
+      "album": null,
+      "releaseYear": null,
+      "era": null,
+      "status": "needs-indexing"
+    },
+    {
+      "slug": "liu-lang-di-tu",
+      "titleGuess": "liu lang di tu",
+      "rawLyricsPath": "content/songs/raw-lyrics/liu-lang-di-tu.txt",
+      "deepReadPath": "content/songs/deep-reads/liu-lang-di-tu.md",
+      "album": null,
+      "releaseYear": null,
+      "era": null,
+      "status": "needs-indexing"
+    },
+    {
+      "slug": "lu-guang-start-concert",
+      "titleGuess": "lu guang start concert",
+      "rawLyricsPath": "content/songs/raw-lyrics/lu-guang-start-concert.txt",
+      "deepReadPath": "content/songs/deep-reads/lu-guang-start-concert.md",
+      "album": null,
+      "releaseYear": null,
+      "era": null,
+      "status": "needs-indexing"
+    },
+    {
+      "slug": "man-man-lai",
+      "titleGuess": "man man lai",
+      "rawLyricsPath": "content/songs/raw-lyrics/man-man-lai.txt",
+      "deepReadPath": "content/songs/deep-reads/man-man-lai.md",
+      "album": null,
+      "releaseYear": null,
+      "era": null,
+      "status": "needs-indexing"
+    },
+    {
+      "slug": "mei-shi-jian",
+      "titleGuess": "mei shi jian",
+      "rawLyricsPath": "content/songs/raw-lyrics/mei-shi-jian.txt",
+      "deepReadPath": "content/songs/deep-reads/mei-shi-jian.md",
+      "album": null,
+      "releaseYear": null,
+      "era": null,
+      "status": "needs-indexing"
+    },
+    {
+      "slug": "mei-you-ren-de-fang-xiang",
+      "titleGuess": "mei you ren de fang xiang",
+      "rawLyricsPath": "content/songs/raw-lyrics/mei-you-ren-de-fang-xiang.txt",
+      "deepReadPath": "content/songs/deep-reads/mei-you-ren-de-fang-xiang.md",
+      "album": null,
+      "releaseYear": null,
+      "era": null,
+      "status": "needs-indexing"
+    },
+    {
+      "slug": "meng-bu-luo",
+      "titleGuess": "meng bu luo",
+      "rawLyricsPath": "content/songs/raw-lyrics/meng-bu-luo.txt",
+      "deepReadPath": "content/songs/deep-reads/meng-bu-luo.md",
+      "album": null,
+      "releaseYear": null,
+      "era": null,
+      "status": "needs-indexing"
+    },
+    {
+      "slug": "meng-xiang-tian-kong",
+      "titleGuess": "meng xiang tian kong",
+      "rawLyricsPath": "content/songs/raw-lyrics/meng-xiang-tian-kong.txt",
+      "deepReadPath": "content/songs/deep-reads/meng-xiang-tian-kong.md",
+      "album": null,
+      "releaseYear": null,
+      "era": null,
+      "status": "needs-indexing"
+    },
+    {
+      "slug": "meng-you",
+      "titleGuess": "meng you",
+      "rawLyricsPath": "content/songs/raw-lyrics/meng-you.txt",
+      "deepReadPath": "content/songs/deep-reads/meng-you.md",
+      "album": null,
+      "releaseYear": null,
+      "era": null,
+      "status": "needs-indexing"
+    },
+    {
+      "slug": "ming-tian-de-ji-yi",
+      "titleGuess": "ming tian de ji yi",
+      "rawLyricsPath": "content/songs/raw-lyrics/ming-tian-de-ji-yi.txt",
+      "deepReadPath": "content/songs/deep-reads/ming-tian-de-ji-yi.md",
+      "album": null,
+      "releaseYear": null,
+      "era": null,
+      "status": "needs-indexing"
+    },
+    {
+      "slug": "ming-tian-qing-tian",
+      "titleGuess": "ming tian qing tian",
+      "rawLyricsPath": "content/songs/raw-lyrics/ming-tian-qing-tian.txt",
+      "deepReadPath": "content/songs/deep-reads/ming-tian-qing-tian.md",
+      "album": null,
+      "releaseYear": null,
+      "era": null,
+      "status": "needs-indexing"
+    },
+    {
+      "slug": "my-story-your-song",
+      "titleGuess": "my story your song",
+      "rawLyricsPath": "content/songs/raw-lyrics/my-story-your-song.txt",
+      "deepReadPath": "content/songs/deep-reads/my-story-your-song.md",
+      "album": null,
+      "releaseYear": null,
+      "era": null,
+      "status": "needs-indexing"
+    },
+    {
+      "slug": "nan-de-yi-jian",
+      "titleGuess": "nan de yi jian",
+      "rawLyricsPath": "content/songs/raw-lyrics/nan-de-yi-jian.txt",
+      "deepReadPath": "content/songs/deep-reads/nan-de-yi-jian.md",
+      "album": null,
+      "releaseYear": null,
+      "era": null,
+      "status": "needs-indexing"
+    },
+    {
+      "slug": "nan-de-yi-jian-start-concert",
+      "titleGuess": "nan de yi jian start concert",
+      "rawLyricsPath": "content/songs/raw-lyrics/nan-de-yi-jian-start-concert.txt",
+      "deepReadPath": "content/songs/deep-reads/nan-de-yi-jian-start-concert.md",
+      "album": null,
+      "releaseYear": null,
+      "era": null,
+      "status": "needs-indexing"
+    },
+    {
+      "slug": "ni-guang",
+      "titleGuess": "ni guang",
+      "rawLyricsPath": "content/songs/raw-lyrics/ni-guang.txt",
+      "deepReadPath": "content/songs/deep-reads/ni-guang.md",
+      "album": null,
+      "releaseYear": null,
+      "era": null,
+      "status": "needs-indexing"
+    },
+    {
+      "slug": "ni-hao-bu-hao",
+      "titleGuess": "ni hao bu hao",
+      "rawLyricsPath": "content/songs/raw-lyrics/ni-hao-bu-hao.txt",
+      "deepReadPath": "content/songs/deep-reads/ni-hao-bu-hao.md",
+      "album": null,
+      "releaseYear": null,
+      "era": null,
+      "status": "needs-indexing"
+    },
+    {
+      "slug": "ni-ming-wan-sui",
+      "titleGuess": "ni ming wan sui",
+      "rawLyricsPath": "content/songs/raw-lyrics/ni-ming-wan-sui.txt",
+      "deepReadPath": "content/songs/deep-reads/ni-ming-wan-sui.md",
+      "album": null,
+      "releaseYear": null,
+      "era": null,
+      "status": "needs-indexing"
+    },
+    {
+      "slug": "nian-qing-wu-xian",
+      "titleGuess": "nian qing wu xian",
+      "rawLyricsPath": "content/songs/raw-lyrics/nian-qing-wu-xian.txt",
+      "deepReadPath": "content/songs/deep-reads/nian-qing-wu-xian.md",
+      "album": null,
+      "releaseYear": null,
+      "era": null,
+      "status": "needs-indexing"
+    },
+    {
+      "slug": "nong-mei-mao",
+      "titleGuess": "nong mei mao",
+      "rawLyricsPath": "content/songs/raw-lyrics/nong-mei-mao.txt",
+      "deepReadPath": "content/songs/deep-reads/nong-mei-mao.md",
+      "album": null,
+      "releaseYear": null,
+      "era": null,
+      "status": "needs-indexing"
+    },
+    {
+      "slug": "on-the-road",
+      "titleGuess": "on the road",
+      "rawLyricsPath": "content/songs/raw-lyrics/on-the-road.txt",
+      "deepReadPath": "content/songs/deep-reads/on-the-road.md",
+      "album": null,
+      "releaseYear": null,
+      "era": null,
+      "status": "needs-indexing"
+    },
+    {
+      "slug": "one-united-people",
+      "titleGuess": "one united people",
+      "rawLyricsPath": "content/songs/raw-lyrics/one-united-people.txt",
+      "deepReadPath": "content/songs/deep-reads/one-united-people.md",
+      "album": null,
+      "releaseYear": null,
+      "era": null,
+      "status": "needs-indexing"
+    },
+    {
+      "slug": "opening",
+      "titleGuess": "opening",
+      "rawLyricsPath": "content/songs/raw-lyrics/opening.txt",
+      "deepReadPath": "content/songs/deep-reads/opening.md",
+      "album": null,
+      "releaseYear": null,
+      "era": null,
+      "status": "needs-indexing"
+    },
+    {
+      "slug": "piao-fu-qun-dao",
+      "titleGuess": "piao fu qun dao",
+      "rawLyricsPath": "content/songs/raw-lyrics/piao-fu-qun-dao.txt",
+      "deepReadPath": "content/songs/deep-reads/piao-fu-qun-dao.md",
+      "album": null,
+      "releaseYear": null,
+      "era": null,
+      "status": "needs-indexing"
+    },
+    {
+      "slug": "piao-zhe",
+      "titleGuess": "piao zhe",
+      "rawLyricsPath": "content/songs/raw-lyrics/piao-zhe.txt",
+      "deepReadPath": "content/songs/deep-reads/piao-zhe.md",
+      "album": null,
+      "releaseYear": null,
+      "era": null,
+      "status": "needs-indexing"
+    },
+    {
+      "slug": "ping-ri-kuai-le",
+      "titleGuess": "ping ri kuai le",
+      "rawLyricsPath": "content/songs/raw-lyrics/ping-ri-kuai-le.txt",
+      "deepReadPath": "content/songs/deep-reads/ping-ri-kuai-le.md",
+      "album": null,
+      "releaseYear": null,
+      "era": null,
+      "status": "needs-indexing"
+    },
+    {
+      "slug": "qin-guang",
+      "titleGuess": "qin guang",
+      "rawLyricsPath": "content/songs/raw-lyrics/qin-guang.txt",
+      "deepReadPath": "content/songs/deep-reads/qin-guang.md",
+      "album": null,
+      "releaseYear": null,
+      "era": null,
+      "status": "needs-indexing"
+    },
+    {
+      "slug": "quan-xin-quan-yi",
+      "titleGuess": "quan xin quan yi",
+      "rawLyricsPath": "content/songs/raw-lyrics/quan-xin-quan-yi.txt",
+      "deepReadPath": "content/songs/deep-reads/quan-xin-quan-yi.md",
+      "album": null,
+      "releaseYear": null,
+      "era": null,
+      "status": "needs-indexing"
+    },
+    {
+      "slug": "radio",
+      "titleGuess": "radio",
+      "rawLyricsPath": "content/songs/raw-lyrics/radio.txt",
+      "deepReadPath": "content/songs/deep-reads/radio.md",
+      "album": null,
+      "releaseYear": null,
+      "era": null,
+      "status": "needs-indexing"
+    },
+    {
+      "slug": "ren-xing",
+      "titleGuess": "ren xing",
+      "rawLyricsPath": "content/songs/raw-lyrics/ren-xing.txt",
+      "deepReadPath": "content/songs/deep-reads/ren-xing.md",
+      "album": null,
+      "releaseYear": null,
+      "era": null,
+      "status": "needs-indexing"
+    },
+    {
+      "slug": "ren-zhi",
+      "titleGuess": "ren zhi",
+      "rawLyricsPath": "content/songs/raw-lyrics/ren-zhi.txt",
+      "deepReadPath": "content/songs/deep-reads/ren-zhi.md",
+      "album": null,
+      "releaseYear": null,
+      "era": null,
+      "status": "needs-indexing"
+    },
+    {
+      "slug": "ri-luo",
+      "titleGuess": "ri luo",
+      "rawLyricsPath": "content/songs/raw-lyrics/ri-luo.txt",
+      "deepReadPath": "content/songs/deep-reads/ri-luo.md",
+      "album": null,
+      "releaseYear": null,
+      "era": null,
+      "status": "needs-indexing"
+    },
+    {
+      "slug": "rise",
+      "titleGuess": "rise",
+      "rawLyricsPath": "content/songs/raw-lyrics/rise.txt",
+      "deepReadPath": "content/songs/deep-reads/rise.md",
+      "album": null,
+      "releaseYear": null,
+      "era": null,
+      "status": "needs-indexing"
+    },
+    {
+      "slug": "shang-hao-de-qing-chun",
+      "titleGuess": "shang hao de qing chun",
+      "rawLyricsPath": "content/songs/raw-lyrics/shang-hao-de-qing-chun.txt",
+      "deepReadPath": "content/songs/deep-reads/shang-hao-de-qing-chun.md",
+      "album": null,
+      "releaseYear": null,
+      "era": null,
+      "status": "needs-indexing"
+    },
+    {
+      "slug": "shen-qi",
+      "titleGuess": "shen qi",
+      "rawLyricsPath": "content/songs/raw-lyrics/shen-qi.txt",
+      "deepReadPath": "content/songs/deep-reads/shen-qi.md",
+      "album": null,
+      "releaseYear": null,
+      "era": null,
+      "status": "needs-indexing"
+    },
+    {
+      "slug": "shi-guang-xiao-tou",
+      "titleGuess": "shi guang xiao tou",
+      "rawLyricsPath": "content/songs/raw-lyrics/shi-guang-xiao-tou.txt",
+      "deepReadPath": "content/songs/deep-reads/shi-guang-xiao-tou.md",
+      "album": null,
+      "releaseYear": null,
+      "era": null,
+      "status": "needs-indexing"
+    },
+    {
+      "slug": "shi-jie-zhong-jie-qian-yi-tian",
+      "titleGuess": "shi jie zhong jie qian yi tian",
+      "rawLyricsPath": "content/songs/raw-lyrics/shi-jie-zhong-jie-qian-yi-tian.txt",
+      "deepReadPath": "content/songs/deep-reads/shi-jie-zhong-jie-qian-yi-tian.md",
+      "album": null,
+      "releaseYear": null,
+      "era": null,
+      "status": "needs-indexing"
+    },
+    {
+      "slug": "shi-shi-hou",
+      "titleGuess": "shi shi hou",
+      "rawLyricsPath": "content/songs/raw-lyrics/shi-shi-hou.txt",
+      "deepReadPath": "content/songs/deep-reads/shi-shi-hou.md",
+      "album": null,
+      "releaseYear": null,
+      "era": null,
+      "status": "needs-indexing"
+    },
+    {
+      "slug": "shi-shuo-xin-yu",
+      "titleGuess": "shi shuo xin yu",
+      "rawLyricsPath": "content/songs/raw-lyrics/shi-shuo-xin-yu.txt",
+      "deepReadPath": "content/songs/deep-reads/shi-shuo-xin-yu.md",
+      "album": null,
+      "releaseYear": null,
+      "era": null,
+      "status": "needs-indexing"
+    },
+    {
+      "slug": "shou-hu-yong-heng-de-ai",
+      "titleGuess": "shou hu yong heng de ai",
+      "rawLyricsPath": "content/songs/raw-lyrics/shou-hu-yong-heng-de-ai.txt",
+      "deepReadPath": "content/songs/deep-reads/shou-hu-yong-heng-de-ai.md",
+      "album": null,
+      "releaseYear": null,
+      "era": null,
+      "status": "needs-indexing"
+    },
+    {
+      "slug": "silent-all-these-years",
+      "titleGuess": "silent all these years",
+      "rawLyricsPath": "content/songs/raw-lyrics/silent-all-these-years.txt",
+      "deepReadPath": "content/songs/deep-reads/silent-all-these-years.md",
+      "album": null,
+      "releaseYear": null,
+      "era": null,
+      "status": "needs-indexing"
+    },
+    {
+      "slug": "someone",
+      "titleGuess": "someone",
+      "rawLyricsPath": "content/songs/raw-lyrics/someone.txt",
+      "deepReadPath": "content/songs/deep-reads/someone.md",
+      "album": null,
+      "releaseYear": null,
+      "era": null,
+      "status": "needs-indexing"
+    },
+    {
+      "slug": "someone-start-concert",
+      "titleGuess": "someone start concert",
+      "rawLyricsPath": "content/songs/raw-lyrics/someone-start-concert.txt",
+      "deepReadPath": "content/songs/deep-reads/someone-start-concert.md",
+      "album": null,
+      "releaseYear": null,
+      "era": null,
+      "status": "needs-indexing"
+    },
+    {
+      "slug": "sometimes-love-just-aint-enough",
+      "titleGuess": "sometimes love just aint enough",
+      "rawLyricsPath": "content/songs/raw-lyrics/sometimes-love-just-aint-enough.txt",
+      "deepReadPath": "content/songs/deep-reads/sometimes-love-just-aint-enough.md",
+      "album": null,
+      "releaseYear": null,
+      "era": null,
+      "status": "needs-indexing"
+    },
+    {
+      "slug": "sparking-diamonds",
+      "titleGuess": "sparking diamonds",
+      "rawLyricsPath": "content/songs/raw-lyrics/sparking-diamonds.txt",
+      "deepReadPath": "content/songs/deep-reads/sparking-diamonds.md",
+      "album": null,
+      "releaseYear": null,
+      "era": null,
+      "status": "needs-indexing"
+    },
+    {
+      "slug": "sparkling-diamonds-start-concert",
+      "titleGuess": "sparkling diamonds start concert",
+      "rawLyricsPath": "content/songs/raw-lyrics/sparkling-diamonds-start-concert.txt",
+      "deepReadPath": "content/songs/deep-reads/sparkling-diamonds-start-concert.md",
+      "album": null,
+      "releaseYear": null,
+      "era": null,
+      "status": "needs-indexing"
+    },
+    {
+      "slug": "stefanie",
+      "titleGuess": "stefanie",
+      "rawLyricsPath": "content/songs/raw-lyrics/stefanie.txt",
+      "deepReadPath": "content/songs/deep-reads/stefanie.md",
+      "album": null,
+      "releaseYear": null,
+      "era": null,
+      "status": "needs-indexing"
+    },
+    {
+      "slug": "sui-tang-ce-yan",
+      "titleGuess": "sui tang ce yan",
+      "rawLyricsPath": "content/songs/raw-lyrics/sui-tang-ce-yan.txt",
+      "deepReadPath": "content/songs/deep-reads/sui-tang-ce-yan.md",
+      "album": null,
+      "releaseYear": null,
+      "era": null,
+      "status": "needs-indexing"
+    },
+    {
+      "slug": "sui-tang-ce-yan-start-concert",
+      "titleGuess": "sui tang ce yan start concert",
+      "rawLyricsPath": "content/songs/raw-lyrics/sui-tang-ce-yan-start-concert.txt",
+      "deepReadPath": "content/songs/deep-reads/sui-tang-ce-yan-start-concert.md",
+      "album": null,
+      "releaseYear": null,
+      "era": null,
+      "status": "needs-indexing"
+    },
+    {
+      "slug": "sweet-child-o-mine",
+      "titleGuess": "sweet child o mine",
+      "rawLyricsPath": "content/songs/raw-lyrics/sweet-child-o-mine.txt",
+      "deepReadPath": "content/songs/deep-reads/sweet-child-o-mine.md",
+      "album": null,
+      "releaseYear": null,
+      "era": null,
+      "status": "needs-indexing"
+    },
+    {
+      "slug": "sweet-child-o-mine-2",
+      "titleGuess": "sweet child o mine 2",
+      "rawLyricsPath": "content/songs/raw-lyrics/sweet-child-o-mine-2.txt",
+      "deepReadPath": "content/songs/deep-reads/sweet-child-o-mine-2.md",
+      "album": null,
+      "releaseYear": null,
+      "era": null,
+      "status": "needs-indexing"
+    },
+    {
+      "slug": "ta-men-de-ge",
+      "titleGuess": "ta men de ge",
+      "rawLyricsPath": "content/songs/raw-lyrics/ta-men-de-ge.txt",
+      "deepReadPath": "content/songs/deep-reads/ta-men-de-ge.md",
+      "album": null,
+      "releaseYear": null,
+      "era": null,
+      "status": "needs-indexing"
+    },
+    {
+      "slug": "tai-yang-di-xia",
+      "titleGuess": "tai yang di xia",
+      "rawLyricsPath": "content/songs/raw-lyrics/tai-yang-di-xia.txt",
+      "deepReadPath": "content/songs/deep-reads/tai-yang-di-xia.md",
+      "album": null,
+      "releaseYear": null,
+      "era": null,
+      "status": "needs-indexing"
+    },
+    {
+      "slug": "tao-wang",
+      "titleGuess": "tao wang",
+      "rawLyricsPath": "content/songs/raw-lyrics/tao-wang.txt",
+      "deepReadPath": "content/songs/deep-reads/tao-wang.md",
+      "album": null,
+      "releaseYear": null,
+      "era": null,
+      "status": "needs-indexing"
+    },
+    {
+      "slug": "that-i-would-be-good",
+      "titleGuess": "that i would be good",
+      "rawLyricsPath": "content/songs/raw-lyrics/that-i-would-be-good.txt",
+      "deepReadPath": "content/songs/deep-reads/that-i-would-be-good.md",
+      "album": null,
+      "releaseYear": null,
+      "era": null,
+      "status": "needs-indexing"
+    },
+    {
+      "slug": "the-moment",
+      "titleGuess": "the moment",
+      "rawLyricsPath": "content/songs/raw-lyrics/the-moment.txt",
+      "deepReadPath": "content/songs/deep-reads/the-moment.md",
+      "album": null,
+      "releaseYear": null,
+      "era": null,
+      "status": "needs-indexing"
+    },
+    {
+      "slug": "tian-kong",
+      "titleGuess": "tian kong",
+      "rawLyricsPath": "content/songs/raw-lyrics/tian-kong.txt",
+      "deepReadPath": "content/songs/deep-reads/tian-kong.md",
+      "album": null,
+      "releaseYear": null,
+      "era": null,
+      "status": "needs-indexing"
+    },
+    {
+      "slug": "tian-tian-nian-nian",
+      "titleGuess": "tian tian nian nian",
+      "rawLyricsPath": "content/songs/raw-lyrics/tian-tian-nian-nian.txt",
+      "deepReadPath": "content/songs/deep-reads/tian-tian-nian-nian.md",
+      "album": null,
+      "releaseYear": null,
+      "era": null,
+      "status": "needs-indexing"
+    },
+    {
+      "slug": "tian-yue-liang-ye-yue-hei",
+      "titleGuess": "tian yue liang ye yue hei",
+      "rawLyricsPath": "content/songs/raw-lyrics/tian-yue-liang-ye-yue-hei.txt",
+      "deepReadPath": "content/songs/deep-reads/tian-yue-liang-ye-yue-hei.md",
+      "album": null,
+      "releaseYear": null,
+      "era": null,
+      "status": "needs-indexing"
+    },
+    {
+      "slug": "tian-yue-liang-ye-yue-hei-2",
+      "titleGuess": "tian yue liang ye yue hei 2",
+      "rawLyricsPath": "content/songs/raw-lyrics/tian-yue-liang-ye-yue-hei-2.txt",
+      "deepReadPath": "content/songs/deep-reads/tian-yue-liang-ye-yue-hei-2.md",
+      "album": null,
+      "releaseYear": null,
+      "era": null,
+      "status": "needs-indexing"
+    },
+    {
+      "slug": "tiao-wu-de-fan-gu",
+      "titleGuess": "tiao wu de fan gu",
+      "rawLyricsPath": "content/songs/raw-lyrics/tiao-wu-de-fan-gu.txt",
+      "deepReadPath": "content/songs/deep-reads/tiao-wu-de-fan-gu.md",
+      "album": null,
+      "releaseYear": null,
+      "era": null,
+      "status": "needs-indexing"
+    },
+    {
+      "slug": "ting-jian",
+      "titleGuess": "ting jian",
+      "rawLyricsPath": "content/songs/raw-lyrics/ting-jian.txt",
+      "deepReadPath": "content/songs/deep-reads/ting-jian.md",
+      "album": null,
+      "releaseYear": null,
+      "era": null,
+      "status": "needs-indexing"
+    },
+    {
+      "slug": "tong-yao-1987",
+      "titleGuess": "tong yao 1987",
+      "rawLyricsPath": "content/songs/raw-lyrics/tong-yao-1987.txt",
+      "deepReadPath": "content/songs/deep-reads/tong-yao-1987.md",
+      "album": null,
+      "releaseYear": null,
+      "era": null,
+      "status": "needs-indexing"
+    },
+    {
+      "slug": "up2u",
+      "titleGuess": "up2u",
+      "rawLyricsPath": "content/songs/raw-lyrics/up2u.txt",
+      "deepReadPath": "content/songs/deep-reads/up2u.md",
+      "album": null,
+      "releaseYear": null,
+      "era": null,
+      "status": "needs-indexing"
+    },
+    {
+      "slug": "venus",
+      "titleGuess": "venus",
+      "rawLyricsPath": "content/songs/raw-lyrics/venus.txt",
+      "deepReadPath": "content/songs/deep-reads/venus.md",
+      "album": null,
+      "releaseYear": null,
+      "era": null,
+      "status": "needs-indexing"
+    },
+    {
+      "slug": "venus-start-concert",
+      "titleGuess": "venus start concert",
+      "rawLyricsPath": "content/songs/raw-lyrics/venus-start-concert.txt",
+      "deepReadPath": "content/songs/deep-reads/venus-start-concert.md",
+      "album": null,
+      "releaseYear": null,
+      "era": null,
+      "status": "needs-indexing"
+    },
+    {
+      "slug": "wan-mei-de-yi-tian",
+      "titleGuess": "wan mei de yi tian",
+      "rawLyricsPath": "content/songs/raw-lyrics/wan-mei-de-yi-tian.txt",
+      "deepReadPath": "content/songs/deep-reads/wan-mei-de-yi-tian.md",
+      "album": null,
+      "releaseYear": null,
+      "era": null,
+      "status": "needs-indexing"
+    },
+    {
+      "slug": "we-will-get-there",
+      "titleGuess": "we will get there",
+      "rawLyricsPath": "content/songs/raw-lyrics/we-will-get-there.txt",
+      "deepReadPath": "content/songs/deep-reads/we-will-get-there.md",
+      "album": null,
+      "releaseYear": null,
+      "era": null,
+      "status": "needs-indexing"
+    },
+    {
+      "slug": "wei-rao",
+      "titleGuess": "wei rao",
+      "rawLyricsPath": "content/songs/raw-lyrics/wei-rao.txt",
+      "deepReadPath": "content/songs/deep-reads/wei-rao.md",
+      "album": null,
+      "releaseYear": null,
+      "era": null,
+      "status": "needs-indexing"
+    },
+    {
+      "slug": "wei-wan-cheng",
+      "titleGuess": "wei wan cheng",
+      "rawLyricsPath": "content/songs/raw-lyrics/wei-wan-cheng.txt",
+      "deepReadPath": "content/songs/deep-reads/wei-wan-cheng.md",
+      "album": null,
+      "releaseYear": null,
+      "era": null,
+      "status": "needs-indexing"
+    },
+    {
+      "slug": "wei-zhi-de-jing-cai",
+      "titleGuess": "wei zhi de jing cai",
+      "rawLyricsPath": "content/songs/raw-lyrics/wei-zhi-de-jing-cai.txt",
+      "deepReadPath": "content/songs/deep-reads/wei-zhi-de-jing-cai.md",
+      "album": null,
+      "releaseYear": null,
+      "era": null,
+      "status": "needs-indexing"
+    },
+    {
+      "slug": "wei-zhi-de-jing-cai-2",
+      "titleGuess": "wei zhi de jing cai 2",
+      "rawLyricsPath": "content/songs/raw-lyrics/wei-zhi-de-jing-cai-2.txt",
+      "deepReadPath": "content/songs/deep-reads/wei-zhi-de-jing-cai-2.md",
+      "album": null,
+      "releaseYear": null,
+      "era": null,
+      "status": "needs-indexing"
+    },
+    {
+      "slug": "wen-rou-mayday-blue-20th",
+      "titleGuess": "wen rou mayday blue 20th",
+      "rawLyricsPath": "content/songs/raw-lyrics/wen-rou-mayday-blue-20th.txt",
+      "deepReadPath": "content/songs/deep-reads/wen-rou-mayday-blue-20th.md",
+      "album": null,
+      "releaseYear": null,
+      "era": null,
+      "status": "needs-indexing"
+    },
+    {
+      "slug": "wo-bu-ai",
+      "titleGuess": "wo bu ai",
+      "rawLyricsPath": "content/songs/raw-lyrics/wo-bu-ai.txt",
+      "deepReadPath": "content/songs/deep-reads/wo-bu-ai.md",
+      "album": null,
+      "releaseYear": null,
+      "era": null,
+      "status": "needs-indexing"
+    },
+    {
+      "slug": "wo-de-ai",
+      "titleGuess": "wo de ai",
+      "rawLyricsPath": "content/songs/raw-lyrics/wo-de-ai.txt",
+      "deepReadPath": "content/songs/deep-reads/wo-de-ai.md",
+      "album": null,
+      "releaseYear": null,
+      "era": null,
+      "status": "needs-indexing"
+    },
+    {
+      "slug": "wo-hen-wo-ai-ni",
+      "titleGuess": "wo hen wo ai ni",
+      "rawLyricsPath": "content/songs/raw-lyrics/wo-hen-wo-ai-ni.txt",
+      "deepReadPath": "content/songs/deep-reads/wo-hen-wo-ai-ni.md",
+      "album": null,
+      "releaseYear": null,
+      "era": null,
+      "status": "needs-indexing"
+    },
+    {
+      "slug": "wo-hen-yu-kuai",
+      "titleGuess": "wo hen yu kuai",
+      "rawLyricsPath": "content/songs/raw-lyrics/wo-hen-yu-kuai.txt",
+      "deepReadPath": "content/songs/deep-reads/wo-hen-yu-kuai.md",
+      "album": null,
+      "releaseYear": null,
+      "era": null,
+      "status": "needs-indexing"
+    },
+    {
+      "slug": "wo-shi-wo",
+      "titleGuess": "wo shi wo",
+      "rawLyricsPath": "content/songs/raw-lyrics/wo-shi-wo.txt",
+      "deepReadPath": "content/songs/deep-reads/wo-shi-wo.md",
+      "album": null,
+      "releaseYear": null,
+      "era": null,
+      "status": "needs-indexing"
+    },
+    {
+      "slug": "wo-wei-shen-me-na-me-ai-ni",
+      "titleGuess": "wo wei shen me na me ai ni",
+      "rawLyricsPath": "content/songs/raw-lyrics/wo-wei-shen-me-na-me-ai-ni.txt",
+      "deepReadPath": "content/songs/deep-reads/wo-wei-shen-me-na-me-ai-ni.md",
+      "album": null,
+      "releaseYear": null,
+      "era": null,
+      "status": "needs-indexing"
+    },
+    {
+      "slug": "wo-xiang",
+      "titleGuess": "wo xiang",
+      "rawLyricsPath": "content/songs/raw-lyrics/wo-xiang.txt",
+      "deepReadPath": "content/songs/deep-reads/wo-xiang.md",
+      "album": null,
+      "releaseYear": null,
+      "era": null,
+      "status": "needs-indexing"
+    },
+    {
+      "slug": "wo-yao-de-xing-fu",
+      "titleGuess": "wo yao de xing fu",
+      "rawLyricsPath": "content/songs/raw-lyrics/wo-yao-de-xing-fu.txt",
+      "deepReadPath": "content/songs/deep-reads/wo-yao-de-xing-fu.md",
+      "album": null,
+      "releaseYear": null,
+      "era": null,
+      "status": "needs-indexing"
+    },
+    {
+      "slug": "wo-yao-de-xing-fu-start-concert",
+      "titleGuess": "wo yao de xing fu start concert",
+      "rawLyricsPath": "content/songs/raw-lyrics/wo-yao-de-xing-fu-start-concert.txt",
+      "deepReadPath": "content/songs/deep-reads/wo-yao-de-xing-fu-start-concert.md",
+      "album": null,
+      "releaseYear": null,
+      "era": null,
+      "status": "needs-indexing"
+    },
+    {
+      "slug": "wo-yao-kuai-le",
+      "titleGuess": "wo yao kuai le",
+      "rawLyricsPath": "content/songs/raw-lyrics/wo-yao-kuai-le.txt",
+      "deepReadPath": "content/songs/deep-reads/wo-yao-kuai-le.md",
+      "album": null,
+      "releaseYear": null,
+      "era": null,
+      "status": "needs-indexing"
+    },
+    {
+      "slug": "wu-xian-da",
+      "titleGuess": "wu xian da",
+      "rawLyricsPath": "content/songs/raw-lyrics/wu-xian-da.txt",
+      "deepReadPath": "content/songs/deep-reads/wu-xian-da.md",
+      "album": null,
+      "releaseYear": null,
+      "era": null,
+      "status": "needs-indexing"
+    },
+    {
+      "slug": "xiang-xin",
+      "titleGuess": "xiang xin",
+      "rawLyricsPath": "content/songs/raw-lyrics/xiang-xin.txt",
+      "deepReadPath": "content/songs/deep-reads/xiang-xin.md",
+      "album": null,
+      "releaseYear": null,
+      "era": null,
+      "status": "needs-indexing"
+    },
+    {
+      "slug": "xin-yuan",
+      "titleGuess": "xin yuan",
+      "rawLyricsPath": "content/songs/raw-lyrics/xin-yuan.txt",
+      "deepReadPath": "content/songs/deep-reads/xin-yuan.md",
+      "album": null,
+      "releaseYear": null,
+      "era": null,
+      "status": "needs-indexing"
+    },
+    {
+      "slug": "xing-qi-yi-tian-qi-qing-wo-li-kai-ni",
+      "titleGuess": "xing qi yi tian qi qing wo li kai ni",
+      "rawLyricsPath": "content/songs/raw-lyrics/xing-qi-yi-tian-qi-qing-wo-li-kai-ni.txt",
+      "deepReadPath": "content/songs/deep-reads/xing-qi-yi-tian-qi-qing-wo-li-kai-ni.md",
+      "album": null,
+      "releaseYear": null,
+      "era": null,
+      "status": "needs-indexing"
+    },
+    {
+      "slug": "xiu-zhi-fu",
+      "titleGuess": "xiu zhi fu",
+      "rawLyricsPath": "content/songs/raw-lyrics/xiu-zhi-fu.txt",
+      "deepReadPath": "content/songs/deep-reads/xiu-zhi-fu.md",
+      "album": null,
+      "releaseYear": null,
+      "era": null,
+      "status": "needs-indexing"
+    },
+    {
+      "slug": "xu-yao-ni",
+      "titleGuess": "xu yao ni",
+      "rawLyricsPath": "content/songs/raw-lyrics/xu-yao-ni.txt",
+      "deepReadPath": "content/songs/deep-reads/xu-yao-ni.md",
+      "album": null,
+      "releaseYear": null,
+      "era": null,
+      "status": "needs-indexing"
+    },
+    {
+      "slug": "xuan-wo",
+      "titleGuess": "xuan wo",
+      "rawLyricsPath": "content/songs/raw-lyrics/xuan-wo.txt",
+      "deepReadPath": "content/songs/deep-reads/xuan-wo.md",
+      "album": null,
+      "releaseYear": null,
+      "era": null,
+      "status": "needs-indexing"
+    },
+    {
+      "slug": "xue-hui",
+      "titleGuess": "xue hui",
+      "rawLyricsPath": "content/songs/raw-lyrics/xue-hui.txt",
+      "deepReadPath": "content/songs/deep-reads/xue-hui.md",
+      "album": null,
+      "releaseYear": null,
+      "era": null,
+      "status": "needs-indexing"
+    },
+    {
+      "slug": "yan-lei-cheng-shi",
+      "titleGuess": "yan lei cheng shi",
+      "rawLyricsPath": "content/songs/raw-lyrics/yan-lei-cheng-shi.txt",
+      "deepReadPath": "content/songs/deep-reads/yan-lei-cheng-shi.md",
+      "album": null,
+      "releaseYear": null,
+      "era": null,
+      "status": "needs-indexing"
+    },
+    {
+      "slug": "yan-shen",
+      "titleGuess": "yan shen",
+      "rawLyricsPath": "content/songs/raw-lyrics/yan-shen.txt",
+      "deepReadPath": "content/songs/deep-reads/yan-shen.md",
+      "album": null,
+      "releaseYear": null,
+      "era": null,
+      "status": "needs-indexing"
+    },
+    {
+      "slug": "yang-zi",
+      "titleGuess": "yang zi",
+      "rawLyricsPath": "content/songs/raw-lyrics/yang-zi.txt",
+      "deepReadPath": "content/songs/deep-reads/yang-zi.md",
+      "album": null,
+      "releaseYear": null,
+      "era": null,
+      "status": "needs-indexing"
+    },
+    {
+      "slug": "yi-qi-zou-dao",
+      "titleGuess": "yi qi zou dao",
+      "rawLyricsPath": "content/songs/raw-lyrics/yi-qi-zou-dao.txt",
+      "deepReadPath": "content/songs/deep-reads/yi-qi-zou-dao.md",
+      "album": null,
+      "releaseYear": null,
+      "era": null,
+      "status": "needs-indexing"
+    },
+    {
+      "slug": "yi-yang-de-xia-tian",
+      "titleGuess": "yi yang de xia tian",
+      "rawLyricsPath": "content/songs/raw-lyrics/yi-yang-de-xia-tian.txt",
+      "deepReadPath": "content/songs/deep-reads/yi-yang-de-xia-tian.md",
+      "album": null,
+      "releaseYear": null,
+      "era": null,
+      "status": "needs-indexing"
+    },
+    {
+      "slug": "yin-tai",
+      "titleGuess": "yin tai",
+      "rawLyricsPath": "content/songs/raw-lyrics/yin-tai.txt",
+      "deepReadPath": "content/songs/deep-reads/yin-tai.md",
+      "album": null,
+      "releaseYear": null,
+      "era": null,
+      "status": "needs-indexing"
+    },
+    {
+      "slug": "yin-xing-ren",
+      "titleGuess": "yin xing ren",
+      "rawLyricsPath": "content/songs/raw-lyrics/yin-xing-ren.txt",
+      "deepReadPath": "content/songs/deep-reads/yin-xing-ren.md",
+      "album": null,
+      "releaseYear": null,
+      "era": null,
+      "status": "needs-indexing"
+    },
+    {
+      "slug": "yong-gan",
+      "titleGuess": "yong gan",
+      "rawLyricsPath": "content/songs/raw-lyrics/yong-gan.txt",
+      "deepReadPath": "content/songs/deep-reads/yong-gan.md",
+      "album": null,
+      "releaseYear": null,
+      "era": null,
+      "status": "needs-indexing"
+    },
+    {
+      "slug": "yong-yuan",
+      "titleGuess": "yong yuan",
+      "rawLyricsPath": "content/songs/raw-lyrics/yong-yuan.txt",
+      "deepReadPath": "content/songs/deep-reads/yong-yuan.md",
+      "album": null,
+      "releaseYear": null,
+      "era": null,
+      "status": "needs-indexing"
+    },
+    {
+      "slug": "yu-e",
+      "titleGuess": "yu e",
+      "rawLyricsPath": "content/songs/raw-lyrics/yu-e.txt",
+      "deepReadPath": "content/songs/deep-reads/yu-e.md",
+      "album": null,
+      "releaseYear": null,
+      "era": null,
+      "status": "needs-indexing"
+    },
+    {
+      "slug": "yu-hai-shi-bu-ting-de-luo-xia",
+      "titleGuess": "yu hai shi bu ting de luo xia",
+      "rawLyricsPath": "content/songs/raw-lyrics/yu-hai-shi-bu-ting-de-luo-xia.txt",
+      "deepReadPath": "content/songs/deep-reads/yu-hai-shi-bu-ting-de-luo-xia.md",
+      "album": null,
+      "releaseYear": null,
+      "era": null,
+      "status": "needs-indexing"
+    },
+    {
+      "slug": "yu-ren-de-guo-du",
+      "titleGuess": "yu ren de guo du",
+      "rawLyricsPath": "content/songs/raw-lyrics/yu-ren-de-guo-du.txt",
+      "deepReadPath": "content/songs/deep-reads/yu-ren-de-guo-du.md",
+      "album": null,
+      "releaseYear": null,
+      "era": null,
+      "status": "needs-indexing"
+    },
+    {
+      "slug": "yu-tian",
+      "titleGuess": "yu tian",
+      "rawLyricsPath": "content/songs/raw-lyrics/yu-tian.txt",
+      "deepReadPath": "content/songs/deep-reads/yu-tian.md",
+      "album": null,
+      "releaseYear": null,
+      "era": null,
+      "status": "needs-indexing"
+    },
+    {
+      "slug": "zai-ye-bu-jian",
+      "titleGuess": "zai ye bu jian",
+      "rawLyricsPath": "content/songs/raw-lyrics/zai-ye-bu-jian.txt",
+      "deepReadPath": "content/songs/deep-reads/zai-ye-bu-jian.md",
+      "album": null,
+      "releaseYear": null,
+      "era": null,
+      "status": "needs-indexing"
+    },
+    {
+      "slug": "zhen-de",
+      "titleGuess": "zhen de",
+      "rawLyricsPath": "content/songs/raw-lyrics/zhen-de.txt",
+      "deepReadPath": "content/songs/deep-reads/zhen-de.md",
+      "album": null,
+      "releaseYear": null,
+      "era": null,
+      "status": "needs-indexing"
+    },
+    {
+      "slug": "zhen-de-start-concert",
+      "titleGuess": "zhen de start concert",
+      "rawLyricsPath": "content/songs/raw-lyrics/zhen-de-start-concert.txt",
+      "deepReadPath": "content/songs/deep-reads/zhen-de-start-concert.md",
+      "album": null,
+      "releaseYear": null,
+      "era": null,
+      "status": "needs-indexing"
+    },
+    {
+      "slug": "zhong",
+      "titleGuess": "zhong",
+      "rawLyricsPath": "content/songs/raw-lyrics/zhong.txt",
+      "deepReadPath": "content/songs/deep-reads/zhong.md",
+      "album": null,
+      "releaseYear": null,
+      "era": null,
+      "status": "needs-indexing"
+    },
+    {
+      "slug": "zhong-jian-di-dai",
+      "titleGuess": "zhong jian di dai",
+      "rawLyricsPath": "content/songs/raw-lyrics/zhong-jian-di-dai.txt",
+      "deepReadPath": "content/songs/deep-reads/zhong-jian-di-dai.md",
+      "album": null,
+      "releaseYear": null,
+      "era": null,
+      "status": "needs-indexing"
+    },
+    {
+      "slug": "zhong-yu",
+      "titleGuess": "zhong yu",
+      "rawLyricsPath": "content/songs/raw-lyrics/zhong-yu.txt",
+      "deepReadPath": "content/songs/deep-reads/zhong-yu.md",
+      "album": null,
+      "releaseYear": null,
+      "era": null,
+      "status": "needs-indexing"
+    },
+    {
+      "slug": "zhong-yu-2",
+      "titleGuess": "zhong yu 2",
+      "rawLyricsPath": "content/songs/raw-lyrics/zhong-yu-2.txt",
+      "deepReadPath": "content/songs/deep-reads/zhong-yu-2.md",
+      "album": null,
+      "releaseYear": null,
+      "era": null,
+      "status": "needs-indexing"
+    },
+    {
+      "slug": "zhu-ni-kai-xin",
+      "titleGuess": "zhu ni kai xin",
+      "rawLyricsPath": "content/songs/raw-lyrics/zhu-ni-kai-xin.txt",
+      "deepReadPath": "content/songs/deep-reads/zhu-ni-kai-xin.md",
+      "album": null,
+      "releaseYear": null,
+      "era": null,
+      "status": "needs-indexing"
+    },
+    {
+      "slug": "zhui",
+      "titleGuess": "zhui",
+      "rawLyricsPath": "content/songs/raw-lyrics/zhui.txt",
+      "deepReadPath": "content/songs/deep-reads/zhui.md",
+      "album": null,
+      "releaseYear": null,
+      "era": null,
+      "status": "needs-indexing"
+    },
+    {
+      "slug": "zi-ran",
+      "titleGuess": "zi ran",
+      "rawLyricsPath": "content/songs/raw-lyrics/zi-ran.txt",
+      "deepReadPath": "content/songs/deep-reads/zi-ran.md",
+      "album": null,
+      "releaseYear": null,
+      "era": null,
+      "status": "needs-indexing"
+    },
+    {
+      "slug": "zui-hou-zhi-hou",
+      "titleGuess": "zui hou zhi hou",
+      "rawLyricsPath": "content/songs/raw-lyrics/zui-hou-zhi-hou.txt",
+      "deepReadPath": "content/songs/deep-reads/zui-hou-zhi-hou.md",
+      "album": null,
+      "releaseYear": null,
+      "era": null,
+      "status": "needs-indexing"
+    },
+    {
+      "slug": "zuo-zhan",
+      "titleGuess": "zuo zhan",
+      "rawLyricsPath": "content/songs/raw-lyrics/zuo-zhan.txt",
+      "deepReadPath": "content/songs/deep-reads/zuo-zhan.md",
+      "album": null,
+      "releaseYear": null,
+      "era": null,
+      "status": "needs-indexing"
+    }
+  ]
+}

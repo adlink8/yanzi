@@ -1,0 +1,1300 @@
+{
+  "summary": {
+    "totalRawLyrics": 183,
+    "totalDeepReads": 184,
+    "indexedSongs": 10,
+    "indexedReady": 10,
+    "indexedWithDeepRead": 10,
+    "deepReadsWithPlaceholder": 0
+  },
+  "items": [
+    {
+      "slug": "180-du",
+      "hasRawLyrics": true,
+      "hasDeepReadFile": true,
+      "containsPlaceholder": false,
+      "isIndexed": false
+    },
+    {
+      "slug": "ai-cong-ling-kai-shi",
+      "hasRawLyrics": true,
+      "hasDeepReadFile": true,
+      "containsPlaceholder": false,
+      "isIndexed": false
+    },
+    {
+      "slug": "ai-qing-de-hua-yang",
+      "hasRawLyrics": true,
+      "hasDeepReadFile": true,
+      "containsPlaceholder": false,
+      "isIndexed": false
+    },
+    {
+      "slug": "ai-qing-zheng-shu-start-concert",
+      "hasRawLyrics": true,
+      "hasDeepReadFile": true,
+      "containsPlaceholder": false,
+      "isIndexed": false
+    },
+    {
+      "slug": "ai-qing-zheng-shu",
+      "hasRawLyrics": true,
+      "hasDeepReadFile": true,
+      "containsPlaceholder": false,
+      "isIndexed": false
+    },
+    {
+      "slug": "ai-qing-zi-dian-start-concert",
+      "hasRawLyrics": true,
+      "hasDeepReadFile": true,
+      "containsPlaceholder": false,
+      "isIndexed": false
+    },
+    {
+      "slug": "ai-qing-zi-dian",
+      "hasRawLyrics": true,
+      "hasDeepReadFile": true,
+      "containsPlaceholder": false,
+      "isIndexed": false
+    },
+    {
+      "slug": "an-ning",
+      "hasRawLyrics": true,
+      "hasDeepReadFile": true,
+      "containsPlaceholder": false,
+      "isIndexed": false
+    },
+    {
+      "slug": "ban-ju-zai-jian",
+      "hasRawLyrics": true,
+      "hasDeepReadFile": true,
+      "containsPlaceholder": false,
+      "isIndexed": false
+    },
+    {
+      "slug": "ben",
+      "hasRawLyrics": true,
+      "hasDeepReadFile": true,
+      "containsPlaceholder": false,
+      "isIndexed": false
+    },
+    {
+      "slug": "bi-jiao-xing-fu",
+      "hasRawLyrics": true,
+      "hasDeepReadFile": true,
+      "containsPlaceholder": false,
+      "isIndexed": false
+    },
+    {
+      "slug": "bu-neng-he-ni-yi-qi",
+      "hasRawLyrics": true,
+      "hasDeepReadFile": true,
+      "containsPlaceholder": false,
+      "isIndexed": false
+    },
+    {
+      "slug": "bu-shi-zhen-de-ai-wo",
+      "hasRawLyrics": true,
+      "hasDeepReadFile": true,
+      "containsPlaceholder": false,
+      "isIndexed": false
+    },
+    {
+      "slug": "bu-tong",
+      "hasRawLyrics": true,
+      "hasDeepReadFile": true,
+      "containsPlaceholder": false,
+      "isIndexed": false
+    },
+    {
+      "slug": "cai-hong-jin-gang",
+      "hasRawLyrics": true,
+      "hasDeepReadFile": true,
+      "containsPlaceholder": false,
+      "isIndexed": false
+    },
+    {
+      "slug": "chao-kuai-gan-start-concert",
+      "hasRawLyrics": true,
+      "hasDeepReadFile": true,
+      "containsPlaceholder": false,
+      "isIndexed": false
+    },
+    {
+      "slug": "chao-kuai-gan",
+      "hasRawLyrics": true,
+      "hasDeepReadFile": true,
+      "containsPlaceholder": false,
+      "isIndexed": false
+    },
+    {
+      "slug": "chao-ren-lei",
+      "hasRawLyrics": true,
+      "hasDeepReadFile": true,
+      "containsPlaceholder": false,
+      "isIndexed": false
+    },
+    {
+      "slug": "chong-yang-qi",
+      "hasRawLyrics": true,
+      "hasDeepReadFile": true,
+      "containsPlaceholder": false,
+      "isIndexed": false
+    },
+    {
+      "slug": "cuo-jue",
+      "hasRawLyrics": true,
+      "hasDeepReadFile": true,
+      "containsPlaceholder": false,
+      "isIndexed": false
+    },
+    {
+      "slug": "dang-dong-ye-jian-nuan",
+      "hasRawLyrics": true,
+      "hasDeepReadFile": true,
+      "containsPlaceholder": false,
+      "isIndexed": false
+    },
+    {
+      "slug": "di-liu-gan",
+      "hasRawLyrics": true,
+      "hasDeepReadFile": true,
+      "containsPlaceholder": false,
+      "isIndexed": false
+    },
+    {
+      "slug": "di-yi-tian",
+      "hasRawLyrics": true,
+      "hasDeepReadFile": true,
+      "containsPlaceholder": false,
+      "isIndexed": false
+    },
+    {
+      "slug": "dong-shi",
+      "hasRawLyrics": true,
+      "hasDeepReadFile": true,
+      "containsPlaceholder": false,
+      "isIndexed": false
+    },
+    {
+      "slug": "dream-a-little-dream-of-me",
+      "hasRawLyrics": true,
+      "hasDeepReadFile": true,
+      "containsPlaceholder": false,
+      "isIndexed": false
+    },
+    {
+      "slug": "e-lover-2",
+      "hasRawLyrics": true,
+      "hasDeepReadFile": true,
+      "containsPlaceholder": false,
+      "isIndexed": false
+    },
+    {
+      "slug": "e-lover",
+      "hasRawLyrics": true,
+      "hasDeepReadFile": true,
+      "containsPlaceholder": false,
+      "isIndexed": false
+    },
+    {
+      "slug": "fan-guo-lai-zou-zou",
+      "hasRawLyrics": true,
+      "hasDeepReadFile": true,
+      "containsPlaceholder": false,
+      "isIndexed": false
+    },
+    {
+      "slug": "fei-pu-er-xia",
+      "hasRawLyrics": true,
+      "hasDeepReadFile": true,
+      "containsPlaceholder": false,
+      "isIndexed": false
+    },
+    {
+      "slug": "feng-yi",
+      "hasRawLyrics": true,
+      "hasDeepReadFile": true,
+      "containsPlaceholder": false,
+      "isIndexed": false
+    },
+    {
+      "slug": "feng-zheng-start-concert",
+      "hasRawLyrics": true,
+      "hasDeepReadFile": true,
+      "containsPlaceholder": false,
+      "isIndexed": false
+    },
+    {
+      "slug": "feng-zheng",
+      "hasRawLyrics": true,
+      "hasDeepReadFile": true,
+      "containsPlaceholder": false,
+      "isIndexed": true
+    },
+    {
+      "slug": "gu-ji-gu-ji",
+      "hasRawLyrics": true,
+      "hasDeepReadFile": true,
+      "containsPlaceholder": false,
+      "isIndexed": false
+    },
+    {
+      "slug": "guan-yu",
+      "hasRawLyrics": true,
+      "hasDeepReadFile": true,
+      "containsPlaceholder": false,
+      "isIndexed": false
+    },
+    {
+      "slug": "hai-pa-start-concert",
+      "hasRawLyrics": true,
+      "hasDeepReadFile": true,
+      "containsPlaceholder": false,
+      "isIndexed": false
+    },
+    {
+      "slug": "hai-pa",
+      "hasRawLyrics": true,
+      "hasDeepReadFile": true,
+      "containsPlaceholder": false,
+      "isIndexed": false
+    },
+    {
+      "slug": "he-ping",
+      "hasRawLyrics": true,
+      "hasDeepReadFile": true,
+      "containsPlaceholder": false,
+      "isIndexed": false
+    },
+    {
+      "slug": "hen-hao-start-concert",
+      "hasRawLyrics": true,
+      "hasDeepReadFile": true,
+      "containsPlaceholder": false,
+      "isIndexed": false
+    },
+    {
+      "slug": "hen-hao",
+      "hasRawLyrics": true,
+      "hasDeepReadFile": true,
+      "containsPlaceholder": false,
+      "isIndexed": false
+    },
+    {
+      "slug": "hey-jude-start-concert",
+      "hasRawLyrics": true,
+      "hasDeepReadFile": true,
+      "containsPlaceholder": false,
+      "isIndexed": false
+    },
+    {
+      "slug": "hey-jude",
+      "hasRawLyrics": true,
+      "hasDeepReadFile": true,
+      "containsPlaceholder": false,
+      "isIndexed": false
+    },
+    {
+      "slug": "honey-honey",
+      "hasRawLyrics": true,
+      "hasDeepReadFile": true,
+      "containsPlaceholder": false,
+      "isIndexed": false
+    },
+    {
+      "slug": "huai-tian-qi",
+      "hasRawLyrics": true,
+      "hasDeepReadFile": true,
+      "containsPlaceholder": false,
+      "isIndexed": false
+    },
+    {
+      "slug": "ji-mei",
+      "hasRawLyrics": true,
+      "hasDeepReadFile": true,
+      "containsPlaceholder": false,
+      "isIndexed": false
+    },
+    {
+      "slug": "jie-xia-lai",
+      "hasRawLyrics": true,
+      "hasDeepReadFile": true,
+      "containsPlaceholder": false,
+      "isIndexed": false
+    },
+    {
+      "slug": "jiu-shi-zhe-yang",
+      "hasRawLyrics": true,
+      "hasDeepReadFile": true,
+      "containsPlaceholder": false,
+      "isIndexed": false
+    },
+    {
+      "slug": "kai-shi-dong-le",
+      "hasRawLyrics": true,
+      "hasDeepReadFile": true,
+      "containsPlaceholder": false,
+      "isIndexed": true
+    },
+    {
+      "slug": "ke-bu-le",
+      "hasRawLyrics": true,
+      "hasDeepReadFile": true,
+      "containsPlaceholder": false,
+      "isIndexed": false
+    },
+    {
+      "slug": "ke",
+      "hasRawLyrics": true,
+      "hasDeepReadFile": true,
+      "containsPlaceholder": false,
+      "isIndexed": false
+    },
+    {
+      "slug": "kong-kou-yan",
+      "hasRawLyrics": true,
+      "hasDeepReadFile": true,
+      "containsPlaceholder": false,
+      "isIndexed": false
+    },
+    {
+      "slug": "kuai-feng-le",
+      "hasRawLyrics": true,
+      "hasDeepReadFile": true,
+      "containsPlaceholder": false,
+      "isIndexed": false
+    },
+    {
+      "slug": "lan-de-qu-guan",
+      "hasRawLyrics": true,
+      "hasDeepReadFile": true,
+      "containsPlaceholder": false,
+      "isIndexed": false
+    },
+    {
+      "slug": "leave-me-alone-start-concert",
+      "hasRawLyrics": true,
+      "hasDeepReadFile": true,
+      "containsPlaceholder": false,
+      "isIndexed": false
+    },
+    {
+      "slug": "leave-me-alone",
+      "hasRawLyrics": true,
+      "hasDeepReadFile": true,
+      "containsPlaceholder": false,
+      "isIndexed": false
+    },
+    {
+      "slug": "leave",
+      "hasRawLyrics": true,
+      "hasDeepReadFile": true,
+      "containsPlaceholder": false,
+      "isIndexed": false
+    },
+    {
+      "slug": "lei-zhui",
+      "hasRawLyrics": true,
+      "hasDeepReadFile": true,
+      "containsPlaceholder": false,
+      "isIndexed": false
+    },
+    {
+      "slug": "lets-vino",
+      "hasRawLyrics": true,
+      "hasDeepReadFile": true,
+      "containsPlaceholder": false,
+      "isIndexed": false
+    },
+    {
+      "slug": "lian-xi",
+      "hasRawLyrics": true,
+      "hasDeepReadFile": true,
+      "containsPlaceholder": false,
+      "isIndexed": false
+    },
+    {
+      "slug": "liao-jie",
+      "hasRawLyrics": true,
+      "hasDeepReadFile": true,
+      "containsPlaceholder": false,
+      "isIndexed": false
+    },
+    {
+      "slug": "ling-que-dian-start-concert",
+      "hasRawLyrics": true,
+      "hasDeepReadFile": true,
+      "containsPlaceholder": false,
+      "isIndexed": false
+    },
+    {
+      "slug": "ling-que-dian",
+      "hasRawLyrics": true,
+      "hasDeepReadFile": true,
+      "containsPlaceholder": false,
+      "isIndexed": false
+    },
+    {
+      "slug": "ling-yi-zhang-lian",
+      "hasRawLyrics": true,
+      "hasDeepReadFile": true,
+      "containsPlaceholder": false,
+      "isIndexed": false
+    },
+    {
+      "slug": "liu-lang-di-tu",
+      "hasRawLyrics": true,
+      "hasDeepReadFile": true,
+      "containsPlaceholder": false,
+      "isIndexed": false
+    },
+    {
+      "slug": "lu-guang-start-concert",
+      "hasRawLyrics": true,
+      "hasDeepReadFile": true,
+      "containsPlaceholder": false,
+      "isIndexed": false
+    },
+    {
+      "slug": "lu-guang",
+      "hasRawLyrics": true,
+      "hasDeepReadFile": true,
+      "containsPlaceholder": false,
+      "isIndexed": true
+    },
+    {
+      "slug": "man-man-lai",
+      "hasRawLyrics": true,
+      "hasDeepReadFile": true,
+      "containsPlaceholder": false,
+      "isIndexed": false
+    },
+    {
+      "slug": "mei-shi-jian",
+      "hasRawLyrics": true,
+      "hasDeepReadFile": true,
+      "containsPlaceholder": false,
+      "isIndexed": false
+    },
+    {
+      "slug": "mei-you-ren-de-fang-xiang",
+      "hasRawLyrics": true,
+      "hasDeepReadFile": true,
+      "containsPlaceholder": false,
+      "isIndexed": false
+    },
+    {
+      "slug": "meng-bu-luo",
+      "hasRawLyrics": true,
+      "hasDeepReadFile": true,
+      "containsPlaceholder": false,
+      "isIndexed": false
+    },
+    {
+      "slug": "meng-xiang-tian-kong",
+      "hasRawLyrics": true,
+      "hasDeepReadFile": true,
+      "containsPlaceholder": false,
+      "isIndexed": false
+    },
+    {
+      "slug": "meng-you",
+      "hasRawLyrics": true,
+      "hasDeepReadFile": true,
+      "containsPlaceholder": false,
+      "isIndexed": false
+    },
+    {
+      "slug": "ming-tian-de-ji-yi",
+      "hasRawLyrics": true,
+      "hasDeepReadFile": true,
+      "containsPlaceholder": false,
+      "isIndexed": false
+    },
+    {
+      "slug": "ming-tian-qing-tian",
+      "hasRawLyrics": true,
+      "hasDeepReadFile": true,
+      "containsPlaceholder": false,
+      "isIndexed": false
+    },
+    {
+      "slug": "my-story-your-song",
+      "hasRawLyrics": true,
+      "hasDeepReadFile": true,
+      "containsPlaceholder": false,
+      "isIndexed": false
+    },
+    {
+      "slug": "nan-de-yi-jian-start-concert",
+      "hasRawLyrics": true,
+      "hasDeepReadFile": true,
+      "containsPlaceholder": false,
+      "isIndexed": false
+    },
+    {
+      "slug": "nan-de-yi-jian",
+      "hasRawLyrics": true,
+      "hasDeepReadFile": true,
+      "containsPlaceholder": false,
+      "isIndexed": false
+    },
+    {
+      "slug": "ni-guang",
+      "hasRawLyrics": true,
+      "hasDeepReadFile": true,
+      "containsPlaceholder": false,
+      "isIndexed": false
+    },
+    {
+      "slug": "ni-hao-bu-hao",
+      "hasRawLyrics": true,
+      "hasDeepReadFile": true,
+      "containsPlaceholder": false,
+      "isIndexed": false
+    },
+    {
+      "slug": "ni-ming-wan-sui",
+      "hasRawLyrics": true,
+      "hasDeepReadFile": true,
+      "containsPlaceholder": false,
+      "isIndexed": false
+    },
+    {
+      "slug": "nian-qing-wu-xian",
+      "hasRawLyrics": true,
+      "hasDeepReadFile": true,
+      "containsPlaceholder": false,
+      "isIndexed": false
+    },
+    {
+      "slug": "nong-mei-mao",
+      "hasRawLyrics": true,
+      "hasDeepReadFile": true,
+      "containsPlaceholder": false,
+      "isIndexed": false
+    },
+    {
+      "slug": "on-the-road",
+      "hasRawLyrics": true,
+      "hasDeepReadFile": true,
+      "containsPlaceholder": false,
+      "isIndexed": false
+    },
+    {
+      "slug": "one-united-people",
+      "hasRawLyrics": true,
+      "hasDeepReadFile": true,
+      "containsPlaceholder": false,
+      "isIndexed": false
+    },
+    {
+      "slug": "opening",
+      "hasRawLyrics": true,
+      "hasDeepReadFile": true,
+      "containsPlaceholder": false,
+      "isIndexed": false
+    },
+    {
+      "slug": "piao-fu-qun-dao",
+      "hasRawLyrics": true,
+      "hasDeepReadFile": true,
+      "containsPlaceholder": false,
+      "isIndexed": false
+    },
+    {
+      "slug": "piao-zhe",
+      "hasRawLyrics": true,
+      "hasDeepReadFile": true,
+      "containsPlaceholder": false,
+      "isIndexed": false
+    },
+    {
+      "slug": "ping-ri-kuai-le",
+      "hasRawLyrics": true,
+      "hasDeepReadFile": true,
+      "containsPlaceholder": false,
+      "isIndexed": false
+    },
+    {
+      "slug": "qin-guang",
+      "hasRawLyrics": true,
+      "hasDeepReadFile": true,
+      "containsPlaceholder": false,
+      "isIndexed": false
+    },
+    {
+      "slug": "quan-xin-quan-yi",
+      "hasRawLyrics": true,
+      "hasDeepReadFile": true,
+      "containsPlaceholder": false,
+      "isIndexed": false
+    },
+    {
+      "slug": "radio",
+      "hasRawLyrics": true,
+      "hasDeepReadFile": true,
+      "containsPlaceholder": false,
+      "isIndexed": false
+    },
+    {
+      "slug": "ren-xing",
+      "hasRawLyrics": true,
+      "hasDeepReadFile": true,
+      "containsPlaceholder": false,
+      "isIndexed": false
+    },
+    {
+      "slug": "ren-zhi",
+      "hasRawLyrics": true,
+      "hasDeepReadFile": true,
+      "containsPlaceholder": false,
+      "isIndexed": false
+    },
+    {
+      "slug": "ri-luo",
+      "hasRawLyrics": true,
+      "hasDeepReadFile": true,
+      "containsPlaceholder": false,
+      "isIndexed": false
+    },
+    {
+      "slug": "rise",
+      "hasRawLyrics": true,
+      "hasDeepReadFile": true,
+      "containsPlaceholder": false,
+      "isIndexed": false
+    },
+    {
+      "slug": "shang-bu-liao",
+      "hasRawLyrics": false,
+      "hasDeepReadFile": true,
+      "containsPlaceholder": false,
+      "isIndexed": true
+    },
+    {
+      "slug": "shang-hao-de-qing-chun",
+      "hasRawLyrics": true,
+      "hasDeepReadFile": true,
+      "containsPlaceholder": false,
+      "isIndexed": false
+    },
+    {
+      "slug": "shen-qi",
+      "hasRawLyrics": true,
+      "hasDeepReadFile": true,
+      "containsPlaceholder": false,
+      "isIndexed": false
+    },
+    {
+      "slug": "shi-guang-xiao-tou",
+      "hasRawLyrics": true,
+      "hasDeepReadFile": true,
+      "containsPlaceholder": false,
+      "isIndexed": false
+    },
+    {
+      "slug": "shi-jie-zhong-jie-qian-yi-tian",
+      "hasRawLyrics": true,
+      "hasDeepReadFile": true,
+      "containsPlaceholder": false,
+      "isIndexed": false
+    },
+    {
+      "slug": "shi-shi-hou",
+      "hasRawLyrics": true,
+      "hasDeepReadFile": true,
+      "containsPlaceholder": false,
+      "isIndexed": false
+    },
+    {
+      "slug": "shi-shuo-xin-yu",
+      "hasRawLyrics": true,
+      "hasDeepReadFile": true,
+      "containsPlaceholder": false,
+      "isIndexed": false
+    },
+    {
+      "slug": "shou-hu-yong-heng-de-ai",
+      "hasRawLyrics": true,
+      "hasDeepReadFile": true,
+      "containsPlaceholder": false,
+      "isIndexed": false
+    },
+    {
+      "slug": "silent-all-these-years",
+      "hasRawLyrics": true,
+      "hasDeepReadFile": true,
+      "containsPlaceholder": false,
+      "isIndexed": false
+    },
+    {
+      "slug": "someone-start-concert",
+      "hasRawLyrics": true,
+      "hasDeepReadFile": true,
+      "containsPlaceholder": false,
+      "isIndexed": false
+    },
+    {
+      "slug": "someone",
+      "hasRawLyrics": true,
+      "hasDeepReadFile": true,
+      "containsPlaceholder": false,
+      "isIndexed": false
+    },
+    {
+      "slug": "sometimes-love-just-aint-enough",
+      "hasRawLyrics": true,
+      "hasDeepReadFile": true,
+      "containsPlaceholder": false,
+      "isIndexed": false
+    },
+    {
+      "slug": "sparking-diamonds",
+      "hasRawLyrics": true,
+      "hasDeepReadFile": true,
+      "containsPlaceholder": false,
+      "isIndexed": false
+    },
+    {
+      "slug": "sparkling-diamonds-start-concert",
+      "hasRawLyrics": true,
+      "hasDeepReadFile": true,
+      "containsPlaceholder": false,
+      "isIndexed": false
+    },
+    {
+      "slug": "stefanie",
+      "hasRawLyrics": true,
+      "hasDeepReadFile": true,
+      "containsPlaceholder": false,
+      "isIndexed": false
+    },
+    {
+      "slug": "sui-tang-ce-yan-start-concert",
+      "hasRawLyrics": true,
+      "hasDeepReadFile": true,
+      "containsPlaceholder": false,
+      "isIndexed": false
+    },
+    {
+      "slug": "sui-tang-ce-yan",
+      "hasRawLyrics": true,
+      "hasDeepReadFile": true,
+      "containsPlaceholder": false,
+      "isIndexed": false
+    },
+    {
+      "slug": "sweet-child-o-mine-2",
+      "hasRawLyrics": true,
+      "hasDeepReadFile": true,
+      "containsPlaceholder": false,
+      "isIndexed": false
+    },
+    {
+      "slug": "sweet-child-o-mine",
+      "hasRawLyrics": true,
+      "hasDeepReadFile": true,
+      "containsPlaceholder": false,
+      "isIndexed": false
+    },
+    {
+      "slug": "ta-men-de-ge",
+      "hasRawLyrics": true,
+      "hasDeepReadFile": true,
+      "containsPlaceholder": false,
+      "isIndexed": false
+    },
+    {
+      "slug": "tai-yang-di-xia",
+      "hasRawLyrics": true,
+      "hasDeepReadFile": true,
+      "containsPlaceholder": false,
+      "isIndexed": false
+    },
+    {
+      "slug": "tao-wang",
+      "hasRawLyrics": true,
+      "hasDeepReadFile": true,
+      "containsPlaceholder": false,
+      "isIndexed": false
+    },
+    {
+      "slug": "that-i-would-be-good",
+      "hasRawLyrics": true,
+      "hasDeepReadFile": true,
+      "containsPlaceholder": false,
+      "isIndexed": false
+    },
+    {
+      "slug": "the-moment",
+      "hasRawLyrics": true,
+      "hasDeepReadFile": true,
+      "containsPlaceholder": false,
+      "isIndexed": false
+    },
+    {
+      "slug": "tian-hei-hei",
+      "hasRawLyrics": true,
+      "hasDeepReadFile": true,
+      "containsPlaceholder": false,
+      "isIndexed": true
+    },
+    {
+      "slug": "tian-kong",
+      "hasRawLyrics": true,
+      "hasDeepReadFile": true,
+      "containsPlaceholder": false,
+      "isIndexed": false
+    },
+    {
+      "slug": "tian-tian-nian-nian",
+      "hasRawLyrics": true,
+      "hasDeepReadFile": true,
+      "containsPlaceholder": false,
+      "isIndexed": false
+    },
+    {
+      "slug": "tian-yue-liang-ye-yue-hei-2",
+      "hasRawLyrics": true,
+      "hasDeepReadFile": true,
+      "containsPlaceholder": false,
+      "isIndexed": false
+    },
+    {
+      "slug": "tian-yue-liang-ye-yue-hei",
+      "hasRawLyrics": true,
+      "hasDeepReadFile": true,
+      "containsPlaceholder": false,
+      "isIndexed": false
+    },
+    {
+      "slug": "tiao-wu-de-fan-gu",
+      "hasRawLyrics": true,
+      "hasDeepReadFile": true,
+      "containsPlaceholder": false,
+      "isIndexed": false
+    },
+    {
+      "slug": "ting-jian",
+      "hasRawLyrics": true,
+      "hasDeepReadFile": true,
+      "containsPlaceholder": false,
+      "isIndexed": false
+    },
+    {
+      "slug": "tong-yao-1987",
+      "hasRawLyrics": true,
+      "hasDeepReadFile": true,
+      "containsPlaceholder": false,
+      "isIndexed": false
+    },
+    {
+      "slug": "up2u",
+      "hasRawLyrics": true,
+      "hasDeepReadFile": true,
+      "containsPlaceholder": false,
+      "isIndexed": false
+    },
+    {
+      "slug": "venus-start-concert",
+      "hasRawLyrics": true,
+      "hasDeepReadFile": true,
+      "containsPlaceholder": false,
+      "isIndexed": false
+    },
+    {
+      "slug": "venus",
+      "hasRawLyrics": true,
+      "hasDeepReadFile": true,
+      "containsPlaceholder": false,
+      "isIndexed": false
+    },
+    {
+      "slug": "wan-mei-de-yi-tian",
+      "hasRawLyrics": true,
+      "hasDeepReadFile": true,
+      "containsPlaceholder": false,
+      "isIndexed": false
+    },
+    {
+      "slug": "we-will-get-there",
+      "hasRawLyrics": true,
+      "hasDeepReadFile": true,
+      "containsPlaceholder": false,
+      "isIndexed": false
+    },
+    {
+      "slug": "wei-rao",
+      "hasRawLyrics": true,
+      "hasDeepReadFile": true,
+      "containsPlaceholder": false,
+      "isIndexed": false
+    },
+    {
+      "slug": "wei-wan-cheng",
+      "hasRawLyrics": true,
+      "hasDeepReadFile": true,
+      "containsPlaceholder": false,
+      "isIndexed": false
+    },
+    {
+      "slug": "wei-zhi-de-jing-cai-2",
+      "hasRawLyrics": true,
+      "hasDeepReadFile": true,
+      "containsPlaceholder": false,
+      "isIndexed": false
+    },
+    {
+      "slug": "wei-zhi-de-jing-cai",
+      "hasRawLyrics": true,
+      "hasDeepReadFile": true,
+      "containsPlaceholder": false,
+      "isIndexed": false
+    },
+    {
+      "slug": "wen-rou-mayday-blue-20th",
+      "hasRawLyrics": true,
+      "hasDeepReadFile": true,
+      "containsPlaceholder": false,
+      "isIndexed": false
+    },
+    {
+      "slug": "wo-bu-ai",
+      "hasRawLyrics": true,
+      "hasDeepReadFile": true,
+      "containsPlaceholder": false,
+      "isIndexed": false
+    },
+    {
+      "slug": "wo-bu-nan-guo",
+      "hasRawLyrics": true,
+      "hasDeepReadFile": true,
+      "containsPlaceholder": false,
+      "isIndexed": true
+    },
+    {
+      "slug": "wo-de-ai",
+      "hasRawLyrics": true,
+      "hasDeepReadFile": true,
+      "containsPlaceholder": false,
+      "isIndexed": false
+    },
+    {
+      "slug": "wo-hen-wo-ai-ni",
+      "hasRawLyrics": true,
+      "hasDeepReadFile": true,
+      "containsPlaceholder": false,
+      "isIndexed": false
+    },
+    {
+      "slug": "wo-hen-yu-kuai",
+      "hasRawLyrics": true,
+      "hasDeepReadFile": true,
+      "containsPlaceholder": false,
+      "isIndexed": false
+    },
+    {
+      "slug": "wo-huai-nian-de",
+      "hasRawLyrics": true,
+      "hasDeepReadFile": true,
+      "containsPlaceholder": false,
+      "isIndexed": true
+    },
+    {
+      "slug": "wo-shi-wo",
+      "hasRawLyrics": true,
+      "hasDeepReadFile": true,
+      "containsPlaceholder": false,
+      "isIndexed": false
+    },
+    {
+      "slug": "wo-wei-shen-me-na-me-ai-ni",
+      "hasRawLyrics": true,
+      "hasDeepReadFile": true,
+      "containsPlaceholder": false,
+      "isIndexed": false
+    },
+    {
+      "slug": "wo-xiang",
+      "hasRawLyrics": true,
+      "hasDeepReadFile": true,
+      "containsPlaceholder": false,
+      "isIndexed": false
+    },
+    {
+      "slug": "wo-yao-de-xing-fu-start-concert",
+      "hasRawLyrics": true,
+      "hasDeepReadFile": true,
+      "containsPlaceholder": false,
+      "isIndexed": false
+    },
+    {
+      "slug": "wo-yao-de-xing-fu",
+      "hasRawLyrics": true,
+      "hasDeepReadFile": true,
+      "containsPlaceholder": false,
+      "isIndexed": false
+    },
+    {
+      "slug": "wo-yao-kuai-le",
+      "hasRawLyrics": true,
+      "hasDeepReadFile": true,
+      "containsPlaceholder": false,
+      "isIndexed": false
+    },
+    {
+      "slug": "wo-ye-hen-xiang-ta",
+      "hasRawLyrics": true,
+      "hasDeepReadFile": true,
+      "containsPlaceholder": false,
+      "isIndexed": true
+    },
+    {
+      "slug": "wu-xian-da",
+      "hasRawLyrics": true,
+      "hasDeepReadFile": true,
+      "containsPlaceholder": false,
+      "isIndexed": false
+    },
+    {
+      "slug": "xiang-xin",
+      "hasRawLyrics": true,
+      "hasDeepReadFile": true,
+      "containsPlaceholder": false,
+      "isIndexed": false
+    },
+    {
+      "slug": "xin-yuan",
+      "hasRawLyrics": true,
+      "hasDeepReadFile": true,
+      "containsPlaceholder": false,
+      "isIndexed": false
+    },
+    {
+      "slug": "xing-qi-yi-tian-qi-qing-wo-li-kai-ni",
+      "hasRawLyrics": true,
+      "hasDeepReadFile": true,
+      "containsPlaceholder": false,
+      "isIndexed": false
+    },
+    {
+      "slug": "xiu-zhi-fu",
+      "hasRawLyrics": true,
+      "hasDeepReadFile": true,
+      "containsPlaceholder": false,
+      "isIndexed": false
+    },
+    {
+      "slug": "xu-yao-ni",
+      "hasRawLyrics": true,
+      "hasDeepReadFile": true,
+      "containsPlaceholder": false,
+      "isIndexed": false
+    },
+    {
+      "slug": "xuan-wo",
+      "hasRawLyrics": true,
+      "hasDeepReadFile": true,
+      "containsPlaceholder": false,
+      "isIndexed": false
+    },
+    {
+      "slug": "xue-hui",
+      "hasRawLyrics": true,
+      "hasDeepReadFile": true,
+      "containsPlaceholder": false,
+      "isIndexed": false
+    },
+    {
+      "slug": "yan-lei-cheng-shi",
+      "hasRawLyrics": true,
+      "hasDeepReadFile": true,
+      "containsPlaceholder": false,
+      "isIndexed": false
+    },
+    {
+      "slug": "yan-shen",
+      "hasRawLyrics": true,
+      "hasDeepReadFile": true,
+      "containsPlaceholder": false,
+      "isIndexed": false
+    },
+    {
+      "slug": "yang-zi",
+      "hasRawLyrics": true,
+      "hasDeepReadFile": true,
+      "containsPlaceholder": false,
+      "isIndexed": false
+    },
+    {
+      "slug": "yi-qi-zou-dao",
+      "hasRawLyrics": true,
+      "hasDeepReadFile": true,
+      "containsPlaceholder": false,
+      "isIndexed": false
+    },
+    {
+      "slug": "yi-yang-de-xia-tian",
+      "hasRawLyrics": true,
+      "hasDeepReadFile": true,
+      "containsPlaceholder": false,
+      "isIndexed": false
+    },
+    {
+      "slug": "yin-tai",
+      "hasRawLyrics": true,
+      "hasDeepReadFile": true,
+      "containsPlaceholder": false,
+      "isIndexed": false
+    },
+    {
+      "slug": "yin-xing-ren",
+      "hasRawLyrics": true,
+      "hasDeepReadFile": true,
+      "containsPlaceholder": false,
+      "isIndexed": false
+    },
+    {
+      "slug": "yong-gan",
+      "hasRawLyrics": true,
+      "hasDeepReadFile": true,
+      "containsPlaceholder": false,
+      "isIndexed": false
+    },
+    {
+      "slug": "yong-yuan",
+      "hasRawLyrics": true,
+      "hasDeepReadFile": true,
+      "containsPlaceholder": false,
+      "isIndexed": false
+    },
+    {
+      "slug": "yu-e",
+      "hasRawLyrics": true,
+      "hasDeepReadFile": true,
+      "containsPlaceholder": false,
+      "isIndexed": false
+    },
+    {
+      "slug": "yu-hai-shi-bu-ting-de-luo-xia",
+      "hasRawLyrics": true,
+      "hasDeepReadFile": true,
+      "containsPlaceholder": false,
+      "isIndexed": false
+    },
+    {
+      "slug": "yu-jian",
+      "hasRawLyrics": true,
+      "hasDeepReadFile": true,
+      "containsPlaceholder": false,
+      "isIndexed": true
+    },
+    {
+      "slug": "yu-ren-de-guo-du",
+      "hasRawLyrics": true,
+      "hasDeepReadFile": true,
+      "containsPlaceholder": false,
+      "isIndexed": false
+    },
+    {
+      "slug": "yu-tian",
+      "hasRawLyrics": true,
+      "hasDeepReadFile": true,
+      "containsPlaceholder": false,
+      "isIndexed": false
+    },
+    {
+      "slug": "zai-ye-bu-jian",
+      "hasRawLyrics": true,
+      "hasDeepReadFile": true,
+      "containsPlaceholder": false,
+      "isIndexed": false
+    },
+    {
+      "slug": "zhen-de-start-concert",
+      "hasRawLyrics": true,
+      "hasDeepReadFile": true,
+      "containsPlaceholder": false,
+      "isIndexed": false
+    },
+    {
+      "slug": "zhen-de",
+      "hasRawLyrics": true,
+      "hasDeepReadFile": true,
+      "containsPlaceholder": false,
+      "isIndexed": false
+    },
+    {
+      "slug": "zhi-lai-zhi-wang",
+      "hasRawLyrics": true,
+      "hasDeepReadFile": true,
+      "containsPlaceholder": false,
+      "isIndexed": true
+    },
+    {
+      "slug": "zhong-jian-di-dai",
+      "hasRawLyrics": true,
+      "hasDeepReadFile": true,
+      "containsPlaceholder": false,
+      "isIndexed": false
+    },
+    {
+      "slug": "zhong-yu-2",
+      "hasRawLyrics": true,
+      "hasDeepReadFile": true,
+      "containsPlaceholder": false,
+      "isIndexed": false
+    },
+    {
+      "slug": "zhong-yu",
+      "hasRawLyrics": true,
+      "hasDeepReadFile": true,
+      "containsPlaceholder": false,
+      "isIndexed": false
+    },
+    {
+      "slug": "zhong",
+      "hasRawLyrics": true,
+      "hasDeepReadFile": true,
+      "containsPlaceholder": false,
+      "isIndexed": false
+    },
+    {
+      "slug": "zhu-ni-kai-xin",
+      "hasRawLyrics": true,
+      "hasDeepReadFile": true,
+      "containsPlaceholder": false,
+      "isIndexed": false
+    },
+    {
+      "slug": "zhui",
+      "hasRawLyrics": true,
+      "hasDeepReadFile": true,
+      "containsPlaceholder": false,
+      "isIndexed": false
+    },
+    {
+      "slug": "zi-ran",
+      "hasRawLyrics": true,
+      "hasDeepReadFile": true,
+      "containsPlaceholder": false,
+      "isIndexed": false
+    },
+    {
+      "slug": "zui-hou-zhi-hou",
+      "hasRawLyrics": true,
+      "hasDeepReadFile": true,
+      "containsPlaceholder": false,
+      "isIndexed": false
+    },
+    {
+      "slug": "zuo-zhan",
+      "hasRawLyrics": true,
+      "hasDeepReadFile": true,
+      "containsPlaceholder": false,
+      "isIndexed": false
+    }
+  ]
+}

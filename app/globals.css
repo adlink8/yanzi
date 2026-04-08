@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: light;
+}
+
+body {
+  @apply bg-paper text-ink antialiased;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+a {
+  @apply text-accent underline-offset-4 hover:underline;
+}
+
+main {
+  @apply mx-auto max-w-5xl px-6 py-10;
+}
+
+.card {
+  @apply rounded-2xl border border-line bg-white/70 p-6 shadow-sm;
+}
