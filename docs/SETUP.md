@@ -94,3 +94,9 @@ Use the same slug in all three places:
   - mood-based recommendation
   - song deep-read structure
   - automatic loading of manually maintained full lyrics files
+
+## Cloudflare Pages
+
+部署到 Cloudflare Pages 的完整步骤见：
+
+- `docs/CLOUDFLARE-PAGES.md`
