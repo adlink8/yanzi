@@ -22,6 +22,8 @@ export default async function SongDetailPage({ params }: { params: Promise<{ slu
   }
 
   const [album, deepRead, songs] = await Promise.all([getAlbum(song.albumSlug), getSongDeepRead(song.slug), getSongs()])
+  const songTitleBySlug = new Map(songs.map((item) => [item.slug, item.title]))
+  const relatedSongTitles = song.relatedSongs.map((relatedSlug) => songTitleBySlug.get(relatedSlug) ?? relatedSlug)
   const related = recommendRelatedSongs(song, songs)
   const hasOverview = Boolean(deepRead?.content) && !isPlaceholderLikeText(deepRead?.content)
   const hasLineByLine = Boolean(deepRead?.lyricInterpretations?.length) && deepRead!.lyricInterpretations.some((item) => !isPlaceholderLikeText(item.interpretation))
@@ -60,7 +62,7 @@ export default async function SongDetailPage({ params }: { params: Promise<{ slu
           <h3 className="text-xl font-semibold">卡片信息</h3>
           <div className="space-y-2 text-sm text-muted">
             <p>关键词：{song.keywords.join('、') || '暂无'}</p>
-            <p>关联歌曲：{song.relatedSongs.join('、') || '暂无'}</p>
+            <p>关联歌曲：{relatedSongTitles.join('、') || '暂无'}</p>
             <p>状态：{song.status}</p>
           </div>
         </aside>
