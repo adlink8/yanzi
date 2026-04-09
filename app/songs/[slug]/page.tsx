@@ -37,8 +37,8 @@ export default async function SongDetailPage({ params }: { params: Promise<{ slu
         <h2 className="text-3xl font-semibold">{song.title}</h2>
         <p className="text-base text-muted">{song.summary}</p>
         <div className="flex flex-wrap gap-2 pt-2">
-          {[...song.moodTags, ...song.themeTags].map((tag) => (
-            <span key={tag} className="rounded-full border border-line px-3 py-1 text-xs text-muted">{tag}</span>
+          {[...song.moodTags, ...song.themeTags].map((tag, index) => (
+            <span key={`${song.slug}-${tag}-${index}`} className="rounded-full border border-line px-3 py-1 text-xs text-muted">{tag}</span>
           ))}
         </div>
       </section>

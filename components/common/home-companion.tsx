@@ -43,8 +43,8 @@ export function HomeCompanion({ dailySong, randomPool }: HomeCompanionProps) {
             <p className="text-lg font-medium">{dailySong.title}</p>
             <p className="mt-2 text-sm text-muted">{dailySong.summary}</p>
             <div className="mt-3 flex flex-wrap gap-2">
-              {[...dailySong.moodTags, ...dailySong.themeTags].slice(0, 5).map((tag) => (
-                <span key={tag} className="rounded-full border border-line px-3 py-1 text-xs text-muted">{tag}</span>
+              {[...dailySong.moodTags, ...dailySong.themeTags].slice(0, 5).map((tag, index) => (
+                <span key={`${dailySong.slug}-${tag}-${index}`} className="rounded-full border border-line px-3 py-1 text-xs text-muted">{tag}</span>
               ))}
             </div>
           </Link>
@@ -68,8 +68,8 @@ export function HomeCompanion({ dailySong, randomPool }: HomeCompanionProps) {
             <p className="text-lg font-medium">{randomSong.title}</p>
             <p className="mt-2 text-sm text-muted">{randomSong.summary}</p>
             <div className="mt-3 flex flex-wrap gap-2">
-              {[...randomSong.moodTags, ...randomSong.themeTags].slice(0, 5).map((tag) => (
-                <span key={tag} className="rounded-full border border-line px-3 py-1 text-xs text-muted">{tag}</span>
+              {[...randomSong.moodTags, ...randomSong.themeTags].slice(0, 5).map((tag, index) => (
+                <span key={`${randomSong.slug}-${tag}-${index}`} className="rounded-full border border-line px-3 py-1 text-xs text-muted">{tag}</span>
               ))}
             </div>
           </Link>

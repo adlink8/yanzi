@@ -87,8 +87,8 @@ export function MoodRecommender() {
                     <p className="font-medium">{item.song.title}</p>
                     <p className="mt-2 text-sm text-muted">{item.song.summary}</p>
                     <div className="mt-3 flex flex-wrap gap-2">
-                      {[...item.song.moodTags, ...item.song.themeTags].slice(0, 5).map((tag) => (
-                        <span key={tag} className="rounded-full border border-line px-3 py-1 text-xs text-muted">{tag}</span>
+                      {[...item.song.moodTags, ...item.song.themeTags].slice(0, 5).map((tag, index) => (
+                        <span key={`${item.song.slug}-${tag}-${index}`} className="rounded-full border border-line px-3 py-1 text-xs text-muted">{tag}</span>
                       ))}
                     </div>
                   </div>
