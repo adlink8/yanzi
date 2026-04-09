@@ -7,6 +7,7 @@ type SubmitState = 'idle' | 'submitting' | 'success' | 'error'
 export function FeedbackForm() {
   const [state, setState] = useState<SubmitState>('idle')
   const [message, setMessage] = useState('')
+  const webhookUrl = process.env.NEXT_PUBLIC_FEEDBACK_WEBHOOK_URL?.trim()
 
   async function handleSubmit(event: React.FormEvent<HTMLFormElement>) {
     event.preventDefault()
@@ -33,8 +34,27 @@ export function FeedbackForm() {
       const result = (await response.json().catch(() => null)) as { message?: string } | null
 
       if (!response.ok) {
-        setState('error')
-        setMessage(result?.message ?? '提交失败，请稍后再试。')
+        if (!webhookUrl) {
+          setState('error')
+          setMessage(result?.message ?? '提交失败，请稍后再试。')
+          return
+        }
+
+        const webhookResponse = await fetch(webhookUrl, {
+          method: 'POST',
+          headers: { 'content-type': 'application/json' },
+          body: JSON.stringify(payload)
+        })
+
+        if (!webhookResponse.ok) {
+          setState('error')
+          setMessage('提交失败，请稍后再试。')
+          return
+        }
+
+        setState('success')
+        setMessage('建议已收到（通过备用通道）。')
+        form.reset()
         return
       }
 
