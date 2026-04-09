@@ -59,7 +59,7 @@ export function FeedbackForm() {
       }
 
       setState('success')
-      setMessage('建议已收到，并已保存到本地。')
+      setMessage('建议已提交。')
       form.reset()
     } catch {
       setState('error')
