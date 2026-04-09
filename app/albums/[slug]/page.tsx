@@ -2,7 +2,14 @@ import type { Route } from 'next'
 import Link from 'next/link'
 import { notFound } from 'next/navigation'
 import { AlbumAiPanel } from '@/components/album/album-ai-panel'
-import { getAlbum, getSongsByAlbum } from '@/lib/content'
+import { getAlbum, getAlbums, getSongsByAlbum } from '@/lib/content'
+
+export const dynamicParams = false
+
+export async function generateStaticParams() {
+  const albums = await getAlbums()
+  return albums.map((album) => ({ slug: album.slug }))
+}
 
 export default async function AlbumDetailPage({ params }: { params: Promise<{ slug: string }> }) {
   const { slug } = await params

@@ -6,6 +6,13 @@ import { isPlaceholderLikeText } from '@/lib/content/sanitize'
 import { getAlbum, getSong, getSongDeepRead, getSongs } from '@/lib/content'
 import { recommendRelatedSongs } from '@/lib/recommend/related'
 
+export const dynamicParams = false
+
+export async function generateStaticParams() {
+  const songs = await getSongs()
+  return songs.map((song) => ({ slug: song.slug }))
+}
+
 export default async function SongDetailPage({ params }: { params: Promise<{ slug: string }> }) {
   const { slug } = await params
   const song = await getSong(slug)

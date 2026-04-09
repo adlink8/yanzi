@@ -1,9 +1,6 @@
-import { randomUUID } from 'node:crypto'
-import { appendFile, mkdir } from 'node:fs/promises'
-import path from 'node:path'
 import { NextResponse } from 'next/server'
 
-export const runtime = 'nodejs'
+export const runtime = 'edge'
 
 type FeedbackBody = {
   name?: string
@@ -37,31 +34,34 @@ export async function POST(request: Request) {
     return NextResponse.json({ ok: false, message: '建议内容至少 5 个字。' }, { status: 400 })
   }
 
-  const name = cleanText(body.name, 60)
-  const contact = cleanText(body.contact, 120)
-  const pagePath = cleanText(body.pagePath, 120)
-  const forwardedFor = request.headers.get('x-forwarded-for') || ''
-  const userAgent = request.headers.get('user-agent') || ''
-
   const record = {
-    id: randomUUID(),
+    id: globalThis.crypto.randomUUID(),
     createdAt: new Date().toISOString(),
-    name: name || null,
-    contact: contact || null,
-    pagePath: pagePath || null,
+    name: cleanText(body.name, 60) || null,
+    contact: cleanText(body.contact, 120) || null,
+    pagePath: cleanText(body.pagePath, 120) || null,
     suggestion,
-    sourceIp: cleanText(forwardedFor.split(',')[0] || '', 80) || null,
-    userAgent: cleanText(userAgent, 240) || null
+    sourceIp: cleanText(request.headers.get('x-forwarded-for') || '', 80) || null,
+    userAgent: cleanText(request.headers.get('user-agent') || '', 240) || null
   }
 
-  const dir = path.join(process.cwd(), 'content', 'feedback')
-  const filePath = path.join(dir, 'suggestions.jsonl')
-
-  try {
-    await mkdir(dir, { recursive: true })
-    await appendFile(filePath, `${JSON.stringify(record)}\n`, 'utf8')
-    return NextResponse.json({ ok: true, id: record.id })
-  } catch {
-    return NextResponse.json({ ok: false, message: '写入本地失败。' }, { status: 500 })
+  const webhookUrl = cleanText(process.env.FEEDBACK_WEBHOOK_URL, 500)
+  if (webhookUrl) {
+    try {
+      await fetch(webhookUrl, {
+        method: 'POST',
+        headers: { 'content-type': 'application/json' },
+        body: JSON.stringify(record)
+      })
+      return NextResponse.json({ ok: true, id: record.id })
+    } catch {
+      return NextResponse.json({ ok: false, message: 'Webhook 投递失败。' }, { status: 502 })
+    }
   }
+
+  return NextResponse.json({
+    ok: true,
+    id: record.id,
+    message: '建议已接收。当前未配置持久化存储，请设置 FEEDBACK_WEBHOOK_URL。'
+  })
 }
