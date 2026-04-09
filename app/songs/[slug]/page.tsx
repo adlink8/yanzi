@@ -6,6 +6,7 @@ import { isPlaceholderLikeText } from '@/lib/content/sanitize'
 import { getAlbum, getSong, getSongDeepRead, getSongs } from '@/lib/content'
 import { recommendRelatedSongs } from '@/lib/recommend/related'
 
+export const dynamic = 'force-static'
 export const dynamicParams = false
 
 export async function generateStaticParams() {

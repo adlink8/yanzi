@@ -4,6 +4,7 @@ import { notFound } from 'next/navigation'
 import { AlbumAiPanel } from '@/components/album/album-ai-panel'
 import { getAlbum, getAlbums, getSongsByAlbum } from '@/lib/content'
 
+export const dynamic = 'force-static'
 export const dynamicParams = false
 
 export async function generateStaticParams() {
