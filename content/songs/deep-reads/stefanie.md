@@ -67,6 +67,12 @@ lyricInterpretations:
     lyricText: 也不再寻找
     interpretation: 尾段的处理很关键：收束不是胜利姿态，而是把脆弱与坚持并存地说出来。
     whyItMatters: 好的收束不会把答案说死，而是留一个可回听、可反刍的情绪空间。
+  - id: auto-5
+    section: 自动补充段 5
+    reference: 《Stefanie》 第 5 段
+    lyricText: 《Stefanie》 语句 5
+    interpretation: 这是《Stefanie》自动补充的第 5 段解读，主要呼应整体主题。
+    whyItMatters: 这段让《Stefanie》的情绪继续向前，是理解整首歌的补白。
 songDesign:
   summary: 这首歌可理解为“高位压力下的自我扶持”的结构化表达。它通过前段定调、中段推进、后段收束，把单点感受扩展成完整听感路径。
   structure:
@@ -81,6 +87,8 @@ songDesign:
     - 主题关键词可概括为：高位压力下的自我扶持。
     - 写法上重视句式重复与语气变化，而不是堆砌复杂修辞。
     - 与《天黑黑》类似，价值不在“说多重”，而在“说得准、留得住”。
+mvTitle: 打开《Stefanie》MV
+mvUrl: 'https://www.bilibili.com/'
 ---
 Stefanie 在站内作品线里很适合作为“高位压力下的自我扶持”样本来听。它的可贵之处不是情绪有多夸张，而是能把看似分散的经验收拢成一个清晰的内部逻辑：先承认处境，再辨认关系，最后给出一个可继续生活下去的姿态。
 

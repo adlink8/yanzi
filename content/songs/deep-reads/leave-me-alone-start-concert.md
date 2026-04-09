@@ -4,138 +4,108 @@ title: Leave Me Alone Start Concert
 status: ready
 updatedAt: '2026-04-08'
 lyricBlocks:
-- 'NaNaNa NaNaNaNa
-
-  NaNaNa NaNaNaNa
-
-  NaNaNa NaNaNaNa
-
-  NaNaNa NaNaNaNa
-
-  NaNaNa NaNaNaNa
-
-  NaNaNa NaNaNaNa
-
-  Can you leave me alone alone alone oh
-
-  Leave me alone oh
-
-  NaNaNa NaNaNaNa
-
-  NaNaNa NaNaNaNa
-
-  NaNaNa NaNaNaNa
-
-  NaNaNa NaNaNaNa
-
-  NaNaNa NaNaNaNa
-
-  NaNaNa NaNaNaNa
-
-  站在你背后
-
-  感动又难过
-
-  这个人一开始也爱过
-
-  不知为什么
-
-  突然间觉得
-
-  没有你没有爱最快乐
-
-  Oh Oh Oh Oh Oh
-
-  想什么
-
-  要什么
-
-  别问我
-
-  Can you leave me alone oh
-
-  我不想要谁给我快乐
-
-  因为快乐总带给我不快乐
-
-  我们不是做错
-
-  只是不知所措
-
-  So please 这一刻
-
-  让我走
-
-  Can you leave me alone alone alone oh
-
-  Leave me alone oh
-
-  NaNaNa NaNaNaNa
-
-  NaNaNa NaNaNaNa
-
-  NaNaNa NaNaNaNa
-
-  Could you please
-
-  Could you please let me go
-
-  NaNaNa NaNaNaNa
-
-  NaNaNa NaNaNaNa
-
-  NaNaNa NaNaNaNa
-
-  NaNaNa NaNaNaNa
-
-  NaNaNa NaNaNaNa
-
-  NaNaNa'
+  - |-
+    NaNaNa NaNaNaNa
+    NaNaNa NaNaNaNa
+    NaNaNa NaNaNaNa
+    NaNaNa NaNaNaNa
+    NaNaNa NaNaNaNa
+    NaNaNa NaNaNaNa
+    Can you leave me alone alone alone oh
+    Leave me alone oh
+    NaNaNa NaNaNaNa
+    NaNaNa NaNaNaNa
+    NaNaNa NaNaNaNa
+    NaNaNa NaNaNaNa
+    NaNaNa NaNaNaNa
+    NaNaNa NaNaNaNa
+    站在你背后
+    感动又难过
+    这个人一开始也爱过
+    不知为什么
+    突然间觉得
+    没有你没有爱最快乐
+    Oh Oh Oh Oh Oh
+    想什么
+    要什么
+    别问我
+    Can you leave me alone oh
+    我不想要谁给我快乐
+    因为快乐总带给我不快乐
+    我们不是做错
+    只是不知所措
+    So please 这一刻
+    让我走
+    Can you leave me alone alone alone oh
+    Leave me alone oh
+    NaNaNa NaNaNaNa
+    NaNaNa NaNaNaNa
+    NaNaNa NaNaNaNa
+    Could you please
+    Could you please let me go
+    NaNaNa NaNaNaNa
+    NaNaNa NaNaNaNa
+    NaNaNa NaNaNaNa
+    NaNaNa NaNaNaNa
+    NaNaNa NaNaNaNa
+    NaNaNa
 lyricInterpretations:
-- id: part-01
-  section: 开场定位
-  reference: NaNaNa NaNaNaNa
-  lyricText: NaNaNa NaNaNaNa
-  interpretation: 这一段把《Leave Me Alone Start Concert》的情绪重心往前推进：不是只描述事件，而是在不断强调说话者的立场与感受变化。从语气和意象看，它更像在把内在冲突说透，让后续段落有了明确方向。
-  whyItMatters: 它的重要性在于建立了全曲的叙事支点：听众会在这里抓住主题，并据此理解后面的情绪加压与回收。
-- id: part-02
-  section: 关系张力
-  reference: Can you leave me alone alone alone oh
-  lyricText: Can you leave me alone alone alone oh
-  interpretation: 这一段把《Leave Me Alone Start Concert》的情绪重心往前推进：不是只描述事件，而是在不断强调说话者的立场与感受变化。从语气和意象看，它更像在把内在冲突说透，让后续段落有了明确方向。
-  whyItMatters: 它的重要性在于建立了全曲的叙事支点：听众会在这里抓住主题，并据此理解后面的情绪加压与回收。
-- id: part-03
-  section: 情绪转折
-  reference: Leave me alone oh
-  lyricText: Leave me alone oh
-  interpretation: 这一段把《Leave Me Alone Start Concert》的情绪重心往前推进：不是只描述事件，而是在不断强调说话者的立场与感受变化。从语气和意象看，它更像在把内在冲突说透，让后续段落有了明确方向。
-  whyItMatters: 它的重要性在于建立了全曲的叙事支点：听众会在这里抓住主题，并据此理解后面的情绪加压与回收。
-- id: part-04
-  section: 核心命题
-  reference: 站在你背后
-  lyricText: 站在你背后
-  interpretation: 这一段把《Leave Me Alone Start Concert》的情绪重心往前推进：不是只描述事件，而是在不断强调说话者的立场与感受变化。从语气和意象看，它更像在把内在冲突说透，让后续段落有了明确方向。
-  whyItMatters: 它的重要性在于建立了全曲的叙事支点：听众会在这里抓住主题，并据此理解后面的情绪加压与回收。
-- id: part-05
-  section: 尾段余味
-  reference: 感动又难过
-  lyricText: 感动又难过
-  interpretation: 这一段把《Leave Me Alone Start Concert》的情绪重心往前推进：不是只描述事件，而是在不断强调说话者的立场与感受变化。从语气和意象看，它更像在把内在冲突说透，让后续段落有了明确方向。
-  whyItMatters: 它的重要性在于建立了全曲的叙事支点：听众会在这里抓住主题，并据此理解后面的情绪加压与回收。
+  - id: part-01
+    section: 开场定位
+    reference: NaNaNa NaNaNaNa
+    lyricText: NaNaNa NaNaNaNa
+    interpretation: >-
+      这一段把《Leave Me Alone Start
+      Concert》的情绪重心往前推进：不是只描述事件，而是在不断强调说话者的立场与感受变化。从语气和意象看，它更像在把内在冲突说透，让后续段落有了明确方向。
+    whyItMatters: 它的重要性在于建立了全曲的叙事支点：听众会在这里抓住主题，并据此理解后面的情绪加压与回收。
+  - id: part-02
+    section: 关系张力
+    reference: Can you leave me alone alone alone oh
+    lyricText: Can you leave me alone alone alone oh
+    interpretation: >-
+      这一段把《Leave Me Alone Start
+      Concert》的情绪重心往前推进：不是只描述事件，而是在不断强调说话者的立场与感受变化。从语气和意象看，它更像在把内在冲突说透，让后续段落有了明确方向。
+    whyItMatters: 它的重要性在于建立了全曲的叙事支点：听众会在这里抓住主题，并据此理解后面的情绪加压与回收。
+  - id: part-03
+    section: 情绪转折
+    reference: Leave me alone oh
+    lyricText: Leave me alone oh
+    interpretation: >-
+      这一段把《Leave Me Alone Start
+      Concert》的情绪重心往前推进：不是只描述事件，而是在不断强调说话者的立场与感受变化。从语气和意象看，它更像在把内在冲突说透，让后续段落有了明确方向。
+    whyItMatters: 它的重要性在于建立了全曲的叙事支点：听众会在这里抓住主题，并据此理解后面的情绪加压与回收。
+  - id: part-04
+    section: 核心命题
+    reference: 站在你背后
+    lyricText: 站在你背后
+    interpretation: >-
+      这一段把《Leave Me Alone Start
+      Concert》的情绪重心往前推进：不是只描述事件，而是在不断强调说话者的立场与感受变化。从语气和意象看，它更像在把内在冲突说透，让后续段落有了明确方向。
+    whyItMatters: 它的重要性在于建立了全曲的叙事支点：听众会在这里抓住主题，并据此理解后面的情绪加压与回收。
+  - id: part-05
+    section: 尾段余味
+    reference: 感动又难过
+    lyricText: 感动又难过
+    interpretation: >-
+      这一段把《Leave Me Alone Start
+      Concert》的情绪重心往前推进：不是只描述事件，而是在不断强调说话者的立场与感受变化。从语气和意象看，它更像在把内在冲突说透，让后续段落有了明确方向。
+    whyItMatters: 它的重要性在于建立了全曲的叙事支点：听众会在这里抓住主题，并据此理解后面的情绪加压与回收。
 songDesign:
   summary: 《Leave Me Alone Start Concert》的写法重点在于“语气先行、情绪递进、尾段留白”。它通过段落推进而不是情节堆砌来建立记忆点。
   structure:
-  - 开头先给出立场或画面，迅速完成情绪定调。
-  - 中段通过重复与变奏把冲突感持续抬高。
-  - 尾段不完全解释，保留余味让主题停在听众心里。
+    - 开头先给出立场或画面，迅速完成情绪定调。
+    - 中段通过重复与变奏把冲突感持续抬高。
+    - 尾段不完全解释，保留余味让主题停在听众心里。
   emotionCurve:
-  - 前段：克制进入，先把气氛搭起来。
-  - 中段：情绪加压，矛盾感与表达欲同时上升。
-  - 后段：不爆裂收束，以清晰但不封闭的方式落地。
+    - 前段：克制进入，先把气氛搭起来。
+    - 中段：情绪加压，矛盾感与表达欲同时上升。
+    - 后段：不爆裂收束，以清晰但不封闭的方式落地。
   craftNotes:
-  - 关键词和句式回环是主要记忆钩子。
-  - 视角保持稳定，保证主题集中不跑偏。
-  - 尾句通常承担“回看全歌”的功能，增强复听价值。
+    - 关键词和句式回环是主要记忆钩子。
+    - 视角保持稳定，保证主题集中不跑偏。
+    - 尾句通常承担“回看全歌”的功能，增强复听价值。
+mvTitle: 打开《Leave Me Alone Start Concert》MV
+mvUrl: 'https://www.bilibili.com/'
 ---
 《Leave Me Alone Start Concert》这首歌的动人之处，不在于把故事讲得多复杂，而在于它把一种明确的情绪立场讲得很稳。你能听见说话者在关系、处境或自我判断上的选择，这让整首歌有很清楚的方向感。
 

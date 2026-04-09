@@ -106,7 +106,8 @@
     "favoriteLevel": "medium",
     "hasDeepRead": true,
     "relatedSongs": [
-      "wo-huai-nian-de"
+      "wo-huai-nian-de",
+      "wo-yao-de-xing-fu"
     ],
     "status": "ready"
   },
@@ -132,7 +133,8 @@
     "favoriteLevel": "medium",
     "hasDeepRead": true,
     "relatedSongs": [
-      "wo-huai-nian-de"
+      "wo-huai-nian-de",
+      "di-yi-tian"
     ],
     "status": "ready"
   },
@@ -157,7 +159,8 @@
     "favoriteLevel": "medium",
     "hasDeepRead": true,
     "relatedSongs": [
-      "lu-guang"
+      "lu-guang",
+      "tian-hei-hei"
     ],
     "status": "ready"
   },
@@ -183,7 +186,8 @@
     "favoriteLevel": "medium",
     "hasDeepRead": true,
     "relatedSongs": [
-      "yu-jian"
+      "yu-jian",
+      "lu-guang"
     ],
     "status": "ready"
   },
@@ -209,7 +213,8 @@
     "favoriteLevel": "medium",
     "hasDeepRead": true,
     "relatedSongs": [
-      "zhi-lai-zhi-wang"
+      "zhi-lai-zhi-wang",
+      "feng-zheng"
     ],
     "status": "ready"
   },
@@ -235,7 +240,8 @@
     "favoriteLevel": "medium",
     "hasDeepRead": true,
     "relatedSongs": [
-      "wo-huai-nian-de"
+      "wo-huai-nian-de",
+      "zhu-ni-kai-xin"
     ],
     "status": "ready"
   },
@@ -261,7 +267,8 @@
     "favoriteLevel": "low",
     "hasDeepRead": true,
     "relatedSongs": [
-      "kai-shi-dong-le"
+      "kai-shi-dong-le",
+      "tian-hei-hei"
     ],
     "status": "ready"
   },
@@ -271,7 +278,9 @@
     "albumSlug": "wo-yao-de-xing-fu",
     "releaseYear": 2000,
     "era": "出道延展",
-    "moodTags": [],
+    "moodTags": [
+      "回望"
+    ],
     "themeTags": [
       "成长",
       "勇气"
@@ -294,7 +303,9 @@
     "albumSlug": "wo-yao-de-xing-fu",
     "releaseYear": 2000,
     "era": "出道延展",
-    "moodTags": [],
+    "moodTags": [
+      "回望"
+    ],
     "themeTags": [
       "成长",
       "勇气"
@@ -306,7 +317,8 @@
     "favoriteLevel": "medium",
     "hasDeepRead": true,
     "relatedSongs": [
-      "wo-yao-de-xing-fu"
+      "wo-yao-de-xing-fu",
+      "kai-shi-dong-le"
     ],
     "status": "ready"
   },
@@ -316,7 +328,9 @@
     "albumSlug": "wo-yao-de-xing-fu",
     "releaseYear": 2000,
     "era": "出道延展",
-    "moodTags": [],
+    "moodTags": [
+      "回望"
+    ],
     "themeTags": [
       "成长",
       "勇气"
@@ -328,7 +342,8 @@
     "favoriteLevel": "medium",
     "hasDeepRead": true,
     "relatedSongs": [
-      "nan-de-yi-jian"
+      "nan-de-yi-jian",
+      "kai-shi-dong-le"
     ],
     "status": "ready"
   },
@@ -338,7 +353,9 @@
     "albumSlug": "wo-yao-de-xing-fu",
     "releaseYear": 2000,
     "era": "出道延展",
-    "moodTags": [],
+    "moodTags": [
+      "回望"
+    ],
     "themeTags": [
       "成长",
       "勇气"
@@ -350,7 +367,8 @@
     "favoriteLevel": "medium",
     "hasDeepRead": true,
     "relatedSongs": [
-      "yu-jian"
+      "yu-jian",
+      "kai-shi-dong-le"
     ],
     "status": "ready"
   },
@@ -360,7 +378,9 @@
     "albumSlug": "wo-yao-de-xing-fu",
     "releaseYear": 2000,
     "era": "出道延展",
-    "moodTags": [],
+    "moodTags": [
+      "回望"
+    ],
     "themeTags": [
       "成长",
       "勇气"
@@ -372,7 +392,8 @@
     "favoriteLevel": "medium",
     "hasDeepRead": true,
     "relatedSongs": [
-      "hai-pa"
+      "hai-pa",
+      "kai-shi-dong-le"
     ],
     "status": "ready"
   },
@@ -382,7 +403,9 @@
     "albumSlug": "wei-wan-cheng",
     "releaseYear": 2003,
     "era": "成熟过渡",
-    "moodTags": [],
+    "moodTags": [
+      "回望"
+    ],
     "themeTags": [
       "关系变化",
       "克制"
@@ -394,7 +417,8 @@
     "favoriteLevel": "medium",
     "hasDeepRead": true,
     "relatedSongs": [
-      "lu-guang"
+      "lu-guang",
+      "wo-bu-nan-guo"
     ],
     "status": "ready"
   },
@@ -404,7 +428,9 @@
     "albumSlug": "wei-wan-cheng",
     "releaseYear": 2003,
     "era": "成熟过渡",
-    "moodTags": [],
+    "moodTags": [
+      "回望"
+    ],
     "themeTags": [
       "关系变化",
       "克制"
@@ -416,7 +442,8 @@
     "favoriteLevel": "medium",
     "hasDeepRead": true,
     "relatedSongs": [
-      "di-yi-tian"
+      "di-yi-tian",
+      "wo-bu-nan-guo"
     ],
     "status": "ready"
   },
@@ -426,7 +453,9 @@
     "albumSlug": "wei-wan-cheng",
     "releaseYear": 2003,
     "era": "成熟过渡",
-    "moodTags": [],
+    "moodTags": [
+      "回望"
+    ],
     "themeTags": [
       "关系变化",
       "克制"
@@ -438,7 +467,8 @@
     "favoriteLevel": "medium",
     "hasDeepRead": true,
     "relatedSongs": [
-      "wo-bu-nan-guo"
+      "wo-bu-nan-guo",
+      "di-yi-tian"
     ],
     "status": "ready"
   },
@@ -448,7 +478,9 @@
     "albumSlug": "wei-wan-cheng",
     "releaseYear": 2003,
     "era": "成熟过渡",
-    "moodTags": [],
+    "moodTags": [
+      "回望"
+    ],
     "themeTags": [
       "关系变化",
       "克制"
@@ -460,7 +492,8 @@
     "favoriteLevel": "medium",
     "hasDeepRead": true,
     "relatedSongs": [
-      "mei-you-ren-de-fang-xiang"
+      "mei-you-ren-de-fang-xiang",
+      "wo-bu-nan-guo"
     ],
     "status": "ready"
   },
@@ -470,7 +503,9 @@
     "albumSlug": "stefanie-self-titled",
     "releaseYear": 2004,
     "era": "自我整合",
-    "moodTags": [],
+    "moodTags": [
+      "回望"
+    ],
     "themeTags": [
       "内心独白",
       "回看"
@@ -482,7 +517,8 @@
     "favoriteLevel": "medium",
     "hasDeepRead": true,
     "relatedSongs": [
-      "wo-ye-hen-xiang-ta"
+      "wo-ye-hen-xiang-ta",
+      "wei-zhi-de-jing-cai"
     ],
     "status": "ready"
   },
@@ -492,7 +528,9 @@
     "albumSlug": "stefanie-self-titled",
     "releaseYear": 2004,
     "era": "自我整合",
-    "moodTags": [],
+    "moodTags": [
+      "回望"
+    ],
     "themeTags": [
       "内心独白",
       "回看"
@@ -504,7 +542,8 @@
     "favoriteLevel": "medium",
     "hasDeepRead": true,
     "relatedSongs": [
-      "lu-guang"
+      "lu-guang",
+      "wo-ye-hen-xiang-ta"
     ],
     "status": "ready"
   },
@@ -514,7 +553,9 @@
     "albumSlug": "stefanie-self-titled",
     "releaseYear": 2004,
     "era": "自我整合",
-    "moodTags": [],
+    "moodTags": [
+      "回望"
+    ],
     "themeTags": [
       "内心独白",
       "回看"
@@ -526,7 +567,8 @@
     "favoriteLevel": "medium",
     "hasDeepRead": true,
     "relatedSongs": [
-      "wei-zhi-de-jing-cai"
+      "wei-zhi-de-jing-cai",
+      "wo-ye-hen-xiang-ta"
     ],
     "status": "ready"
   },
@@ -536,7 +578,9 @@
     "albumSlug": "stefanie-self-titled",
     "releaseYear": 2004,
     "era": "自我整合",
-    "moodTags": [],
+    "moodTags": [
+      "回望"
+    ],
     "themeTags": [
       "内心独白",
       "回看"
@@ -548,7 +592,8 @@
     "favoriteLevel": "medium",
     "hasDeepRead": true,
     "relatedSongs": [
-      "man-man-lai"
+      "man-man-lai",
+      "wo-ye-hen-xiang-ta"
     ],
     "status": "ready"
   },
@@ -558,7 +603,9 @@
     "albumSlug": "yanzi",
     "releaseYear": 2000,
     "era": "出道起点",
-    "moodTags": [],
+    "moodTags": [
+      "回望"
+    ],
     "themeTags": [
       "青春",
       "自我表达"
@@ -570,7 +617,8 @@
     "favoriteLevel": "medium",
     "hasDeepRead": true,
     "relatedSongs": [
-      "hen-hao"
+      "hen-hao",
+      "tian-hei-hei"
     ],
     "status": "ready"
   },
@@ -580,7 +628,9 @@
     "albumSlug": "yanzi",
     "releaseYear": 2000,
     "era": "出道起点",
-    "moodTags": [],
+    "moodTags": [
+      "回望"
+    ],
     "themeTags": [
       "青春",
       "自我表达"
@@ -592,7 +642,8 @@
     "favoriteLevel": "medium",
     "hasDeepRead": true,
     "relatedSongs": [
-      "ai-qing-zheng-shu"
+      "ai-qing-zheng-shu",
+      "tian-hei-hei"
     ],
     "status": "ready"
   },
@@ -602,7 +653,9 @@
     "albumSlug": "yanzi",
     "releaseYear": 2000,
     "era": "出道起点",
-    "moodTags": [],
+    "moodTags": [
+      "回望"
+    ],
     "themeTags": [
       "青春",
       "自我表达"
@@ -614,7 +667,8 @@
     "favoriteLevel": "medium",
     "hasDeepRead": true,
     "relatedSongs": [
-      "zhi-lai-zhi-wang"
+      "zhi-lai-zhi-wang",
+      "tian-hei-hei"
     ],
     "status": "ready"
   },
@@ -624,7 +678,9 @@
     "albumSlug": "feng-zheng",
     "releaseYear": 2001,
     "era": "展开期",
-    "moodTags": [],
+    "moodTags": [
+      "回望"
+    ],
     "themeTags": [
       "希望",
       "距离"
@@ -636,7 +692,8 @@
     "favoriteLevel": "medium",
     "hasDeepRead": true,
     "relatedSongs": [
-      "zhi-lai-zhi-wang"
+      "zhi-lai-zhi-wang",
+      "feng-zheng"
     ],
     "status": "ready"
   },
@@ -646,7 +703,9 @@
     "albumSlug": "feng-zheng",
     "releaseYear": 2001,
     "era": "展开期",
-    "moodTags": [],
+    "moodTags": [
+      "回望"
+    ],
     "themeTags": [
       "希望",
       "距离"
@@ -658,7 +717,8 @@
     "favoriteLevel": "medium",
     "hasDeepRead": true,
     "relatedSongs": [
-      "ai-qing-zheng-shu"
+      "ai-qing-zheng-shu",
+      "feng-zheng"
     ],
     "status": "ready"
   },
@@ -668,7 +728,9 @@
     "albumSlug": "feng-zheng",
     "releaseYear": 2001,
     "era": "展开期",
-    "moodTags": [],
+    "moodTags": [
+      "回望"
+    ],
     "themeTags": [
       "希望",
       "距离"
@@ -680,7 +742,8 @@
     "favoriteLevel": "medium",
     "hasDeepRead": true,
     "relatedSongs": [
-      "ai-qing-zi-dian"
+      "ai-qing-zi-dian",
+      "feng-zheng"
     ],
     "status": "ready"
   },
@@ -690,7 +753,9 @@
     "albumSlug": "feng-zheng",
     "releaseYear": 2001,
     "era": "展开期",
-    "moodTags": [],
+    "moodTags": [
+      "回望"
+    ],
     "themeTags": [
       "希望",
       "距离"
@@ -702,7 +767,8 @@
     "favoriteLevel": "medium",
     "hasDeepRead": true,
     "relatedSongs": [
-      "sui-tang-ce-yan"
+      "sui-tang-ce-yan",
+      "feng-zheng"
     ],
     "status": "ready"
   },
@@ -712,7 +778,9 @@
     "albumSlug": "feng-zheng",
     "releaseYear": 2001,
     "era": "展开期",
-    "moodTags": [],
+    "moodTags": [
+      "回望"
+    ],
     "themeTags": [
       "希望",
       "距离"
@@ -724,7 +792,8 @@
     "favoriteLevel": "medium",
     "hasDeepRead": true,
     "relatedSongs": [
-      "feng-zheng"
+      "feng-zheng",
+      "lu-guang"
     ],
     "status": "ready"
   },
@@ -734,7 +803,9 @@
     "albumSlug": "wo-yao-de-xing-fu",
     "releaseYear": 2000,
     "era": "出道延展",
-    "moodTags": [],
+    "moodTags": [
+      "回望"
+    ],
     "themeTags": [
       "成长",
       "勇气"
@@ -757,7 +828,9 @@
     "albumSlug": "ni-guang",
     "releaseYear": 2007,
     "era": "成熟高峰",
-    "moodTags": [],
+    "moodTags": [
+      "回望"
+    ],
     "themeTags": [
       "回望",
       "韧性"
@@ -769,7 +842,8 @@
     "favoriteLevel": "high",
     "hasDeepRead": true,
     "relatedSongs": [
-      "wo-huai-nian-de"
+      "wo-huai-nian-de",
+      "meng-you"
     ],
     "status": "ready"
   },
@@ -779,7 +853,9 @@
     "albumSlug": "ni-guang",
     "releaseYear": 2007,
     "era": "成熟高峰",
-    "moodTags": [],
+    "moodTags": [
+      "回望"
+    ],
     "themeTags": [
       "回望",
       "韧性"
@@ -791,7 +867,8 @@
     "favoriteLevel": "medium",
     "hasDeepRead": true,
     "relatedSongs": [
-      "wo-huai-nian-de"
+      "wo-huai-nian-de",
+      "ni-guang"
     ],
     "status": "ready"
   },
@@ -801,7 +878,9 @@
     "albumSlug": "ni-guang",
     "releaseYear": 2007,
     "era": "成熟高峰",
-    "moodTags": [],
+    "moodTags": [
+      "回望"
+    ],
     "themeTags": [
       "回望",
       "韧性"
@@ -813,7 +892,8 @@
     "favoriteLevel": "medium",
     "hasDeepRead": true,
     "relatedSongs": [
-      "wo-huai-nian-de"
+      "wo-huai-nian-de",
+      "ni-guang"
     ],
     "status": "ready"
   },
@@ -823,7 +903,9 @@
     "albumSlug": "ni-guang",
     "releaseYear": 2007,
     "era": "成熟高峰",
-    "moodTags": [],
+    "moodTags": [
+      "回望"
+    ],
     "themeTags": [
       "回望",
       "韧性"
@@ -835,7 +917,8 @@
     "favoriteLevel": "medium",
     "hasDeepRead": true,
     "relatedSongs": [
-      "ni-guang"
+      "ni-guang",
+      "wo-huai-nian-de"
     ],
     "status": "ready"
   },
@@ -845,7 +928,9 @@
     "albumSlug": "wan-mei-de-yi-tian",
     "releaseYear": 2005,
     "era": "阶段平衡",
-    "moodTags": [],
+    "moodTags": [
+      "回望"
+    ],
     "themeTags": [
       "日常感",
       "愿望"
@@ -857,7 +942,8 @@
     "favoriteLevel": "medium",
     "hasDeepRead": true,
     "relatedSongs": [
-      "honey-honey"
+      "honey-honey",
+      "xin-yuan"
     ],
     "status": "ready"
   },
@@ -867,7 +953,9 @@
     "albumSlug": "wan-mei-de-yi-tian",
     "releaseYear": 2005,
     "era": "阶段平衡",
-    "moodTags": [],
+    "moodTags": [
+      "回望"
+    ],
     "themeTags": [
       "日常感",
       "愿望"
@@ -879,7 +967,8 @@
     "favoriteLevel": "medium",
     "hasDeepRead": true,
     "relatedSongs": [
-      "wan-mei-de-yi-tian"
+      "wan-mei-de-yi-tian",
+      "xin-yuan"
     ],
     "status": "ready"
   },
@@ -889,7 +978,9 @@
     "albumSlug": "wan-mei-de-yi-tian",
     "releaseYear": 2005,
     "era": "阶段平衡",
-    "moodTags": [],
+    "moodTags": [
+      "回望"
+    ],
     "themeTags": [
       "日常感",
       "愿望"
@@ -901,7 +992,8 @@
     "favoriteLevel": "medium",
     "hasDeepRead": true,
     "relatedSongs": [
-      "wan-mei-de-yi-tian"
+      "wan-mei-de-yi-tian",
+      "honey-honey"
     ],
     "status": "ready"
   },
@@ -911,7 +1003,9 @@
     "albumSlug": "wan-mei-de-yi-tian",
     "releaseYear": 2005,
     "era": "阶段平衡",
-    "moodTags": [],
+    "moodTags": [
+      "回望"
+    ],
     "themeTags": [
       "日常感",
       "愿望"
@@ -923,7 +1017,8 @@
     "favoriteLevel": "medium",
     "hasDeepRead": true,
     "relatedSongs": [
-      "xin-yuan"
+      "xin-yuan",
+      "wan-mei-de-yi-tian"
     ],
     "status": "ready"
   },
@@ -933,7 +1028,9 @@
     "albumSlug": "ke-bu-le",
     "releaseYear": 2014,
     "era": "后期凝练",
-    "moodTags": [],
+    "moodTags": [
+      "回望"
+    ],
     "themeTags": [
       "时间感",
       "命运感"
@@ -945,7 +1042,8 @@
     "favoriteLevel": "high",
     "hasDeepRead": true,
     "relatedSongs": [
-      "ni-guang"
+      "ni-guang",
+      "shang-hao-de-qing-chun"
     ],
     "status": "ready"
   },
@@ -955,7 +1053,9 @@
     "albumSlug": "ke-bu-le",
     "releaseYear": 2014,
     "era": "后期凝练",
-    "moodTags": [],
+    "moodTags": [
+      "回望"
+    ],
     "themeTags": [
       "时间感",
       "命运感"
@@ -967,7 +1067,8 @@
     "favoriteLevel": "high",
     "hasDeepRead": true,
     "relatedSongs": [
-      "tian-hei-hei"
+      "tian-hei-hei",
+      "ke-bu-le"
     ],
     "status": "ready"
   },
@@ -977,7 +1078,9 @@
     "albumSlug": "ke-bu-le",
     "releaseYear": 2014,
     "era": "后期凝练",
-    "moodTags": [],
+    "moodTags": [
+      "回望"
+    ],
     "themeTags": [
       "时间感",
       "命运感"
@@ -989,7 +1092,8 @@
     "favoriteLevel": "medium",
     "hasDeepRead": true,
     "relatedSongs": [
-      "wo-huai-nian-de"
+      "wo-huai-nian-de",
+      "ke-bu-le"
     ],
     "status": "ready"
   },
@@ -999,7 +1103,9 @@
     "albumSlug": "ke-bu-le",
     "releaseYear": 2014,
     "era": "后期凝练",
-    "moodTags": [],
+    "moodTags": [
+      "回望"
+    ],
     "themeTags": [
       "时间感",
       "命运感"
@@ -1011,7 +1117,8 @@
     "favoriteLevel": "medium",
     "hasDeepRead": true,
     "relatedSongs": [
-      "yu-tian"
+      "yu-tian",
+      "ke-bu-le"
     ],
     "status": "ready"
   },
@@ -1021,7 +1128,9 @@
     "albumSlug": "ke-bu-le",
     "releaseYear": 2014,
     "era": "后期凝练",
-    "moodTags": [],
+    "moodTags": [
+      "回望"
+    ],
     "themeTags": [
       "时间感",
       "命运感"
@@ -1033,7 +1142,8 @@
     "favoriteLevel": "medium",
     "hasDeepRead": true,
     "relatedSongs": [
-      "wan-mei-de-yi-tian"
+      "wan-mei-de-yi-tian",
+      "ke-bu-le"
     ],
     "status": "ready"
   },
@@ -1043,7 +1153,9 @@
     "albumSlug": "ke-bu-le",
     "releaseYear": 2014,
     "era": "后期凝练",
-    "moodTags": [],
+    "moodTags": [
+      "回望"
+    ],
     "themeTags": [
       "时间感",
       "命运感"
@@ -1055,7 +1167,8 @@
     "favoriteLevel": "medium",
     "hasDeepRead": true,
     "relatedSongs": [
-      "huai-tian-qi"
+      "huai-tian-qi",
+      "ke-bu-le"
     ],
     "status": "ready"
   },
@@ -1065,7 +1178,9 @@
     "albumSlug": "shi-shi-hou",
     "releaseYear": 2011,
     "era": "成熟内省",
-    "moodTags": [],
+    "moodTags": [
+      "回望"
+    ],
     "themeTags": [
       "内省",
       "语言失效"
@@ -1077,7 +1192,8 @@
     "favoriteLevel": "medium",
     "hasDeepRead": true,
     "relatedSongs": [
-      "kong-kou-yan"
+      "kong-kou-yan",
+      "kuai-feng-le"
     ],
     "status": "ready"
   },
@@ -1087,7 +1203,9 @@
     "albumSlug": "shi-shi-hou",
     "releaseYear": 2011,
     "era": "成熟内省",
-    "moodTags": [],
+    "moodTags": [
+      "回望"
+    ],
     "themeTags": [
       "内省",
       "语言失效"
@@ -1099,7 +1217,8 @@
     "favoriteLevel": "medium",
     "hasDeepRead": true,
     "relatedSongs": [
-      "kong-kou-yan"
+      "kong-kou-yan",
+      "shi-shuo-xin-yu"
     ],
     "status": "ready"
   },
@@ -1109,7 +1228,9 @@
     "albumSlug": "shi-shi-hou",
     "releaseYear": 2011,
     "era": "成熟内省",
-    "moodTags": [],
+    "moodTags": [
+      "回望"
+    ],
     "themeTags": [
       "内省",
       "语言失效"
@@ -1121,7 +1242,8 @@
     "favoriteLevel": "medium",
     "hasDeepRead": true,
     "relatedSongs": [
-      "shi-shuo-xin-yu"
+      "shi-shuo-xin-yu",
+      "kuai-feng-le"
     ],
     "status": "ready"
   },
@@ -1131,7 +1253,9 @@
     "albumSlug": "shi-shi-hou",
     "releaseYear": 2011,
     "era": "成熟内省",
-    "moodTags": [],
+    "moodTags": [
+      "回望"
+    ],
     "themeTags": [
       "内省",
       "语言失效"
@@ -1143,7 +1267,8 @@
     "favoriteLevel": "medium",
     "hasDeepRead": true,
     "relatedSongs": [
-      "cuo-jue"
+      "cuo-jue",
+      "shi-shuo-xin-yu"
     ],
     "status": "ready"
   },
@@ -1153,7 +1278,9 @@
     "albumSlug": "wan-mei-de-yi-tian",
     "releaseYear": 2005,
     "era": "阶段平衡",
-    "moodTags": [],
+    "moodTags": [
+      "回望"
+    ],
     "themeTags": [
       "日常感",
       "愿望"
@@ -1165,7 +1292,8 @@
     "favoriteLevel": "medium",
     "hasDeepRead": true,
     "relatedSongs": [
-      "yin-xing-ren"
+      "yin-xing-ren",
+      "wan-mei-de-yi-tian"
     ],
     "status": "ready"
   },
@@ -1175,7 +1303,9 @@
     "albumSlug": "stefanie-self-titled",
     "releaseYear": 2004,
     "era": "自我整合",
-    "moodTags": [],
+    "moodTags": [
+      "回望"
+    ],
     "themeTags": [
       "内心独白",
       "回看"
@@ -1187,7 +1317,8 @@
     "favoriteLevel": "medium",
     "hasDeepRead": true,
     "relatedSongs": [
-      "wo-ye-hen-xiang-ta"
+      "wo-ye-hen-xiang-ta",
+      "zhu-ni-kai-xin"
     ],
     "status": "ready"
   },
@@ -1197,7 +1328,9 @@
     "albumSlug": "yanzi",
     "releaseYear": 2000,
     "era": "出道起点",
-    "moodTags": [],
+    "moodTags": [
+      "回望"
+    ],
     "themeTags": [
       "青春",
       "自我表达"
@@ -1209,7 +1342,8 @@
     "favoriteLevel": "medium",
     "hasDeepRead": true,
     "relatedSongs": [
-      "chao-kuai-gan"
+      "chao-kuai-gan",
+      "tian-hei-hei"
     ],
     "status": "ready"
   },
@@ -1219,7 +1353,9 @@
     "albumSlug": "ni-guang",
     "releaseYear": 2007,
     "era": "成熟高峰",
-    "moodTags": [],
+    "moodTags": [
+      "回望"
+    ],
     "themeTags": [
       "回望",
       "韧性"
@@ -1231,7 +1367,8 @@
     "favoriteLevel": "medium",
     "hasDeepRead": true,
     "relatedSongs": [
-      "meng-you"
+      "meng-you",
+      "wo-huai-nian-de"
     ],
     "status": "ready"
   },
@@ -1241,7 +1378,9 @@
     "albumSlug": "yanzi",
     "releaseYear": 2000,
     "era": "出道起点",
-    "moodTags": [],
+    "moodTags": [
+      "回望"
+    ],
     "themeTags": [
       "青春",
       "自我表达"
@@ -1253,7 +1392,8 @@
     "favoriteLevel": "medium",
     "hasDeepRead": true,
     "relatedSongs": [
-      "chao-kuai-gan"
+      "chao-kuai-gan",
+      "tian-hei-hei"
     ],
     "status": "ready"
   },
@@ -1263,7 +1403,9 @@
     "albumSlug": "shi-shi-hou",
     "releaseYear": 2011,
     "era": "成熟内省",
-    "moodTags": [],
+    "moodTags": [
+      "回望"
+    ],
     "themeTags": [
       "内省",
       "语言失效"
@@ -1275,7 +1417,8 @@
     "favoriteLevel": "high",
     "hasDeepRead": true,
     "relatedSongs": [
-      "kong-kou-yan"
+      "kong-kou-yan",
+      "shi-shuo-xin-yu"
     ],
     "status": "ready"
   },
@@ -1285,7 +1428,9 @@
     "albumSlug": "my-story",
     "releaseYear": 2006,
     "era": "阶段回看",
-    "moodTags": [],
+    "moodTags": [
+      "回望"
+    ],
     "themeTags": [
       "回看",
       "精选"
@@ -1297,7 +1442,8 @@
     "favoriteLevel": "medium",
     "hasDeepRead": true,
     "relatedSongs": [
-      "huai-tian-qi"
+      "huai-tian-qi",
+      "leave"
     ],
     "status": "ready"
   },
@@ -1307,7 +1453,9 @@
     "albumSlug": "my-story",
     "releaseYear": 2006,
     "era": "阶段回看",
-    "moodTags": [],
+    "moodTags": [
+      "回望"
+    ],
     "themeTags": [
       "回看",
       "精选"
@@ -1319,7 +1467,8 @@
     "favoriteLevel": "medium",
     "hasDeepRead": true,
     "relatedSongs": [
-      "leave-me-alone"
+      "leave-me-alone",
+      "yu-tian"
     ],
     "status": "ready"
   },
@@ -1329,7 +1478,9 @@
     "albumSlug": "fei-pu-er-xia-single",
     "releaseYear": 2026,
     "era": "近期单曲",
-    "moodTags": [],
+    "moodTags": [
+      "回望"
+    ],
     "themeTags": [
       "近期单曲",
       "强动态"
@@ -1341,7 +1492,8 @@
     "favoriteLevel": "medium",
     "hasDeepRead": true,
     "relatedSongs": [
-      "ri-luo"
+      "ri-luo",
+      "tian-hei-hei"
     ],
     "status": "ready"
   },
@@ -1351,7 +1503,9 @@
     "albumSlug": "zui-hou-zhi-hou-single",
     "releaseYear": 2024,
     "era": "近期单曲",
-    "moodTags": [],
+    "moodTags": [
+      "回望"
+    ],
     "themeTags": [
       "近期单曲",
       "余波"
@@ -1363,7 +1517,8 @@
     "favoriteLevel": "medium",
     "hasDeepRead": true,
     "relatedSongs": [
-      "leave"
+      "leave",
+      "tian-hei-hei"
     ],
     "status": "ready"
   },
@@ -1373,7 +1528,9 @@
     "albumSlug": "ri-luo-single",
     "releaseYear": 2025,
     "era": "近期单曲",
-    "moodTags": [],
+    "moodTags": [
+      "回望"
+    ],
     "themeTags": [
       "近期单曲",
       "时间感"
@@ -1385,7 +1542,8 @@
     "favoriteLevel": "medium",
     "hasDeepRead": true,
     "relatedSongs": [
-      "wan-mei-de-yi-tian"
+      "wan-mei-de-yi-tian",
+      "tian-hei-hei"
     ],
     "status": "ready"
   },
@@ -1412,7 +1570,8 @@
     "favoriteLevel": "medium",
     "hasDeepRead": true,
     "relatedSongs": [
-      "lu-guang"
+      "lu-guang",
+      "wo-ye-hen-xiang-ta"
     ],
     "status": "ready"
   },
@@ -1439,7 +1598,8 @@
     "favoriteLevel": "medium",
     "hasDeepRead": true,
     "relatedSongs": [
-      "wo-huai-nian-de"
+      "wo-huai-nian-de",
+      "wan-mei-de-yi-tian"
     ],
     "status": "ready"
   },
@@ -1449,14 +1609,21 @@
     "albumSlug": "my-story",
     "releaseYear": 2006,
     "era": "阶段回看",
-    "moodTags": [],
-    "themeTags": [],
-    "keywords": [],
+    "moodTags": [
+      "回望"
+    ],
+    "themeTags": [
+      "关系变化"
+    ],
+    "keywords": [
+      "情绪"
+    ],
     "summary": "《Liao Jie》的解读正在整理中。",
     "favoriteLevel": "medium",
     "hasDeepRead": true,
     "relatedSongs": [
-      "wo-de-ai"
+      "wo-de-ai",
+      "yu-tian"
     ],
     "status": "ready"
   },
@@ -1466,14 +1633,21 @@
     "albumSlug": "my-story",
     "releaseYear": 2006,
     "era": "阶段回看",
-    "moodTags": [],
-    "themeTags": [],
-    "keywords": [],
+    "moodTags": [
+      "回望"
+    ],
+    "themeTags": [
+      "关系变化"
+    ],
+    "keywords": [
+      "情绪"
+    ],
     "summary": "《DI Liu Gan》的解读正在整理中。",
     "favoriteLevel": "medium",
     "hasDeepRead": true,
     "relatedSongs": [
-      "cuo-jue"
+      "cuo-jue",
+      "yu-tian"
     ],
     "status": "ready"
   },
@@ -1483,14 +1657,21 @@
     "albumSlug": "ban-ju-zai-jian-single",
     "releaseYear": 2015,
     "era": "2015 时期",
-    "moodTags": [],
-    "themeTags": [],
-    "keywords": [],
+    "moodTags": [
+      "回望"
+    ],
+    "themeTags": [
+      "关系变化"
+    ],
+    "keywords": [
+      "情绪"
+    ],
     "summary": "《Ban JU Zai Jian》的解读正在整理中。",
     "favoriteLevel": "medium",
     "hasDeepRead": true,
     "relatedSongs": [
-      "zui-hou-zhi-hou"
+      "zui-hou-zhi-hou",
+      "tian-hei-hei"
     ],
     "status": "ready"
   },
@@ -1500,14 +1681,21 @@
     "albumSlug": "shi-jie-zhong-jie-qian-yi-tian-single",
     "releaseYear": 2017,
     "era": "2017 时期",
-    "moodTags": [],
-    "themeTags": [],
-    "keywords": [],
+    "moodTags": [
+      "回望"
+    ],
+    "themeTags": [
+      "关系变化"
+    ],
+    "keywords": [
+      "情绪"
+    ],
     "summary": "《Shi Jie Zhong Jie Qian YI Tian》的解读正在整理中。",
     "favoriteLevel": "medium",
     "hasDeepRead": true,
     "relatedSongs": [
-      "ke-bu-le"
+      "ke-bu-le",
+      "tian-hei-hei"
     ],
     "status": "ready"
   },
@@ -1517,14 +1705,21 @@
     "albumSlug": "yu-e-single",
     "releaseYear": 2024,
     "era": "2024 时期",
-    "moodTags": [],
-    "themeTags": [],
-    "keywords": [],
+    "moodTags": [
+      "回望"
+    ],
+    "themeTags": [
+      "关系变化"
+    ],
+    "keywords": [
+      "情绪"
+    ],
     "summary": "《YU E》的解读正在整理中。",
     "favoriteLevel": "medium",
     "hasDeepRead": true,
     "relatedSongs": [
-      "bi-jiao-xing-fu"
+      "bi-jiao-xing-fu",
+      "tian-hei-hei"
     ],
     "status": "ready"
   },
@@ -1534,14 +1729,21 @@
     "albumSlug": "no-13",
     "releaseYear": 2017,
     "era": "2017 时期",
-    "moodTags": [],
-    "themeTags": [],
-    "keywords": [],
+    "moodTags": [
+      "回望"
+    ],
+    "themeTags": [
+      "关系变化"
+    ],
+    "keywords": [
+      "情绪"
+    ],
     "summary": "《Tiao WU DE Fan GU》的解读正在整理中。",
     "favoriteLevel": "high",
     "hasDeepRead": true,
     "relatedSongs": [
-      "ke-bu-le"
+      "ke-bu-le",
+      "feng-yi"
     ],
     "status": "ready"
   },
@@ -1551,14 +1753,21 @@
     "albumSlug": "no-13",
     "releaseYear": 2017,
     "era": "2017 时期",
-    "moodTags": [],
-    "themeTags": [],
-    "keywords": [],
+    "moodTags": [
+      "回望"
+    ],
+    "themeTags": [
+      "关系变化"
+    ],
+    "keywords": [
+      "情绪"
+    ],
     "summary": "《Feng YI》的解读正在整理中。",
     "favoriteLevel": "medium",
     "hasDeepRead": true,
     "relatedSongs": [
-      "yin-tai"
+      "yin-tai",
+      "tiao-wu-de-fan-gu"
     ],
     "status": "ready"
   },
@@ -1568,14 +1777,21 @@
     "albumSlug": "no-13",
     "releaseYear": 2017,
     "era": "2017 时期",
-    "moodTags": [],
-    "themeTags": [],
-    "keywords": [],
+    "moodTags": [
+      "回望"
+    ],
+    "themeTags": [
+      "关系变化"
+    ],
+    "keywords": [
+      "情绪"
+    ],
     "summary": "《WO Hen YU Kuai》的解读正在整理中。",
     "favoriteLevel": "medium",
     "hasDeepRead": true,
     "relatedSongs": [
-      "bi-jiao-xing-fu"
+      "bi-jiao-xing-fu",
+      "tiao-wu-de-fan-gu"
     ],
     "status": "ready"
   },
@@ -1585,14 +1801,21 @@
     "albumSlug": "no-13",
     "releaseYear": 2017,
     "era": "2017 时期",
-    "moodTags": [],
-    "themeTags": [],
-    "keywords": [],
+    "moodTags": [
+      "回望"
+    ],
+    "themeTags": [
+      "关系变化"
+    ],
+    "keywords": [
+      "情绪"
+    ],
     "summary": "《Tian Tian Nian Nian》的解读正在整理中。",
     "favoriteLevel": "medium",
     "hasDeepRead": true,
     "relatedSongs": [
-      "shang-hao-de-qing-chun"
+      "shang-hao-de-qing-chun",
+      "tiao-wu-de-fan-gu"
     ],
     "status": "ready"
   },
@@ -1602,14 +1825,21 @@
     "albumSlug": "no-13",
     "releaseYear": 2017,
     "era": "2017 时期",
-    "moodTags": [],
-    "themeTags": [],
-    "keywords": [],
+    "moodTags": [
+      "回望"
+    ],
+    "themeTags": [
+      "关系变化"
+    ],
+    "keywords": [
+      "情绪"
+    ],
     "summary": "《Piao FU Qun Dao》的解读正在整理中。",
     "favoriteLevel": "medium",
     "hasDeepRead": true,
     "relatedSongs": [
-      "feng-yi"
+      "feng-yi",
+      "tiao-wu-de-fan-gu"
     ],
     "status": "ready"
   },
@@ -1619,14 +1849,21 @@
     "albumSlug": "no-13",
     "releaseYear": 2017,
     "era": "2017 时期",
-    "moodTags": [],
-    "themeTags": [],
-    "keywords": [],
+    "moodTags": [
+      "回望"
+    ],
+    "themeTags": [
+      "关系变化"
+    ],
+    "keywords": [
+      "情绪"
+    ],
     "summary": "《JI Mei》的解读正在整理中。",
     "favoriteLevel": "medium",
     "hasDeepRead": true,
     "relatedSongs": [
-      "tiao-wu-de-fan-gu"
+      "tiao-wu-de-fan-gu",
+      "feng-yi"
     ],
     "status": "ready"
   },
@@ -1636,14 +1873,21 @@
     "albumSlug": "no-13",
     "releaseYear": 2017,
     "era": "2017 时期",
-    "moodTags": [],
-    "themeTags": [],
-    "keywords": [],
+    "moodTags": [
+      "回望"
+    ],
+    "themeTags": [
+      "关系变化"
+    ],
+    "keywords": [
+      "情绪"
+    ],
     "summary": "《Chong Yang QI》的解读正在整理中。",
     "favoriteLevel": "medium",
     "hasDeepRead": true,
     "relatedSongs": [
-      "man-man-lai"
+      "man-man-lai",
+      "tiao-wu-de-fan-gu"
     ],
     "status": "ready"
   },
@@ -1653,14 +1897,21 @@
     "albumSlug": "yanzi",
     "releaseYear": 2000,
     "era": "出道起点",
-    "moodTags": [],
-    "themeTags": [],
-    "keywords": [],
+    "moodTags": [
+      "回望"
+    ],
+    "themeTags": [
+      "关系变化"
+    ],
+    "keywords": [
+      "情绪"
+    ],
     "summary": "《ZI Ran》的解读正在整理中。",
     "favoriteLevel": "medium",
     "hasDeepRead": true,
     "relatedSongs": [
-      "man-man-lai"
+      "man-man-lai",
+      "tian-hei-hei"
     ],
     "status": "ready"
   },
@@ -1670,14 +1921,21 @@
     "albumSlug": "cai-hong-jin-gang-ep",
     "releaseYear": 2019,
     "era": "2019 时期",
-    "moodTags": [],
-    "themeTags": [],
-    "keywords": [],
+    "moodTags": [
+      "回望"
+    ],
+    "themeTags": [
+      "关系变化"
+    ],
+    "keywords": [
+      "情绪"
+    ],
     "summary": "《Cai Hong Jin Gang》的解读正在整理中。",
     "favoriteLevel": "medium",
     "hasDeepRead": true,
     "relatedSongs": [
-      "tiao-wu-de-fan-gu"
+      "tiao-wu-de-fan-gu",
+      "tian-hei-hei"
     ],
     "status": "ready"
   },
@@ -1687,9 +1945,15 @@
     "albumSlug": "ni-guang",
     "releaseYear": 2007,
     "era": "成熟高峰",
-    "moodTags": [],
-    "themeTags": [],
-    "keywords": [],
+    "moodTags": [
+      "回望"
+    ],
+    "themeTags": [
+      "关系变化"
+    ],
+    "keywords": [
+      "情绪"
+    ],
     "summary": "《AN Ning》的解读正在整理中。",
     "favoriteLevel": "medium",
     "hasDeepRead": true,
@@ -1705,9 +1969,15 @@
     "albumSlug": "no-13",
     "releaseYear": 2017,
     "era": "2017 时期",
-    "moodTags": [],
-    "themeTags": [],
-    "keywords": [],
+    "moodTags": [
+      "回望"
+    ],
+    "themeTags": [
+      "关系变化"
+    ],
+    "keywords": [
+      "情绪"
+    ],
     "summary": "《Jie Xia Lai》的解读正在整理中。",
     "favoriteLevel": "medium",
     "hasDeepRead": true,
@@ -1723,14 +1993,21 @@
     "albumSlug": "shou-hu-yong-heng-de-ai-single",
     "releaseYear": 2010,
     "era": "2010 时期",
-    "moodTags": [],
-    "themeTags": [],
-    "keywords": [],
+    "moodTags": [
+      "回望"
+    ],
+    "themeTags": [
+      "关系变化"
+    ],
+    "keywords": [
+      "情绪"
+    ],
     "summary": "《Shou HU Yong Heng DE AI》的解读正在整理中。",
     "favoriteLevel": "medium",
     "hasDeepRead": true,
     "relatedSongs": [
-      "ke-bu-le"
+      "ke-bu-le",
+      "tian-hei-hei"
     ],
     "status": "ready"
   },
@@ -1740,15 +2017,22 @@
     "albumSlug": "archive-unassigned-mainline",
     "releaseYear": null,
     "era": "9999 时期",
-    "moodTags": [],
-    "themeTags": [],
+    "moodTags": [
+      "回望"
+    ],
+    "themeTags": [
+      "关系变化"
+    ],
     "keywords": [
       "180-du"
     ],
     "summary": "《180 DU》的解读正在整理中。",
     "favoriteLevel": "low",
     "hasDeepRead": true,
-    "relatedSongs": [],
+    "relatedSongs": [
+      "ai-cong-ling-kai-shi",
+      "bu-neng-he-ni-yi-qi"
+    ],
     "status": "ready"
   },
   {
@@ -1757,15 +2041,22 @@
     "albumSlug": "archive-unassigned-mainline",
     "releaseYear": null,
     "era": "9999 时期",
-    "moodTags": [],
-    "themeTags": [],
+    "moodTags": [
+      "回望"
+    ],
+    "themeTags": [
+      "关系变化"
+    ],
     "keywords": [
       "ai-cong-ling-kai-shi"
     ],
     "summary": "《AI Cong Ling Kai Shi》的解读正在整理中。",
     "favoriteLevel": "low",
     "hasDeepRead": true,
-    "relatedSongs": [],
+    "relatedSongs": [
+      "180-du",
+      "bu-neng-he-ni-yi-qi"
+    ],
     "status": "ready"
   },
   {
@@ -1774,15 +2065,22 @@
     "albumSlug": "start-live",
     "releaseYear": null,
     "era": "2002 时期",
-    "moodTags": [],
-    "themeTags": [],
+    "moodTags": [
+      "回望"
+    ],
+    "themeTags": [
+      "关系变化"
+    ],
     "keywords": [
       "ai-qing-zheng-shu-start-concert"
     ],
     "summary": "《AI Qing Zheng Shu Start Concert》的解读正在整理中。",
     "favoriteLevel": "low",
     "hasDeepRead": true,
-    "relatedSongs": [],
+    "relatedSongs": [
+      "ai-qing-zi-dian-start-concert",
+      "chao-kuai-gan-start-concert"
+    ],
     "status": "ready"
   },
   {
@@ -1791,15 +2089,22 @@
     "albumSlug": "start-live",
     "releaseYear": null,
     "era": "2002 时期",
-    "moodTags": [],
-    "themeTags": [],
+    "moodTags": [
+      "回望"
+    ],
+    "themeTags": [
+      "关系变化"
+    ],
     "keywords": [
       "ai-qing-zi-dian-start-concert"
     ],
     "summary": "《AI Qing ZI Dian Start Concert》的解读正在整理中。",
     "favoriteLevel": "low",
     "hasDeepRead": true,
-    "relatedSongs": [],
+    "relatedSongs": [
+      "ai-qing-zheng-shu-start-concert",
+      "chao-kuai-gan-start-concert"
+    ],
     "status": "ready"
   },
   {
@@ -1808,15 +2113,22 @@
     "albumSlug": "archive-unassigned-mainline",
     "releaseYear": null,
     "era": "9999 时期",
-    "moodTags": [],
-    "themeTags": [],
+    "moodTags": [
+      "回望"
+    ],
+    "themeTags": [
+      "关系变化"
+    ],
     "keywords": [
       "bu-neng-he-ni-yi-qi"
     ],
     "summary": "《BU Neng HE NI YI QI》的解读正在整理中。",
     "favoriteLevel": "low",
     "hasDeepRead": true,
-    "relatedSongs": [],
+    "relatedSongs": [
+      "180-du",
+      "ai-cong-ling-kai-shi"
+    ],
     "status": "ready"
   },
   {
@@ -1825,15 +2137,22 @@
     "albumSlug": "archive-unassigned-mainline",
     "releaseYear": null,
     "era": "9999 时期",
-    "moodTags": [],
-    "themeTags": [],
+    "moodTags": [
+      "回望"
+    ],
+    "themeTags": [
+      "关系变化"
+    ],
     "keywords": [
       "bu-shi-zhen-de-ai-wo"
     ],
     "summary": "《BU Shi Zhen DE AI WO》的解读正在整理中。",
     "favoriteLevel": "low",
     "hasDeepRead": true,
-    "relatedSongs": [],
+    "relatedSongs": [
+      "180-du",
+      "ai-cong-ling-kai-shi"
+    ],
     "status": "ready"
   },
   {
@@ -1842,15 +2161,22 @@
     "albumSlug": "archive-unassigned-mainline",
     "releaseYear": null,
     "era": "9999 时期",
-    "moodTags": [],
-    "themeTags": [],
+    "moodTags": [
+      "回望"
+    ],
+    "themeTags": [
+      "关系变化"
+    ],
     "keywords": [
       "bu-tong"
     ],
     "summary": "《BU Tong》的解读正在整理中。",
     "favoriteLevel": "low",
     "hasDeepRead": true,
-    "relatedSongs": [],
+    "relatedSongs": [
+      "180-du",
+      "ai-cong-ling-kai-shi"
+    ],
     "status": "ready"
   },
   {
@@ -1859,15 +2185,22 @@
     "albumSlug": "start-live",
     "releaseYear": null,
     "era": "2002 时期",
-    "moodTags": [],
-    "themeTags": [],
+    "moodTags": [
+      "回望"
+    ],
+    "themeTags": [
+      "关系变化"
+    ],
     "keywords": [
       "chao-kuai-gan-start-concert"
     ],
     "summary": "《Chao Kuai Gan Start Concert》的解读正在整理中。",
     "favoriteLevel": "low",
     "hasDeepRead": true,
-    "relatedSongs": [],
+    "relatedSongs": [
+      "ai-qing-zheng-shu-start-concert",
+      "ai-qing-zi-dian-start-concert"
+    ],
     "status": "ready"
   },
   {
@@ -1876,15 +2209,22 @@
     "albumSlug": "archive-unassigned-mainline",
     "releaseYear": null,
     "era": "9999 时期",
-    "moodTags": [],
-    "themeTags": [],
+    "moodTags": [
+      "回望"
+    ],
+    "themeTags": [
+      "关系变化"
+    ],
     "keywords": [
       "chao-ren-lei"
     ],
     "summary": "《Chao Ren Lei》的解读正在整理中。",
     "favoriteLevel": "low",
     "hasDeepRead": true,
-    "relatedSongs": [],
+    "relatedSongs": [
+      "180-du",
+      "ai-cong-ling-kai-shi"
+    ],
     "status": "ready"
   },
   {
@@ -1893,15 +2233,22 @@
     "albumSlug": "archive-unassigned-mainline",
     "releaseYear": null,
     "era": "9999 时期",
-    "moodTags": [],
-    "themeTags": [],
+    "moodTags": [
+      "回望"
+    ],
+    "themeTags": [
+      "关系变化"
+    ],
     "keywords": [
       "dang-dong-ye-jian-nuan"
     ],
     "summary": "《Dang Dong YE Jian Nuan》的解读正在整理中。",
     "favoriteLevel": "low",
     "hasDeepRead": true,
-    "relatedSongs": [],
+    "relatedSongs": [
+      "180-du",
+      "ai-cong-ling-kai-shi"
+    ],
     "status": "ready"
   },
   {
@@ -1910,15 +2257,22 @@
     "albumSlug": "archive-unassigned-mainline",
     "releaseYear": null,
     "era": "9999 时期",
-    "moodTags": [],
-    "themeTags": [],
+    "moodTags": [
+      "回望"
+    ],
+    "themeTags": [
+      "关系变化"
+    ],
     "keywords": [
       "dong-shi"
     ],
     "summary": "《Dong Shi》的解读正在整理中。",
     "favoriteLevel": "low",
     "hasDeepRead": true,
-    "relatedSongs": [],
+    "relatedSongs": [
+      "180-du",
+      "ai-cong-ling-kai-shi"
+    ],
     "status": "ready"
   },
   {
@@ -1927,15 +2281,22 @@
     "albumSlug": "english-cover-archive",
     "releaseYear": null,
     "era": "9999 时期",
-    "moodTags": [],
-    "themeTags": [],
+    "moodTags": [
+      "回望"
+    ],
+    "themeTags": [
+      "关系变化"
+    ],
     "keywords": [
       "dream-a-little-dream-of-me"
     ],
     "summary": "《Dream a Little Dream of Me》的解读正在整理中。",
     "favoriteLevel": "low",
     "hasDeepRead": true,
-    "relatedSongs": [],
+    "relatedSongs": [
+      "hey-jude",
+      "my-story-your-song"
+    ],
     "status": "ready"
   },
   {
@@ -1944,15 +2305,22 @@
     "albumSlug": "alternate-versions-archive",
     "releaseYear": null,
     "era": "9999 时期",
-    "moodTags": [],
-    "themeTags": [],
+    "moodTags": [
+      "回望"
+    ],
+    "themeTags": [
+      "关系变化"
+    ],
     "keywords": [
       "e-lover-2"
     ],
     "summary": "《E Lover 2》的解读正在整理中。",
     "favoriteLevel": "low",
     "hasDeepRead": true,
-    "relatedSongs": [],
+    "relatedSongs": [
+      "sweet-child-o-mine-2",
+      "tian-yue-liang-ye-yue-hei-2"
+    ],
     "status": "ready"
   },
   {
@@ -1961,15 +2329,22 @@
     "albumSlug": "archive-unassigned-mainline",
     "releaseYear": null,
     "era": "9999 时期",
-    "moodTags": [],
-    "themeTags": [],
+    "moodTags": [
+      "回望"
+    ],
+    "themeTags": [
+      "关系变化"
+    ],
     "keywords": [
       "fan-guo-lai-zou-zou"
     ],
     "summary": "《Fan Guo Lai Zou Zou》的解读正在整理中。",
     "favoriteLevel": "low",
     "hasDeepRead": true,
-    "relatedSongs": [],
+    "relatedSongs": [
+      "180-du",
+      "ai-cong-ling-kai-shi"
+    ],
     "status": "ready"
   },
   {
@@ -1978,15 +2353,22 @@
     "albumSlug": "start-live",
     "releaseYear": null,
     "era": "2002 时期",
-    "moodTags": [],
-    "themeTags": [],
+    "moodTags": [
+      "回望"
+    ],
+    "themeTags": [
+      "关系变化"
+    ],
     "keywords": [
       "feng-zheng-start-concert"
     ],
     "summary": "《Feng Zheng Start Concert》的解读正在整理中。",
     "favoriteLevel": "low",
     "hasDeepRead": true,
-    "relatedSongs": [],
+    "relatedSongs": [
+      "ai-qing-zheng-shu-start-concert",
+      "ai-qing-zi-dian-start-concert"
+    ],
     "status": "ready"
   },
   {
@@ -1995,15 +2377,22 @@
     "albumSlug": "archive-unassigned-mainline",
     "releaseYear": null,
     "era": "9999 时期",
-    "moodTags": [],
-    "themeTags": [],
+    "moodTags": [
+      "回望"
+    ],
+    "themeTags": [
+      "关系变化"
+    ],
     "keywords": [
       "guan-yu"
     ],
     "summary": "《Guan YU》的解读正在整理中。",
     "favoriteLevel": "low",
     "hasDeepRead": true,
-    "relatedSongs": [],
+    "relatedSongs": [
+      "180-du",
+      "ai-cong-ling-kai-shi"
+    ],
     "status": "ready"
   },
   {
@@ -2012,15 +2401,22 @@
     "albumSlug": "start-live",
     "releaseYear": null,
     "era": "2002 时期",
-    "moodTags": [],
-    "themeTags": [],
+    "moodTags": [
+      "回望"
+    ],
+    "themeTags": [
+      "关系变化"
+    ],
     "keywords": [
       "hai-pa-start-concert"
     ],
     "summary": "《Hai PA Start Concert》的解读正在整理中。",
     "favoriteLevel": "low",
     "hasDeepRead": true,
-    "relatedSongs": [],
+    "relatedSongs": [
+      "ai-qing-zheng-shu-start-concert",
+      "ai-qing-zi-dian-start-concert"
+    ],
     "status": "ready"
   },
   {
@@ -2029,15 +2425,22 @@
     "albumSlug": "archive-unassigned-mainline",
     "releaseYear": null,
     "era": "9999 时期",
-    "moodTags": [],
-    "themeTags": [],
+    "moodTags": [
+      "回望"
+    ],
+    "themeTags": [
+      "关系变化"
+    ],
     "keywords": [
       "he-ping"
     ],
     "summary": "《HE Ping》的解读正在整理中。",
     "favoriteLevel": "low",
     "hasDeepRead": true,
-    "relatedSongs": [],
+    "relatedSongs": [
+      "180-du",
+      "ai-cong-ling-kai-shi"
+    ],
     "status": "ready"
   },
   {
@@ -2046,15 +2449,22 @@
     "albumSlug": "start-live",
     "releaseYear": null,
     "era": "2002 时期",
-    "moodTags": [],
-    "themeTags": [],
+    "moodTags": [
+      "回望"
+    ],
+    "themeTags": [
+      "关系变化"
+    ],
     "keywords": [
       "hen-hao-start-concert"
     ],
     "summary": "《Hen Hao Start Concert》的解读正在整理中。",
     "favoriteLevel": "low",
     "hasDeepRead": true,
-    "relatedSongs": [],
+    "relatedSongs": [
+      "ai-qing-zheng-shu-start-concert",
+      "ai-qing-zi-dian-start-concert"
+    ],
     "status": "ready"
   },
   {
@@ -2063,15 +2473,22 @@
     "albumSlug": "english-cover-archive",
     "releaseYear": null,
     "era": "9999 时期",
-    "moodTags": [],
-    "themeTags": [],
+    "moodTags": [
+      "回望"
+    ],
+    "themeTags": [
+      "关系变化"
+    ],
     "keywords": [
       "hey-jude"
     ],
     "summary": "《Hey Jude》的解读正在整理中。",
     "favoriteLevel": "low",
     "hasDeepRead": true,
-    "relatedSongs": [],
+    "relatedSongs": [
+      "dream-a-little-dream-of-me",
+      "my-story-your-song"
+    ],
     "status": "ready"
   },
   {
@@ -2080,15 +2497,22 @@
     "albumSlug": "start-live",
     "releaseYear": null,
     "era": "2002 时期",
-    "moodTags": [],
-    "themeTags": [],
+    "moodTags": [
+      "回望"
+    ],
+    "themeTags": [
+      "关系变化"
+    ],
     "keywords": [
       "hey-jude-start-concert"
     ],
     "summary": "《Hey Jude Start Concert》的解读正在整理中。",
     "favoriteLevel": "low",
     "hasDeepRead": true,
-    "relatedSongs": [],
+    "relatedSongs": [
+      "ai-qing-zheng-shu-start-concert",
+      "ai-qing-zi-dian-start-concert"
+    ],
     "status": "ready"
   },
   {
@@ -2097,15 +2521,22 @@
     "albumSlug": "archive-unassigned-mainline",
     "releaseYear": null,
     "era": "9999 时期",
-    "moodTags": [],
-    "themeTags": [],
+    "moodTags": [
+      "回望"
+    ],
+    "themeTags": [
+      "关系变化"
+    ],
     "keywords": [
       "jiu-shi-zhe-yang"
     ],
     "summary": "《Jiu Shi Zhe Yang》的解读正在整理中。",
     "favoriteLevel": "low",
     "hasDeepRead": true,
-    "relatedSongs": [],
+    "relatedSongs": [
+      "180-du",
+      "ai-cong-ling-kai-shi"
+    ],
     "status": "ready"
   },
   {
@@ -2114,15 +2545,22 @@
     "albumSlug": "archive-unassigned-mainline",
     "releaseYear": null,
     "era": "9999 时期",
-    "moodTags": [],
-    "themeTags": [],
+    "moodTags": [
+      "回望"
+    ],
+    "themeTags": [
+      "关系变化"
+    ],
     "keywords": [
       "ke"
     ],
     "summary": "《KE》的解读正在整理中。",
     "favoriteLevel": "low",
     "hasDeepRead": true,
-    "relatedSongs": [],
+    "relatedSongs": [
+      "180-du",
+      "ai-cong-ling-kai-shi"
+    ],
     "status": "ready"
   },
   {
@@ -2131,15 +2569,22 @@
     "albumSlug": "archive-unassigned-mainline",
     "releaseYear": null,
     "era": "9999 时期",
-    "moodTags": [],
-    "themeTags": [],
+    "moodTags": [
+      "回望"
+    ],
+    "themeTags": [
+      "关系变化"
+    ],
     "keywords": [
       "lan-de-qu-guan"
     ],
     "summary": "《Lan DE QU Guan》的解读正在整理中。",
     "favoriteLevel": "low",
     "hasDeepRead": true,
-    "relatedSongs": [],
+    "relatedSongs": [
+      "180-du",
+      "ai-cong-ling-kai-shi"
+    ],
     "status": "ready"
   },
   {
@@ -2148,15 +2593,22 @@
     "albumSlug": "start-live",
     "releaseYear": null,
     "era": "2002 时期",
-    "moodTags": [],
-    "themeTags": [],
+    "moodTags": [
+      "回望"
+    ],
+    "themeTags": [
+      "关系变化"
+    ],
     "keywords": [
       "leave-me-alone-start-concert"
     ],
     "summary": "《Leave ME Alone Start Concert》的解读正在整理中。",
     "favoriteLevel": "low",
     "hasDeepRead": true,
-    "relatedSongs": [],
+    "relatedSongs": [
+      "ai-qing-zheng-shu-start-concert",
+      "ai-qing-zi-dian-start-concert"
+    ],
     "status": "ready"
   },
   {
@@ -2165,15 +2617,22 @@
     "albumSlug": "archive-unassigned-mainline",
     "releaseYear": null,
     "era": "9999 时期",
-    "moodTags": [],
-    "themeTags": [],
+    "moodTags": [
+      "回望"
+    ],
+    "themeTags": [
+      "关系变化"
+    ],
     "keywords": [
       "lei-zhui"
     ],
     "summary": "《Lei Zhui》的解读正在整理中。",
     "favoriteLevel": "low",
     "hasDeepRead": true,
-    "relatedSongs": [],
+    "relatedSongs": [
+      "180-du",
+      "ai-cong-ling-kai-shi"
+    ],
     "status": "ready"
   },
   {
@@ -2182,15 +2641,22 @@
     "albumSlug": "archive-unassigned-mainline",
     "releaseYear": null,
     "era": "9999 时期",
-    "moodTags": [],
-    "themeTags": [],
+    "moodTags": [
+      "回望"
+    ],
+    "themeTags": [
+      "关系变化"
+    ],
     "keywords": [
       "lets-vino"
     ],
     "summary": "《Lets Vino》的解读正在整理中。",
     "favoriteLevel": "low",
     "hasDeepRead": true,
-    "relatedSongs": [],
+    "relatedSongs": [
+      "180-du",
+      "ai-cong-ling-kai-shi"
+    ],
     "status": "ready"
   },
   {
@@ -2199,15 +2665,22 @@
     "albumSlug": "archive-unassigned-mainline",
     "releaseYear": null,
     "era": "9999 时期",
-    "moodTags": [],
-    "themeTags": [],
+    "moodTags": [
+      "回望"
+    ],
+    "themeTags": [
+      "关系变化"
+    ],
     "keywords": [
       "lian-xi"
     ],
     "summary": "《Lian XI》的解读正在整理中。",
     "favoriteLevel": "low",
     "hasDeepRead": true,
-    "relatedSongs": [],
+    "relatedSongs": [
+      "180-du",
+      "ai-cong-ling-kai-shi"
+    ],
     "status": "ready"
   },
   {
@@ -2216,15 +2689,22 @@
     "albumSlug": "start-live",
     "releaseYear": null,
     "era": "2002 时期",
-    "moodTags": [],
-    "themeTags": [],
+    "moodTags": [
+      "回望"
+    ],
+    "themeTags": [
+      "关系变化"
+    ],
     "keywords": [
       "ling-que-dian-start-concert"
     ],
     "summary": "《Ling Que Dian Start Concert》的解读正在整理中。",
     "favoriteLevel": "low",
     "hasDeepRead": true,
-    "relatedSongs": [],
+    "relatedSongs": [
+      "ai-qing-zheng-shu-start-concert",
+      "ai-qing-zi-dian-start-concert"
+    ],
     "status": "ready"
   },
   {
@@ -2233,15 +2713,22 @@
     "albumSlug": "archive-unassigned-mainline",
     "releaseYear": null,
     "era": "9999 时期",
-    "moodTags": [],
-    "themeTags": [],
+    "moodTags": [
+      "回望"
+    ],
+    "themeTags": [
+      "关系变化"
+    ],
     "keywords": [
       "liu-lang-di-tu"
     ],
     "summary": "《Liu Lang DI TU》的解读正在整理中。",
     "favoriteLevel": "low",
     "hasDeepRead": true,
-    "relatedSongs": [],
+    "relatedSongs": [
+      "180-du",
+      "ai-cong-ling-kai-shi"
+    ],
     "status": "ready"
   },
   {
@@ -2250,15 +2737,22 @@
     "albumSlug": "start-live",
     "releaseYear": null,
     "era": "2002 时期",
-    "moodTags": [],
-    "themeTags": [],
+    "moodTags": [
+      "回望"
+    ],
+    "themeTags": [
+      "关系变化"
+    ],
     "keywords": [
       "lu-guang-start-concert"
     ],
     "summary": "《LU Guang Start Concert》的解读正在整理中。",
     "favoriteLevel": "low",
     "hasDeepRead": true,
-    "relatedSongs": [],
+    "relatedSongs": [
+      "ai-qing-zheng-shu-start-concert",
+      "ai-qing-zi-dian-start-concert"
+    ],
     "status": "ready"
   },
   {
@@ -2267,15 +2761,22 @@
     "albumSlug": "archive-unassigned-mainline",
     "releaseYear": null,
     "era": "9999 时期",
-    "moodTags": [],
-    "themeTags": [],
+    "moodTags": [
+      "回望"
+    ],
+    "themeTags": [
+      "关系变化"
+    ],
     "keywords": [
       "mei-shi-jian"
     ],
     "summary": "《Mei Shi Jian》的解读正在整理中。",
     "favoriteLevel": "low",
     "hasDeepRead": true,
-    "relatedSongs": [],
+    "relatedSongs": [
+      "180-du",
+      "ai-cong-ling-kai-shi"
+    ],
     "status": "ready"
   },
   {
@@ -2284,15 +2785,22 @@
     "albumSlug": "archive-unassigned-mainline",
     "releaseYear": null,
     "era": "9999 时期",
-    "moodTags": [],
-    "themeTags": [],
+    "moodTags": [
+      "回望"
+    ],
+    "themeTags": [
+      "关系变化"
+    ],
     "keywords": [
       "meng-bu-luo"
     ],
     "summary": "《Meng BU Luo》的解读正在整理中。",
     "favoriteLevel": "low",
     "hasDeepRead": true,
-    "relatedSongs": [],
+    "relatedSongs": [
+      "180-du",
+      "ai-cong-ling-kai-shi"
+    ],
     "status": "ready"
   },
   {
@@ -2301,15 +2809,22 @@
     "albumSlug": "archive-unassigned-mainline",
     "releaseYear": null,
     "era": "9999 时期",
-    "moodTags": [],
-    "themeTags": [],
+    "moodTags": [
+      "回望"
+    ],
+    "themeTags": [
+      "关系变化"
+    ],
     "keywords": [
       "meng-xiang-tian-kong"
     ],
     "summary": "《Meng Xiang Tian Kong》的解读正在整理中。",
     "favoriteLevel": "low",
     "hasDeepRead": true,
-    "relatedSongs": [],
+    "relatedSongs": [
+      "180-du",
+      "ai-cong-ling-kai-shi"
+    ],
     "status": "ready"
   },
   {
@@ -2318,15 +2833,22 @@
     "albumSlug": "archive-unassigned-mainline",
     "releaseYear": null,
     "era": "9999 时期",
-    "moodTags": [],
-    "themeTags": [],
+    "moodTags": [
+      "回望"
+    ],
+    "themeTags": [
+      "关系变化"
+    ],
     "keywords": [
       "ming-tian-de-ji-yi"
     ],
     "summary": "《Ming Tian DE JI YI》的解读正在整理中。",
     "favoriteLevel": "low",
     "hasDeepRead": true,
-    "relatedSongs": [],
+    "relatedSongs": [
+      "180-du",
+      "ai-cong-ling-kai-shi"
+    ],
     "status": "ready"
   },
   {
@@ -2335,15 +2857,22 @@
     "albumSlug": "archive-unassigned-mainline",
     "releaseYear": null,
     "era": "9999 时期",
-    "moodTags": [],
-    "themeTags": [],
+    "moodTags": [
+      "回望"
+    ],
+    "themeTags": [
+      "关系变化"
+    ],
     "keywords": [
       "ming-tian-qing-tian"
     ],
     "summary": "《Ming Tian Qing Tian》的解读正在整理中。",
     "favoriteLevel": "low",
     "hasDeepRead": true,
-    "relatedSongs": [],
+    "relatedSongs": [
+      "180-du",
+      "ai-cong-ling-kai-shi"
+    ],
     "status": "ready"
   },
   {
@@ -2352,15 +2881,22 @@
     "albumSlug": "english-cover-archive",
     "releaseYear": null,
     "era": "9999 时期",
-    "moodTags": [],
-    "themeTags": [],
+    "moodTags": [
+      "回望"
+    ],
+    "themeTags": [
+      "关系变化"
+    ],
     "keywords": [
       "my-story-your-song"
     ],
     "summary": "《My Story, Your Song》的解读正在整理中。",
     "favoriteLevel": "low",
     "hasDeepRead": true,
-    "relatedSongs": [],
+    "relatedSongs": [
+      "dream-a-little-dream-of-me",
+      "hey-jude"
+    ],
     "status": "ready"
   },
   {
@@ -2369,15 +2905,22 @@
     "albumSlug": "start-live",
     "releaseYear": null,
     "era": "2002 时期",
-    "moodTags": [],
-    "themeTags": [],
+    "moodTags": [
+      "回望"
+    ],
+    "themeTags": [
+      "关系变化"
+    ],
     "keywords": [
       "nan-de-yi-jian-start-concert"
     ],
     "summary": "《Nan DE YI Jian Start Concert》的解读正在整理中。",
     "favoriteLevel": "low",
     "hasDeepRead": true,
-    "relatedSongs": [],
+    "relatedSongs": [
+      "ai-qing-zheng-shu-start-concert",
+      "ai-qing-zi-dian-start-concert"
+    ],
     "status": "ready"
   },
   {
@@ -2386,15 +2929,22 @@
     "albumSlug": "archive-unassigned-mainline",
     "releaseYear": null,
     "era": "9999 时期",
-    "moodTags": [],
-    "themeTags": [],
+    "moodTags": [
+      "回望"
+    ],
+    "themeTags": [
+      "关系变化"
+    ],
     "keywords": [
       "ni-hao-bu-hao"
     ],
     "summary": "《NI Hao BU Hao》的解读正在整理中。",
     "favoriteLevel": "low",
     "hasDeepRead": true,
-    "relatedSongs": [],
+    "relatedSongs": [
+      "180-du",
+      "ai-cong-ling-kai-shi"
+    ],
     "status": "ready"
   },
   {
@@ -2403,15 +2953,22 @@
     "albumSlug": "archive-unassigned-mainline",
     "releaseYear": null,
     "era": "9999 时期",
-    "moodTags": [],
-    "themeTags": [],
+    "moodTags": [
+      "回望"
+    ],
+    "themeTags": [
+      "关系变化"
+    ],
     "keywords": [
       "ni-ming-wan-sui"
     ],
     "summary": "《NI Ming Wan Sui》的解读正在整理中。",
     "favoriteLevel": "low",
     "hasDeepRead": true,
-    "relatedSongs": [],
+    "relatedSongs": [
+      "180-du",
+      "ai-cong-ling-kai-shi"
+    ],
     "status": "ready"
   },
   {
@@ -2420,15 +2977,22 @@
     "albumSlug": "archive-unassigned-mainline",
     "releaseYear": null,
     "era": "9999 时期",
-    "moodTags": [],
-    "themeTags": [],
+    "moodTags": [
+      "回望"
+    ],
+    "themeTags": [
+      "关系变化"
+    ],
     "keywords": [
       "nian-qing-wu-xian"
     ],
     "summary": "《Nian Qing WU Xian》的解读正在整理中。",
     "favoriteLevel": "low",
     "hasDeepRead": true,
-    "relatedSongs": [],
+    "relatedSongs": [
+      "180-du",
+      "ai-cong-ling-kai-shi"
+    ],
     "status": "ready"
   },
   {
@@ -2437,15 +3001,22 @@
     "albumSlug": "archive-unassigned-mainline",
     "releaseYear": null,
     "era": "9999 时期",
-    "moodTags": [],
-    "themeTags": [],
+    "moodTags": [
+      "回望"
+    ],
+    "themeTags": [
+      "关系变化"
+    ],
     "keywords": [
       "nong-mei-mao"
     ],
     "summary": "《Nong Mei Mao》的解读正在整理中。",
     "favoriteLevel": "low",
     "hasDeepRead": true,
-    "relatedSongs": [],
+    "relatedSongs": [
+      "180-du",
+      "ai-cong-ling-kai-shi"
+    ],
     "status": "ready"
   },
   {
@@ -2454,15 +3025,22 @@
     "albumSlug": "archive-unassigned-mainline",
     "releaseYear": null,
     "era": "9999 时期",
-    "moodTags": [],
-    "themeTags": [],
+    "moodTags": [
+      "回望"
+    ],
+    "themeTags": [
+      "关系变化"
+    ],
     "keywords": [
       "on-the-road"
     ],
     "summary": "《On the Road》的解读正在整理中。",
     "favoriteLevel": "low",
     "hasDeepRead": true,
-    "relatedSongs": [],
+    "relatedSongs": [
+      "180-du",
+      "ai-cong-ling-kai-shi"
+    ],
     "status": "ready"
   },
   {
@@ -2471,15 +3049,22 @@
     "albumSlug": "archive-unassigned-mainline",
     "releaseYear": null,
     "era": "9999 时期",
-    "moodTags": [],
-    "themeTags": [],
+    "moodTags": [
+      "回望"
+    ],
+    "themeTags": [
+      "关系变化"
+    ],
     "keywords": [
       "one-united-people"
     ],
     "summary": "《One United People》的解读正在整理中。",
     "favoriteLevel": "low",
     "hasDeepRead": true,
-    "relatedSongs": [],
+    "relatedSongs": [
+      "180-du",
+      "ai-cong-ling-kai-shi"
+    ],
     "status": "ready"
   },
   {
@@ -2488,15 +3073,22 @@
     "albumSlug": "english-cover-archive",
     "releaseYear": null,
     "era": "9999 时期",
-    "moodTags": [],
-    "themeTags": [],
+    "moodTags": [
+      "回望"
+    ],
+    "themeTags": [
+      "关系变化"
+    ],
     "keywords": [
       "opening"
     ],
     "summary": "《Opening》的解读正在整理中。",
     "favoriteLevel": "low",
     "hasDeepRead": true,
-    "relatedSongs": [],
+    "relatedSongs": [
+      "dream-a-little-dream-of-me",
+      "hey-jude"
+    ],
     "status": "ready"
   },
   {
@@ -2505,15 +3097,22 @@
     "albumSlug": "archive-unassigned-mainline",
     "releaseYear": null,
     "era": "9999 时期",
-    "moodTags": [],
-    "themeTags": [],
+    "moodTags": [
+      "回望"
+    ],
+    "themeTags": [
+      "关系变化"
+    ],
     "keywords": [
       "ping-ri-kuai-le"
     ],
     "summary": "《Ping RI Kuai LE》的解读正在整理中。",
     "favoriteLevel": "low",
     "hasDeepRead": true,
-    "relatedSongs": [],
+    "relatedSongs": [
+      "180-du",
+      "ai-cong-ling-kai-shi"
+    ],
     "status": "ready"
   },
   {
@@ -2522,15 +3121,22 @@
     "albumSlug": "archive-unassigned-mainline",
     "releaseYear": null,
     "era": "9999 时期",
-    "moodTags": [],
-    "themeTags": [],
+    "moodTags": [
+      "回望"
+    ],
+    "themeTags": [
+      "关系变化"
+    ],
     "keywords": [
       "qin-guang"
     ],
     "summary": "《Qin Guang》的解读正在整理中。",
     "favoriteLevel": "low",
     "hasDeepRead": true,
-    "relatedSongs": [],
+    "relatedSongs": [
+      "180-du",
+      "ai-cong-ling-kai-shi"
+    ],
     "status": "ready"
   },
   {
@@ -2539,15 +3145,22 @@
     "albumSlug": "archive-unassigned-mainline",
     "releaseYear": null,
     "era": "9999 时期",
-    "moodTags": [],
-    "themeTags": [],
+    "moodTags": [
+      "回望"
+    ],
+    "themeTags": [
+      "关系变化"
+    ],
     "keywords": [
       "quan-xin-quan-yi"
     ],
     "summary": "《Quan Xin Quan YI》的解读正在整理中。",
     "favoriteLevel": "low",
     "hasDeepRead": true,
-    "relatedSongs": [],
+    "relatedSongs": [
+      "180-du",
+      "ai-cong-ling-kai-shi"
+    ],
     "status": "ready"
   },
   {
@@ -2556,15 +3169,22 @@
     "albumSlug": "english-cover-archive",
     "releaseYear": null,
     "era": "9999 时期",
-    "moodTags": [],
-    "themeTags": [],
+    "moodTags": [
+      "回望"
+    ],
+    "themeTags": [
+      "关系变化"
+    ],
     "keywords": [
       "radio"
     ],
     "summary": "《Radio》的解读正在整理中。",
     "favoriteLevel": "low",
     "hasDeepRead": true,
-    "relatedSongs": [],
+    "relatedSongs": [
+      "dream-a-little-dream-of-me",
+      "hey-jude"
+    ],
     "status": "ready"
   },
   {
@@ -2573,15 +3193,22 @@
     "albumSlug": "archive-unassigned-mainline",
     "releaseYear": null,
     "era": "9999 时期",
-    "moodTags": [],
-    "themeTags": [],
+    "moodTags": [
+      "回望"
+    ],
+    "themeTags": [
+      "关系变化"
+    ],
     "keywords": [
       "ren-zhi"
     ],
     "summary": "《Ren Zhi》的解读正在整理中。",
     "favoriteLevel": "low",
     "hasDeepRead": true,
-    "relatedSongs": [],
+    "relatedSongs": [
+      "180-du",
+      "ai-cong-ling-kai-shi"
+    ],
     "status": "ready"
   },
   {
@@ -2590,15 +3217,22 @@
     "albumSlug": "archive-unassigned-mainline",
     "releaseYear": null,
     "era": "9999 时期",
-    "moodTags": [],
-    "themeTags": [],
+    "moodTags": [
+      "回望"
+    ],
+    "themeTags": [
+      "关系变化"
+    ],
     "keywords": [
       "rise"
     ],
     "summary": "《Rise》的解读正在整理中。",
     "favoriteLevel": "low",
     "hasDeepRead": true,
-    "relatedSongs": [],
+    "relatedSongs": [
+      "180-du",
+      "ai-cong-ling-kai-shi"
+    ],
     "status": "ready"
   },
   {
@@ -2607,15 +3241,22 @@
     "albumSlug": "archive-unassigned-mainline",
     "releaseYear": null,
     "era": "9999 时期",
-    "moodTags": [],
-    "themeTags": [],
+    "moodTags": [
+      "回望"
+    ],
+    "themeTags": [
+      "关系变化"
+    ],
     "keywords": [
       "shi-guang-xiao-tou"
     ],
     "summary": "《Shi Guang Xiao Tou》的解读正在整理中。",
     "favoriteLevel": "low",
     "hasDeepRead": true,
-    "relatedSongs": [],
+    "relatedSongs": [
+      "180-du",
+      "ai-cong-ling-kai-shi"
+    ],
     "status": "ready"
   },
   {
@@ -2624,15 +3265,22 @@
     "albumSlug": "english-cover-archive",
     "releaseYear": null,
     "era": "9999 时期",
-    "moodTags": [],
-    "themeTags": [],
+    "moodTags": [
+      "回望"
+    ],
+    "themeTags": [
+      "关系变化"
+    ],
     "keywords": [
       "silent-all-these-years"
     ],
     "summary": "《Silent All These Years》的解读正在整理中。",
     "favoriteLevel": "low",
     "hasDeepRead": true,
-    "relatedSongs": [],
+    "relatedSongs": [
+      "dream-a-little-dream-of-me",
+      "hey-jude"
+    ],
     "status": "ready"
   },
   {
@@ -2641,15 +3289,22 @@
     "albumSlug": "english-cover-archive",
     "releaseYear": null,
     "era": "9999 时期",
-    "moodTags": [],
-    "themeTags": [],
+    "moodTags": [
+      "回望"
+    ],
+    "themeTags": [
+      "关系变化"
+    ],
     "keywords": [
       "someone"
     ],
     "summary": "《Someone》的解读正在整理中。",
     "favoriteLevel": "low",
     "hasDeepRead": true,
-    "relatedSongs": [],
+    "relatedSongs": [
+      "dream-a-little-dream-of-me",
+      "hey-jude"
+    ],
     "status": "ready"
   },
   {
@@ -2658,15 +3313,22 @@
     "albumSlug": "start-live",
     "releaseYear": null,
     "era": "2002 时期",
-    "moodTags": [],
-    "themeTags": [],
+    "moodTags": [
+      "回望"
+    ],
+    "themeTags": [
+      "关系变化"
+    ],
     "keywords": [
       "someone-start-concert"
     ],
     "summary": "《Someone Start Concert》的解读正在整理中。",
     "favoriteLevel": "low",
     "hasDeepRead": true,
-    "relatedSongs": [],
+    "relatedSongs": [
+      "ai-qing-zheng-shu-start-concert",
+      "ai-qing-zi-dian-start-concert"
+    ],
     "status": "ready"
   },
   {
@@ -2675,15 +3337,22 @@
     "albumSlug": "english-cover-archive",
     "releaseYear": null,
     "era": "9999 时期",
-    "moodTags": [],
-    "themeTags": [],
+    "moodTags": [
+      "回望"
+    ],
+    "themeTags": [
+      "关系变化"
+    ],
     "keywords": [
       "sometimes-love-just-aint-enough"
     ],
     "summary": "《Sometimes Love Just Ain't Enough》的解读正在整理中。",
     "favoriteLevel": "low",
     "hasDeepRead": true,
-    "relatedSongs": [],
+    "relatedSongs": [
+      "dream-a-little-dream-of-me",
+      "hey-jude"
+    ],
     "status": "ready"
   },
   {
@@ -2692,15 +3361,22 @@
     "albumSlug": "english-cover-archive",
     "releaseYear": null,
     "era": "9999 时期",
-    "moodTags": [],
-    "themeTags": [],
+    "moodTags": [
+      "回望"
+    ],
+    "themeTags": [
+      "关系变化"
+    ],
     "keywords": [
       "sparking-diamonds"
     ],
     "summary": "《Sparkling Diamonds》的解读正在整理中。",
     "favoriteLevel": "low",
     "hasDeepRead": true,
-    "relatedSongs": [],
+    "relatedSongs": [
+      "dream-a-little-dream-of-me",
+      "hey-jude"
+    ],
     "status": "ready"
   },
   {
@@ -2709,15 +3385,22 @@
     "albumSlug": "start-live",
     "releaseYear": null,
     "era": "2002 时期",
-    "moodTags": [],
-    "themeTags": [],
+    "moodTags": [
+      "回望"
+    ],
+    "themeTags": [
+      "关系变化"
+    ],
     "keywords": [
       "sparkling-diamonds-start-concert"
     ],
     "summary": "《Sparkling Diamonds Start Concert》的解读正在整理中。",
     "favoriteLevel": "low",
     "hasDeepRead": true,
-    "relatedSongs": [],
+    "relatedSongs": [
+      "ai-qing-zheng-shu-start-concert",
+      "ai-qing-zi-dian-start-concert"
+    ],
     "status": "ready"
   },
   {
@@ -2726,15 +3409,22 @@
     "albumSlug": "english-cover-archive",
     "releaseYear": null,
     "era": "9999 时期",
-    "moodTags": [],
-    "themeTags": [],
+    "moodTags": [
+      "回望"
+    ],
+    "themeTags": [
+      "关系变化"
+    ],
     "keywords": [
       "stefanie"
     ],
     "summary": "《Stefanie》的解读正在整理中。",
     "favoriteLevel": "low",
     "hasDeepRead": true,
-    "relatedSongs": [],
+    "relatedSongs": [
+      "dream-a-little-dream-of-me",
+      "hey-jude"
+    ],
     "status": "ready"
   },
   {
@@ -2743,15 +3433,22 @@
     "albumSlug": "start-live",
     "releaseYear": null,
     "era": "2002 时期",
-    "moodTags": [],
-    "themeTags": [],
+    "moodTags": [
+      "回望"
+    ],
+    "themeTags": [
+      "关系变化"
+    ],
     "keywords": [
       "sui-tang-ce-yan-start-concert"
     ],
     "summary": "《Sui Tang CE Yan Start Concert》的解读正在整理中。",
     "favoriteLevel": "low",
     "hasDeepRead": true,
-    "relatedSongs": [],
+    "relatedSongs": [
+      "ai-qing-zheng-shu-start-concert",
+      "ai-qing-zi-dian-start-concert"
+    ],
     "status": "ready"
   },
   {
@@ -2760,15 +3457,22 @@
     "albumSlug": "archive-unassigned-mainline",
     "releaseYear": null,
     "era": "9999 时期",
-    "moodTags": [],
-    "themeTags": [],
+    "moodTags": [
+      "回望"
+    ],
+    "themeTags": [
+      "关系变化"
+    ],
     "keywords": [
       "sweet-child-o-mine"
     ],
     "summary": "《Sweet Child O' Mine》的解读正在整理中。",
     "favoriteLevel": "low",
     "hasDeepRead": true,
-    "relatedSongs": [],
+    "relatedSongs": [
+      "180-du",
+      "ai-cong-ling-kai-shi"
+    ],
     "status": "ready"
   },
   {
@@ -2777,15 +3481,22 @@
     "albumSlug": "alternate-versions-archive",
     "releaseYear": null,
     "era": "9999 时期",
-    "moodTags": [],
-    "themeTags": [],
+    "moodTags": [
+      "回望"
+    ],
+    "themeTags": [
+      "关系变化"
+    ],
     "keywords": [
       "sweet-child-o-mine-2"
     ],
     "summary": "《Sweet Child O Mine 2》的解读正在整理中。",
     "favoriteLevel": "low",
     "hasDeepRead": true,
-    "relatedSongs": [],
+    "relatedSongs": [
+      "e-lover-2",
+      "tian-yue-liang-ye-yue-hei-2"
+    ],
     "status": "ready"
   },
   {
@@ -2794,15 +3505,22 @@
     "albumSlug": "archive-unassigned-mainline",
     "releaseYear": null,
     "era": "9999 时期",
-    "moodTags": [],
-    "themeTags": [],
+    "moodTags": [
+      "回望"
+    ],
+    "themeTags": [
+      "关系变化"
+    ],
     "keywords": [
       "ta-men-de-ge"
     ],
     "summary": "《TA Men DE GE》的解读正在整理中。",
     "favoriteLevel": "low",
     "hasDeepRead": true,
-    "relatedSongs": [],
+    "relatedSongs": [
+      "180-du",
+      "ai-cong-ling-kai-shi"
+    ],
     "status": "ready"
   },
   {
@@ -2811,15 +3529,22 @@
     "albumSlug": "archive-unassigned-mainline",
     "releaseYear": null,
     "era": "9999 时期",
-    "moodTags": [],
-    "themeTags": [],
+    "moodTags": [
+      "回望"
+    ],
+    "themeTags": [
+      "关系变化"
+    ],
     "keywords": [
       "tai-yang-di-xia"
     ],
     "summary": "《Tai Yang DI Xia》的解读正在整理中。",
     "favoriteLevel": "low",
     "hasDeepRead": true,
-    "relatedSongs": [],
+    "relatedSongs": [
+      "180-du",
+      "ai-cong-ling-kai-shi"
+    ],
     "status": "ready"
   },
   {
@@ -2828,15 +3553,22 @@
     "albumSlug": "english-cover-archive",
     "releaseYear": null,
     "era": "9999 时期",
-    "moodTags": [],
-    "themeTags": [],
+    "moodTags": [
+      "回望"
+    ],
+    "themeTags": [
+      "关系变化"
+    ],
     "keywords": [
       "that-i-would-be-good"
     ],
     "summary": "《That I Would Be Good》的解读正在整理中。",
     "favoriteLevel": "low",
     "hasDeepRead": true,
-    "relatedSongs": [],
+    "relatedSongs": [
+      "dream-a-little-dream-of-me",
+      "hey-jude"
+    ],
     "status": "ready"
   },
   {
@@ -2845,15 +3577,22 @@
     "albumSlug": "the-moment",
     "releaseYear": null,
     "era": "阶段节点",
-    "moodTags": [],
-    "themeTags": [],
+    "moodTags": [
+      "回望"
+    ],
+    "themeTags": [
+      "关系变化"
+    ],
     "keywords": [
       "the-moment"
     ],
     "summary": "《The Moment》的解读正在整理中。",
     "favoriteLevel": "low",
     "hasDeepRead": true,
-    "relatedSongs": [],
+    "relatedSongs": [
+      "yu-jian",
+      "tian-hei-hei"
+    ],
     "status": "ready"
   },
   {
@@ -2862,15 +3601,22 @@
     "albumSlug": "archive-unassigned-mainline",
     "releaseYear": null,
     "era": "9999 时期",
-    "moodTags": [],
-    "themeTags": [],
+    "moodTags": [
+      "回望"
+    ],
+    "themeTags": [
+      "关系变化"
+    ],
     "keywords": [
       "tian-kong"
     ],
     "summary": "《Tian Kong》的解读正在整理中。",
     "favoriteLevel": "low",
     "hasDeepRead": true,
-    "relatedSongs": [],
+    "relatedSongs": [
+      "180-du",
+      "ai-cong-ling-kai-shi"
+    ],
     "status": "ready"
   },
   {
@@ -2879,15 +3625,22 @@
     "albumSlug": "archive-unassigned-mainline",
     "releaseYear": null,
     "era": "9999 时期",
-    "moodTags": [],
-    "themeTags": [],
+    "moodTags": [
+      "回望"
+    ],
+    "themeTags": [
+      "关系变化"
+    ],
     "keywords": [
       "tian-yue-liang-ye-yue-hei"
     ],
     "summary": "《Tian Yue Liang YE Yue Hei》的解读正在整理中。",
     "favoriteLevel": "low",
     "hasDeepRead": true,
-    "relatedSongs": [],
+    "relatedSongs": [
+      "180-du",
+      "ai-cong-ling-kai-shi"
+    ],
     "status": "ready"
   },
   {
@@ -2896,15 +3649,22 @@
     "albumSlug": "alternate-versions-archive",
     "releaseYear": null,
     "era": "9999 时期",
-    "moodTags": [],
-    "themeTags": [],
+    "moodTags": [
+      "回望"
+    ],
+    "themeTags": [
+      "关系变化"
+    ],
     "keywords": [
       "tian-yue-liang-ye-yue-hei-2"
     ],
     "summary": "《Tian Yue Liang YE Yue Hei 2》的解读正在整理中。",
     "favoriteLevel": "low",
     "hasDeepRead": true,
-    "relatedSongs": [],
+    "relatedSongs": [
+      "e-lover-2",
+      "sweet-child-o-mine-2"
+    ],
     "status": "ready"
   },
   {
@@ -2913,15 +3673,22 @@
     "albumSlug": "archive-unassigned-mainline",
     "releaseYear": null,
     "era": "9999 时期",
-    "moodTags": [],
-    "themeTags": [],
+    "moodTags": [
+      "回望"
+    ],
+    "themeTags": [
+      "关系变化"
+    ],
     "keywords": [
       "ting-jian"
     ],
     "summary": "《Ting Jian》的解读正在整理中。",
     "favoriteLevel": "low",
     "hasDeepRead": true,
-    "relatedSongs": [],
+    "relatedSongs": [
+      "180-du",
+      "ai-cong-ling-kai-shi"
+    ],
     "status": "ready"
   },
   {
@@ -2930,15 +3697,22 @@
     "albumSlug": "archive-unassigned-mainline",
     "releaseYear": null,
     "era": "9999 时期",
-    "moodTags": [],
-    "themeTags": [],
+    "moodTags": [
+      "回望"
+    ],
+    "themeTags": [
+      "关系变化"
+    ],
     "keywords": [
       "tong-yao-1987"
     ],
     "summary": "《Tong Yao 1987》的解读正在整理中。",
     "favoriteLevel": "low",
     "hasDeepRead": true,
-    "relatedSongs": [],
+    "relatedSongs": [
+      "180-du",
+      "ai-cong-ling-kai-shi"
+    ],
     "status": "ready"
   },
   {
@@ -2947,15 +3721,22 @@
     "albumSlug": "english-cover-archive",
     "releaseYear": null,
     "era": "9999 时期",
-    "moodTags": [],
-    "themeTags": [],
+    "moodTags": [
+      "回望"
+    ],
+    "themeTags": [
+      "关系变化"
+    ],
     "keywords": [
       "up2u"
     ],
     "summary": "《Up2U》的解读正在整理中。",
     "favoriteLevel": "low",
     "hasDeepRead": true,
-    "relatedSongs": [],
+    "relatedSongs": [
+      "dream-a-little-dream-of-me",
+      "hey-jude"
+    ],
     "status": "ready"
   },
   {
@@ -2964,15 +3745,22 @@
     "albumSlug": "english-cover-archive",
     "releaseYear": null,
     "era": "9999 时期",
-    "moodTags": [],
-    "themeTags": [],
+    "moodTags": [
+      "回望"
+    ],
+    "themeTags": [
+      "关系变化"
+    ],
     "keywords": [
       "venus"
     ],
     "summary": "《Venus》的解读正在整理中。",
     "favoriteLevel": "low",
     "hasDeepRead": true,
-    "relatedSongs": [],
+    "relatedSongs": [
+      "dream-a-little-dream-of-me",
+      "hey-jude"
+    ],
     "status": "ready"
   },
   {
@@ -2981,15 +3769,22 @@
     "albumSlug": "start-live",
     "releaseYear": null,
     "era": "2002 时期",
-    "moodTags": [],
-    "themeTags": [],
+    "moodTags": [
+      "回望"
+    ],
+    "themeTags": [
+      "关系变化"
+    ],
     "keywords": [
       "venus-start-concert"
     ],
     "summary": "《Venus Start Concert》的解读正在整理中。",
     "favoriteLevel": "low",
     "hasDeepRead": true,
-    "relatedSongs": [],
+    "relatedSongs": [
+      "ai-qing-zheng-shu-start-concert",
+      "ai-qing-zi-dian-start-concert"
+    ],
     "status": "ready"
   },
   {
@@ -2998,15 +3793,22 @@
     "albumSlug": "archive-unassigned-mainline",
     "releaseYear": null,
     "era": "9999 时期",
-    "moodTags": [],
-    "themeTags": [],
+    "moodTags": [
+      "回望"
+    ],
+    "themeTags": [
+      "关系变化"
+    ],
     "keywords": [
       "we-will-get-there"
     ],
     "summary": "《We Will Get There》的解读正在整理中。",
     "favoriteLevel": "low",
     "hasDeepRead": true,
-    "relatedSongs": [],
+    "relatedSongs": [
+      "180-du",
+      "ai-cong-ling-kai-shi"
+    ],
     "status": "ready"
   },
   {
@@ -3015,15 +3817,22 @@
     "albumSlug": "archive-unassigned-mainline",
     "releaseYear": null,
     "era": "9999 时期",
-    "moodTags": [],
-    "themeTags": [],
+    "moodTags": [
+      "回望"
+    ],
+    "themeTags": [
+      "关系变化"
+    ],
     "keywords": [
       "wei-rao"
     ],
     "summary": "《Wei Rao》的解读正在整理中。",
     "favoriteLevel": "low",
     "hasDeepRead": true,
-    "relatedSongs": [],
+    "relatedSongs": [
+      "180-du",
+      "ai-cong-ling-kai-shi"
+    ],
     "status": "ready"
   },
   {
@@ -3032,15 +3841,22 @@
     "albumSlug": "wei-wan-cheng",
     "releaseYear": null,
     "era": "成熟过渡",
-    "moodTags": [],
-    "themeTags": [],
+    "moodTags": [
+      "回望"
+    ],
+    "themeTags": [
+      "关系变化"
+    ],
     "keywords": [
       "wei-wan-cheng"
     ],
     "summary": "《Wei Wan Cheng》的解读正在整理中。",
     "favoriteLevel": "low",
     "hasDeepRead": true,
-    "relatedSongs": [],
+    "relatedSongs": [
+      "wo-bu-nan-guo",
+      "di-yi-tian"
+    ],
     "status": "ready"
   },
   {
@@ -3049,15 +3865,22 @@
     "albumSlug": "alternate-versions-archive",
     "releaseYear": null,
     "era": "9999 时期",
-    "moodTags": [],
-    "themeTags": [],
+    "moodTags": [
+      "回望"
+    ],
+    "themeTags": [
+      "关系变化"
+    ],
     "keywords": [
       "wei-zhi-de-jing-cai-2"
     ],
     "summary": "《Wei Zhi DE Jing Cai 2》的解读正在整理中。",
     "favoriteLevel": "low",
     "hasDeepRead": true,
-    "relatedSongs": [],
+    "relatedSongs": [
+      "e-lover-2",
+      "sweet-child-o-mine-2"
+    ],
     "status": "ready"
   },
   {
@@ -3066,15 +3889,22 @@
     "albumSlug": "archive-unassigned-mainline",
     "releaseYear": null,
     "era": "9999 时期",
-    "moodTags": [],
-    "themeTags": [],
+    "moodTags": [
+      "回望"
+    ],
+    "themeTags": [
+      "关系变化"
+    ],
     "keywords": [
       "wen-rou-mayday-blue-20th"
     ],
     "summary": "《Wen Rou Mayday Blue 20th》的解读正在整理中。",
     "favoriteLevel": "low",
     "hasDeepRead": true,
-    "relatedSongs": [],
+    "relatedSongs": [
+      "180-du",
+      "ai-cong-ling-kai-shi"
+    ],
     "status": "ready"
   },
   {
@@ -3083,15 +3913,22 @@
     "albumSlug": "archive-unassigned-mainline",
     "releaseYear": null,
     "era": "9999 时期",
-    "moodTags": [],
-    "themeTags": [],
+    "moodTags": [
+      "回望"
+    ],
+    "themeTags": [
+      "关系变化"
+    ],
     "keywords": [
       "wo-bu-ai"
     ],
     "summary": "《WO BU AI》的解读正在整理中。",
     "favoriteLevel": "low",
     "hasDeepRead": true,
-    "relatedSongs": [],
+    "relatedSongs": [
+      "180-du",
+      "ai-cong-ling-kai-shi"
+    ],
     "status": "ready"
   },
   {
@@ -3100,15 +3937,22 @@
     "albumSlug": "archive-unassigned-mainline",
     "releaseYear": null,
     "era": "9999 时期",
-    "moodTags": [],
-    "themeTags": [],
+    "moodTags": [
+      "回望"
+    ],
+    "themeTags": [
+      "关系变化"
+    ],
     "keywords": [
       "wo-hen-wo-ai-ni"
     ],
     "summary": "《WO Hen WO AI NI》的解读正在整理中。",
     "favoriteLevel": "low",
     "hasDeepRead": true,
-    "relatedSongs": [],
+    "relatedSongs": [
+      "180-du",
+      "ai-cong-ling-kai-shi"
+    ],
     "status": "ready"
   },
   {
@@ -3117,15 +3961,22 @@
     "albumSlug": "archive-unassigned-mainline",
     "releaseYear": null,
     "era": "9999 时期",
-    "moodTags": [],
-    "themeTags": [],
+    "moodTags": [
+      "回望"
+    ],
+    "themeTags": [
+      "关系变化"
+    ],
     "keywords": [
       "wo-shi-wo"
     ],
     "summary": "《WO Shi WO》的解读正在整理中。",
     "favoriteLevel": "low",
     "hasDeepRead": true,
-    "relatedSongs": [],
+    "relatedSongs": [
+      "180-du",
+      "ai-cong-ling-kai-shi"
+    ],
     "status": "ready"
   },
   {
@@ -3134,15 +3985,22 @@
     "albumSlug": "archive-unassigned-mainline",
     "releaseYear": null,
     "era": "9999 时期",
-    "moodTags": [],
-    "themeTags": [],
+    "moodTags": [
+      "回望"
+    ],
+    "themeTags": [
+      "关系变化"
+    ],
     "keywords": [
       "wo-wei-shen-me-na-me-ai-ni"
     ],
     "summary": "《WO Wei Shen ME NA ME AI NI》的解读正在整理中。",
     "favoriteLevel": "low",
     "hasDeepRead": true,
-    "relatedSongs": [],
+    "relatedSongs": [
+      "180-du",
+      "ai-cong-ling-kai-shi"
+    ],
     "status": "ready"
   },
   {
@@ -3151,15 +4009,22 @@
     "albumSlug": "archive-unassigned-mainline",
     "releaseYear": null,
     "era": "9999 时期",
-    "moodTags": [],
-    "themeTags": [],
+    "moodTags": [
+      "回望"
+    ],
+    "themeTags": [
+      "关系变化"
+    ],
     "keywords": [
       "wo-xiang"
     ],
     "summary": "《WO Xiang》的解读正在整理中。",
     "favoriteLevel": "low",
     "hasDeepRead": true,
-    "relatedSongs": [],
+    "relatedSongs": [
+      "180-du",
+      "ai-cong-ling-kai-shi"
+    ],
     "status": "ready"
   },
   {
@@ -3168,15 +4033,22 @@
     "albumSlug": "start-live",
     "releaseYear": null,
     "era": "2002 时期",
-    "moodTags": [],
-    "themeTags": [],
+    "moodTags": [
+      "回望"
+    ],
+    "themeTags": [
+      "关系变化"
+    ],
     "keywords": [
       "wo-yao-de-xing-fu-start-concert"
     ],
     "summary": "《WO Yao DE Xing FU Start Concert》的解读正在整理中。",
     "favoriteLevel": "low",
     "hasDeepRead": true,
-    "relatedSongs": [],
+    "relatedSongs": [
+      "ai-qing-zheng-shu-start-concert",
+      "ai-qing-zi-dian-start-concert"
+    ],
     "status": "ready"
   },
   {
@@ -3185,15 +4057,22 @@
     "albumSlug": "archive-unassigned-mainline",
     "releaseYear": null,
     "era": "9999 时期",
-    "moodTags": [],
-    "themeTags": [],
+    "moodTags": [
+      "回望"
+    ],
+    "themeTags": [
+      "关系变化"
+    ],
     "keywords": [
       "wo-yao-kuai-le"
     ],
     "summary": "《WO Yao Kuai LE》的解读正在整理中。",
     "favoriteLevel": "low",
     "hasDeepRead": true,
-    "relatedSongs": [],
+    "relatedSongs": [
+      "180-du",
+      "ai-cong-ling-kai-shi"
+    ],
     "status": "ready"
   },
   {
@@ -3202,15 +4081,22 @@
     "albumSlug": "archive-unassigned-mainline",
     "releaseYear": null,
     "era": "9999 时期",
-    "moodTags": [],
-    "themeTags": [],
+    "moodTags": [
+      "回望"
+    ],
+    "themeTags": [
+      "关系变化"
+    ],
     "keywords": [
       "wu-xian-da"
     ],
     "summary": "《WU Xian DA》的解读正在整理中。",
     "favoriteLevel": "low",
     "hasDeepRead": true,
-    "relatedSongs": [],
+    "relatedSongs": [
+      "180-du",
+      "ai-cong-ling-kai-shi"
+    ],
     "status": "ready"
   },
   {
@@ -3219,15 +4105,22 @@
     "albumSlug": "archive-unassigned-mainline",
     "releaseYear": null,
     "era": "9999 时期",
-    "moodTags": [],
-    "themeTags": [],
+    "moodTags": [
+      "回望"
+    ],
+    "themeTags": [
+      "关系变化"
+    ],
     "keywords": [
       "xing-qi-yi-tian-qi-qing-wo-li-kai-ni"
     ],
     "summary": "《Xing QI YI Tian QI Qing WO LI Kai NI》的解读正在整理中。",
     "favoriteLevel": "low",
     "hasDeepRead": true,
-    "relatedSongs": [],
+    "relatedSongs": [
+      "180-du",
+      "ai-cong-ling-kai-shi"
+    ],
     "status": "ready"
   },
   {
@@ -3236,15 +4129,22 @@
     "albumSlug": "archive-unassigned-mainline",
     "releaseYear": null,
     "era": "9999 时期",
-    "moodTags": [],
-    "themeTags": [],
+    "moodTags": [
+      "回望"
+    ],
+    "themeTags": [
+      "关系变化"
+    ],
     "keywords": [
       "xu-yao-ni"
     ],
     "summary": "《XU Yao NI》的解读正在整理中。",
     "favoriteLevel": "low",
     "hasDeepRead": true,
-    "relatedSongs": [],
+    "relatedSongs": [
+      "180-du",
+      "ai-cong-ling-kai-shi"
+    ],
     "status": "ready"
   },
   {
@@ -3253,15 +4153,22 @@
     "albumSlug": "archive-unassigned-mainline",
     "releaseYear": null,
     "era": "9999 时期",
-    "moodTags": [],
-    "themeTags": [],
+    "moodTags": [
+      "回望"
+    ],
+    "themeTags": [
+      "关系变化"
+    ],
     "keywords": [
       "xuan-wo"
     ],
     "summary": "《Xuan WO》的解读正在整理中。",
     "favoriteLevel": "low",
     "hasDeepRead": true,
-    "relatedSongs": [],
+    "relatedSongs": [
+      "180-du",
+      "ai-cong-ling-kai-shi"
+    ],
     "status": "ready"
   },
   {
@@ -3270,15 +4177,22 @@
     "albumSlug": "archive-unassigned-mainline",
     "releaseYear": null,
     "era": "9999 时期",
-    "moodTags": [],
-    "themeTags": [],
+    "moodTags": [
+      "回望"
+    ],
+    "themeTags": [
+      "关系变化"
+    ],
     "keywords": [
       "xue-hui"
     ],
     "summary": "《Xue Hui》的解读正在整理中。",
     "favoriteLevel": "low",
     "hasDeepRead": true,
-    "relatedSongs": [],
+    "relatedSongs": [
+      "180-du",
+      "ai-cong-ling-kai-shi"
+    ],
     "status": "ready"
   },
   {
@@ -3287,15 +4201,22 @@
     "albumSlug": "archive-unassigned-mainline",
     "releaseYear": null,
     "era": "9999 时期",
-    "moodTags": [],
-    "themeTags": [],
+    "moodTags": [
+      "回望"
+    ],
+    "themeTags": [
+      "关系变化"
+    ],
     "keywords": [
       "yan-shen"
     ],
     "summary": "《Yan Shen》的解读正在整理中。",
     "favoriteLevel": "low",
     "hasDeepRead": true,
-    "relatedSongs": [],
+    "relatedSongs": [
+      "180-du",
+      "ai-cong-ling-kai-shi"
+    ],
     "status": "ready"
   },
   {
@@ -3304,15 +4225,22 @@
     "albumSlug": "archive-unassigned-mainline",
     "releaseYear": null,
     "era": "9999 时期",
-    "moodTags": [],
-    "themeTags": [],
+    "moodTags": [
+      "回望"
+    ],
+    "themeTags": [
+      "关系变化"
+    ],
     "keywords": [
       "yang-zi"
     ],
     "summary": "《Yang ZI》的解读正在整理中。",
     "favoriteLevel": "low",
     "hasDeepRead": true,
-    "relatedSongs": [],
+    "relatedSongs": [
+      "180-du",
+      "ai-cong-ling-kai-shi"
+    ],
     "status": "ready"
   },
   {
@@ -3321,15 +4249,22 @@
     "albumSlug": "archive-unassigned-mainline",
     "releaseYear": null,
     "era": "9999 时期",
-    "moodTags": [],
-    "themeTags": [],
+    "moodTags": [
+      "回望"
+    ],
+    "themeTags": [
+      "关系变化"
+    ],
     "keywords": [
       "yi-qi-zou-dao"
     ],
     "summary": "《YI QI Zou Dao》的解读正在整理中。",
     "favoriteLevel": "low",
     "hasDeepRead": true,
-    "relatedSongs": [],
+    "relatedSongs": [
+      "180-du",
+      "ai-cong-ling-kai-shi"
+    ],
     "status": "ready"
   },
   {
@@ -3338,15 +4273,22 @@
     "albumSlug": "archive-unassigned-mainline",
     "releaseYear": null,
     "era": "9999 时期",
-    "moodTags": [],
-    "themeTags": [],
+    "moodTags": [
+      "回望"
+    ],
+    "themeTags": [
+      "关系变化"
+    ],
     "keywords": [
       "yi-yang-de-xia-tian"
     ],
     "summary": "《YI Yang DE Xia Tian》的解读正在整理中。",
     "favoriteLevel": "low",
     "hasDeepRead": true,
-    "relatedSongs": [],
+    "relatedSongs": [
+      "180-du",
+      "ai-cong-ling-kai-shi"
+    ],
     "status": "ready"
   },
   {
@@ -3355,15 +4297,22 @@
     "albumSlug": "archive-unassigned-mainline",
     "releaseYear": null,
     "era": "9999 时期",
-    "moodTags": [],
-    "themeTags": [],
+    "moodTags": [
+      "回望"
+    ],
+    "themeTags": [
+      "关系变化"
+    ],
     "keywords": [
       "yong-gan"
     ],
     "summary": "《Yong Gan》的解读正在整理中。",
     "favoriteLevel": "low",
     "hasDeepRead": true,
-    "relatedSongs": [],
+    "relatedSongs": [
+      "180-du",
+      "ai-cong-ling-kai-shi"
+    ],
     "status": "ready"
   },
   {
@@ -3372,15 +4321,22 @@
     "albumSlug": "archive-unassigned-mainline",
     "releaseYear": null,
     "era": "9999 时期",
-    "moodTags": [],
-    "themeTags": [],
+    "moodTags": [
+      "回望"
+    ],
+    "themeTags": [
+      "关系变化"
+    ],
     "keywords": [
       "yong-yuan"
     ],
     "summary": "《Yong Yuan》的解读正在整理中。",
     "favoriteLevel": "low",
     "hasDeepRead": true,
-    "relatedSongs": [],
+    "relatedSongs": [
+      "180-du",
+      "ai-cong-ling-kai-shi"
+    ],
     "status": "ready"
   },
   {
@@ -3389,15 +4345,22 @@
     "albumSlug": "archive-unassigned-mainline",
     "releaseYear": null,
     "era": "9999 时期",
-    "moodTags": [],
-    "themeTags": [],
+    "moodTags": [
+      "回望"
+    ],
+    "themeTags": [
+      "关系变化"
+    ],
     "keywords": [
       "zai-ye-bu-jian"
     ],
     "summary": "《Zai YE BU Jian》的解读正在整理中。",
     "favoriteLevel": "low",
     "hasDeepRead": true,
-    "relatedSongs": [],
+    "relatedSongs": [
+      "180-du",
+      "ai-cong-ling-kai-shi"
+    ],
     "status": "ready"
   },
   {
@@ -3406,15 +4369,22 @@
     "albumSlug": "start-live",
     "releaseYear": null,
     "era": "2002 时期",
-    "moodTags": [],
-    "themeTags": [],
+    "moodTags": [
+      "回望"
+    ],
+    "themeTags": [
+      "关系变化"
+    ],
     "keywords": [
       "zhen-de-start-concert"
     ],
     "summary": "《Zhen DE Start Concert》的解读正在整理中。",
     "favoriteLevel": "low",
     "hasDeepRead": true,
-    "relatedSongs": [],
+    "relatedSongs": [
+      "ai-qing-zheng-shu-start-concert",
+      "ai-qing-zi-dian-start-concert"
+    ],
     "status": "ready"
   },
   {
@@ -3423,15 +4393,22 @@
     "albumSlug": "archive-unassigned-mainline",
     "releaseYear": null,
     "era": "9999 时期",
-    "moodTags": [],
-    "themeTags": [],
+    "moodTags": [
+      "回望"
+    ],
+    "themeTags": [
+      "关系变化"
+    ],
     "keywords": [
       "zhong-jian-di-dai"
     ],
     "summary": "《Zhong Jian DI Dai》的解读正在整理中。",
     "favoriteLevel": "low",
     "hasDeepRead": true,
-    "relatedSongs": [],
+    "relatedSongs": [
+      "180-du",
+      "ai-cong-ling-kai-shi"
+    ],
     "status": "ready"
   },
   {
@@ -3440,15 +4417,22 @@
     "albumSlug": "archive-unassigned-mainline",
     "releaseYear": null,
     "era": "9999 时期",
-    "moodTags": [],
-    "themeTags": [],
+    "moodTags": [
+      "回望"
+    ],
+    "themeTags": [
+      "关系变化"
+    ],
     "keywords": [
       "zhong-yu"
     ],
     "summary": "《Zhong YU》的解读正在整理中。",
     "favoriteLevel": "low",
     "hasDeepRead": true,
-    "relatedSongs": [],
+    "relatedSongs": [
+      "180-du",
+      "ai-cong-ling-kai-shi"
+    ],
     "status": "ready"
   },
   {
@@ -3457,15 +4441,22 @@
     "albumSlug": "alternate-versions-archive",
     "releaseYear": null,
     "era": "9999 时期",
-    "moodTags": [],
-    "themeTags": [],
+    "moodTags": [
+      "回望"
+    ],
+    "themeTags": [
+      "关系变化"
+    ],
     "keywords": [
       "zhong-yu-2"
     ],
     "summary": "《Zhong YU 2》的解读正在整理中。",
     "favoriteLevel": "low",
     "hasDeepRead": true,
-    "relatedSongs": [],
+    "relatedSongs": [
+      "e-lover-2",
+      "sweet-child-o-mine-2"
+    ],
     "status": "ready"
   },
   {
@@ -3474,15 +4465,22 @@
     "albumSlug": "archive-unassigned-mainline",
     "releaseYear": null,
     "era": "9999 时期",
-    "moodTags": [],
-    "themeTags": [],
+    "moodTags": [
+      "回望"
+    ],
+    "themeTags": [
+      "关系变化"
+    ],
     "keywords": [
       "zhui"
     ],
     "summary": "《Zhui》的解读正在整理中。",
     "favoriteLevel": "low",
     "hasDeepRead": true,
-    "relatedSongs": [],
+    "relatedSongs": [
+      "180-du",
+      "ai-cong-ling-kai-shi"
+    ],
     "status": "ready"
   },
   {
@@ -3491,15 +4489,22 @@
     "albumSlug": "archive-unassigned-mainline",
     "releaseYear": null,
     "era": "9999 时期",
-    "moodTags": [],
-    "themeTags": [],
+    "moodTags": [
+      "回望"
+    ],
+    "themeTags": [
+      "关系变化"
+    ],
     "keywords": [
       "zuo-zhan"
     ],
     "summary": "《Zuo Zhan》的解读正在整理中。",
     "favoriteLevel": "low",
     "hasDeepRead": true,
-    "relatedSongs": [],
+    "relatedSongs": [
+      "180-du",
+      "ai-cong-ling-kai-shi"
+    ],
     "status": "ready"
   }
 ]

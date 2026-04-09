@@ -24,6 +24,7 @@ export default function RootLayout({ children }: { children: ReactNode }) {
               <Link href="/songs">歌曲</Link>
               <Link href="/albums">专辑</Link>
               <Link href="/timeline">时间线</Link>
+              <Link href="/feedback">建议</Link>
             </nav>
           </header>
           {children}

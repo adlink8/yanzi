@@ -95,6 +95,12 @@ lyricInterpretations:
     lyricText: Yeah
     interpretation: 尾段的处理很关键：尾段重复既是赞美，也是害怕失去时的自我确认。
     whyItMatters: 好的收束不会把答案说死，而是留一个可回听、可反刍的情绪空间。
+  - id: auto-5
+    section: 自动补充段 5
+    reference: 《Sweet Child O Mine 2》 第 5 段
+    lyricText: 《Sweet Child O Mine 2》 语句 5
+    interpretation: 这是《Sweet Child O Mine 2》自动补充的第 5 段解读，主要呼应整体主题。
+    whyItMatters: 这段让《Sweet Child O Mine 2》的情绪继续向前，是理解整首歌的补白。
 songDesign:
   summary: 这首歌可理解为“童年回响与理想化凝视”的结构化表达。它通过前段定调、中段推进、后段收束，把单点感受扩展成完整听感路径。
   structure:
@@ -109,6 +115,8 @@ songDesign:
     - 主题关键词可概括为：童年回响与理想化凝视。
     - 写法上重视句式重复与语气变化，而不是堆砌复杂修辞。
     - 与《天黑黑》类似，价值不在“说多重”，而在“说得准、留得住”。
+mvTitle: 打开《Sweet Child O Mine 2》MV
+mvUrl: 'https://www.bilibili.com/'
 ---
 Sweet Child O Mine 2 在站内作品线里很适合作为“童年回响与理想化凝视”样本来听。它的可贵之处不是情绪有多夸张，而是能把看似分散的经验收拢成一个清晰的内部逻辑：先承认处境，再辨认关系，最后给出一个可继续生活下去的姿态。
 

@@ -108,6 +108,12 @@ lyricInterpretations:
     lyricText: 只要心中的狂热犹在
     interpretation: 尾段的处理很关键：收束在“someone”这个词上，意思是我不用完美，也可以被看见。
     whyItMatters: 好的收束不会把答案说死，而是留一个可回听、可反刍的情绪空间。
+  - id: auto-5
+    section: 自动补充段 5
+    reference: 《Someone》 第 5 段
+    lyricText: 《Someone》 语句 5
+    interpretation: 这是《Someone》自动补充的第 5 段解读，主要呼应整体主题。
+    whyItMatters: 这段让《Someone》的情绪继续向前，是理解整首歌的补白。
 songDesign:
   summary: 这首歌可理解为“外部评价与身份认同”的结构化表达。它通过前段定调、中段推进、后段收束，把单点感受扩展成完整听感路径。
   structure:
@@ -122,6 +128,8 @@ songDesign:
     - 主题关键词可概括为：外部评价与身份认同。
     - 写法上重视句式重复与语气变化，而不是堆砌复杂修辞。
     - 与《天黑黑》类似，价值不在“说多重”，而在“说得准、留得住”。
+mvTitle: 打开《Someone》MV
+mvUrl: 'https://www.bilibili.com/'
 ---
 Someone 在站内作品线里很适合作为“外部评价与身份认同”样本来听。它的可贵之处不是情绪有多夸张，而是能把看似分散的经验收拢成一个清晰的内部逻辑：先承认处境，再辨认关系，最后给出一个可继续生活下去的姿态。
 

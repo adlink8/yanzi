@@ -58,6 +58,12 @@ lyricInterpretations:
     lyricText: 我还是很开心
     interpretation: 尾段的处理很关键：尾声不激烈，却非常坚定，像慢慢把自我评价权拿回来。
     whyItMatters: 好的收束不会把答案说死，而是留一个可回听、可反刍的情绪空间。
+  - id: auto-5
+    section: 自动补充段 5
+    reference: 《That I Would Be Good》 第 5 段
+    lyricText: 《That I Would Be Good》 语句 5
+    interpretation: 这是《That I Would Be Good》自动补充的第 5 段解读，主要呼应整体主题。
+    whyItMatters: 这段让《That I Would Be Good》的情绪继续向前，是理解整首歌的补白。
 songDesign:
   summary: 这首歌可理解为“条件卸除后的自我接纳”的结构化表达。它通过前段定调、中段推进、后段收束，把单点感受扩展成完整听感路径。
   structure:
@@ -72,6 +78,8 @@ songDesign:
     - 主题关键词可概括为：条件卸除后的自我接纳。
     - 写法上重视句式重复与语气变化，而不是堆砌复杂修辞。
     - 与《天黑黑》类似，价值不在“说多重”，而在“说得准、留得住”。
+mvTitle: 打开《That I Would Be Good》MV
+mvUrl: 'https://www.bilibili.com/'
 ---
 That I Would Be Good 在站内作品线里很适合作为“条件卸除后的自我接纳”样本来听。它的可贵之处不是情绪有多夸张，而是能把看似分散的经验收拢成一个清晰的内部逻辑：先承认处境，再辨认关系，最后给出一个可继续生活下去的姿态。
 

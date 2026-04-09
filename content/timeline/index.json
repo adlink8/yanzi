@@ -2,9 +2,9 @@
   {
     "id": "yanzi-2000",
     "date": "2000-06-08",
-    "title": "发行《同名专辑 (Remastered)》时期作品",
+    "title": "《孙燕姿同名专辑》时期",
     "type": "album",
-    "description": "《天黑黑》打开大众认知，也奠定了早期作品里清澈、温柔与直接并存的底色。",
+    "description": "以清澈、直接又带民谣感的表达打开大众认知，是燕姿作品脉络的起点。",
     "relatedAlbumSlug": "yanzi"
   },
   {
@@ -12,7 +12,7 @@
     "date": "2000-12-07",
     "title": "《我要的幸福》时期",
     "type": "album",
-    "description": "在出道之年继续扩展个人表达，像《开始懂了》这样的作品逐渐形成更成熟的情感说服力。",
+    "description": "在出道之年继续扩展个人表达，把成长、确认和向前的姿态写得更稳。",
     "relatedAlbumSlug": "wo-yao-de-xing-fu"
   },
   {
@@ -20,23 +20,23 @@
     "date": "2001-07-09",
     "title": "《风筝》时期",
     "type": "album",
-    "description": "《绿光》《风筝》等作品让早期明亮流行感与自由、距离主题同时展开。",
+    "description": "在明亮流行感之外加入自由、距离和前卫气息，是早期风格扩张的重要一步。",
     "relatedAlbumSlug": "feng-zheng"
   },
   {
-    "id": "start-era",
+    "id": "start-2002",
     "date": "2002-01-01",
     "title": "《Start 自选集》时期",
     "type": "album",
-    "description": "与《Start 自选集》相关的时期资料整理中。",
+    "description": "《Start 自选集》资料整理中。",
     "relatedAlbumSlug": "start"
   },
   {
-    "id": "leave-era",
+    "id": "leave-2002",
     "date": "2002-08-22",
     "title": "《Leave》时期",
     "type": "album",
-    "description": "与《Leave》相关的时期资料整理中。",
+    "description": "《Leave》资料整理中。",
     "relatedAlbumSlug": "leave"
   },
   {
@@ -44,7 +44,7 @@
     "date": "2002-12-01",
     "title": "《Start Live》时期",
     "type": "album",
-    "description": "与《Start Live》相关的时期资料整理中。",
+    "description": "《Start Live》资料整理中。",
     "relatedAlbumSlug": "start-live"
   },
   {
@@ -52,7 +52,7 @@
     "date": "2003-01-07",
     "title": "《未完成》时期",
     "type": "album",
-    "description": "开始更稳定地进入复杂关系与成年情绪语境，《我不难过》是重要节点。",
+    "description": "开始更稳定地处理复杂关系与成年人语境，许多经典情歌的成熟气质在这里成形。",
     "relatedAlbumSlug": "wei-wan-cheng"
   },
   {
@@ -60,15 +60,15 @@
     "date": "2003-08-19",
     "title": "《The Moment》时期",
     "type": "album",
-    "description": "阶段感更强，也承接了《遇见》这类高辨识度作品在大众层面的扩散。",
+    "description": "像一次阶段性的凝视与整理，也承接了这一时期的重要大众记忆。",
     "relatedAlbumSlug": "the-moment"
   },
   {
-    "id": "stefanie-2004",
+    "id": "stefanie-self-titled-2004",
     "date": "2004-10-29",
-    "title": "《孙燕姿Stefanie同名专辑》时期",
+    "title": "《孙燕姿 Stefanie 同名专辑》时期",
     "type": "album",
-    "description": "重新整理个人表达的位置，《我也很想他》是这一时期很典型的成熟私语型作品。",
+    "description": "重新整理个人表达的位置，既有成熟感，也保留柔软与私语。",
     "relatedAlbumSlug": "stefanie-self-titled"
   },
   {
@@ -76,7 +76,7 @@
     "date": "2005-10-07",
     "title": "《完美的一天》时期",
     "type": "album",
-    "description": "与《完美的一天》相关的时期资料整理中。",
+    "description": "在成熟与轻盈之间保持平衡，也让日常生活感进入代表作序列。",
     "relatedAlbumSlug": "wan-mei-de-yi-tian"
   },
   {
@@ -84,7 +84,7 @@
     "date": "2006-09-22",
     "title": "《My Story, Your Song》时期",
     "type": "album",
-    "description": "与《My Story, Your Song》相关的时期资料整理中。",
+    "description": "像一次阶段性的整理与回看，把重要作品重新放到同一张精选里。",
     "relatedAlbumSlug": "my-story"
   },
   {
@@ -92,15 +92,15 @@
     "date": "2007-05-02",
     "title": "《逆光》时期",
     "type": "album",
-    "description": "成熟表达与大众传唱强度在这一时期取得很高平衡，《我怀念的》成为代表作之一。",
+    "description": "在成熟表达与大众传唱之间取得很强平衡，是这一时期的重要代表作。",
     "relatedAlbumSlug": "ni-guang"
   },
   {
-    "id": "shou-hu-yong-heng-de-ai-single",
+    "id": "shou-hu-yong-heng-de-ai-single-2010",
     "date": "2010-01-01",
-    "title": "《Shou HU Yong Heng DE AI Single》时期",
+    "title": "《Shou Hu Yong Heng De Ai Single》时期",
     "type": "album",
-    "description": "与《Shou HU Yong Heng DE AI Single》相关的时期资料整理中。",
+    "description": "《Shou HU Yong Heng DE AI Single》资料整理中。",
     "relatedAlbumSlug": "shou-hu-yong-heng-de-ai-single"
   },
   {
@@ -108,7 +108,7 @@
     "date": "2011-03-08",
     "title": "《是时候》时期",
     "type": "album",
-    "description": "与《是时候》相关的时期资料整理中。",
+    "description": "更集中地处理语言、判断、关系困局与成熟后的心理压强。",
     "relatedAlbumSlug": "shi-shi-hou"
   },
   {
@@ -116,79 +116,71 @@
     "date": "2014-02-27",
     "title": "《克卜勒》时期",
     "type": "album",
-    "description": "与《克卜勒》相关的时期资料整理中。",
+    "description": "把宇宙感、时间感、城市感和成熟关系感收束到一个更凝练的后期阶段。",
     "relatedAlbumSlug": "ke-bu-le"
   },
   {
-    "id": "ban-ju-zai-jian-single",
+    "id": "ban-ju-zai-jian-single-2015",
     "date": "2015-01-01",
-    "title": "《Ban JU Zai Jian Single》时期",
+    "title": "《Ban Ju Zai Jian Single》时期",
     "type": "album",
-    "description": "与《Ban JU Zai Jian Single》相关的时期资料整理中。",
+    "description": "《Ban JU Zai Jian Single》资料整理中。",
     "relatedAlbumSlug": "ban-ju-zai-jian-single"
   },
   {
-    "id": "shi-jie-zhong-jie-qian-yi-tian-single",
+    "id": "shi-jie-zhong-jie-qian-yi-tian-single-2017",
     "date": "2017-01-01",
-    "title": "《Shi Jie Zhong Jie Qian YI Tian Single》时期",
+    "title": "《Shi Jie Zhong Jie Qian Yi Tian Single》时期",
     "type": "album",
-    "description": "与《Shi Jie Zhong Jie Qian YI Tian Single》相关的时期资料整理中。",
+    "description": "《Shi Jie Zhong Jie Qian YI Tian Single》资料整理中。",
     "relatedAlbumSlug": "shi-jie-zhong-jie-qian-yi-tian-single"
   },
   {
-    "id": "cai-hong-jin-gang-ep",
-    "date": "2019-01-01",
-    "title": "《Cai Hong Jin Gang EP》时期",
+    "id": "no-13-2017",
+    "date": "2017-01-01",
+    "title": "《No.13 作品：跳舞的梵谷》时期",
     "type": "album",
-    "description": "与《Cai Hong Jin Gang EP》相关的时期资料整理中。",
+    "description": "《No.13 作品：跳舞的梵谷》资料整理中。",
+    "relatedAlbumSlug": "no-13"
+  },
+  {
+    "id": "cai-hong-jin-gang-ep-2019",
+    "date": "2019-01-01",
+    "title": "《Cai Hong Jin Gang Ep》时期",
+    "type": "album",
+    "description": "《Cai Hong Jin Gang EP》资料整理中。",
     "relatedAlbumSlug": "cai-hong-jin-gang-ep"
   },
   {
-    "id": "zui-hou-zhi-hou-single",
+    "id": "yu-e-single-2024",
     "date": "2024-01-01",
-    "title": "《最后之后 - Single》时期",
+    "title": "《Yu E Single》时期",
     "type": "album",
-    "description": "与《最后之后 - Single》相关的时期资料整理中。",
-    "relatedAlbumSlug": "zui-hou-zhi-hou-single"
-  },
-  {
-    "id": "yu-e-single",
-    "date": "2024-01-01",
-    "title": "《YU E Single》时期",
-    "type": "album",
-    "description": "与《YU E Single》相关的时期资料整理中。",
+    "description": "《YU E Single》资料整理中。",
     "relatedAlbumSlug": "yu-e-single"
   },
   {
-    "id": "ri-luo-single",
+    "id": "zui-hou-zhi-hou-single-2024",
+    "date": "2024-01-01",
+    "title": "《最后之后 - Single》时期",
+    "type": "album",
+    "description": "聚焦终点之后的余波与继续，是近年成熟单曲样本。",
+    "relatedAlbumSlug": "zui-hou-zhi-hou-single"
+  },
+  {
+    "id": "ri-luo-single-2025",
     "date": "2025-01-01",
     "title": "《日落 - Single》时期",
     "type": "album",
-    "description": "与《日落 - Single》相关的时期资料整理中。",
+    "description": "以光线退场和傍晚时间感组织情绪的近年单曲。",
     "relatedAlbumSlug": "ri-luo-single"
   },
   {
-    "id": "fei-pu-er-xia-single",
+    "id": "fei-pu-er-xia-single-2026",
     "date": "2026-01-01",
     "title": "《飞瀑而下 - Single》时期",
     "type": "album",
-    "description": "与《飞瀑而下 - Single》相关的时期资料整理中。",
+    "description": "近年的高动态单曲，强调冲刷式情绪与强动作感。",
     "relatedAlbumSlug": "fei-pu-er-xia-single"
-  },
-  {
-    "id": "alternate-versions-archive",
-    "date": "2099-01-02",
-    "title": "《Alternate Versions Archive》时期",
-    "type": "album",
-    "description": "与《Alternate Versions Archive》相关的时期资料整理中。",
-    "relatedAlbumSlug": "alternate-versions-archive"
-  },
-  {
-    "id": "english-cover-archive",
-    "date": "2099-01-03",
-    "title": "《English Cover Archive》时期",
-    "type": "album",
-    "description": "与《English Cover Archive》相关的时期资料整理中。",
-    "relatedAlbumSlug": "english-cover-archive"
   }
 ]

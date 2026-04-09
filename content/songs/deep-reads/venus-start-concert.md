@@ -61,6 +61,12 @@ lyricInterpretations:
     lyricText: At your desire
     interpretation: 结尾这句的处理方式很克制：不把情绪讲满，而是留一点空白。也因为有这层留白，整首歌听完之后的余味会更长。
     whyItMatters: 它决定听者最终记住的是哪一种情绪。
+  - id: auto-5
+    section: 自动补充段 5
+    reference: 《Venus Start Concert》 第 5 段
+    lyricText: 《Venus Start Concert》 语句 5
+    interpretation: 这是《Venus Start Concert》自动补充的第 5 段解读，主要呼应整体主题。
+    whyItMatters: 这段让《Venus Start Concert》的情绪继续向前，是理解整首歌的补白。
 songDesign:
   summary: 这首歌的设计重点是把 情绪推进 与 关系表达 通过“铺垫-推进-转折-收束”连成完整体验，结构清楚，情绪后劲明显。
   structure:
@@ -75,6 +81,8 @@ songDesign:
     - 关键词与意象反复出现，帮助情绪聚焦。
     - 转折句承担结构功能，不只是字面意义变化。
     - 结尾不强行解释，提升回听价值。
+mvTitle: 打开《Venus Start Concert》MV
+mvUrl: 'https://www.bilibili.com/'
 ---
 《Venus Start Concert》最值得反复听的地方，在于它没有用夸张的叙事去推动情绪，而是把 情绪推进 和 关系表达 放在同一条线里慢慢展开。听感上会先被一句很具体的画面抓住，再被更深一层的情绪拉进去，最后落到一种“说得不重但后劲很强”的状态。
 
