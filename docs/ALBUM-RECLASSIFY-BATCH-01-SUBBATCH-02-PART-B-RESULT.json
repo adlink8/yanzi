@@ -1,0 +1,12 @@
+{
+  "generatedAt": "2026-04-10T09:19:49Z",
+  "batch": "mainline-manual-02-part-b",
+  "scope": 5,
+  "remapped": [
+    {"slug":"mei-shi-jian","from":"archive-unassigned-mainline","to":"start","eraTo":"2002 时期","evidence":"https://www.mulanci.org/lyric/sl28423/"},
+    {"slug":"meng-bu-luo","from":"archive-unassigned-mainline","to":"wan-mei-de-yi-tian","eraTo":"阶段平衡","evidence":"https://www.mulanci.org/lyric/sa4829/"},
+    {"slug":"meng-xiang-tian-kong","from":"archive-unassigned-mainline","to":"my-story","eraTo":"阶段回看","evidence":"https://www.mulanci.org/lyric/sl28295/"},
+    {"slug":"ming-tian-de-ji-yi","from":"archive-unassigned-mainline","to":"shi-shi-hou","eraTo":"成熟内省","evidence":"https://www.mulanci.org/lyric/sl28221/"},
+    {"slug":"ming-tian-qing-tian","from":"archive-unassigned-mainline","to":"wan-mei-de-yi-tian","eraTo":"阶段平衡","evidence":"https://www.mulanci.org/lyric/sa4829/"}
+  ]
+}

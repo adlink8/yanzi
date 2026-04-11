@@ -1,0 +1,31 @@
+{
+  "title": "CATALOG NORMALIZATION AUDIT",
+  "generatedAt": "2026-04-10T06:43:47.130Z",
+  "totals": {
+    "songs": 184,
+    "albums": 29,
+    "uniqueSongSlugs": 184
+  },
+  "issues": {
+    "missingAlbumSlug": [],
+    "albumSlugNotFound": [],
+    "duplicateSongSlug": [],
+    "missingDeepRead": [],
+    "missingRawLyrics": [],
+    "unusedAlbums": [
+      "leave",
+      "start",
+      "archive-live-start-concert",
+      "archive-alternate-versions",
+      "archive-english-cover-candidates"
+    ]
+  },
+  "summary": {
+    "missingAlbumSlugCount": 0,
+    "albumSlugNotFoundCount": 0,
+    "duplicateSongSlugCount": 0,
+    "missingDeepReadCount": 0,
+    "missingRawLyricsCount": 0,
+    "unusedAlbumsCount": 5
+  }
+}

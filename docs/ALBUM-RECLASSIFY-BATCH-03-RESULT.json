@@ -1,0 +1,36 @@
+{
+  "generatedAt": "2026-04-10T08:24:24.942Z",
+  "scope": 5,
+  "remapped": [
+    {
+      "slug": "e-lover-2",
+      "from": "alternate-versions-archive",
+      "to": "yanzi",
+      "eraFrom": "9999 时期",
+      "eraTo": "出道起点",
+      "reason": "canonical_slug_match_non_archive_album"
+    },
+    {
+      "slug": "wei-zhi-de-jing-cai-2",
+      "from": "alternate-versions-archive",
+      "to": "stefanie-self-titled",
+      "eraFrom": "9999 时期",
+      "eraTo": "自我整合",
+      "reason": "canonical_slug_match_non_archive_album"
+    }
+  ],
+  "unchanged": [
+    {
+      "slug": "sweet-child-o-mine-2",
+      "reason": "canonical_album_is_archive_bucket"
+    },
+    {
+      "slug": "tian-yue-liang-ye-yue-hei-2",
+      "reason": "canonical_album_is_archive_bucket"
+    },
+    {
+      "slug": "zhong-yu-2",
+      "reason": "canonical_album_is_archive_bucket"
+    }
+  ]
+}

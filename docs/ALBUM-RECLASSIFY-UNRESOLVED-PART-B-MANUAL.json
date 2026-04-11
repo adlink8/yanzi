@@ -1,0 +1,22 @@
+{
+  "generatedAt": "2026-04-10T09:36:36Z",
+  "scope": 3,
+  "highConfidence": [],
+  "manualRequired": [
+    {
+      "slug": "ni-hao-bu-hao",
+      "reason": "No clear album signal in local index/history; current classification remains archive-unassigned-mainline with insufficient_signal_manual_decision_required.",
+      "candidateAlbums": []
+    },
+    {
+      "slug": "on-the-road",
+      "reason": "No clear album signal in local index/history; current classification remains archive-unassigned-mainline with insufficient_signal_manual_decision_required.",
+      "candidateAlbums": []
+    },
+    {
+      "slug": "quan-xin-quan-yi",
+      "reason": "No clear album signal in local index/history; current classification remains archive-unassigned-mainline with insufficient_signal_manual_decision_required.",
+      "candidateAlbums": []
+    }
+  ]
+}

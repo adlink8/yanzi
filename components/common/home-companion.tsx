@@ -10,6 +10,7 @@ type CompanionSong = {
   summary: string
   moodTags: string[]
   themeTags: string[]
+  era: string
 }
 
 type HomeCompanionProps = {
@@ -34,13 +35,13 @@ export function HomeCompanion({ dailySong, randomPool }: HomeCompanionProps) {
     <section className="grid gap-6 md:grid-cols-2">
       <div className="card space-y-4">
         <div>
-          <h2 className="text-xl font-semibold">今天适合听什么</h2>
+          <h2 className="font-serif text-xl font-semibold">今天适合听什么</h2>
           <p className="mt-1 text-sm text-muted">每天给你一首站内优先回看的歌，适合慢慢重听。</p>
         </div>
 
         {dailySong && dailyHref ? (
-          <Link href={dailyHref} className="block rounded-2xl border border-line p-4 no-underline hover:bg-paper">
-            <p className="text-lg font-medium">{dailySong.title}</p>
+          <Link href={dailyHref} className="block rounded-2xl border border-line p-4 no-underline hover:bg-paper" data-era={dailySong.era}>
+            <p className="font-serif text-lg font-medium">{dailySong.title}</p>
             <p className="mt-2 text-sm text-muted">{dailySong.summary}</p>
             <div className="mt-3 flex flex-wrap gap-2">
               {[...dailySong.moodTags, ...dailySong.themeTags].slice(0, 5).map((tag, index) => (
@@ -55,17 +56,17 @@ export function HomeCompanion({ dailySong, randomPool }: HomeCompanionProps) {
 
       <div className="card space-y-4">
         <div>
-          <h2 className="text-xl font-semibold">随机回听一首</h2>
+          <h2 className="font-serif text-xl font-semibold">随机回听一首</h2>
           <p className="mt-1 text-sm text-muted">当你不确定听什么时，交给这个入口。</p>
         </div>
 
-        <button type="button" onClick={handlePickRandom} className="rounded-full bg-ink px-5 py-2 text-sm text-white">
+        <button type="button" onClick={handlePickRandom} className="rounded-full bg-ink px-5 py-2 text-sm text-white hover:opacity-80 transition-opacity">
           随机来一首
         </button>
 
         {randomSong ? (
-          <Link href={`/songs/${randomSong.slug}` as Route} className="block rounded-2xl border border-line p-4 no-underline hover:bg-paper">
-            <p className="text-lg font-medium">{randomSong.title}</p>
+          <Link href={`/songs/${randomSong.slug}` as Route} className="block rounded-2xl border border-line p-4 no-underline hover:bg-paper" data-era={randomSong.era}>
+            <p className="font-serif text-lg font-medium">{randomSong.title}</p>
             <p className="mt-2 text-sm text-muted">{randomSong.summary}</p>
             <div className="mt-3 flex flex-wrap gap-2">
               {[...randomSong.moodTags, ...randomSong.themeTags].slice(0, 5).map((tag, index) => (

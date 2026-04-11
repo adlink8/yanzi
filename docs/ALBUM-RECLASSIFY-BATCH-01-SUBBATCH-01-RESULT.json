@@ -1,0 +1,92 @@
+{
+  "generatedAt": "2026-04-10T08:32:31.738Z",
+  "batch": "mainline-manual-01",
+  "scope": 12,
+  "changed": 12,
+  "remapped": [
+    {
+      "slug": "180-du",
+      "from": "archive-unassigned-mainline",
+      "to": "shi-shi-hou",
+      "eraFrom": "9999 时期",
+      "eraTo": "成熟内省"
+    },
+    {
+      "slug": "ai-cong-ling-kai-shi",
+      "from": "archive-unassigned-mainline",
+      "to": "leave",
+      "eraFrom": "9999 时期",
+      "eraTo": "2002 时期"
+    },
+    {
+      "slug": "bu-neng-he-ni-yi-qi",
+      "from": "archive-unassigned-mainline",
+      "to": "the-moment",
+      "eraFrom": "9999 时期",
+      "eraTo": "阶段节点"
+    },
+    {
+      "slug": "bu-shi-zhen-de-ai-wo",
+      "from": "archive-unassigned-mainline",
+      "to": "feng-zheng",
+      "eraFrom": "9999 时期",
+      "eraTo": "展开期"
+    },
+    {
+      "slug": "bu-tong",
+      "from": "archive-unassigned-mainline",
+      "to": "leave",
+      "eraFrom": "9999 时期",
+      "eraTo": "2002 时期"
+    },
+    {
+      "slug": "chao-ren-lei",
+      "from": "archive-unassigned-mainline",
+      "to": "no-13",
+      "eraFrom": "9999 时期",
+      "eraTo": "2017 时期"
+    },
+    {
+      "slug": "dang-dong-ye-jian-nuan",
+      "from": "archive-unassigned-mainline",
+      "to": "shi-shi-hou",
+      "eraFrom": "9999 时期",
+      "eraTo": "成熟内省"
+    },
+    {
+      "slug": "dong-shi",
+      "from": "archive-unassigned-mainline",
+      "to": "leave",
+      "eraFrom": "9999 时期",
+      "eraTo": "2002 时期"
+    },
+    {
+      "slug": "fan-guo-lai-zou-zou",
+      "from": "archive-unassigned-mainline",
+      "to": "stefanie-self-titled",
+      "eraFrom": "9999 时期",
+      "eraTo": "自我整合"
+    },
+    {
+      "slug": "guan-yu",
+      "from": "archive-unassigned-mainline",
+      "to": "ni-guang",
+      "eraFrom": "9999 时期",
+      "eraTo": "成熟高峰"
+    },
+    {
+      "slug": "he-ping",
+      "from": "archive-unassigned-mainline",
+      "to": "yanzi",
+      "eraFrom": "9999 时期",
+      "eraTo": "出道起点"
+    },
+    {
+      "slug": "jiu-shi-zhe-yang",
+      "from": "archive-unassigned-mainline",
+      "to": "start",
+      "eraFrom": "9999 时期",
+      "eraTo": "2002 时期"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "generatedAt": "2026-04-10T09:45:05.357Z",
+  "scope": 8,
+  "albumsAdded": 3,
+  "appliedMappings": [
+    {
+      "slug": "ni-ming-wan-sui",
+      "to": "ni-ming-wan-sui-single"
+    },
+    {
+      "slug": "one-united-people",
+      "to": "one-united-people-single"
+    },
+    {
+      "slug": "qin-guang",
+      "to": "qin-guang-single"
+    }
+  ],
+  "songsChanged": 3,
+  "manualRemaining": [
+    {
+      "slug": "ni-hao-bu-hao",
+      "reason": "No clear album signal in local index/history; current classification remains archive-unassigned-mainline with insufficient_signal_manual_decision_required.",
+      "candidateAlbums": []
+    },
+    {
+      "slug": "on-the-road",
+      "reason": "No clear album signal in local index/history; current classification remains archive-unassigned-mainline with insufficient_signal_manual_decision_required.",
+      "candidateAlbums": []
+    },
+    {
+      "slug": "quan-xin-quan-yi",
+      "reason": "No clear album signal in local index/history; current classification remains archive-unassigned-mainline with insufficient_signal_manual_decision_required.",
+      "candidateAlbums": []
+    },
+    {
+      "slug": "ren-zhi",
+      "reason": "insufficient_signal_manual_decision_required (local worklist/proposal records show no candidate album)",
+      "candidateAlbums": []
+    },
+    {
+      "slug": "rise",
+      "reason": "insufficient_signal_manual_decision_required (local worklist/proposal records show no candidate album)",
+      "candidateAlbums": []
+    }
+  ]
+}

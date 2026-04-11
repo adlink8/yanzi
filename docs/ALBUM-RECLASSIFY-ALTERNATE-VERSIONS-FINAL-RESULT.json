@@ -1,0 +1,32 @@
+{
+  "generatedAt": "2026-04-10T10:55:33.895Z",
+  "scope": 3,
+  "strategy": "alternate version align to canonical album",
+  "songMappings": [
+    {
+      "slug": "sweet-child-o-mine-2",
+      "from": "alternate-versions-archive",
+      "to": "sweet-child-o-mine-single",
+      "eraTo": "单曲/活动单曲",
+      "confidence": "medium",
+      "reason": "Canonical slug sweet-child-o-mine exists in content/songs/index.json with albumSlug sweet-child-o-mine-single."
+    },
+    {
+      "slug": "tian-yue-liang-ye-yue-hei-2",
+      "from": "alternate-versions-archive",
+      "to": "tian-yue-liang-ye-yue-hei-single",
+      "eraTo": "单曲/活动单曲",
+      "confidence": "medium",
+      "reason": "Canonical slug tian-yue-liang-ye-yue-hei exists in content/songs/index.json with albumSlug tian-yue-liang-ye-yue-hei-single."
+    },
+    {
+      "slug": "zhong-yu-2",
+      "from": "alternate-versions-archive",
+      "to": "zhong-yu-single",
+      "eraTo": "单曲/活动单曲",
+      "confidence": "medium",
+      "reason": "Canonical slug zhong-yu exists in content/songs/index.json with albumSlug zhong-yu-single."
+    }
+  ],
+  "proposedSingleAlbums": []
+}

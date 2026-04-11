@@ -1,0 +1,14 @@
+{
+  "generatedAt": "2026-04-10T09:25:12Z",
+  "batch": "mainline-manual-03-part-b",
+  "scope": 5,
+  "remapped": [
+    {"slug":"ping-ri-kuai-le","from":"archive-unassigned-mainline","to":"no-13","evidence":"https://www.mulanci.org/lyric/s1103/"}
+  ],
+  "unresolved": [
+    {"slug":"qin-guang","reason":"likely_single_release_but_album_slug_missing_in_repo"},
+    {"slug":"quan-xin-quan-yi","reason":"insufficient_signal_manual_decision_required"},
+    {"slug":"ren-zhi","reason":"insufficient_signal_manual_decision_required"},
+    {"slug":"rise","reason":"insufficient_signal_manual_decision_required"}
+  ]
+}

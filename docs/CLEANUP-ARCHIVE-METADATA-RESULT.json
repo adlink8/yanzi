@@ -1,0 +1,20 @@
+{
+  "generatedAt": "2026-04-10T11:49:55.392Z",
+  "targets": [
+    {
+      "slug": "archive-unassigned-mainline",
+      "beforeSongSlugsCount": 69,
+      "afterSongSlugsCount": 0
+    },
+    {
+      "slug": "english-cover-archive",
+      "beforeSongSlugsCount": 13,
+      "afterSongSlugsCount": 0
+    },
+    {
+      "slug": "alternate-versions-archive",
+      "beforeSongSlugsCount": 5,
+      "afterSongSlugsCount": 0
+    }
+  ]
+}

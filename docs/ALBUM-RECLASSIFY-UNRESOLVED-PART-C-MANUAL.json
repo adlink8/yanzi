@@ -1,0 +1,17 @@
+{
+  "generatedAt": "2026-04-10T00:00:00Z",
+  "scope": 2,
+  "highConfidence": [],
+  "manualRequired": [
+    {
+      "slug": "ren-zhi",
+      "reason": "insufficient_signal_manual_decision_required (local worklist/proposal records show no candidate album)",
+      "candidateAlbums": []
+    },
+    {
+      "slug": "rise",
+      "reason": "insufficient_signal_manual_decision_required (local worklist/proposal records show no candidate album)",
+      "candidateAlbums": []
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "generatedAt": "2026-04-10T08:21:37Z",
+  "scope": 13,
+  "highConfidence": [],
+  "mediumConfidence": [],
+  "manualRequired": [
+    {
+      "slug": "dream-a-little-dream-of-me",
+      "reason": "low_confidence_no_candidate_album_from_worklist"
+    },
+    {
+      "slug": "hey-jude",
+      "reason": "low_confidence_no_candidate_album_from_worklist"
+    },
+    {
+      "slug": "my-story-your-song",
+      "reason": "low_confidence_no_candidate_album_from_worklist"
+    },
+    {
+      "slug": "opening",
+      "reason": "low_confidence_no_candidate_album_from_worklist"
+    },
+    {
+      "slug": "radio",
+      "reason": "low_confidence_no_candidate_album_from_worklist"
+    },
+    {
+      "slug": "silent-all-these-years",
+      "reason": "low_confidence_no_candidate_album_from_worklist"
+    },
+    {
+      "slug": "someone",
+      "reason": "low_confidence_no_candidate_album_from_worklist"
+    },
+    {
+      "slug": "sometimes-love-just-aint-enough",
+      "reason": "low_confidence_no_candidate_album_from_worklist"
+    },
+    {
+      "slug": "sparking-diamonds",
+      "reason": "low_confidence_no_candidate_album_from_worklist"
+    },
+    {
+      "slug": "stefanie",
+      "reason": "low_confidence_no_candidate_album_from_worklist"
+    },
+    {
+      "slug": "that-i-would-be-good",
+      "reason": "low_confidence_no_candidate_album_from_worklist"
+    },
+    {
+      "slug": "up2u",
+      "reason": "low_confidence_no_candidate_album_from_worklist"
+    },
+    {
+      "slug": "venus",
+      "reason": "low_confidence_no_candidate_album_from_worklist"
+    }
+  ],
+  "keepInArchiveRecommended": [
+    "dream-a-little-dream-of-me",
+    "hey-jude",
+    "my-story-your-song",
+    "opening",
+    "radio",
+    "silent-all-these-years",
+    "someone",
+    "sometimes-love-just-aint-enough",
+    "sparking-diamonds",
+    "stefanie",
+    "that-i-would-be-good",
+    "up2u",
+    "venus"
+  ]
+}

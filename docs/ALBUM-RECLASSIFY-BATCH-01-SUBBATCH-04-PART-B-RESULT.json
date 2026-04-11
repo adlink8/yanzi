@@ -1,0 +1,81 @@
+{
+  "generatedAt": "2026-04-10T10:35:06Z",
+  "batch": "mainline-manual-04-part-b",
+  "scope": 4,
+  "proposedSingleAlbums": [
+    {
+      "slug": "tian-kong-single",
+      "title": "Tian Kong (Single)",
+      "releaseYear": null,
+      "era": "single/activity-single",
+      "summary": "Conservative executable mapping: create a dedicated single container for tian-kong.",
+      "coreThemes": ["metadata-pending", "single-archival"],
+      "representativeSongs": ["tian-kong"],
+      "songSlugs": ["tian-kong"]
+    },
+    {
+      "slug": "tian-yue-liang-ye-yue-hei-single",
+      "title": "Tian Yue Liang Ye Yue Hei (Single)",
+      "releaseYear": null,
+      "era": "single/activity-single",
+      "summary": "Conservative executable mapping: create a dedicated single container for tian-yue-liang-ye-yue-hei.",
+      "coreThemes": ["metadata-pending", "single-archival"],
+      "representativeSongs": ["tian-yue-liang-ye-yue-hei"],
+      "songSlugs": ["tian-yue-liang-ye-yue-hei"]
+    },
+    {
+      "slug": "ting-jian-single",
+      "title": "Ting Jian (Single)",
+      "releaseYear": null,
+      "era": "single/activity-single",
+      "summary": "Conservative executable mapping: create a dedicated single container for ting-jian.",
+      "coreThemes": ["metadata-pending", "single-archival"],
+      "representativeSongs": ["ting-jian"],
+      "songSlugs": ["ting-jian"]
+    },
+    {
+      "slug": "tong-yao-1987-single",
+      "title": "Tong Yao 1987 (Single)",
+      "releaseYear": null,
+      "era": "single/activity-single",
+      "summary": "Conservative executable mapping: create a dedicated single container for tong-yao-1987.",
+      "coreThemes": ["metadata-pending", "single-archival"],
+      "representativeSongs": ["tong-yao-1987"],
+      "songSlugs": ["tong-yao-1987"]
+    }
+  ],
+  "songMappings": [
+    {
+      "slug": "tian-kong",
+      "from": "archive-unassigned-mainline",
+      "to": "tian-kong-single",
+      "eraTo": "single/activity-single",
+      "confidence": "low",
+      "reason": "Conservative executable strategy: map to dedicated -single slug pending stronger album evidence."
+    },
+    {
+      "slug": "tian-yue-liang-ye-yue-hei",
+      "from": "archive-unassigned-mainline",
+      "to": "tian-yue-liang-ye-yue-hei-single",
+      "eraTo": "single/activity-single",
+      "confidence": "low",
+      "reason": "Conservative executable strategy: map to dedicated -single slug pending stronger album evidence."
+    },
+    {
+      "slug": "ting-jian",
+      "from": "archive-unassigned-mainline",
+      "to": "ting-jian-single",
+      "eraTo": "single/activity-single",
+      "confidence": "low",
+      "reason": "Conservative executable strategy: map to dedicated -single slug pending stronger album evidence."
+    },
+    {
+      "slug": "tong-yao-1987",
+      "from": "archive-unassigned-mainline",
+      "to": "tong-yao-1987-single",
+      "eraTo": "single/activity-single",
+      "confidence": "low",
+      "reason": "Conservative executable strategy: map to dedicated -single slug pending stronger album evidence."
+    }
+  ]
+}

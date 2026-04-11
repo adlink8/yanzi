@@ -1,0 +1,31 @@
+{
+  "generatedAt": "2026-04-10T09:15:40.440651Z",
+  "scope": 6,
+  "resolved": [],
+  "unresolved": [
+    {
+      "slug": "ke",
+      "reason": "No provable non-archive mapping in local git history: content/songs/index.json commits b2ca1f2 (2026-04-08) through ca30282 (2026-04-09) all show albumSlug=archive-unassigned-mainline and era=9999 时期."
+    },
+    {
+      "slug": "lan-de-qu-guan",
+      "reason": "No provable non-archive mapping in local git history: content/songs/index.json commits b2ca1f2 (2026-04-08) through ca30282 (2026-04-09) all show albumSlug=archive-unassigned-mainline and era=9999 时期."
+    },
+    {
+      "slug": "lei-zhui",
+      "reason": "No provable non-archive mapping in local git history: content/songs/index.json commits b2ca1f2 (2026-04-08) through ca30282 (2026-04-09) all show albumSlug=archive-unassigned-mainline and era=9999 时期."
+    },
+    {
+      "slug": "lets-vino",
+      "reason": "No provable non-archive mapping in local git history: content/songs/index.json commits b2ca1f2 (2026-04-08) through ca30282 (2026-04-09) all show albumSlug=archive-unassigned-mainline and era=9999 时期."
+    },
+    {
+      "slug": "lian-xi",
+      "reason": "No provable non-archive mapping in local git history: content/songs/index.json commits b2ca1f2 (2026-04-08) through ca30282 (2026-04-09) all show albumSlug=archive-unassigned-mainline and era=9999 时期."
+    },
+    {
+      "slug": "liu-lang-di-tu",
+      "reason": "No provable non-archive mapping in local git history: content/songs/index.json commits b2ca1f2 (2026-04-08) through ca30282 (2026-04-09) all show albumSlug=archive-unassigned-mainline and era=9999 时期."
+    }
+  ]
+}

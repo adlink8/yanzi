@@ -20,13 +20,3 @@ export function pickDailySong(songs: Song[], date = new Date()): Song | null {
   return pool[index] ?? pool[0] ?? null
 }
 
-export function pickRandomSong(songs: Song[]): Song | null {
-  if (songs.length === 0) {
-    return null
-  }
-
-  const preferred = songs.filter((song) => song.favoriteLevel !== 'low')
-  const pool = preferred.length > 0 ? preferred : songs
-  const index = Math.floor(Math.random() * pool.length)
-  return pool[index] ?? pool[0] ?? null
-}

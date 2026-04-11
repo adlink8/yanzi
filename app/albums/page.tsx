@@ -8,17 +8,17 @@ export default async function AlbumsPage() {
   return (
     <div className="space-y-6">
       <div>
-        <h2 className="text-2xl font-semibold">专辑</h2>
+        <h2 className="font-serif text-2xl font-semibold">专辑</h2>
         <p className="mt-2 text-sm text-muted">按时间线顺序进入各个时期，再进入对应专辑。</p>
       </div>
       <div className="grid gap-4 md:grid-cols-2">
         {albums.map((album) => {
           const albumHref = `/albums/${album.slug}` as Route
           return (
-            <Link key={album.slug} href={albumHref} className="card space-y-3 no-underline hover:bg-paper">
+            <Link key={album.slug} href={albumHref} className="card space-y-3 no-underline hover:bg-paper" data-era={album.era}>
               <div>
                 <p className="text-sm text-muted">{album.releaseYear} · {album.era}</p>
-                <h3 className="text-xl font-semibold">{album.title}</h3>
+                <h3 className="font-serif text-xl font-semibold">{album.title}</h3>
               </div>
               <p className="text-sm text-muted">{album.summary}</p>
               <p className="text-sm text-muted">代表歌：{album.representativeSongs.join('、')}</p>

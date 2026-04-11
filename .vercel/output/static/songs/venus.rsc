@@ -1,0 +1,106 @@
+1:"$Sreact.fragment"
+2:I[6874,["874","static/chunks/874-22b52d22c9e7424f.js","637","static/chunks/app/songs/%5Bslug%5D/page-d6bae05bb73e963e.js"],""]
+3:I[7555,[],""]
+4:I[1295,[],""]
+6:I[9665,[],"OutletBoundary"]
+9:I[9665,[],"ViewportBoundary"]
+b:I[9665,[],"MetadataBoundary"]
+d:I[6614,[],""]
+:HL["/_next/static/css/9ee7aa4f540b1451.css","style"]
+0:{"P":null,"b":"UjjVzCo6mWPFnmzGXii-7","p":"","c":["","songs","venus"],"i":false,"f":[[["",{"children":["songs",{"children":[["slug","venus","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/9ee7aa4f540b1451.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"zh-CN","children":["$","body",null,{"children":["$","main",null,{"children":[["$","header",null,{"className":"mb-10 flex flex-col gap-4 border-b border-line pb-6 md:flex-row md:items-end md:justify-between","children":[["$","div",null,{"children":[["$","p",null,{"className":"text-sm uppercase tracking-[0.2em] text-muted","children":"Private self-use"}],["$","h1",null,{"className":"mt-2 text-3xl font-semibold","children":"Stefanie Sun Deep Reads"}],["$","p",null,{"className":"mt-2 text-sm text-muted","children":"孙燕姿作品深度解读站"}]]}],["$","nav",null,{"className":"flex gap-4 text-sm text-muted","children":[["$","$L2",null,{"href":"/","children":"首页"}],["$","$L2",null,{"href":"/songs","children":"歌曲"}],["$","$L2",null,{"href":"/albums","children":"专辑"}],["$","$L2",null,{"href":"/timeline","children":"时间线"}],["$","$L2",null,{"href":"/feedback","children":"建议"}]]}]]}],["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]}]]}],{"children":["songs",["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","venus","d"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L5","$undefined",null,["$","$L6",null,{"children":["$L7","$L8",null]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","u0MxSt4CXwD80QKdYiW0g",{"children":[["$","$L9",null,{"children":"$La"}],null]}],["$","$Lb",null,{"children":"$Lc"}]]}],false]],"m":"$undefined","G":["$d","$undefined"],"s":false,"S":true}
+a:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+7:null
+8:null
+c:[["$","title","0",{"children":"Stefanie Sun Deep Reads"}],["$","meta","1",{"name":"description","content":"孙燕姿作品深度解读站（私有自用版）"}]]
+f:I[2730,["874","static/chunks/874-22b52d22c9e7424f.js","637","static/chunks/app/songs/%5Bslug%5D/page-d6bae05bb73e963e.js"],"SongAiPanel"]
+e:T7f4,Goddess On The Mountain Top
+女神立于山巅
+Burning Like a Silver Flame
+犹如银色火焰
+The Summit Of Beauty And Love
+爱与美的极致
+And Venus Was Her Name
+维纳斯就是她的名字
+She's Got It
+她拥有迷人的魅力
+Yeah Baby She's Got It
+宝贝 她拥有迷人的魅力
+I'm Your Venus
+我就是你的维纳斯
+I'm Your Fire
+我能点燃你的爱火
+At Your Desire
+满足你的无限渴望
+Well I'm Your Venus
+我就是你的维纳斯
+I'm Your Fire
+我能点燃你的爱火
+At Your Desire
+满足你的无限渴望
+Her Weapons Were Her Crystal Eyes
+她那晶莹的大眼睛叫人无法抗拒
+Making Every Man a Man
+令所有人痴迷
+Black As The Dark Night She Was
+她犹如黑夜一般
+无人能与她媲美
+She's Got It
+她拥有迷人的魅力
+Yeah Baby She's Got It
+宝贝 她拥有迷人的魅力
+I'm Your Venus
+我就是你的维纳斯
+I'm Your Fire
+我能点燃你的爱火
+At Your Desire
+满足你的无限渴望
+Well I'm Your Venus
+我就是你的维纳斯
+I'm Your Fire
+我能点燃你的爱火
+At Your Desire
+满足你的无限渴望
+She's Got It
+她拥有迷人的魅力
+Yeah Baby She's Got It
+宝贝 她拥有迷人的魅力
+I'm Your Venus
+我就是你的维纳斯
+I'm Your Fire
+我能点燃你的爱火
+At Your Desire
+满足你的无限渴望
+Well I'm Your Venus
+我就是你的维纳斯
+I'm Your Fire
+我能点燃你的爱火
+At Your Desire
+满足你的无限渴望
+Goddess On The Mountain Top
+女神立于山巅
+Burning Like a Silver Flame
+犹如银色火焰
+The Summit Of Beauty And Love
+爱与美的极致
+And Venus Was Her Name
+维纳斯就是她的名字
+She's Got It
+她拥有迷人的魅力
+Yeah Baby She's Got It
+宝贝 她拥有迷人的魅力
+I'm Your Venus
+我就是你的维纳斯
+I'm Your Fire
+我能点燃你的爱火
+At Your Desire
+满足你的无限渴望
+Well I'm Your Venus
+我就是你的维纳斯
+I'm Your Fire
+我能点燃你的爱火
+At Your Desire
+满足你的无限渴望
+Yeah Baby She's Got It
+宝贝 她拥有迷人的魅力
+Yeah Baby She's Got It
+宝贝 她拥有迷人的魅力5:["$","div",null,{"className":"space-y-6","children":[["$","section",null,{"className":"card space-y-3","children":[["$","p",null,{"className":"text-sm text-muted","children":["English Cover Archive"," · ","9999 时期"]}],["$","h2",null,{"className":"text-3xl font-semibold","children":"Venus"}],["$","p",null,{"className":"text-base text-muted","children":"《Venus》的解读正在整理中。"}],["$","div",null,{"className":"flex flex-wrap gap-2 pt-2","children":[["$","span","回望",{"className":"rounded-full border border-line px-3 py-1 text-xs text-muted","children":"回望"}],["$","span","关系变化",{"className":"rounded-full border border-line px-3 py-1 text-xs text-muted","children":"关系变化"}]]}]]}],["$","section",null,{"className":"grid gap-6 md:grid-cols-[1.1fr_0.9fr]","children":[["$","article",null,{"className":"card space-y-4","children":[["$","div",null,{"className":"flex items-center justify-between gap-4","children":[["$","h3",null,{"className":"text-xl font-semibold","children":"整体解读"}],["$","a",null,{"href":"https://www.bilibili.com/","target":"_blank","rel":"noreferrer","className":"rounded-full border border-line px-4 py-2 text-sm text-muted no-underline hover:bg-paper","children":"打开《Venus》MV"}]]}],["$","div",null,{"className":"space-y-3 whitespace-pre-wrap leading-7 text-sm","children":"《Venus》最值得反复听的地方，在于它没有用夸张的叙事去推动情绪，而是把 关系变化 和 孤独 放在同一条线里慢慢展开。听感上会先被一句很具体的画面抓住，再被更深一层的情绪拉进去，最后落到一种“说得不重但后劲很强”的状态。\n\n把这首歌放进整站的作品脉络看，它更像一个“情绪结构样本”：前段先定语气，中段把关系或自我拉扯推高，尾段不急着给答案，而是留出回味空间。这种克制但清楚的写法，也正是很多歌会让人想要回听的原因。"}]]}],["$","aside",null,{"className":"card space-y-4","children":[["$","h3",null,{"className":"text-xl font-semibold","children":"卡片信息"}],["$","div",null,{"className":"space-y-2 text-sm text-muted","children":[["$","p",null,{"children":["关键词：","Venus"]}],["$","p",null,{"children":["关联歌曲：","Dream A Little Dream Of Me、Hey Jude"]}],["$","p",null,{"children":["状态：","ready"]}]]}]]}]]}],["$","section",null,{"className":"card space-y-4","children":[["$","div",null,{"children":[["$","h3",null,{"className":"text-xl font-semibold","children":"完整歌词"}],["$","p",null,{"className":"mt-1 text-sm text-muted","children":"这里支持完整歌词录入与折叠展示。"}]]}],["$","details",null,{"className":"rounded-2xl border border-line p-4","children":[["$","summary",null,{"className":"cursor-pointer list-none text-base font-medium","children":"展开完整歌词"}],["$","div",null,{"className":"mt-4 whitespace-pre-wrap text-sm leading-7 text-muted","children":"$e"}]]}]]}],["$","section",null,{"className":"card space-y-4","children":[["$","div",null,{"children":[["$","h3",null,{"className":"text-xl font-semibold","children":"整首歌逐段 / 逐句细读"}],["$","p",null,{"className":"mt-1 text-sm text-muted","children":"仅对已完成精修的歌曲显示正式细读内容。"}]]}],["$","div",null,{"className":"space-y-3","children":[["$","details","unit-01",{"className":"rounded-2xl border border-line p-4","open":true,"children":[["$","summary",null,{"className":"cursor-pointer list-none pr-6 text-sm font-medium text-ink","children":[["$","span",null,{"className":"block text-xs uppercase tracking-[0.18em] text-muted","children":"开场锚点"}],["$","span",null,{"className":"mt-2 block text-base","children":"Goddess On The Mountain Top"}]]}],["$","div",null,{"className":"mt-4 space-y-3 text-sm text-muted","children":[null,["$","p",null,{"className":"whitespace-pre-wrap leading-7","children":"这一句的价值在于“先立气质”。它不急着解释全部故事，而是先把 关系变化 的底色摆出来，让听者立刻进入这首歌的情绪空间。"}],["$","div",null,{"className":"rounded-xl border border-line bg-paper p-3","children":[["$","p",null,{"className":"text-xs uppercase tracking-[0.16em] text-muted","children":"为什么重要"}],["$","p",null,{"className":"mt-2 whitespace-pre-wrap leading-7","children":"它决定了这首歌的第一印象和情绪方向。"}]]}]]}]]}],["$","details","unit-02",{"className":"rounded-2xl border border-line p-4","open":false,"children":[["$","summary",null,{"className":"cursor-pointer list-none pr-6 text-sm font-medium text-ink","children":[["$","span",null,{"className":"block text-xs uppercase tracking-[0.18em] text-muted","children":"中段推进"}],["$","span",null,{"className":"mt-2 block text-base","children":"无人能与她媲美"}]]}],["$","div",null,{"className":"mt-4 space-y-3 text-sm text-muted","children":[null,["$","p",null,{"className":"whitespace-pre-wrap leading-7","children":"到这一段时，歌曲开始把 孤独 的层次推出来。你会听到情绪不是单向上升，而是边靠近边犹疑，这种拉扯让中段特别耐听。"}],["$","div",null,{"className":"rounded-xl border border-line bg-paper p-3","children":[["$","p",null,{"className":"text-xs uppercase tracking-[0.16em] text-muted","children":"为什么重要"}],["$","p",null,{"className":"mt-2 whitespace-pre-wrap leading-7","children":"它让歌曲从“有感觉”进入“有层次”。"}]]}]]}]]}],["$","details","unit-03",{"className":"rounded-2xl border border-line p-4","open":false,"children":[["$","summary",null,{"className":"cursor-pointer list-none pr-6 text-sm font-medium text-ink","children":[["$","span",null,{"className":"block text-xs uppercase tracking-[0.18em] text-muted","children":"转折时刻"}],["$","span",null,{"className":"mt-2 block text-base","children":"我能点燃你的爱火"}]]}],["$","div",null,{"className":"mt-4 space-y-3 text-sm text-muted","children":[null,["$","p",null,{"className":"whitespace-pre-wrap leading-7","children":"这一句像转轴，把前面的铺垫和后面的收束接起来。它不是爆发式宣告，而是让内心判断变得更具体，所以转折感会非常清晰。"}],["$","div",null,{"className":"rounded-xl border border-line bg-paper p-3","children":[["$","p",null,{"className":"text-xs uppercase tracking-[0.16em] text-muted","children":"为什么重要"}],["$","p",null,{"className":"mt-2 whitespace-pre-wrap leading-7","children":"它是整首歌叙事与情绪的关键连接点。"}]]}]]}]]}],["$","details","unit-04",{"className":"rounded-2xl border border-line p-4","open":false,"children":[["$","summary",null,{"className":"cursor-pointer list-none pr-6 text-sm font-medium text-ink","children":[["$","span",null,{"className":"block text-xs uppercase tracking-[0.18em] text-muted","children":"收束余味"}],["$","span",null,{"className":"mt-2 block text-base","children":"宝贝 她拥有迷人的魅力"}]]}],["$","div",null,{"className":"mt-4 space-y-3 text-sm text-muted","children":[null,["$","p",null,{"className":"whitespace-pre-wrap leading-7","children":"结尾这句的处理方式很克制：不把情绪讲满，而是留一点空白。也因为有这层留白，整首歌听完之后的余味会更长。"}],["$","div",null,{"className":"rounded-xl border border-line bg-paper p-3","children":[["$","p",null,{"className":"text-xs uppercase tracking-[0.16em] text-muted","children":"为什么重要"}],["$","p",null,{"className":"mt-2 whitespace-pre-wrap leading-7","children":"它决定听者最终记住的是哪一种情绪。"}]]}]]}]]}],["$","details","auto-5",{"className":"rounded-2xl border border-line p-4","open":false,"children":[["$","summary",null,{"className":"cursor-pointer list-none pr-6 text-sm font-medium text-ink","children":[["$","span",null,{"className":"block text-xs uppercase tracking-[0.18em] text-muted","children":"自动补充段 5"}],["$","span",null,{"className":"mt-2 block text-base","children":"《Venus》 语句 5"}]]}],["$","div",null,{"className":"mt-4 space-y-3 text-sm text-muted","children":[null,["$","p",null,{"className":"whitespace-pre-wrap leading-7","children":"这是《Venus》自动补充的第 5 段解读，主要呼应整体主题。"}],["$","div",null,{"className":"rounded-xl border border-line bg-paper p-3","children":[["$","p",null,{"className":"text-xs uppercase tracking-[0.16em] text-muted","children":"为什么重要"}],["$","p",null,{"className":"mt-2 whitespace-pre-wrap leading-7","children":"这段让《Venus》的情绪继续向前，是理解整首歌的补白。"}]]}]]}]]}]]}]]}],["$","section",null,{"className":"card space-y-4","children":[["$","div",null,{"children":[["$","h3",null,{"className":"text-xl font-semibold","children":"整首歌设计分析"}],["$","p",null,{"className":"mt-1 text-sm text-muted","children":"仅对已完成精修的歌曲显示正式设计分析。"}]]}],["$","div",null,{"className":"space-y-3","children":[["$","div",null,{"className":"rounded-2xl border border-line p-4","children":["$","p",null,{"className":"text-sm leading-7 text-muted","children":"这首歌的设计重点是把 关系变化 与 孤独 通过“铺垫-推进-转折-收束”连成完整体验，结构清楚，情绪后劲明显。"}]}],["$","details",null,{"className":"rounded-2xl border border-line p-4","open":true,"children":[["$","summary",null,{"className":"cursor-pointer list-none text-base font-medium","children":"结构设计"}],["$","ul",null,{"className":"mt-4 list-disc space-y-2 pl-5 text-sm leading-7 text-muted","children":[["$","li","前段先给出核心语气，建立情绪入口。",{"children":"前段先给出核心语气，建立情绪入口。"}],["$","li","中段扩大信息密度，推动情绪纵深。",{"children":"中段扩大信息密度，推动情绪纵深。"}],["$","li","后段通过转折与留白完成收束。",{"children":"后段通过转折与留白完成收束。"}]]}]]}],["$","details",null,{"className":"rounded-2xl border border-line p-4","children":[["$","summary",null,{"className":"cursor-pointer list-none text-base font-medium","children":"情绪推进"}],["$","ul",null,{"className":"mt-4 list-disc space-y-2 pl-5 text-sm leading-7 text-muted","children":[["$","li","开头偏克制，先建立氛围。",{"children":"开头偏克制，先建立氛围。"}],["$","li","中段逐步抬高，形成内在拉扯。",{"children":"中段逐步抬高，形成内在拉扯。"}],["$","li","结尾回落但不断电，保留余味。",{"children":"结尾回落但不断电，保留余味。"}]]}]]}],["$","details",null,{"className":"rounded-2xl border border-line p-4","children":[["$","summary",null,{"className":"cursor-pointer list-none text-base font-medium","children":"写法观察"}],["$","ul",null,{"className":"mt-4 list-disc space-y-2 pl-5 text-sm leading-7 text-muted","children":[["$","li","关键词与意象反复出现，帮助情绪聚焦。",{"children":"关键词与意象反复出现，帮助情绪聚焦。"}],["$","li","转折句承担结构功能，不只是字面意义变化。",{"children":"转折句承担结构功能，不只是字面意义变化。"}],["$","li","结尾不强行解释，提升回听价值。",{"children":"结尾不强行解释，提升回听价值。"}]]}]]}]]}]]}],["$","$Lf",null,{"slug":"venus","title":"Venus"}],["$","section",null,{"className":"card space-y-4","children":[["$","div",null,{"children":[["$","h3",null,{"className":"text-xl font-semibold","children":"同主题推荐"}],["$","p",null,{"className":"mt-1 text-sm text-muted","children":"根据同专辑、情绪标签、主题标签和站内关联关系推荐下一首。"}]]}],["$","div",null,{"className":"grid gap-4 md:grid-cols-2","children":[["$","$L2","dream-a-little-dream-of-me",{"href":"/songs/dream-a-little-dream-of-me","className":"rounded-2xl border border-line p-4 no-underline hover:bg-paper","children":[["$","div",null,{"className":"flex items-start justify-between gap-4","children":[["$","div",null,{"children":[["$","p",null,{"className":"font-medium","children":"Dream A Little Dream Of Me"}],["$","p",null,{"className":"mt-2 text-sm text-muted","children":"《Dream A Little Dream Of Me》的解读正在整理中。"}]]}],["$","span",null,{"className":"rounded-full border border-line px-3 py-1 text-xs text-muted","children":"可深读"}]]}],["$","p",null,{"className":"mt-3 text-xs text-muted","children":["推荐理由：","站内已标记为关联歌曲；来自同一张专辑；共享 1 个情绪标签；共享 1 个主题标签"]}]]}],["$","$L2","hey-jude",{"href":"/songs/hey-jude","className":"rounded-2xl border border-line p-4 no-underline hover:bg-paper","children":[["$","div",null,{"className":"flex items-start justify-between gap-4","children":[["$","div",null,{"children":[["$","p",null,{"className":"font-medium","children":"Hey Jude"}],["$","p",null,{"className":"mt-2 text-sm text-muted","children":"《Hey Jude》的解读正在整理中。"}]]}],["$","span",null,{"className":"rounded-full border border-line px-3 py-1 text-xs text-muted","children":"可深读"}]]}],["$","p",null,{"className":"mt-3 text-xs text-muted","children":["推荐理由：","站内已标记为关联歌曲；来自同一张专辑；共享 1 个情绪标签；共享 1 个主题标签"]}]]}],["$","$L2","my-story-your-song",{"href":"/songs/my-story-your-song","className":"rounded-2xl border border-line p-4 no-underline hover:bg-paper","children":[["$","div",null,{"className":"flex items-start justify-between gap-4","children":[["$","div",null,{"children":[["$","p",null,{"className":"font-medium","children":"My Story, Your Song"}],["$","p",null,{"className":"mt-2 text-sm text-muted","children":"《My Story, Your Song》的解读正在整理中。"}]]}],["$","span",null,{"className":"rounded-full border border-line px-3 py-1 text-xs text-muted","children":"可深读"}]]}],["$","p",null,{"className":"mt-3 text-xs text-muted","children":["推荐理由：","来自同一张专辑；共享 1 个情绪标签；共享 1 个主题标签"]}]]}],["$","$L2","opening",{"href":"/songs/opening","className":"rounded-2xl border border-line p-4 no-underline hover:bg-paper","children":[["$","div",null,{"className":"flex items-start justify-between gap-4","children":[["$","div",null,{"children":[["$","p",null,{"className":"font-medium","children":"Opening"}],["$","p",null,{"className":"mt-2 text-sm text-muted","children":"《Opening》的解读正在整理中。"}]]}],["$","span",null,{"className":"rounded-full border border-line px-3 py-1 text-xs text-muted","children":"可深读"}]]}],["$","p",null,{"className":"mt-3 text-xs text-muted","children":["推荐理由：","来自同一张专辑；共享 1 个情绪标签；共享 1 个主题标签"]}]]}]]}]]}]]}]

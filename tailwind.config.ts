@@ -12,8 +12,12 @@ const config: Config = {
         ink: '#171717',
         paper: '#faf7f2',
         muted: '#6b6b6b',
-        accent: '#7a5c61',
-        line: '#e7dfd4'
+        line: '#e7dfd4',
+        accent: 'var(--theme-accent)',
+        'accent-soft': 'var(--theme-accent-soft)',
+      },
+      fontFamily: {
+        serif: ['"Noto Serif SC"', 'serif'],
       }
     }
   },

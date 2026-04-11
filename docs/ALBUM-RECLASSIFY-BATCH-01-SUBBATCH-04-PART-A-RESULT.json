@@ -1,0 +1,109 @@
+{
+  "generatedAt": "2026-04-10T10:31:33Z",
+  "batch": "mainline-manual-04-part-a",
+  "scope": 4,
+  "proposedSingleAlbums": [
+    {
+      "slug": "shi-guang-xiao-tou-single",
+      "title": "时光小偷（单曲）",
+      "releaseYear": null,
+      "era": "单曲/活动单曲",
+      "summary": "保守归档：当前缺乏可执行专辑归属信号，先建立单曲容器承接《时光小偷》。",
+      "coreThemes": [
+        "资料待补充",
+        "单曲归档"
+      ],
+      "representativeSongs": [
+        "时光小偷"
+      ],
+      "songSlugs": [
+        "shi-guang-xiao-tou"
+      ]
+    },
+    {
+      "slug": "sweet-child-o-mine-single",
+      "title": "Sweet Child O' Mine（单曲）",
+      "releaseYear": null,
+      "era": "单曲/活动单曲",
+      "summary": "保守归档：现有信息不足以确认正式专辑归属，先按独立单曲收录。",
+      "coreThemes": [
+        "资料待补充",
+        "单曲归档"
+      ],
+      "representativeSongs": [
+        "Sweet Child O' Mine"
+      ],
+      "songSlugs": [
+        "sweet-child-o-mine"
+      ]
+    },
+    {
+      "slug": "ta-men-de-ge-single",
+      "title": "他们的歌（单曲）",
+      "releaseYear": null,
+      "era": "单曲/活动单曲",
+      "summary": "保守归档：未发现稳定且可验证的专辑落点，先归入单曲容器以避免误并。",
+      "coreThemes": [
+        "资料待补充",
+        "单曲归档"
+      ],
+      "representativeSongs": [
+        "他们的歌"
+      ],
+      "songSlugs": [
+        "ta-men-de-ge"
+      ]
+    },
+    {
+      "slug": "tai-yang-di-xia-single",
+      "title": "太阳底下（单曲）",
+      "releaseYear": null,
+      "era": "单曲/活动单曲",
+      "summary": "保守归档：当前证据不足以执行主线专辑映射，先建立单曲档案承接该曲目。",
+      "coreThemes": [
+        "资料待补充",
+        "单曲归档"
+      ],
+      "representativeSongs": [
+        "太阳底下"
+      ],
+      "songSlugs": [
+        "tai-yang-di-xia"
+      ]
+    }
+  ],
+  "songMappings": [
+    {
+      "slug": "shi-guang-xiao-tou",
+      "from": "archive-unassigned-mainline",
+      "to": "shi-guang-xiao-tou-single",
+      "eraTo": "单曲/活动单曲",
+      "confidence": "low",
+      "reason": "insufficient_signal_manual_decision_required_fallback_to_single"
+    },
+    {
+      "slug": "sweet-child-o-mine",
+      "from": "archive-unassigned-mainline",
+      "to": "sweet-child-o-mine-single",
+      "eraTo": "单曲/活动单曲",
+      "confidence": "low",
+      "reason": "insufficient_signal_manual_decision_required_fallback_to_single"
+    },
+    {
+      "slug": "ta-men-de-ge",
+      "from": "archive-unassigned-mainline",
+      "to": "ta-men-de-ge-single",
+      "eraTo": "单曲/活动单曲",
+      "confidence": "low",
+      "reason": "insufficient_signal_manual_decision_required_fallback_to_single"
+    },
+    {
+      "slug": "tai-yang-di-xia",
+      "from": "archive-unassigned-mainline",
+      "to": "tai-yang-di-xia-single",
+      "eraTo": "单曲/活动单曲",
+      "confidence": "low",
+      "reason": "insufficient_signal_manual_decision_required_fallback_to_single"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "generatedAt": "2026-04-10T09:35:52Z",
+  "scope": 3,
+  "proposedSingleAlbums": [
+    {
+      "slug": "ni-ming-wan-sui-single",
+      "title": "匿名万岁 (Single)",
+      "releaseYear": null,
+      "era": "单曲/活动单曲",
+      "summary": "将《匿名万岁》从归档待分配集中拆出，按独立单曲处理，后续可在获得发行信息后补齐年份与活动上下文。",
+      "coreThemes": [
+        "网络匿名与舆论关系",
+        "社会观察",
+        "活动/单曲归档"
+      ],
+      "representativeSongs": [
+        "匿名万岁"
+      ],
+      "songSlugs": [
+        "ni-ming-wan-sui"
+      ]
+    },
+    {
+      "slug": "one-united-people-single",
+      "title": "One United People (Single)",
+      "releaseYear": null,
+      "era": "单曲/活动单曲",
+      "summary": "将《One United People》归类为活动导向单曲，先建立可检索的单曲载体，后续再补充具体发行年份与活动元数据。",
+      "coreThemes": [
+        "国家认同",
+        "团结与公共叙事",
+        "活动/主题曲"
+      ],
+      "representativeSongs": [
+        "One United People"
+      ],
+      "songSlugs": [
+        "one-united-people"
+      ]
+    },
+    {
+      "slug": "qin-guang-single",
+      "title": "擒光 (Single)",
+      "releaseYear": null,
+      "era": "单曲/活动单曲",
+      "summary": "将《擒光》按独立单曲管理，避免继续滞留在主线未分配归档，后续可按来源补录发行信息。",
+      "coreThemes": [
+        "逆风前行",
+        "英雄叙事",
+        "活动/单曲归档"
+      ],
+      "representativeSongs": [
+        "擒光"
+      ],
+      "songSlugs": [
+        "qin-guang"
+      ]
+    }
+  ],
+  "songMappings": [
+    {
+      "slug": "ni-ming-wan-sui",
+      "from": "archive-unassigned-mainline",
+      "to": "ni-ming-wan-sui-single",
+      "eraTo": "单曲/活动单曲",
+      "confidence": "low",
+      "reason": "已有结论指向 likely_single_release_but_album_slug_missing_in_repo；先落到独立 single slug 以便后续补证。"
+    },
+    {
+      "slug": "one-united-people",
+      "from": "archive-unassigned-mainline",
+      "to": "one-united-people-single",
+      "eraTo": "单曲/活动单曲",
+      "confidence": "low",
+      "reason": "已有结论指向 likely_event_single_but_album_slug_missing_in_repo；先按活动单曲归位再补发行细节。"
+    },
+    {
+      "slug": "qin-guang",
+      "from": "archive-unassigned-mainline",
+      "to": "qin-guang-single",
+      "eraTo": "单曲/活动单曲",
+      "confidence": "low",
+      "reason": "已有结论指向 likely_single_release_but_album_slug_missing_in_repo；采用保守单曲归档避免持续 unresolved。"
+    }
+  ]
+}

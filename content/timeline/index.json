@@ -1,186 +1,130 @@
 [
   {
-    "id": "yanzi-2000",
+    "id": "debut-2000",
     "date": "2000-06-08",
-    "title": "《孙燕姿同名专辑》时期",
+    "title": "横空出世：孙燕姿同名专辑",
     "type": "album",
-    "description": "以清澈、直接又带民谣感的表达打开大众认知，是燕姿作品脉络的起点。",
+    "description": "22岁的孙燕姿以清爽短发和一首《天黑黑》席卷华语乐坛。这一刻，‘姿式’清澈直接的民谣感成为了新世纪的音乐底色。",
     "relatedAlbumSlug": "yanzi"
   },
   {
-    "id": "wo-yao-de-xing-fu-2000",
+    "id": "happiness-2000",
     "date": "2000-12-07",
-    "title": "《我要的幸福》时期",
+    "title": "成长延展：我要的幸福",
     "type": "album",
-    "description": "在出道之年继续扩展个人表达，把成长、确认和向前的姿态写得更稳。",
+    "description": "出道仅半年即推出第二张专辑，探讨成长的代价与幸福的交换。不规则节拍的尝试证明了她不仅仅是偶像。",
     "relatedAlbumSlug": "wo-yao-de-xing-fu"
   },
   {
-    "id": "feng-zheng-2001",
+    "id": "kite-2001",
     "date": "2001-07-09",
-    "title": "《风筝》时期",
+    "title": "风格扩张：风筝",
     "type": "album",
-    "description": "在明亮流行感之外加入自由、距离和前卫气息，是早期风格扩张的重要一步。",
+    "description": "标志着‘展开期’的开始。从《绿光》的异域舞曲到《风筝》的清冷叙事，燕姿展示了极强的风格驾驭能力。",
     "relatedAlbumSlug": "feng-zheng"
   },
   {
     "id": "start-2002",
-    "date": "2002-01-01",
-    "title": "《Start 自选集》时期",
+    "date": "2002-01-05",
+    "title": "审美溯源：Start 自选集",
     "type": "album",
-    "description": "《Start 自选集》资料整理中。",
+    "description": "音乐基因的深情回溯。通过翻唱 Tori Amos 等偶像的作品，燕姿向大众展示了她沙哑且富有张力的声线源头。",
     "relatedAlbumSlug": "start"
   },
   {
     "id": "leave-2002",
-    "date": "2002-08-22",
-    "title": "《Leave》时期",
+    "date": "2002-05-21",
+    "title": "硬朗宣言：Leave",
     "type": "album",
-    "description": "《Leave》资料整理中。",
+    "description": "出走与成长的摇滚篇章。远赴新西兰荒原，呈现出一种‘即便心碎也要走得洒脱’的独立女性人格。",
     "relatedAlbumSlug": "leave"
   },
   {
-    "id": "start-live-2002",
-    "date": "2002-12-01",
-    "title": "《Start Live》时期",
-    "type": "album",
-    "description": "《Start Live》资料整理中。",
-    "relatedAlbumSlug": "start-live"
-  },
-  {
     "id": "wei-wan-cheng-2003",
-    "date": "2003-01-07",
-    "title": "《未完成》时期",
+    "date": "2003-01-10",
+    "title": "成熟过渡：未完成",
     "type": "album",
-    "description": "开始更稳定地处理复杂关系与成年人语境，许多经典情歌的成熟气质在这里成形。",
+    "description": "开始更稳定地处理复杂关系。史诗级情歌《我不难过》奠定了她在体面中碎裂的情感美学。",
     "relatedAlbumSlug": "wei-wan-cheng"
   },
   {
     "id": "the-moment-2003",
-    "date": "2003-08-19",
-    "title": "《The Moment》时期",
+    "date": "2003-08-22",
+    "title": "第一阶段毕业：The Moment",
     "type": "album",
-    "description": "像一次阶段性的凝视与整理，也承接了这一时期的重要大众记忆。",
+    "description": "三年七张专辑的极限挑战后，她在巅峰时刻选择暂别。这是给歌迷的毕业证书，也是捍卫自由的宣言。",
     "relatedAlbumSlug": "the-moment"
   },
   {
-    "id": "stefanie-self-titled-2004",
+    "id": "stefanie-2004",
     "date": "2004-10-29",
-    "title": "《孙燕姿 Stefanie 同名专辑》时期",
+    "title": "惊世回归：Stefanie",
     "type": "album",
-    "description": "重新整理个人表达的位置，既有成熟感，也保留柔软与私语。",
+    "description": "沉淀一年后的巴黎回归。在秋风中完成了从‘天后’向‘平凡人Stefanie’的心理重塑，并最终斩获金曲歌后。",
     "relatedAlbumSlug": "stefanie-self-titled"
   },
   {
-    "id": "wan-mei-de-yi-tian-2005",
+    "id": "perfect-day-2005",
     "date": "2005-10-07",
-    "title": "《完美的一天》时期",
+    "title": "生活实验：完美的一天",
     "type": "album",
-    "description": "在成熟与轻盈之间保持平衡，也让日常生活感进入代表作序列。",
+    "description": "染红头发，尝试更具生活感与实验色彩的曲风。探讨平凡日子的完美，开启了更具艺术自主性的音乐实验。",
     "relatedAlbumSlug": "wan-mei-de-yi-tian"
   },
   {
     "id": "my-story-2006",
     "date": "2006-09-22",
-    "title": "《My Story, Your Song》时期",
+    "title": "阶段整理：My Story, Your Song",
     "type": "album",
-    "description": "像一次阶段性的整理与回看，把重要作品重新放到同一张精选里。",
+    "description": "像一次阶段性的回看。通过精选与新歌（如《雨天》），将重要的集体记忆重新锚定。",
     "relatedAlbumSlug": "my-story"
   },
   {
     "id": "ni-guang-2007",
-    "date": "2007-05-02",
-    "title": "《逆光》时期",
+    "date": "2007-03-22",
+    "title": "强悍巅峰：逆光",
     "type": "album",
-    "description": "在成熟表达与大众传唱之间取得很强平衡，是这一时期的重要代表作。",
+    "description": "迎光而行的生命力宣言。埃及荒漠的视觉背景下，燕姿用最饱满的姿态证明：光是从内心散发出来的。",
     "relatedAlbumSlug": "ni-guang"
   },
   {
-    "id": "shou-hu-yong-heng-de-ai-single-2010",
-    "date": "2010-01-01",
-    "title": "《守护永恒的爱（单曲）》时期",
-    "type": "album",
-    "description": "《守护永恒的爱（单曲）》资料整理中。",
-    "relatedAlbumSlug": "shou-hu-yong-heng-de-ai-single"
-  },
-  {
-    "id": "shi-shi-hou-2011",
+    "id": "it-is-time-2011",
     "date": "2011-03-08",
-    "title": "《是时候》时期",
+    "title": "人文自白：是时候",
     "type": "album",
-    "description": "更集中地处理语言、判断、关系困局与成熟后的心理压强。",
+    "description": "沉淀四年，蓄起长发。讨论语言的失效与成熟后的内省，这是她首次担任制作人，展现了深厚的人文压强。",
     "relatedAlbumSlug": "shi-shi-hou"
   },
   {
-    "id": "ke-bu-le-2014",
+    "id": "kepler-2014",
     "date": "2014-02-27",
-    "title": "《克卜勒》时期",
+    "title": "宇宙辉映：克卜勒",
     "type": "album",
-    "description": "把宇宙感、时间感、城市感和成熟关系感收束到一个更凝练的后期阶段。",
+    "description": "宏大的宇宙级关怀。用引力、星光和时间海包裹孤独，探讨生命个体间跨越时空的连接。",
     "relatedAlbumSlug": "ke-bu-le"
   },
   {
-    "id": "ban-ju-zai-jian-single-2015",
-    "date": "2015-01-01",
-    "title": "《半句再见（单曲）》时期",
+    "id": "rainbow-bot-2016",
+    "date": "2016-08-17",
+    "title": "重拾童真：彩虹金刚",
     "type": "album",
-    "description": "《半句再见（单曲）》资料整理中。",
-    "relatedAlbumSlug": "ban-ju-zai-jian-single"
-  },
-  {
-    "id": "shi-jie-zhong-jie-qian-yi-tian-single-2017",
-    "date": "2017-01-01",
-    "title": "《世界终结前一天（单曲）》时期",
-    "type": "album",
-    "description": "《世界终结前一天（单曲）》资料整理中。",
-    "relatedAlbumSlug": "shi-jie-zhong-jie-qian-yi-tian-single"
-  },
-  {
-    "id": "no-13-2017",
-    "date": "2017-01-01",
-    "title": "《No.13 作品：跳舞的梵谷》时期",
-    "type": "album",
-    "description": "《No.13 作品：跳舞的梵谷》资料整理中。",
-    "relatedAlbumSlug": "no-13"
-  },
-  {
-    "id": "cai-hong-jin-gang-ep-2019",
-    "date": "2019-01-01",
-    "title": "《彩虹金刚（EP）》时期",
-    "type": "album",
-    "description": "《彩虹金刚（EP）》资料整理中。",
+    "description": "为人母后的温情实验。带大人回到单纯的想象空间，守护内心那个好奇、勇敢的‘彩虹金刚’。",
     "relatedAlbumSlug": "cai-hong-jin-gang-ep"
   },
   {
-    "id": "yu-e-single-2024",
-    "date": "2024-01-01",
-    "title": "《余额（单曲）》时期",
+    "id": "van-gogh-2017",
+    "date": "2017-11-09",
+    "title": "艺术殉道：跳舞的梵谷",
     "type": "album",
-    "description": "《余额（单曲）》资料整理中。",
-    "relatedAlbumSlug": "yu-e-single"
+    "description": "目前最具野心的艺术篇章。直面理智与疯狂的共生，是对‘不完美生命’的终极赞美，展现了艺术家的纯粹。",
+    "relatedAlbumSlug": "no-13"
   },
   {
-    "id": "zui-hou-zhi-hou-single-2024",
-    "date": "2024-01-01",
-    "title": "《最后之后 - Single》时期",
+    "id": "singles-era-2020",
+    "date": "2020-01-01",
+    "title": "珠玉时代：官方单曲合集",
     "type": "album",
-    "description": "聚焦终点之后的余波与继续，是近年成熟单曲样本。",
-    "relatedAlbumSlug": "zui-hou-zhi-hou-single"
-  },
-  {
-    "id": "ri-luo-single-2025",
-    "date": "2025-01-01",
-    "title": "《日落 - Single》时期",
-    "type": "album",
-    "description": "以光线退场和傍晚时间感组织情绪的近年单曲。",
-    "relatedAlbumSlug": "ri-luo-single"
-  },
-  {
-    "id": "fei-pu-er-xia-single-2026",
-    "date": "2026-01-01",
-    "title": "《飞瀑而下 - Single》时期",
-    "type": "album",
-    "description": "近年的高动态单曲，强调冲刷式情绪与强动作感。",
-    "relatedAlbumSlug": "fei-pu-er-xia-single"
+    "description": "进入‘单曲时代’。每一首独立发布的单曲（如《余额》）都记录了当下最真实、即时的生命感悟。",
+    "relatedAlbumSlug": "official-singles-collection"
   }
 ]

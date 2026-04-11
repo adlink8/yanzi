@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-04-10T09:25:15Z",
+  "batch": "mainline-manual-03-part-a",
+  "scope": 6,
+  "remapped": [
+    {"slug":"nian-qing-wu-xian","from":"archive-unassigned-mainline","to":"wei-wan-cheng","evidence":"https://www.mulanci.org/lyric/sl28381/"},
+    {"slug":"nong-mei-mao","from":"archive-unassigned-mainline","to":"yanzi","evidence":"https://www.mulanci.org/lyric/sl28508/"}
+  ],
+  "unresolved": [
+    {"slug":"ni-hao-bu-hao","reason":"insufficient_signal_manual_decision_required"},
+    {"slug":"ni-ming-wan-sui","reason":"likely_single_release_but_album_slug_missing_in_repo"},
+    {"slug":"on-the-road","reason":"insufficient_signal_manual_decision_required"},
+    {"slug":"one-united-people","reason":"likely_event_single_but_album_slug_missing_in_repo"}
+  ]
+}

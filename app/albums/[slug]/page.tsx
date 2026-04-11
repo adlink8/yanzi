@@ -25,11 +25,11 @@ export default async function AlbumDetailPage({ params }: { params: Promise<{ sl
   const deepReadCount = songs.filter((song) => song.hasDeepRead).length
 
   return (
-    <div className="space-y-6">
+    <div className="space-y-6" data-era={album.era}>
       <section className="card space-y-4">
         <div>
           <p className="text-sm text-muted">{album.releaseYear} · {album.era}</p>
-          <h2 className="mt-2 text-3xl font-semibold">{album.title}</h2>
+          <h2 className="mt-2 font-serif text-3xl font-semibold">{album.title}</h2>
         </div>
         <p className="text-base text-muted">{album.summary}</p>
         <div className="grid gap-4 md:grid-cols-3">
@@ -50,7 +50,7 @@ export default async function AlbumDetailPage({ params }: { params: Promise<{ sl
 
       <section className="grid gap-6 md:grid-cols-[1.1fr_0.9fr]">
         <article className="card space-y-4">
-          <h3 className="text-xl font-semibold">专辑气质</h3>
+          <h3 className="font-serif text-xl font-semibold">专辑气质</h3>
           <p className="text-sm leading-7 text-muted">
             这张专辑适合从“{album.coreThemes.join(' / ')}”的角度理解。你后续可以在这里继续补充更完整的时期判断、
             个人偏爱曲目、反复回听时最容易被触发的情绪，以及它和其他专辑之间的关系。
@@ -65,7 +65,7 @@ export default async function AlbumDetailPage({ params }: { params: Promise<{ sl
         </article>
 
         <aside className="card space-y-4">
-          <h3 className="text-xl font-semibold">代表歌</h3>
+          <h3 className="font-serif text-xl font-semibold">代表歌</h3>
           <div className="space-y-3">
             {album.representativeSongs.map((title) => (
               <p key={title} className="text-sm text-muted">{title}</p>
@@ -78,7 +78,7 @@ export default async function AlbumDetailPage({ params }: { params: Promise<{ sl
 
       <section className="card space-y-4">
         <div>
-          <h3 className="text-xl font-semibold">本专辑歌曲</h3>
+          <h3 className="font-serif text-xl font-semibold">本专辑歌曲</h3>
           <p className="mt-1 text-sm text-muted">继续从单曲页进入，逐首补齐你的解读。</p>
         </div>
         <div className="grid gap-4 md:grid-cols-2">

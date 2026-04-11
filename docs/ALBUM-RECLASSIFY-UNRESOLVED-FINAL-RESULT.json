@@ -1,0 +1,39 @@
+{
+  "generatedAt": "2026-04-10T10:24:47.191Z",
+  "scope": 5,
+  "strategy": "create single album slugs for unresolved items",
+  "albumsAdded": 5,
+  "songsChanged": 5,
+  "applied": [
+    {
+      "slug": "ni-hao-bu-hao",
+      "from": "archive-unassigned-mainline",
+      "to": "ni-hao-bu-hao-single",
+      "eraTo": "单曲/活动单曲"
+    },
+    {
+      "slug": "on-the-road",
+      "from": "archive-unassigned-mainline",
+      "to": "on-the-road-single",
+      "eraTo": "单曲/活动单曲"
+    },
+    {
+      "slug": "quan-xin-quan-yi",
+      "from": "archive-unassigned-mainline",
+      "to": "quan-xin-quan-yi-single",
+      "eraTo": "单曲/活动单曲"
+    },
+    {
+      "slug": "ren-zhi",
+      "from": "archive-unassigned-mainline",
+      "to": "ren-zhi-single",
+      "eraTo": "单曲/活动单曲"
+    },
+    {
+      "slug": "rise",
+      "from": "archive-unassigned-mainline",
+      "to": "rise-single",
+      "eraTo": "单曲/活动单曲"
+    }
+  ]
+}

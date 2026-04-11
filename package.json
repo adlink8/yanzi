@@ -3,12 +3,18 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev": "next dev",
+    "dev": "next dev -p 3008",
     "build": "next build",
-    "start": "next start",
+    "start": "next start -p 3008",
     "lint": "next lint",
     "test": "vitest run",
-    "test:watch": "vitest"
+    "test:watch": "vitest",
+    "audit:catalog": "node scripts/audit-catalog-normalization.mjs",
+    "audit:content": "node scripts/audit-content-issues.mjs",
+    "remediate:mv": "node scripts/remediate-mv-links.mjs",
+    "worklist:album": "node scripts/generate-album-reclassify-worklist.mjs",
+    "audit:style": "node scripts/audit-deepread-style.mjs",
+    "gate:content": "node scripts/validate-content-gate.mjs"
   },
   "dependencies": {
     "gray-matter": "4.0.3",

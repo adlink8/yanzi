@@ -1,0 +1,38 @@
+{
+  "type": "Prerender",
+  "expiration": false,
+  "sourcePath": "/albums/[slug]",
+  "group": 25,
+  "bypassToken": "5c55536bc51a1b06c4214708cdce1799",
+  "experimentalBypassFor": [
+    {
+      "type": "header",
+      "key": "Next-Action"
+    },
+    {
+      "type": "header",
+      "key": "content-type",
+      "value": "multipart/form-data;.*"
+    }
+  ],
+  "fallback": {
+    "type": "FileFsRef",
+    "mode": 33188,
+    "fsPath": "stefanie-self-titled.prerender-fallback.html"
+  },
+  "initialHeaders": {
+    "x-nextjs-stale-time": "4294967294",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/albums/layout,_N_T_/albums/[slug]/layout,_N_T_/albums/[slug]/page,_N_T_/albums/stefanie-self-titled",
+    "vary": "RSC, Next-Router-State-Tree, Next-Router-Prefetch, Next-Router-Segment-Prefetch"
+  },
+  "allowQuery": [],
+  "allowHeader": [
+    "host",
+    "x-matched-path",
+    "x-prerender-revalidate",
+    "x-prerender-revalidate-if-generated",
+    "x-next-revalidated-tags",
+    "x-next-revalidate-tag-token"
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "generatedAt": "2026-04-10T09:20:40.485Z",
+  "batch": "mainline-manual-02",
+  "scope": 11,
+  "changed": 11,
+  "remapped": [
+    {
+      "slug": "ke",
+      "from": "archive-unassigned-mainline",
+      "to": "ke-bu-le",
+      "eraTo": "后期凝练",
+      "evidence": "https://www.mulanci.org/lyric/sa4822/"
+    },
+    {
+      "slug": "lan-de-qu-guan",
+      "from": "archive-unassigned-mainline",
+      "to": "the-moment",
+      "eraTo": "阶段节点",
+      "evidence": "https://www.mulanci.org/lyric/sl28357/"
+    },
+    {
+      "slug": "lei-zhui",
+      "from": "archive-unassigned-mainline",
+      "to": "wo-yao-de-xing-fu",
+      "eraTo": "出道延展",
+      "evidence": "https://www.mulanci.org/lyric/sl28492/"
+    },
+    {
+      "slug": "lets-vino",
+      "from": "archive-unassigned-mainline",
+      "to": "stefanie-self-titled",
+      "eraTo": "自我整合",
+      "evidence": "https://www.mulanci.org/lyric/sa4831/"
+    },
+    {
+      "slug": "lian-xi",
+      "from": "archive-unassigned-mainline",
+      "to": "feng-zheng",
+      "eraTo": "展开期",
+      "evidence": "https://www.mulanci.org/lyric/sl28439/"
+    },
+    {
+      "slug": "liu-lang-di-tu",
+      "from": "archive-unassigned-mainline",
+      "to": "wan-mei-de-yi-tian",
+      "eraTo": "阶段平衡",
+      "evidence": "https://www.mulanci.org/lyric/sl28313/"
+    },
+    {
+      "slug": "mei-shi-jian",
+      "from": "archive-unassigned-mainline",
+      "to": "start",
+      "eraTo": "2002 时期",
+      "evidence": "https://www.mulanci.org/lyric/sl28423/"
+    },
+    {
+      "slug": "meng-bu-luo",
+      "from": "archive-unassigned-mainline",
+      "to": "wan-mei-de-yi-tian",
+      "eraTo": "阶段平衡",
+      "evidence": "https://www.mulanci.org/lyric/sa4829/"
+    },
+    {
+      "slug": "meng-xiang-tian-kong",
+      "from": "archive-unassigned-mainline",
+      "to": "my-story",
+      "eraTo": "阶段回看",
+      "evidence": "https://www.mulanci.org/lyric/sl28295/"
+    },
+    {
+      "slug": "ming-tian-de-ji-yi",
+      "from": "archive-unassigned-mainline",
+      "to": "shi-shi-hou",
+      "eraTo": "成熟内省",
+      "evidence": "https://www.mulanci.org/lyric/sl28221/"
+    },
+    {
+      "slug": "ming-tian-qing-tian",
+      "from": "archive-unassigned-mainline",
+      "to": "wan-mei-de-yi-tian",
+      "eraTo": "阶段平衡",
+      "evidence": "https://www.mulanci.org/lyric/sa4829/"
+    }
+  ]
+}

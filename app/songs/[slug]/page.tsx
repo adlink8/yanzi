@@ -31,10 +31,10 @@ export default async function SongDetailPage({ params }: { params: Promise<{ slu
   const hasDesign = Boolean(deepRead?.songDesign) && !isPlaceholderLikeText(deepRead?.songDesign?.summary)
 
   return (
-    <div className="space-y-6">
+    <div className="space-y-6" data-era={song.era}>
       <section className="card space-y-3">
         <p className="text-sm text-muted">{album?.title ?? '未归档专辑'} · {song.era}</p>
-        <h2 className="text-3xl font-semibold">{song.title}</h2>
+        <h2 className="font-serif text-3xl font-semibold">{song.title}</h2>
         <p className="text-base text-muted">{song.summary}</p>
         <div className="flex flex-wrap gap-2 pt-2">
           {[...song.moodTags, ...song.themeTags].map((tag, index) => (
@@ -46,7 +46,7 @@ export default async function SongDetailPage({ params }: { params: Promise<{ slu
       <section className="grid gap-6 md:grid-cols-[1.1fr_0.9fr]">
         <article className="card space-y-4">
           <div className="flex items-center justify-between gap-4">
-            <h3 className="text-xl font-semibold">整体解读</h3>
+            <h3 className="font-serif text-xl font-semibold">整体解读</h3>
             {deepRead?.mvUrl ? (
               <a href={deepRead.mvUrl} target="_blank" rel="noreferrer" className="rounded-full border border-line px-4 py-2 text-sm text-muted no-underline hover:bg-paper">
                 {deepRead.mvTitle ?? '打开 MV'}
@@ -54,13 +54,13 @@ export default async function SongDetailPage({ params }: { params: Promise<{ slu
             ) : null}
           </div>
           {hasOverview ? (
-            <div className="space-y-3 whitespace-pre-wrap leading-7 text-sm">{deepRead?.content}</div>
+            <div className="space-y-3 whitespace-pre-wrap text-sm leading-7">{deepRead?.content}</div>
           ) : (
             <p className="text-sm text-muted">这首歌已完成基础录入，整体解读将在后续继续精修。</p>
           )}
         </article>
         <aside className="card space-y-4">
-          <h3 className="text-xl font-semibold">卡片信息</h3>
+          <h3 className="font-serif text-xl font-semibold">卡片信息</h3>
           <div className="space-y-2 text-sm text-muted">
             <p>关键词：{song.keywords.join('、') || '暂无'}</p>
             <p>关联歌曲：{relatedSongTitles.join('、') || '暂无'}</p>
@@ -71,7 +71,7 @@ export default async function SongDetailPage({ params }: { params: Promise<{ slu
 
       <section className="card space-y-4">
         <div>
-          <h3 className="text-xl font-semibold">完整歌词</h3>
+          <h3 className="font-serif text-xl font-semibold">完整歌词</h3>
           <p className="mt-1 text-sm text-muted">这里支持完整歌词录入与折叠展示。</p>
         </div>
         {deepRead?.fullLyrics ? (
@@ -95,7 +95,7 @@ export default async function SongDetailPage({ params }: { params: Promise<{ slu
 
       <section className="card space-y-4">
         <div>
-          <h3 className="text-xl font-semibold">整首歌逐段 / 逐句细读</h3>
+          <h3 className="font-serif text-xl font-semibold">整首歌逐段 / 逐句细读</h3>
           <p className="mt-1 text-sm text-muted">仅对已完成精修的歌曲显示正式细读内容。</p>
         </div>
         {hasLineByLine ? (
@@ -121,7 +121,7 @@ export default async function SongDetailPage({ params }: { params: Promise<{ slu
 
       <section className="card space-y-4">
         <div>
-          <h3 className="text-xl font-semibold">整首歌设计分析</h3>
+          <h3 className="font-serif text-xl font-semibold">整首歌设计分析</h3>
           <p className="mt-1 text-sm text-muted">仅对已完成精修的歌曲显示正式设计分析。</p>
         </div>
         {hasDesign ? (
@@ -140,7 +140,7 @@ export default async function SongDetailPage({ params }: { params: Promise<{ slu
 
       <section className="card space-y-4">
         <div>
-          <h3 className="text-xl font-semibold">同主题推荐</h3>
+          <h3 className="font-serif text-xl font-semibold">同主题推荐</h3>
           <p className="mt-1 text-sm text-muted">根据同专辑、情绪标签、主题标签和站内关联关系推荐下一首。</p>
         </div>
         {related.length > 0 ? (

@@ -1,0 +1,18 @@
+{
+  "runtime": "edge",
+  "name": "api/feedback",
+  "deploymentTarget": "v8-worker",
+  "entrypoint": "index.js",
+  "assets": [],
+  "framework": {
+    "slug": "nextjs",
+    "version": "15.2.4"
+  },
+  "environment": {
+    "__NEXT_BUILD_ID": "UjjVzCo6mWPFnmzGXii-7",
+    "NEXT_SERVER_ACTIONS_ENCRYPTION_KEY": "+LDeTuy6g8DdAeLBkT3sNnK2wBHLjfKnIwAJAIDhfJM=",
+    "__NEXT_PREVIEW_MODE_ID": "5c55536bc51a1b06c4214708cdce1799",
+    "__NEXT_PREVIEW_MODE_ENCRYPTION_KEY": "93177dbb41babe0ac248e08bbdcee16a4465b1c95ec1533e7f56f7bf6a7dbb0a",
+    "__NEXT_PREVIEW_MODE_SIGNING_KEY": "7f451301c11f39c0e1bef8c656bda8ba98a7c7b8411c4ef791d96d11ed35992e"
+  }
+}

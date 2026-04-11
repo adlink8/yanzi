@@ -1,0 +1,91 @@
+{
+  "generatedAt": "2026-04-10T10:36:56.001Z",
+  "batch": "mainline-manual-04",
+  "scope": 11,
+  "albumsAdded": 11,
+  "songsChanged": 11,
+  "applied": [
+    {
+      "slug": "shi-guang-xiao-tou",
+      "from": "archive-unassigned-mainline",
+      "to": "shi-guang-xiao-tou-single",
+      "eraTo": "单曲/活动单曲",
+      "confidence": "low",
+      "reason": "insufficient_signal_manual_decision_required_fallback_to_single"
+    },
+    {
+      "slug": "sweet-child-o-mine",
+      "from": "archive-unassigned-mainline",
+      "to": "sweet-child-o-mine-single",
+      "eraTo": "单曲/活动单曲",
+      "confidence": "low",
+      "reason": "insufficient_signal_manual_decision_required_fallback_to_single"
+    },
+    {
+      "slug": "ta-men-de-ge",
+      "from": "archive-unassigned-mainline",
+      "to": "ta-men-de-ge-single",
+      "eraTo": "单曲/活动单曲",
+      "confidence": "low",
+      "reason": "insufficient_signal_manual_decision_required_fallback_to_single"
+    },
+    {
+      "slug": "tai-yang-di-xia",
+      "from": "archive-unassigned-mainline",
+      "to": "tai-yang-di-xia-single",
+      "eraTo": "单曲/活动单曲",
+      "confidence": "low",
+      "reason": "insufficient_signal_manual_decision_required_fallback_to_single"
+    },
+    {
+      "slug": "tian-kong",
+      "from": "archive-unassigned-mainline",
+      "to": "tian-kong-single",
+      "eraTo": "单曲/活动单曲",
+      "confidence": "low",
+      "reason": "Conservative executable strategy: map to dedicated -single slug pending stronger album evidence."
+    },
+    {
+      "slug": "tian-yue-liang-ye-yue-hei",
+      "from": "archive-unassigned-mainline",
+      "to": "tian-yue-liang-ye-yue-hei-single",
+      "eraTo": "单曲/活动单曲",
+      "confidence": "low",
+      "reason": "Conservative executable strategy: map to dedicated -single slug pending stronger album evidence."
+    },
+    {
+      "slug": "ting-jian",
+      "from": "archive-unassigned-mainline",
+      "to": "ting-jian-single",
+      "eraTo": "单曲/活动单曲",
+      "confidence": "low",
+      "reason": "Conservative executable strategy: map to dedicated -single slug pending stronger album evidence."
+    },
+    {
+      "slug": "tong-yao-1987",
+      "from": "archive-unassigned-mainline",
+      "to": "tong-yao-1987-single",
+      "eraTo": "单曲/活动单曲",
+      "confidence": "low",
+      "reason": "Conservative executable strategy: map to dedicated -single slug pending stronger album evidence."
+    },
+    {
+      "slug": "we-will-get-there",
+      "from": "archive-unassigned-mainline",
+      "to": "we-will-get-there-single",
+      "eraTo": "单曲/活动单曲"
+    },
+    {
+      "slug": "wei-rao",
+      "from": "archive-unassigned-mainline",
+      "to": "wei-rao-single",
+      "eraTo": "单曲/活动单曲"
+    },
+    {
+      "slug": "wen-rou-mayday-blue-20th",
+      "from": "archive-unassigned-mainline",
+      "to": "wen-rou-mayday-blue-20th-single",
+      "eraTo": "单曲/活动单曲"
+    }
+  ]
+}

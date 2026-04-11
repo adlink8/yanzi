@@ -60,11 +60,11 @@ export function SongSearchList({ songs }: SongSearchListProps) {
           {filteredSongs.map((song) => {
             const songHref = `/songs/${song.slug}` as Route
             return (
-              <Link key={song.slug} href={songHref} className="card no-underline hover:bg-paper">
+              <Link key={song.slug} href={songHref} className="card no-underline hover:bg-paper" data-era={song.era}>
                 <p className="text-xs uppercase tracking-[0.16em] text-muted">
                   {song.releaseYear ?? '未知年份'} · {song.era}
                 </p>
-                <p className="mt-2 text-lg font-medium">{song.title}</p>
+                <p className="mt-2 font-serif text-lg font-medium">{song.title}</p>
                 <p className="mt-2 text-sm text-muted">{song.summary}</p>
                 <div className="mt-4 flex flex-wrap gap-2">
                   {[...song.moodTags, ...song.themeTags].slice(0, 4).map((tag, index) => (

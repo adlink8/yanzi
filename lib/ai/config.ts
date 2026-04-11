@@ -3,32 +3,28 @@ export type AiConfig = {
   apiKey: string
   model: string
   enabled: boolean
-  provider: 'ollama' | 'custom'
+  provider: 'openai' | 'ollama' | 'custom'
 }
 
-const DEFAULT_OLLAMA_BASE_URL = 'http://127.0.0.1:11434/v1'
-const DEFAULT_OLLAMA_API_KEY = 'ollama'
-const DEFAULT_OLLAMA_MODEL = 'gemma4:e4b'
+const DEFAULT_BASE_URL = 'https://api.openai.com/v1'
+const DEFAULT_MODEL = 'gpt-4o-mini'
 
 function trimTrailingSlash(value: string): string {
   return value.replace(/\/+$/, '')
 }
 
 export function getAiConfig(): AiConfig {
-  const baseUrl = process.env.OPENAI_BASE_URL?.trim() || DEFAULT_OLLAMA_BASE_URL
-  const apiKey = process.env.OPENAI_API_KEY?.trim() || DEFAULT_OLLAMA_API_KEY
-  const model = process.env.OPENAI_MODEL?.trim() || DEFAULT_OLLAMA_MODEL
+  const baseUrl = process.env.OPENAI_BASE_URL?.trim() || DEFAULT_BASE_URL
+  const apiKey = process.env.OPENAI_API_KEY?.trim() || ''
+  const model = process.env.OPENAI_MODEL?.trim() || DEFAULT_MODEL
 
-  const usingDefaultOllama =
-    baseUrl === DEFAULT_OLLAMA_BASE_URL &&
-    apiKey === DEFAULT_OLLAMA_API_KEY &&
-    model === DEFAULT_OLLAMA_MODEL
+  const isOllama = baseUrl.includes('127.0.0.1') || baseUrl.includes('localhost')
 
   return {
     baseUrl: trimTrailingSlash(baseUrl),
     apiKey,
     model,
-    enabled: Boolean(baseUrl && apiKey && model),
-    provider: usingDefaultOllama ? 'ollama' : 'custom'
+    enabled: Boolean(apiKey), // Only enabled if API key is provided
+    provider: isOllama ? 'ollama' : (baseUrl === DEFAULT_BASE_URL ? 'openai' : 'custom')
   }
 }

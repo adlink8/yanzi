@@ -1,0 +1,136 @@
+{
+  "generatedAt": "2026-04-10T10:57:47.461Z",
+  "scope": 16,
+  "albumsAdded": 13,
+  "songsChanged": 16,
+  "applied": [
+    {
+      "slug": "dream-a-little-dream-of-me",
+      "from": "english-cover-archive",
+      "to": "dream-a-little-dream-of-me-single",
+      "eraTo": "单曲/活动单曲",
+      "confidence": "low",
+      "reason": "batch_finalize_fallback_to_single"
+    },
+    {
+      "slug": "hey-jude",
+      "from": "english-cover-archive",
+      "to": "hey-jude-single",
+      "eraTo": "单曲/活动单曲",
+      "confidence": "low",
+      "reason": "batch_finalize_fallback_to_single"
+    },
+    {
+      "slug": "my-story-your-song",
+      "from": "english-cover-archive",
+      "to": "my-story-your-song-single",
+      "eraTo": "单曲/活动单曲",
+      "confidence": "low",
+      "reason": "batch_finalize_fallback_to_single"
+    },
+    {
+      "slug": "opening",
+      "from": "english-cover-archive",
+      "to": "opening-single",
+      "eraTo": "单曲/活动单曲",
+      "confidence": "low",
+      "reason": "batch_finalize_fallback_to_single"
+    },
+    {
+      "slug": "radio",
+      "from": "english-cover-archive",
+      "to": "radio-single",
+      "eraTo": "单曲/活动单曲",
+      "confidence": "low",
+      "reason": "batch_finalize_fallback_to_single"
+    },
+    {
+      "slug": "silent-all-these-years",
+      "from": "english-cover-archive",
+      "to": "silent-all-these-years-single",
+      "eraTo": "单曲/活动单曲",
+      "confidence": "low",
+      "reason": "batch_finalize_fallback_to_single"
+    },
+    {
+      "slug": "someone",
+      "from": "english-cover-archive",
+      "to": "someone-single",
+      "eraTo": "单曲/活动单曲",
+      "confidence": "low",
+      "reason": "batch_finalize_fallback_to_single"
+    },
+    {
+      "slug": "sometimes-love-just-aint-enough",
+      "from": "english-cover-archive",
+      "to": "sometimes-love-just-aint-enough-single",
+      "eraTo": "单曲/活动单曲",
+      "confidence": "low",
+      "reason": "batch_finalize_fallback_to_single"
+    },
+    {
+      "slug": "sparking-diamonds",
+      "from": "english-cover-archive",
+      "to": "sparking-diamonds-single",
+      "eraTo": "单曲/活动单曲",
+      "confidence": "low",
+      "reason": "batch_finalize_fallback_to_single"
+    },
+    {
+      "slug": "stefanie",
+      "from": "english-cover-archive",
+      "to": "stefanie-single",
+      "eraTo": "单曲/活动单曲",
+      "confidence": "low",
+      "reason": "batch_finalize_fallback_to_single"
+    },
+    {
+      "slug": "that-i-would-be-good",
+      "from": "english-cover-archive",
+      "to": "that-i-would-be-good-single",
+      "eraTo": "单曲/活动单曲",
+      "confidence": "low",
+      "reason": "batch_finalize_fallback_to_single"
+    },
+    {
+      "slug": "up2u",
+      "from": "english-cover-archive",
+      "to": "up2u-single",
+      "eraTo": "单曲/活动单曲",
+      "confidence": "low",
+      "reason": "batch_finalize_fallback_to_single"
+    },
+    {
+      "slug": "venus",
+      "from": "english-cover-archive",
+      "to": "venus-single",
+      "eraTo": "单曲/活动单曲",
+      "confidence": "low",
+      "reason": "batch_finalize_fallback_to_single"
+    },
+    {
+      "slug": "sweet-child-o-mine-2",
+      "from": "alternate-versions-archive",
+      "to": "sweet-child-o-mine-single",
+      "eraTo": "单曲/活动单曲",
+      "confidence": "medium",
+      "reason": "Canonical slug sweet-child-o-mine exists in content/songs/index.json with albumSlug sweet-child-o-mine-single."
+    },
+    {
+      "slug": "tian-yue-liang-ye-yue-hei-2",
+      "from": "alternate-versions-archive",
+      "to": "tian-yue-liang-ye-yue-hei-single",
+      "eraTo": "单曲/活动单曲",
+      "confidence": "medium",
+      "reason": "Canonical slug tian-yue-liang-ye-yue-hei exists in content/songs/index.json with albumSlug tian-yue-liang-ye-yue-hei-single."
+    },
+    {
+      "slug": "zhong-yu-2",
+      "from": "alternate-versions-archive",
+      "to": "zhong-yu-single",
+      "eraTo": "单曲/活动单曲",
+      "confidence": "medium",
+      "reason": "Canonical slug zhong-yu exists in content/songs/index.json with albumSlug zhong-yu-single."
+    }
+  ]
+}
