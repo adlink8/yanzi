@@ -76,12 +76,33 @@ export function buildAlbumContext(album: Album, songs: Song[]): string {
     `收录歌曲数：${songs.length}`
   ]
 
-  if (songs.length > 0) {
-    lines.push('歌曲列表：')
-    for (const song of songs) {
-      lines.push(`- ${song.title}｜情绪：${song.moodTags.join('、') || '无'}｜主题：${song.themeTags.join('、') || '无'}｜摘要：${song.summary}`)
-    }
-  }
-
   return lines.join('\n')
+}
+
+export function buildSongPrompt(song: Song, album: Album | undefined, question: string) {
+  const context = buildSongContext(song, album, null) 
+  return [
+    {
+      role: 'system' as const,
+      content: '你是一个孙燕姿作品深度解读专家。你熟悉她的每一张专辑、每一首歌背后的情感和创作背景。请基于提供的资料回答用户的问题。回答要感性与理性并重，保持专业且亲切的语气。'
+    },
+    {
+      role: 'user' as const,
+      content: `关于歌曲《${song.title}》的背景资料：\n${context}\n\n我的问题是：${question}`
+    }
+  ]
+}
+
+export function buildAlbumPrompt(album: Album, songs: Song[], question: string) {
+  const context = buildAlbumContext(album, songs)
+  return [
+    {
+      role: 'system' as const,
+      content: '你是一个孙燕姿作品深度解读专家。你熟悉她的每一张专辑、每一首歌背后的情感和创作背景。请基于提供的资料回答用户的问题。回答要感性与理性并重，保持专业且亲切的语气。'
+    },
+    {
+      role: 'user' as const,
+      content: `关于专辑《${album.title}》的背景资料：\n${context}\n\n我的问题是：${question}`
+    }
+  ]
 }
