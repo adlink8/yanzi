@@ -1,7 +1,9 @@
 import { type NextRequest } from 'next/server'
 import { buildSongPrompt } from '@/lib/ai/context-builders'
 import { createChatStream } from '@/lib/ai/client'
-import { getSong, getAlbum } from '@/lib/content'
+import { getSongStatic, getAlbumStatic } from '@/lib/content/static-client'
+
+export const runtime = 'edge'
 
 export async function POST(request: NextRequest) {
   try {
@@ -10,12 +12,12 @@ export async function POST(request: NextRequest) {
       return new Response('Missing slug or question', { status: 400 })
     }
 
-    const song = await getSong(slug)
+    const song = await getSongStatic(slug)
     if (!song) {
       return new Response('Song not found', { status: 404 })
     }
 
-    const album = await getAlbum(song.albumSlug)
+    const album = await getAlbumStatic(song.albumSlug)
     const messages = buildSongPrompt(song, album || undefined, question)
     const stream = await createChatStream(messages)
 

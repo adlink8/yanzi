@@ -1,0 +1,130 @@
+2026-04-11T15:15:28.701694Z	Cloning repository...
+2026-04-11T15:15:29.757762Z	From https://github.com/adlink8/yanzi
+2026-04-11T15:15:29.75815Z	 * branch            657af44e8ae8c2e7a0c6ce90f7ecdd2e0da69861 -> FETCH_HEAD
+2026-04-11T15:15:29.758232Z	
+2026-04-11T15:15:30.066937Z	HEAD is now at 657af44 fix: export required prompt builders for AI routes and fix typing
+2026-04-11T15:15:30.067377Z	
+2026-04-11T15:15:30.135687Z	
+2026-04-11T15:15:30.136122Z	Using v2 root directory strategy
+2026-04-11T15:15:30.151582Z	Success: Finished cloning repository files
+2026-04-11T15:15:31.596973Z	Checking for configuration in a Wrangler configuration file (BETA)
+2026-04-11T15:15:31.597398Z	
+2026-04-11T15:15:31.597644Z	Found wrangler.json file. Reading build configuration...
+2026-04-11T15:15:31.60321Z	pages_build_output_dir: .vercel/output
+2026-04-11T15:15:31.603571Z	Build environment variables: (none found)
+2026-04-11T15:15:32.708997Z	Successfully read the Wrangler configuration file.
+2026-04-11T15:15:32.848228Z	Detected the following tools from environment: npm@10.9.2, nodejs@22.16.0
+2026-04-11T15:15:32.848631Z	Installing project dependencies: npm clean-install --progress=false
+2026-04-11T15:15:39.182021Z	npm warn deprecated path-match@1.2.4: This package is archived and no longer maintained. For support, visit https://github.com/expressjs/express/discussions
+2026-04-11T15:15:43.972296Z	npm warn deprecated next@15.2.4: This version has a security vulnerability. Please upgrade to a patched version. See https://nextjs.org/blog/CVE-2025-66478 for more details.
+2026-04-11T15:15:45.880269Z	npm warn deprecated @cloudflare/next-on-pages@1.13.16: Please use the OpenNext adapter instead: https://opennext.js.org/cloudflare
+2026-04-11T15:15:52.786442Z	
+2026-04-11T15:15:52.786787Z	added 450 packages, and audited 451 packages in 19s
+2026-04-11T15:15:52.787227Z	
+2026-04-11T15:15:52.788167Z	78 packages are looking for funding
+2026-04-11T15:15:52.788285Z	  run `npm fund` for details
+2026-04-11T15:15:52.911901Z	
+2026-04-11T15:15:52.912958Z	23 vulnerabilities (2 low, 11 moderate, 8 high, 2 critical)
+2026-04-11T15:15:52.913153Z	
+2026-04-11T15:15:52.913203Z	To address issues that do not require attention, run:
+2026-04-11T15:15:52.913228Z	  npm audit fix
+2026-04-11T15:15:52.913254Z	
+2026-04-11T15:15:52.913282Z	Some issues need review, and may require choosing
+2026-04-11T15:15:52.913308Z	a different dependency.
+2026-04-11T15:15:52.913332Z	
+2026-04-11T15:15:52.913353Z	Run `npm audit` for details.
+2026-04-11T15:15:53.002603Z	Executing user command: npx @cloudflare/next-on-pages@1
+2026-04-11T15:15:53.624309Z	⚡️ @cloudflare/next-on-pages CLI v.1.13.16
+2026-04-11T15:15:53.801392Z	⚡️ Detected Package Manager: npm (10.9.2)
+2026-04-11T15:15:53.801797Z	⚡️ Preparing project...
+2026-04-11T15:15:53.803837Z	⚡️ Project is ready
+2026-04-11T15:15:53.804025Z	⚡️ Building project...
+2026-04-11T15:15:54.541822Z	▲  Vercel CLI 47.0.4
+2026-04-11T15:15:54.54713Z	▲  > NOTE: The Vercel CLI now collects telemetry regarding usage of the CLI.
+2026-04-11T15:15:54.547946Z	▲  > This information is used to shape the CLI roadmap and prioritize features.
+2026-04-11T15:15:54.548285Z	▲  > You can learn more, including how to opt-out if you'd not like to participate in this program, by visiting the following URL:
+2026-04-11T15:15:54.548373Z	▲  > https://vercel.com/docs/cli/about-telemetry
+2026-04-11T15:15:54.716242Z	▲  WARN! Build not running on Vercel. System environment variables will not be available.
+2026-04-11T15:15:54.893819Z	▲  Installing dependencies...
+2026-04-11T15:15:55.710842Z	▲  up to date in 684ms
+2026-04-11T15:15:55.711227Z	▲  78 packages are looking for funding
+2026-04-11T15:15:55.711368Z	▲  run `npm fund` for details
+2026-04-11T15:15:55.726199Z	▲  Detected Next.js version: 15.2.4
+2026-04-11T15:15:55.734119Z	▲  Running "npm run build"
+2026-04-11T15:15:55.911295Z	▲  > stefanie-sun-deep-reads@0.1.0 build
+2026-04-11T15:15:55.911783Z	▲  > next build
+2026-04-11T15:15:56.474931Z	▲  Attention: Next.js now collects completely anonymous telemetry regarding usage.
+2026-04-11T15:15:56.475343Z	▲  This information is used to shape Next.js' roadmap and prioritize features.
+2026-04-11T15:15:56.475565Z	▲  You can learn more, including how to opt-out if you'd not like to participate in this anonymous program, by visiting the following URL:
+2026-04-11T15:15:56.475651Z	▲  https://nextjs.org/telemetry
+2026-04-11T15:15:56.530599Z	▲  ▲ Next.js 15.2.4
+2026-04-11T15:15:56.531007Z	▲  - Experiments (use with caution):
+2026-04-11T15:15:56.531128Z	▲    ✓ typedRoutes
+2026-04-11T15:15:56.531184Z	▲  
+2026-04-11T15:15:56.583537Z	▲  Creating an optimized production build ...
+2026-04-11T15:16:08.127756Z	▲  ✓ Compiled successfully
+2026-04-11T15:16:08.13419Z	▲  Linting and checking validity of types ...
+2026-04-11T15:16:11.580471Z	▲  Collecting page data ...
+2026-04-11T15:16:12.027863Z	▲  ⚠ Using edge runtime on a page currently disables static generation for that page
+2026-04-11T15:16:12.978275Z	▲  Generating static pages (0/211) ...
+2026-04-11T15:16:14.317093Z	▲  Generating static pages (52/211)
+2026-04-11T15:16:14.555277Z	▲  Generating static pages (105/211)
+2026-04-11T15:16:14.929602Z	▲  Generating static pages (158/211)
+2026-04-11T15:16:15.164461Z	▲  ✓ Generating static pages (211/211)
+2026-04-11T15:16:16.430121Z	▲  Finalizing page optimization ...
+2026-04-11T15:16:16.431773Z	▲  Collecting build traces ...
+2026-04-11T15:16:20.408819Z	▲  
+2026-04-11T15:16:20.418158Z	▲  Route (app)                                 Size  First Load JS
+2026-04-11T15:16:20.418475Z	▲  ┌ ○ /                                    2.04 kB         106 kB
+2026-04-11T15:16:20.418648Z	▲  ├ ○ /_not-found                            977 B         101 kB
+2026-04-11T15:16:20.418718Z	▲  ├ ○ /albums                                174 B         104 kB
+2026-04-11T15:16:20.418751Z	▲  ├ ● /albums/[slug]                       1.57 kB         105 kB
+2026-04-11T15:16:20.418779Z	▲  ├   ├ /albums/yanzi
+2026-04-11T15:16:20.418847Z	▲  ├   ├ /albums/wo-yao-de-xing-fu
+2026-04-11T15:16:20.41889Z	▲  ├   ├ /albums/feng-zheng
+2026-04-11T15:16:20.418936Z	▲  ├   └ [+13 more paths]
+2026-04-11T15:16:20.418957Z	▲  ├ ƒ /api/ask/album                         143 B         101 kB
+2026-04-11T15:16:20.418978Z	▲  ├ ƒ /api/ask/song                          143 B         101 kB
+2026-04-11T15:16:20.419003Z	▲  ├ ƒ /api/feedback                          143 B         101 kB
+2026-04-11T15:16:20.419026Z	▲  ├ ƒ /api/recommend/mood                    143 B         101 kB
+2026-04-11T15:16:20.419048Z	▲  ├ ○ /feedback                            2.39 kB         103 kB
+2026-04-11T15:16:20.419069Z	▲  ├ ○ /songs                               1.14 kB         105 kB
+2026-04-11T15:16:20.419128Z	▲  ├ ● /songs/[slug]                        1.58 kB         105 kB
+2026-04-11T15:16:20.419158Z	▲  ├   ├ /songs/tian-hei-hei
+2026-04-11T15:16:20.419179Z	▲  ├   ├ /songs/wo-huai-nian-de
+2026-04-11T15:16:20.419199Z	▲  ├   ├ /songs/yu-jian
+2026-04-11T15:16:20.419218Z	▲  ├   └ [+181 more paths]
+2026-04-11T15:16:20.419238Z	▲  └ ○ /timeline                              174 B         104 kB
+2026-04-11T15:16:20.419262Z	▲  + First Load JS shared by all             100 kB
+2026-04-11T15:16:20.419284Z	▲  ├ chunks/4bd1b696-e201994c9c9859ba.js  53.2 kB
+2026-04-11T15:16:20.419304Z	▲  ├ chunks/684-7443d89656225053.js       45.3 kB
+2026-04-11T15:16:20.419329Z	▲  └ other shared chunks (total)          1.91 kB
+2026-04-11T15:16:20.419379Z	▲  ○  (Static)   prerendered as static content
+2026-04-11T15:16:20.419406Z	▲  ●  (SSG)      prerendered as static HTML (uses generateStaticParams)
+2026-04-11T15:16:20.419506Z	▲  ƒ  (Dynamic)  server-rendered on demand
+2026-04-11T15:16:20.889375Z	▲  Traced Next.js server files in: 246.961ms
+2026-04-11T15:16:21.103119Z	▲  Created all serverless functions in: 213.117ms
+2026-04-11T15:16:21.178399Z	▲  Collected static files (public/, static/, .next/static): 4.089ms
+2026-04-11T15:16:21.505805Z	▲  Build Completed in .vercel/output [27s]
+2026-04-11T15:16:21.646635Z	⚡️ Completed `npx vercel build`.
+2026-04-11T15:16:22.150546Z	⚡️ Invalid prerender config for /albums/[slug]
+2026-04-11T15:16:22.151231Z	⚡️ Invalid prerender config for /albums/[slug].rsc
+2026-04-11T15:16:22.186129Z	⚡️ Invalid prerender config for /songs/[slug]
+2026-04-11T15:16:22.18662Z	⚡️ Invalid prerender config for /songs/[slug].rsc
+2026-04-11T15:16:23.112508Z	
+2026-04-11T15:16:23.112864Z	⚡️ ERROR: Failed to produce a Cloudflare Pages build from the project.
+2026-04-11T15:16:23.113002Z	⚡️ 
+2026-04-11T15:16:23.113035Z	⚡️ 	The following routes were not configured to run with the Edge Runtime:
+2026-04-11T15:16:23.113063Z	⚡️ 	  - /api/ask/album
+2026-04-11T15:16:23.11309Z	⚡️ 	  - /api/ask/song
+2026-04-11T15:16:23.113123Z	⚡️ 	  - /api/feedback
+2026-04-11T15:16:23.113778Z	⚡️ 
+2026-04-11T15:16:23.113973Z	⚡️ 	Please make sure that all your non-static routes export the following edge runtime route segment config:
+2026-04-11T15:16:23.114093Z	⚡️ 	  export const runtime = 'edge';
+2026-04-11T15:16:23.114126Z	⚡️ 
+2026-04-11T15:16:23.11415Z	⚡️ 	You can read more about the Edge Runtime on the Next.js documentation:
+2026-04-11T15:16:23.11467Z	⚡️ 	  https://nextjs.org/docs/app/building-your-application/rendering/edge-and-nodejs-runtimes
+2026-04-11T15:16:23.114782Z	
+2026-04-11T15:16:23.15667Z	Failed: Error while executing user command. Exited with error code: 1
+2026-04-11T15:16:23.163853Z	Failed: build command exited with code: 1
+2026-04-11T15:16:23.80478Z	Failed: error occurred while running build command

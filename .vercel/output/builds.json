@@ -3,14 +3,13 @@
   "target": "preview",
   "argv": [
     "/usr/local/node/bin/node",
-    "/home/li/.npm/_npx/69f9afb961c37556/node_modules/.bin/vc",
+    "/home/li/projects/repos/products/fandom/stefanie-sun-deep-reads/node_modules/.bin/vercel",
     "build"
   ],
-  "cliVersion": "50.42.0",
   "builds": [
     {
       "require": "@vercel/next",
-      "requirePath": "/home/li/.npm/_npx/69f9afb961c37556/node_modules/@vercel/next/dist/index",
+      "requirePath": "/home/li/projects/repos/products/fandom/stefanie-sun-deep-reads/node_modules/@vercel/next/dist/index",
       "apiVersion": 2,
       "src": "package.json",
       "use": "@vercel/next",

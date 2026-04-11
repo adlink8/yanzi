@@ -127,7 +127,7 @@
       "handle": "hit"
     },
     {
-      "src": "/_next/static/(?:[^/]+/pages|pages|chunks|runtime|css|image|media|UjjVzCo6mWPFnmzGXii\\-7)/.+",
+      "src": "/_next/static/(?:[^/]+/pages|pages|chunks|runtime|css|image|media|4e5yJ3iSWI73\\-vAlY9XWo)/.+",
       "headers": {
         "cache-control": "public,max-age=31536000,immutable"
       },
@@ -156,18 +156,12 @@
     {
       "src": "/.*",
       "dest": "/404",
-      "status": 404,
-      "headers": {
-        "x-next-error-status": "404"
-      }
+      "status": 404
     },
     {
       "src": "/.*",
       "dest": "/500",
-      "status": 500,
-      "headers": {
-        "x-next-error-status": "500"
-      }
+      "status": 500
     }
   ],
   "images": {
