@@ -3,8 +3,6 @@ import { buildSongPrompt } from '@/lib/ai/context-builders'
 import { createChatStream } from '@/lib/ai/client'
 import { getSong, getAlbum } from '@/lib/content'
 
-export const runtime = 'edge'
-
 export async function POST(request: NextRequest) {
   try {
     const { slug, question } = await request.json()

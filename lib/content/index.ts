@@ -67,12 +67,20 @@ function sanitizeTimelineEvent(event: TimelineEvent): TimelineEvent {
 }
 
 async function readJsonFile<T>(relativePath: string): Promise<T> {
+  if (typeof window === 'undefined' && !process.versions.node) {
+    // We are in Edge Runtime but somehow reached here at runtime
+    // This shouldn't happen during SSG, but if it does, we need to fail gracefully or fetch from a known origin
+    throw new Error(`Cannot read file ${relativePath} in Edge Runtime.`)
+  }
   const fullPath = path.join(contentRoot, relativePath)
   const raw = await fs.readFile(fullPath, 'utf8')
   return JSON.parse(raw) as T
 }
 
 async function readOptionalTextFile(relativePath: string): Promise<string | null> {
+  if (typeof window === 'undefined' && !process.versions.node) {
+    return null
+  }
   const fullPath = path.join(contentRoot, relativePath)
   try {
     const raw = await fs.readFile(fullPath, 'utf8')
@@ -191,6 +199,9 @@ export async function getTimeline(): Promise<TimelineEvent[]> {
 }
 
 export async function getSongDeepRead(slug: string): Promise<SongDeepRead | null> {
+  if (typeof window === 'undefined' && !process.versions.node) {
+    return null
+  }
   const filePath = path.join(contentRoot, 'songs', 'deep-reads', `${slug}.md`)
   try {
     const [rawMarkdown, rawLyrics] = await Promise.all([
