@@ -1,121 +1,69 @@
-# Stefanie Sun Deep Reads
+# Stefanie Sun Deep Reads (孙燕姿作品深度解读站)
 
-缂備礁顦悞锕€锕㈡笟鈧幊娑㈩敂閸℃ɑ娈㈤梺姹囧妼鐎氼剟鎮洪埡鍛亞闁哄洨鍊鐔稿婵犲﹤鍟幆鍌涚箾閿濆懎鑸归悗鐟扮－閹叉挳鏁愰崼顐㈡缂備焦姊归悷锔捐姳椤曗偓閹秵鎷呮搴㈠皾闁圭厧鐡ㄩ幐鍫曞焵?
-## Source Paths
+一个由粉丝长期维护的孙燕姿作品图书馆与 AI 解读助手。本站旨在通过极具艺术感的视觉呈现与深度的人文剖析，记录孙燕姿音乐生涯的每一个重要瞬间。
 
-- Linux: `/home/li/projects/repos/products/fandom/stefanie-sun-deep-reads`
-- Windows: `\\wsl.localhost\Ubuntu-D\home\li\projects\repos\products\fandom\stefanie-sun-deep-reads`
+## 🌟 Pro Max 级视觉特性
 
-## Project Status
+本站采用了最新的 **UI/UX Pro Max** 设计准则，致力于打造叙事性的沉浸式阅读空间：
 
-- Mode: private-self-use
-- Stack: Next.js + TypeScript + Tailwind CSS
-- Content: JSON metadata + Markdown deep reads + local raw lyrics files
-- Default AI: Ollama (`gemma4:e4b`)
+- **Aurora UI (极光背景)**：基于网格渐变（Mesh Gradient）的动态流动背景，色彩随音乐时期自动流转。
+- **Glassmorphism (磨砂玻璃)**：全站卡片采用高阶模糊（backdrop-blur-2xl）与微弱高光边框，模拟高级玻璃质感。
+- **Subtle Grain (微粒噪声)**：覆盖 3% 透明度的胶片质感噪声，消除数字界面的塑料感，增加高级艺术纸质感。
+- **时空氛围系统 (Atmospheric System)**：
+  - **背景模式**：支持“纯净”、“人物”、“专辑”三种模式自由切换。
+  - **时期动效**：如《风筝》的灵动线条、《克卜勒》的呼吸星场、《跳舞的梵谷》的癫狂笔触等。
 
-- docs/UNINDEXED-SONGS.md\r\n
-## Content Progression Order
+## 📚 内容补完现状 (Coverage)
 
-闂佸搫鐗滈崜鐔煎Υ瀹ュ鍎庢い鏂垮悑閸婄數绱撴笟鍥у箹闁哥偛顕埀顒€婀遍幊鎾剁磽閹捐埖濯奸柛鎾楀懎鐓氭繛鎴炴尨閸嬫捇鏌熺粙娆炬Ъ缂佺粯鐗犲鍫曞灳閹绘帞妲ｇ紓浣哄亾鐎笛呮暜鐟欏嫭浜ゆ繛鎴濈－缁?
-1. 闂佸搫鍟悥鐓幬涚捄銊ф／?2. 婵炴垶鎸婚幑浣烘?3. 濠殿喗绻傞張顒€煤?
-婵炴垶姊婚崰搴☆潩閵娾晛鍙婃い鏍ㄧ箥閸ゆ盯鏌?
-- 闂佺绻愰悧鍡楋耿椤忓牆绫嶉柛顐ｆ礃閿涚喓绱掗幆褋浠掔紒妤€鍊诲☉鐢割敊濞嗘儳鎮嬮梺鍝勫暢閸╂牕锕㈤埄鍐枖閹兼番鍔嶉埢澶嬬箾?- 闂佸憡鍔曠粔椋庢崲濮椻偓瀹曟濡烽妷顔兼闁圭厧鐡ㄩ弻褏绮幘瀛樼秶?- 闂佸搫鐗冮崑鎾绘煕濮橆剟鍙勯柍褜鍓氶崝娆撱€呯拠宸桨鐎光偓閸忣垰顦伴‖鍥箛椤掑倹娈梺杞扮閻°劑鎮洪弴鐘冲珰鐎广儱鍟犻崑鎾寸瑹閳ь剟鍩€椤掍礁濮囩憸鎵仧閹叉挳鏁愰崼顐㈡婵炴垶鎸哥€涒晠寮抽敐鍡磾闁哄秲鍔庨幗鍐偣娴ｇ懓绀冩い鎾存倐瀹曟岸宕卞Ο灏栧亾?
-閻熸粎澧楅幐鍛婃櫠閻樼數绠旀い鎴ｆ硶椤忛亶寮堕悜鍡楁灍闁绘鐤囩粻娑㈠礃椤旇　鍋撴惔銏″劅闊洤姘︾粈瀣煥?
-- `2000` - `yanzi`
-- `2002` - `start`
-- `2003` - `the-moment`
+- **官方 15 张作品**：已完成从《孙燕姿》到《跳舞的梵谷》全 15 张录音室专辑及重要精选辑的深度重构。
+- **史诗级神作补完**：全站 33 首核心曲目已实现《天黑黑》级的深度解读，包含：
+  - **官方高清 MV 链接**
+  - **逐句细读 (Line-by-line)**：挖掘文学隐喻与情感锚点。
+  - **设计分析 (Song Design)**：剖析编曲、唱腔演进与录音室轶事。
+- **全生命周期时间线**：整理了 2000-2026 跨越 26 年的音乐历程叙事。
 
-## Song Content Layout
+## 🛠️ 技术栈与部署
 
-### Directory Rules
+### 核心架构
+- **框架**：Next.js 15 (App Router) + TypeScript
+- **样式**：Tailwind CSS + Framer Motion
+- **部署**：适配 Cloudflare Pages (Edge Runtime)
+- **AI 助手**：支持 OpenAI 兼容 API 的流式响应（Streaming）。
 
-Song-related content is stored under:
+### 环境变量配置 (Cloudflare / Vercel)
+在部署环境中请确保配置以下变量以启用 AI 功能：
+- `OPENAI_API_KEY`: 您的 API Key (必填)
+- `OPENAI_BASE_URL`: API 代理地址 (选填)
+- `OPENAI_MODEL`: 模型名称 (如 `gpt-4o-mini`, `deepseek-chat`)
+- `GITHUB_FEEDBACK_TOKEN`: 启用档案库共建功能所需
 
-- `content/songs/index.json`
-- `content/songs/deep-reads/`
-- `content/songs/raw-lyrics/`
+### 本地开发
+```bash
+# 安装依赖
+npm install
 
-### File Responsibilities
+# 启动开发服务器 (默认端口: 3008)
+npm run dev
+```
+访问地址：`http://localhost:3008`
 
-- `content/songs/index.json`
-  - Stores lightweight metadata for list pages, tags, navigation, and recommendation logic
-- `content/songs/deep-reads/{slug}.md`
-  - Stores MV links, overall interpretation, lyric-level interpretation, and song design analysis
-- `content/songs/raw-lyrics/{slug}.txt`
-  - Stores the full lyrics text that you manually maintain for private use
-  - The app automatically loads this file first when displaying complete lyrics
+### Cloudflare 部署构建命令
+针对 Cloudflare Pages 的 25MB 上传限制，本站提供了专用构建脚本：
+**Build command**: `npm run build:cf`
+**Output directory**: `.vercel/output`
 
-### Naming Rule
+## 🤝 燕姿档案库 (Contribution Hub)
 
-Use kebab-case pinyin slugs consistently across all related files.
+欢迎广大歌迷通过 **/feedback** 页面参与共建。
+- 支持上传高清专辑扫描图、访谈文档等。
+- 附件将安全存储于 Cloudflare R2（需配置）或记录于 GitHub Issue。
 
-Examples:
+## 📁 目录规范
 
-- `tian-hei-hei`
-- `wo-huai-nian-de`
-- `yu-jian`
-- `kai-shi-dong-le`
+- `content/songs/index.json`: 歌曲元数据与推荐逻辑。
+- `content/albums/index.json`: 官方 15 张专辑的核心定位。
+- `content/songs/deep-reads/`: 深度解读 Markdown 文件。
+- `content/songs/raw-lyrics/`: 纯净歌词文本。
 
-That means one song may map to:
-
-- `content/songs/deep-reads/tian-hei-hei.md`
-- `content/songs/raw-lyrics/tian-hei-hei.txt`
-
-## Lyrics Storage Format
-
-### Preferred Full Lyrics File
-
-Store full lyrics in a plain text file:
-
-- `content/songs/raw-lyrics/{slug}.txt`
-
-Recommended format:
-
-```txt
-缂備焦顨忛崗娑氱博鐎靛憡鍋橀悘鐐插⒔閹藉啴鎮?缂備焦顨忛崗娑氳姳閳哄啯鍋橀悘鐐插⒔閹藉啴鎮?
-缂備焦顨忛崗娑氱箔娴ｇ儤鍋橀悘鐐插⒔閹藉啴鎮?缂備焦顨忛崜娆徝洪幘鑸靛仒閻忕偛澧介幗鍐偣?```
-
-Requirements:
-
-- Keep original line breaks
-- Leave a blank line between sections if needed
-- Do not mix commentary into the raw lyrics file
-- This file should contain lyrics text only
-- The app will use this file before any `fullLyrics` field in markdown
-
-### Deep Read File
-
-Store analysis in:
-
-- `content/songs/deep-reads/{slug}.md`
-
-This file should contain:
-
-- `mvTitle`
-- `mvUrl`
-- optional `fullLyrics`
-- `lyricBlocks`
-- `lyricInterpretations`
-- `songDesign`
-- the overall interpretation in the markdown body
-
-A template is provided at:
-
-- `content/songs/deep-reads/_template.md`
-
-## Recommended Workflow
-
-For a new song:
-
-1. Add or confirm metadata in `content/songs/index.json`
-2. Put full lyrics into `content/songs/raw-lyrics/{slug}.txt`
-3. Create or update `content/songs/deep-reads/{slug}.md`
-4. Fill in:
-   - overall interpretation
-   - lyric-by-lyric or section-by-section interpretation
-   - song design analysis
-   - MV link
-
-## Next Step
-
-Make sure Ollama is running in WSL, then run `npm run dev`.
+---
+*愿这份解读，能让你在每一道绿光中，重新遇见那个尚好的青春。*
