@@ -24,8 +24,9 @@ export function AlbumAiPanel({ slug, title }: AlbumAiPanelProps) {
       })
 
       if (!response.ok) {
-        const errorData = await response.json().catch(() => ({}))
-        throw new Error(errorData.error || '请求失败')
+        const errorData = await response.json().catch(() => null) as { error?: string } | null
+        const errorText = errorData?.error || (await response.text().catch(() => '')) || '请求失败'
+        throw new Error(errorText)
       }
 
       if (!response.body) throw new Error('无法读取响应流')

@@ -1,30 +1,17 @@
 import type { Album, Song } from '@/types/content'
+import songsData from '@/content/songs/index.json'
+import albumsData from '@/content/albums/index.json'
 
 /**
- * A lightweight data fetcher for Edge Runtime / Client side.
- * It avoids using node:fs and node:path.
- * In production, it can fetch from pre-generated static JSON files.
+ * A lightweight data fetcher for Edge Runtime.
+ * IMPORTANT: Do not fetch "/content/*.json" over HTTP in production.
+ * Cloudflare Pages output does not expose the repository's /content directory as static files.
+ * Keep using bundled JSON imports here to avoid runtime 404/request failures.
  */
 
-function normalizeBaseUrl(baseUrl: string): string {
-  return baseUrl.replace(/\/+$/, '')
-}
-
-function resolveUrl(path: string, baseUrl?: string): string {
-  const envBaseUrl = process.env.NEXT_PUBLIC_SITE_URL?.trim() || ''
-  const resolvedBaseUrl = baseUrl?.trim() || envBaseUrl
-
-  if (!resolvedBaseUrl) {
-    return path
-  }
-
-  return `${normalizeBaseUrl(resolvedBaseUrl)}${path}`
-}
-
 export async function getSongsStatic(baseUrl?: string): Promise<Song[]> {
-  const res = await fetch(resolveUrl('/content/songs/index.json', baseUrl))
-  if (!res.ok) return []
-  return res.json()
+  void baseUrl
+  return songsData as Song[]
 }
 
 export async function getSongStatic(slug: string, baseUrl?: string): Promise<Song | undefined> {
@@ -33,9 +20,8 @@ export async function getSongStatic(slug: string, baseUrl?: string): Promise<Son
 }
 
 export async function getAlbumsStatic(baseUrl?: string): Promise<Album[]> {
-  const res = await fetch(resolveUrl('/content/albums/index.json', baseUrl))
-  if (!res.ok) return []
-  return res.json()
+  void baseUrl
+  return albumsData as Album[]
 }
 
 export async function getAlbumStatic(slug: string, baseUrl?: string): Promise<Album | undefined> {
