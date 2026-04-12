@@ -3,5 +3,5 @@
   "name": "yanzi",
   "compatibility_date": "2026-04-09",
   "compatibility_flags": ["nodejs_compat"],
-  "pages_build_output_dir": ".vercel/output"
+  "pages_build_output_dir": ".vercel/output/static"
 }
