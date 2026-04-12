@@ -7,17 +7,18 @@ export const runtime = 'edge'
 
 export async function POST(request: NextRequest) {
   try {
+    const origin = new URL(request.url).origin
     const { slug, question } = await request.json()
     if (!slug || !question) {
       return new Response('Missing slug or question', { status: 400 })
     }
 
-    const album = await getAlbumStatic(slug)
+    const album = await getAlbumStatic(slug, origin)
     if (!album) {
       return new Response('Album not found', { status: 404 })
     }
 
-    const songs = await getSongsByAlbumStatic(slug)
+    const songs = await getSongsByAlbumStatic(slug, origin)
     const messages = buildAlbumPrompt(album, songs, question)
     const stream = await createChatStream(messages)
 

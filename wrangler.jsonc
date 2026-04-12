@@ -3,5 +3,7 @@
   "name": "yanzi",
   "compatibility_date": "2026-04-09",
   "compatibility_flags": ["nodejs_compat"],
+  // IMPORTANT: Must stay ".vercel/output/static" for next-on-pages output.
+  // Changing this will cause successful builds to serve 404 at runtime.
   "pages_build_output_dir": ".vercel/output/static"
 }

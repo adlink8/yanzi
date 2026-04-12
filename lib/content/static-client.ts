@@ -6,31 +6,44 @@ import type { Album, Song } from '@/types/content'
  * In production, it can fetch from pre-generated static JSON files.
  */
 
-const BASE_URL = process.env.NEXT_PUBLIC_SITE_URL || ''
+function normalizeBaseUrl(baseUrl: string): string {
+  return baseUrl.replace(/\/+$/, '')
+}
 
-export async function getSongsStatic(): Promise<Song[]> {
-  const res = await fetch(`${BASE_URL}/content/songs/index.json`)
+function resolveUrl(path: string, baseUrl?: string): string {
+  const envBaseUrl = process.env.NEXT_PUBLIC_SITE_URL?.trim() || ''
+  const resolvedBaseUrl = baseUrl?.trim() || envBaseUrl
+
+  if (!resolvedBaseUrl) {
+    return path
+  }
+
+  return `${normalizeBaseUrl(resolvedBaseUrl)}${path}`
+}
+
+export async function getSongsStatic(baseUrl?: string): Promise<Song[]> {
+  const res = await fetch(resolveUrl('/content/songs/index.json', baseUrl))
   if (!res.ok) return []
   return res.json()
 }
 
-export async function getSongStatic(slug: string): Promise<Song | undefined> {
-  const songs = await getSongsStatic()
+export async function getSongStatic(slug: string, baseUrl?: string): Promise<Song | undefined> {
+  const songs = await getSongsStatic(baseUrl)
   return songs.find(s => s.slug === slug)
 }
 
-export async function getAlbumsStatic(): Promise<Album[]> {
-  const res = await fetch(`${BASE_URL}/content/albums/index.json`)
+export async function getAlbumsStatic(baseUrl?: string): Promise<Album[]> {
+  const res = await fetch(resolveUrl('/content/albums/index.json', baseUrl))
   if (!res.ok) return []
   return res.json()
 }
 
-export async function getAlbumStatic(slug: string): Promise<Album | undefined> {
-  const albums = await getAlbumsStatic()
+export async function getAlbumStatic(slug: string, baseUrl?: string): Promise<Album | undefined> {
+  const albums = await getAlbumsStatic(baseUrl)
   return albums.find(a => a.slug === slug)
 }
 
-export async function getSongsByAlbumStatic(albumSlug: string): Promise<Song[]> {
-  const songs = await getSongsStatic()
+export async function getSongsByAlbumStatic(albumSlug: string, baseUrl?: string): Promise<Song[]> {
+  const songs = await getSongsStatic(baseUrl)
   return songs.filter(s => s.albumSlug === albumSlug)
 }
