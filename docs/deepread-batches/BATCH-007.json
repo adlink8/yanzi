@@ -2,103 +2,141 @@
   "id": "BATCH-007",
   "number": 7,
   "size": 6,
+  "mode": "depth_upgrade",
   "songs": [
     {
-      "slug": "we-will-get-there",
-      "title": "We Will Get There",
+      "slug": "ni-ming-wan-sui",
+      "title": "匿名万岁",
       "favoriteLevel": "low",
-      "tier": "scaffold",
+      "tier": "editorial",
+      "bodyChars": 270,
+      "interpretationCount": 6,
       "albumSlug": "official-singles-collection",
       "moodTags": [
-        "回望"
+        "冷讽",
+        "清醒"
       ],
       "themeTags": [
-        "关系变化"
+        "网络匿名",
+        "面具"
       ],
-      "summary": "《We Will Get There》的解读正在整理中。",
-      "deepReadPath": "content/songs/deep-reads/we-will-get-there.md",
-      "rawLyricsPath": "content/songs/raw-lyrics/we-will-get-there.txt"
+      "summary": "反讽网络匿名：切换身份、影子圣贤出征、眼泪被围观；承认我们也是其中一员。",
+      "deepReadPath": "content/songs/deep-reads/ni-ming-wan-sui.md",
+      "rawLyricsPath": "content/songs/raw-lyrics/ni-ming-wan-sui.txt",
+      "goal": "depth_upgrade"
     },
     {
-      "slug": "wei-rao",
-      "title": "围绕",
+      "slug": "xuan-wo",
+      "title": "漩涡",
       "favoriteLevel": "low",
-      "tier": "scaffold",
+      "tier": "editorial",
+      "bodyChars": 272,
+      "interpretationCount": 5,
       "albumSlug": "official-singles-collection",
       "moodTags": [
-        "回望"
+        "悔恨",
+        "脆弱"
       ],
       "themeTags": [
-        "关系变化"
+        "自责",
+        "未言说",
+        "后悔"
       ],
-      "summary": "《围绕》的解读正在整理中。",
-      "deepReadPath": "content/songs/deep-reads/wei-rao.md",
-      "rawLyricsPath": "content/songs/raw-lyrics/wei-rao.txt"
+      "summary": "假把握锁心逼走对方后的自我吞噬：从不说我爱你那么多，悔恨如黑色漩涡吞没。",
+      "deepReadPath": "content/songs/deep-reads/xuan-wo.md",
+      "rawLyricsPath": "content/songs/raw-lyrics/xuan-wo.txt",
+      "goal": "depth_upgrade"
     },
     {
-      "slug": "wei-wan-cheng",
-      "title": "未完成",
+      "slug": "liu-lang-di-tu",
+      "title": "流浪地图",
       "favoriteLevel": "low",
-      "tier": "scaffold",
-      "albumSlug": "wei-wan-cheng",
+      "tier": "editorial",
+      "bodyChars": 273,
+      "interpretationCount": 5,
+      "albumSlug": "wan-mei-de-yi-tian",
       "moodTags": [
-        "回望"
+        "告别",
+        "克制",
+        "漂泊"
       ],
       "themeTags": [
-        "关系变化"
+        "离开",
+        "痕迹",
+        "迁徙"
       ],
-      "summary": "《未完成》的解读正在整理中。",
-      "deepReadPath": "content/songs/deep-reads/wei-wan-cheng.md",
-      "rawLyricsPath": "content/songs/raw-lyrics/wei-wan-cheng.txt"
+      "summary": "天黑车速的离开进行时：非虚构的恋爱留下痕迹，静静出口后已走在流浪的地图上。",
+      "deepReadPath": "content/songs/deep-reads/liu-lang-di-tu.md",
+      "rawLyricsPath": "content/songs/raw-lyrics/liu-lang-di-tu.txt",
+      "goal": "depth_upgrade"
     },
     {
-      "slug": "wei-zhi-de-jing-cai-2",
-      "title": "未知的精采（版本二）",
+      "slug": "ta-men-de-ge",
+      "title": "他们的歌",
       "favoriteLevel": "low",
-      "tier": "scaffold",
-      "albumSlug": "stefanie-self-titled",
-      "moodTags": [
-        "回望"
-      ],
-      "themeTags": [
-        "关系变化"
-      ],
-      "summary": "《未知的精采（版本二）》的解读正在整理中。",
-      "deepReadPath": "content/songs/deep-reads/wei-zhi-de-jing-cai-2.md",
-      "rawLyricsPath": "content/songs/raw-lyrics/wei-zhi-de-jing-cai-2.txt"
-    },
-    {
-      "slug": "wen-rou-mayday-blue-20th",
-      "title": "温柔（五月天 BLUE 20th）",
-      "favoriteLevel": "low",
-      "tier": "scaffold",
+      "tier": "editorial",
+      "bodyChars": 276,
+      "interpretationCount": 5,
       "albumSlug": "official-singles-collection",
       "moodTags": [
-        "回望"
+        "清醒",
+        "决断"
       ],
       "themeTags": [
-        "关系变化"
+        "关系变化",
+        "分岔",
+        "自我确认"
       ],
-      "summary": "《温柔（五月天 BLUE 20th）》的解读正在整理中。",
-      "deepReadPath": "content/songs/deep-reads/wen-rou-mayday-blue-20th.md",
-      "rawLyricsPath": "content/songs/raw-lyrics/wen-rou-mayday-blue-20th.txt"
+      "summary": "从爱的号码牌、眼中不同天空、错位的翅膀，走到成人残缺与自我决定——一条关系分岔后的自我转向路径。",
+      "deepReadPath": "content/songs/deep-reads/ta-men-de-ge.md",
+      "rawLyricsPath": "content/songs/raw-lyrics/ta-men-de-ge.txt",
+      "goal": "depth_upgrade"
     },
     {
-      "slug": "wo-hen-wo-ai-ni",
-      "title": "我恨我爱你",
+      "slug": "ting-jian",
+      "title": "听见",
       "favoriteLevel": "low",
-      "tier": "scaffold",
+      "tier": "editorial",
+      "bodyChars": 276,
+      "interpretationCount": 5,
       "albumSlug": "official-singles-collection",
       "moodTags": [
-        "回望"
+        "思念",
+        "细腻"
       ],
       "themeTags": [
-        "关系变化"
+        "听觉记忆",
+        "牵挂",
+        "关系余波"
       ],
-      "summary": "《我恨我爱你》的解读正在整理中。",
-      "deepReadPath": "content/songs/deep-reads/wo-hen-wo-ai-ni.md",
-      "rawLyricsPath": "content/songs/raw-lyrics/wo-hen-wo-ai-ni.txt"
+      "summary": "《听见》用耳朵做关系镜头：从旁人声响扫到重叠的声线，思念让人穿越风雨，诺言也会不经意被听见。",
+      "deepReadPath": "content/songs/deep-reads/ting-jian.md",
+      "rawLyricsPath": "content/songs/raw-lyrics/ting-jian.txt",
+      "goal": "depth_upgrade"
+    },
+    {
+      "slug": "ke",
+      "title": "渴",
+      "favoriteLevel": "low",
+      "tier": "editorial",
+      "bodyChars": 277,
+      "interpretationCount": 5,
+      "albumSlug": "ke-bu-le",
+      "moodTags": [
+        "沉静",
+        "顿悟",
+        "淡然"
+      ],
+      "themeTags": [
+        "时间",
+        "慢下来",
+        "松手"
+      ],
+      "summary": "在追逐里才懂漫步的渴，在孤独里才懂安静的渴；卸下颜色反而璀璨，爱不必再被计算。",
+      "deepReadPath": "content/songs/deep-reads/ke.md",
+      "rawLyricsPath": "content/songs/raw-lyrics/ke.txt",
+      "goal": "depth_upgrade"
     }
   ],
-  "createdAt": "2026-07-17T01:24:35.946Z"
+  "createdAt": "2026-07-17T01:40:11.747Z"
 }

@@ -2,103 +2,135 @@
   "id": "BATCH-004",
   "number": 4,
   "size": 6,
+  "mode": "depth_upgrade",
   "songs": [
     {
-      "slug": "sometimes-love-just-aint-enough",
-      "title": "Sometimes Love Just Ain't Enough",
-      "favoriteLevel": "low",
-      "tier": "scaffold",
+      "slug": "yu-e",
+      "title": "余额",
+      "favoriteLevel": "medium",
+      "tier": "editorial",
+      "bodyChars": 274,
+      "interpretationCount": 5,
       "albumSlug": "official-singles-collection",
       "moodTags": [
-        "回望"
+        "克制",
+        "余韵"
       ],
       "themeTags": [
-        "关系变化"
+        "关系变化",
+        "耗尽"
       ],
-      "summary": "《Sometimes Love Just Ain't Enough》的解读正在整理中。",
-      "deepReadPath": "content/songs/deep-reads/sometimes-love-just-aint-enough.md",
-      "rawLyricsPath": "content/songs/raw-lyrics/sometimes-love-just-aint-enough.txt"
+      "summary": "《余额》把爱写成会花光的额度：亲吻曾让人变强，只是爱没余额了。城里的缝隙房间里，人卸下行李，连“多久没想你”都不敢说出口。",
+      "deepReadPath": "content/songs/deep-reads/yu-e.md",
+      "rawLyricsPath": "content/songs/raw-lyrics/yu-e.txt",
+      "goal": "depth_upgrade"
     },
     {
-      "slug": "sparking-diamonds",
-      "title": "Sparkling Diamonds",
-      "favoriteLevel": "low",
-      "tier": "scaffold",
-      "albumSlug": "official-singles-collection",
+      "slug": "ling-que-dian",
+      "title": "零缺点",
+      "favoriteLevel": "medium",
+      "tier": "editorial",
+      "bodyChars": 276,
+      "interpretationCount": 5,
+      "albumSlug": "wo-yao-de-xing-fu",
       "moodTags": [
         "回望"
       ],
       "themeTags": [
-        "关系变化"
+        "成长",
+        "勇气"
       ],
-      "summary": "《Sparkling Diamonds》的解读正在整理中。",
-      "deepReadPath": "content/songs/deep-reads/sparking-diamonds.md",
-      "rawLyricsPath": "content/songs/raw-lyrics/sparking-diamonds.txt"
+      "summary": "《零缺点》最适合从“理想化”去听。它未必是在说世界上真的有完美的人，而是在写一种很青春的时刻：你愿意先相信、先投射、先把对方想得特别好。",
+      "deepReadPath": "content/songs/deep-reads/ling-que-dian.md",
+      "rawLyricsPath": "content/songs/raw-lyrics/ling-que-dian.txt",
+      "goal": "depth_upgrade"
     },
     {
-      "slug": "sparkling-diamonds-start-concert",
-      "title": "Sparkling Diamonds Start Concert",
-      "favoriteLevel": "low",
-      "tier": "scaffold",
-      "albumSlug": "start-live",
+      "slug": "honey-honey",
+      "title": "Honey Honey",
+      "favoriteLevel": "medium",
+      "tier": "editorial",
+      "bodyChars": 277,
+      "interpretationCount": 6,
+      "albumSlug": "wan-mei-de-yi-tian",
       "moodTags": [
-        "回望"
+        "轻快",
+        "心虚"
       ],
       "themeTags": [
-        "关系变化"
+        "日常感",
+        "距离",
+        "时间"
       ],
-      "summary": "《Sparkling Diamonds Start Concert》的解读正在整理中。",
-      "deepReadPath": "content/songs/deep-reads/sparkling-diamonds-start-concert.md",
-      "rawLyricsPath": "content/songs/raw-lyrics/sparkling-diamonds-start-concert.txt"
+      "summary": "《Honey Honey》写忙碌恋爱的轻亏欠：好日子与喝茶的愿望清单底下，副歌其实是「对不起，我总是没时间陪你」；距离被合理化，安慰只剩「知道我在你心里」。",
+      "deepReadPath": "content/songs/deep-reads/honey-honey.md",
+      "rawLyricsPath": "content/songs/raw-lyrics/honey-honey.txt",
+      "goal": "depth_upgrade"
     },
     {
-      "slug": "stefanie",
-      "title": "Stefanie",
-      "favoriteLevel": "low",
-      "tier": "scaffold",
-      "albumSlug": "official-singles-collection",
+      "slug": "jie-xia-lai",
+      "title": "接下来",
+      "favoriteLevel": "medium",
+      "tier": "editorial",
+      "bodyChars": 279,
+      "interpretationCount": 6,
+      "albumSlug": "no-13",
       "moodTags": [
-        "回望"
+        "向前",
+        "致谢"
       ],
       "themeTags": [
-        "关系变化"
+        "启程",
+        "同行",
+        "信念"
       ],
-      "summary": "《Stefanie》的解读正在整理中。",
-      "deepReadPath": "content/songs/deep-reads/stefanie.md",
-      "rawLyricsPath": "content/songs/raw-lyrics/stefanie.txt"
+      "summary": "《接下来》是献给同行者的启程曲：承认靠近的遥远与偶尔的累，有好有坏也只记得起点，迎接、不后退，与你们一起飞。",
+      "deepReadPath": "content/songs/deep-reads/jie-xia-lai.md",
+      "rawLyricsPath": "content/songs/raw-lyrics/jie-xia-lai.txt",
+      "goal": "depth_upgrade"
     },
     {
-      "slug": "sui-tang-ce-yan-start-concert",
-      "title": "随堂测验（Start演唱会）",
+      "slug": "fan-guo-lai-zou-zou",
+      "title": "反过来走走",
       "favoriteLevel": "low",
-      "tier": "scaffold",
-      "albumSlug": "start-live",
+      "tier": "editorial",
+      "bodyChars": 226,
+      "interpretationCount": 5,
+      "albumSlug": "stefanie-self-titled",
       "moodTags": [
-        "回望"
+        "松绑",
+        "自嘲"
       ],
       "themeTags": [
-        "关系变化"
+        "自救",
+        "关系疏离"
       ],
-      "summary": "《随堂测验（Start演唱会）》的解读正在整理中。",
-      "deepReadPath": "content/songs/deep-reads/sui-tang-ce-yan-start-concert.md",
-      "rawLyricsPath": "content/songs/raw-lyrics/sui-tang-ce-yan-start-concert.txt"
+      "summary": "放自己一天假换一口纯氧，换左手重练生活；反过来走走不握紧而放松，散场鼓掌谢谢 bye bye。",
+      "deepReadPath": "content/songs/deep-reads/fan-guo-lai-zou-zou.md",
+      "rawLyricsPath": "content/songs/raw-lyrics/fan-guo-lai-zou-zou.txt",
+      "goal": "depth_upgrade"
     },
     {
-      "slug": "sweet-child-o-mine",
-      "title": "Sweet Child O' Mine",
+      "slug": "he-ping",
+      "title": "和平",
       "favoriteLevel": "low",
-      "tier": "scaffold",
-      "albumSlug": "official-singles-collection",
+      "tier": "editorial",
+      "bodyChars": 244,
+      "interpretationCount": 5,
+      "albumSlug": "yanzi",
       "moodTags": [
-        "回望"
+        "温和",
+        "坚定"
       ],
       "themeTags": [
-        "关系变化"
+        "和解",
+        "信任"
       ],
-      "summary": "《Sweet Child O' Mine》的解读正在整理中。",
-      "deepReadPath": "content/songs/deep-reads/sweet-child-o-mine.md",
-      "rawLyricsPath": "content/songs/raw-lyrics/sweet-child-o-mine.txt"
+      "summary": "在兵慌马乱里固执地要求和平对待你：微笑是信号，相信是重启。",
+      "deepReadPath": "content/songs/deep-reads/he-ping.md",
+      "rawLyricsPath": "content/songs/raw-lyrics/he-ping.txt",
+      "goal": "depth_upgrade"
     }
   ],
-  "createdAt": "2026-07-17T01:24:35.943Z"
+  "createdAt": "2026-07-17T01:40:11.745Z"
 }

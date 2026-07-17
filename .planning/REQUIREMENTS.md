@@ -11,6 +11,7 @@
 - H-03: 歌曲目录全量索引，首轮 deep-read 全量覆盖
 - H-04: 情绪推荐 API 与基础测试/构建链路可运行
 - H-05: OpenAI-compatible AI 问答（云端优先配置）
+- H-06: 目录规范化 + 全库 deep-read 按曲定制（editorial）
 
 ## v1 Requirements (Current Refinement Milestone)
 
@@ -23,20 +24,20 @@
 ### Content Quality
 
 - [x] **META-01**: 所有专辑条目具备可读摘要与代表曲列表
-- [~] **META-02**: 歌曲 `summary`、`moodTags`、`themeTags` 与 deep-read 内容语义一致（high-favorite batch done）
-- [~] **META-03**: 关键缺失/占位歌词案例（如 `shang-bu-liao`）— 伪完整已消除，真实歌词仍待补
+- [x] **META-02**: 全库 editorial 后 summary/tags 已按批对齐（持续可人工微调）
+- [~] **META-03**: 占位歌词不再伪完整；`shang-bu-liao` **真歌词仍待补录**
 
 ### Deep Read Enrichment
 
-- [x] **READ-01**: 高优先歌曲 deep-read 包含结构化段落解读（8/8 high favorites editorial）
-- [~] **READ-02**: deep-read 字段可渲染；verified MV 仅部分曲目具备
-- [x] **READ-03**: 歌曲详情页 raw-lyrics 回退正确；占位不展示为完整歌词
+- [x] **READ-01**: 全库 184 首 deep-read 为按曲结构化解读（`lyricInterpretations`，非 scaffold 模板）
+- [~] **READ-02**: 字段可渲染；**verified MV** 仍大量缺失（~179 无 mvUrl）
+- [x] **READ-03**: raw-lyrics 回退正确；占位文档不展示为完整歌词
 
 ### Reliability & QA
 
-- [ ] **QA-01**: `npm test` 覆盖内容推荐与关键 API 路径并保持通过
-- [ ] **QA-02**: 为关键页面加载与反馈流程补充可执行测试或 smoke 检查
-- [ ] **QA-03**: `npm run build` 在当前内容集下稳定通过且无阻断错误
+- [~] **QA-01**: Vitest 覆盖 recommend / content / AI / API（52 tests）；可再扩展
+- [ ] **QA-02**: 关键页面与反馈流程 smoke / E2E
+- [~] **QA-03**: 本地 build 链路可用；CI 已配置（`chore/ci-and-full-tests`）
 
 ## v2 Requirements
 
@@ -53,7 +54,7 @@
 | 声音克隆与拟真人设聊天 | 超出项目定位，伦理/合规风险 |
 | 生产级多租户后台系统 | 与私有自用不匹配 |
 | 跨平台独立 App | 优先 Web 与内容质量 |
-| 默认强制本地 LLM | 部署与质量以云端 OpenAI-compatible 为准；Ollama 仅可选 |
+| 默认强制本地 LLM | 云端 OpenAI-compatible 为准；Ollama 仅可选 |
 
 ## Traceability
 
@@ -63,20 +64,20 @@
 | CATA-02 | Phase 4 | Done |
 | CATA-03 | Phase 4 | Done |
 | META-01 | Phase 4 | Done |
-| META-02 | Phase 5 | Partial (high-fav) |
-| META-03 | Phase 5 | Partial (no fake full lyrics) |
-| READ-01 | Phase 5 | Done (high-fav) |
-| READ-02 | Phase 5 | Partial |
+| META-02 | Phase 5 | Done |
+| META-03 | Phase 5 | Partial |
+| READ-01 | Phase 5 | Done |
+| READ-02 | Phase 5 | Partial (MV) |
 | READ-03 | Phase 5 | Done |
-| QA-01 | Phase 6 | Partial (CI tests on branch) |
+| QA-01 | Phase 6 | Partial |
 | QA-02 | Phase 6 | Pending |
-| QA-03 | Phase 6 | Pending |
+| QA-03 | Phase 6 | Partial |
 
 **Coverage:**
-- v1 requirements: 12 total
-- Done: 6 (CATA-01..03, META-01, READ-01, READ-03)
-- Partial: META-02, META-03, READ-02, QA-01
-- Open: QA-02, QA-03
+- v1: 12 total
+- Done: 8
+- Partial: META-03, READ-02, QA-01, QA-03
+- Open: QA-02
 
 ---
-*Requirements updated: 2026-07-17 after Phase 4 catalog closeout*
+*Requirements updated: 2026-07-17 — full-catalog editorial complete*

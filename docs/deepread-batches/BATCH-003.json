@@ -2,105 +2,133 @@
   "id": "BATCH-003",
   "number": 3,
   "size": 6,
+  "mode": "depth_upgrade",
   "songs": [
     {
-      "slug": "ren-zhi",
-      "title": "人质",
-      "favoriteLevel": "low",
-      "tier": "scaffold",
+      "slug": "gu-ji-gu-ji",
+      "title": "咕叽咕叽",
+      "favoriteLevel": "medium",
+      "tier": "editorial",
+      "bodyChars": 262,
+      "interpretationCount": 6,
+      "albumSlug": "ni-guang",
+      "moodTags": [
+        "回望"
+      ],
+      "themeTags": [
+        "回望",
+        "韧性"
+      ],
+      "summary": "《咕叽咕叽》最大的魅力，就是它不沉重但不空。它像一首会眨眼睛的歌，用很轻的方式把整张专辑里更活、更灵、更俏皮的一面拉出来。",
+      "deepReadPath": "content/songs/deep-reads/gu-ji-gu-ji.md",
+      "rawLyricsPath": "content/songs/raw-lyrics/gu-ji-gu-ji.txt",
+      "goal": "depth_upgrade"
+    },
+    {
+      "slug": "ling-yi-zhang-lian",
+      "title": "另一张脸",
+      "favoriteLevel": "medium",
+      "tier": "editorial",
+      "bodyChars": 262,
+      "interpretationCount": 5,
+      "albumSlug": "wan-mei-de-yi-tian",
+      "moodTags": [
+        "低落",
+        "内省"
+      ],
+      "themeTags": [
+        "自我",
+        "脆弱"
+      ],
+      "summary": "《另一张脸》把无来由的灰心情写成内在第二张脸：黑暗变形、自己都讨厌，却仍想像傻子一样笑着过一天。它在意志脆弱时复发，灰脸与我的脸几乎重叠。",
+      "deepReadPath": "content/songs/deep-reads/ling-yi-zhang-lian.md",
+      "rawLyricsPath": "content/songs/raw-lyrics/ling-yi-zhang-lian.txt",
+      "goal": "depth_upgrade"
+    },
+    {
+      "slug": "nan-de-yi-jian",
+      "title": "难得一见",
+      "favoriteLevel": "medium",
+      "tier": "editorial",
+      "bodyChars": 266,
+      "interpretationCount": 5,
+      "albumSlug": "wo-yao-de-xing-fu",
+      "moodTags": [
+        "轻快",
+        "催促"
+      ],
+      "themeTags": [
+        "珍惜",
+        "行动"
+      ],
+      "summary": "《难得一见》用轻快口吻催你别再浪费重逢：拆穿现成理由，逼出说了做了想办法，人山人海里幸运的人别说废话。",
+      "deepReadPath": "content/songs/deep-reads/nan-de-yi-jian.md",
+      "rawLyricsPath": "content/songs/raw-lyrics/nan-de-yi-jian.txt",
+      "goal": "depth_upgrade"
+    },
+    {
+      "slug": "tao-wang",
+      "title": "逃亡",
+      "favoriteLevel": "medium",
+      "tier": "editorial",
+      "bodyChars": 266,
+      "interpretationCount": 5,
+      "albumSlug": "feng-zheng",
+      "moodTags": [
+        "释放",
+        "孤单"
+      ],
+      "themeTags": [
+        "自我",
+        "成长"
+      ],
+      "summary": "《逃亡》是夜里离城上山的自我重整：寂寞地跑，俯瞰山下万窗后仍要去闯，终发现梦的答案在自己手上。",
+      "deepReadPath": "content/songs/deep-reads/tao-wang.md",
+      "rawLyricsPath": "content/songs/raw-lyrics/tao-wang.txt",
+      "goal": "depth_upgrade"
+    },
+    {
+      "slug": "sui-tang-ce-yan",
+      "title": "随堂测验",
+      "favoriteLevel": "medium",
+      "tier": "editorial",
+      "bodyChars": 267,
+      "interpretationCount": 5,
+      "albumSlug": "feng-zheng",
+      "moodTags": [
+        "清醒",
+        "俏皮"
+      ],
+      "themeTags": [
+        "了解",
+        "关系质检"
+      ],
+      "summary": "《随堂测验》用泡面口味与球鞋尺码这类琐事抽问：爱情与了解不一定关连，喜欢也不等于爱，爱是否太表面。",
+      "deepReadPath": "content/songs/deep-reads/sui-tang-ce-yan.md",
+      "rawLyricsPath": "content/songs/raw-lyrics/sui-tang-ce-yan.txt",
+      "goal": "depth_upgrade"
+    },
+    {
+      "slug": "shou-hu-yong-heng-de-ai",
+      "title": "守护永恒的爱",
+      "favoriteLevel": "medium",
+      "tier": "editorial",
+      "bodyChars": 268,
+      "interpretationCount": 5,
       "albumSlug": "official-singles-collection",
       "moodTags": [
-        "回望"
+        "明亮",
+        "坚定"
       ],
       "themeTags": [
-        "关系变化"
+        "守护",
+        "同行"
       ],
-      "summary": "《人质》的解读正在整理中。",
-      "deepReadPath": "content/songs/deep-reads/ren-zhi.md",
-      "rawLyricsPath": "content/songs/raw-lyrics/ren-zhi.txt"
-    },
-    {
-      "slug": "rise",
-      "title": "Rise",
-      "favoriteLevel": "low",
-      "tier": "scaffold",
-      "albumSlug": "official-singles-collection",
-      "moodTags": [
-        "回望"
-      ],
-      "themeTags": [
-        "关系变化"
-      ],
-      "summary": "《Rise》的解读正在整理中。",
-      "deepReadPath": "content/songs/deep-reads/rise.md",
-      "rawLyricsPath": "content/songs/raw-lyrics/rise.txt"
-    },
-    {
-      "slug": "shang-bu-liao",
-      "title": "上不了",
-      "favoriteLevel": "low",
-      "tier": "scaffold",
-      "albumSlug": "yanzi",
-      "moodTags": [
-        "倔强",
-        "失衡"
-      ],
-      "themeTags": [
-        "关系变化",
-        "内心独白"
-      ],
-      "summary": "更靠近情绪爆发边缘的一首，适合补一篇关于早期张力的解读。",
-      "deepReadPath": "content/songs/deep-reads/shang-bu-liao.md",
-      "rawLyricsPath": "content/songs/raw-lyrics/shang-bu-liao.txt"
-    },
-    {
-      "slug": "shi-guang-xiao-tou",
-      "title": "时光小偷",
-      "favoriteLevel": "low",
-      "tier": "scaffold",
-      "albumSlug": "official-singles-collection",
-      "moodTags": [
-        "回望"
-      ],
-      "themeTags": [
-        "关系变化"
-      ],
-      "summary": "《时光小偷》的解读正在整理中。",
-      "deepReadPath": "content/songs/deep-reads/shi-guang-xiao-tou.md",
-      "rawLyricsPath": "content/songs/raw-lyrics/shi-guang-xiao-tou.txt"
-    },
-    {
-      "slug": "someone",
-      "title": "Someone",
-      "favoriteLevel": "low",
-      "tier": "scaffold",
-      "albumSlug": "official-singles-collection",
-      "moodTags": [
-        "回望"
-      ],
-      "themeTags": [
-        "关系变化"
-      ],
-      "summary": "《Someone》的解读正在整理中。",
-      "deepReadPath": "content/songs/deep-reads/someone.md",
-      "rawLyricsPath": "content/songs/raw-lyrics/someone.txt"
-    },
-    {
-      "slug": "someone-start-concert",
-      "title": "Someone Start Concert",
-      "favoriteLevel": "low",
-      "tier": "scaffold",
-      "albumSlug": "start-live",
-      "moodTags": [
-        "回望"
-      ],
-      "themeTags": [
-        "关系变化"
-      ],
-      "summary": "《Someone Start Concert》的解读正在整理中。",
-      "deepReadPath": "content/songs/deep-reads/someone-start-concert.md",
-      "rawLyricsPath": "content/songs/raw-lyrics/someone-start-concert.txt"
+      "summary": "《守护永恒的爱》是明亮的并肩誓词：从孤立无援到长出光的翼，把永恒拆成“串起每一个今天”，守护走向共同未来。",
+      "deepReadPath": "content/songs/deep-reads/shou-hu-yong-heng-de-ai.md",
+      "rawLyricsPath": "content/songs/raw-lyrics/shou-hu-yong-heng-de-ai.txt",
+      "goal": "depth_upgrade"
     }
   ],
-  "createdAt": "2026-07-17T01:24:35.942Z"
+  "createdAt": "2026-07-17T01:40:11.744Z"
 }

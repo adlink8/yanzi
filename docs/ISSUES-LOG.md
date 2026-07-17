@@ -87,6 +87,26 @@
 - Status:
   - **partially closed** — fake completeness fixed; real lyrics still pending manual UTF-8补录
   - remaining open item: replace `shang-bu-liao.txt` placeholder with verified full lyrics only
+- Deep-read status (2026-07-17):
+  - File is **editorial** (honest notes without invented full lyrics); still `missing_mvUrl`
+
+### 6. Deep-read scaffold / template quality (catalog-wide)
+
+- Scope: `content/songs/deep-reads/*.md`
+- Historical issue: majority auto-scaffold / cross-song templates
+- Status:
+  - **closed** (2026-07-17)
+- Validation:
+  - `npm run report:deepread-quality` → scaffold=0, passable=0, editorial=184
+  - Spec: `docs/DEEPREAD-EDITORIAL-SPEC.md`
+  - Pipeline: `prepare:deepread-batches` / `prepare:deepread-depth` / `verify:deepread-batch`
+
+### 7. Missing verified MV links
+
+- Scope: deep-read frontmatter `mvUrl`
+- Status: **open**
+- Scale: ~179 songs without verified `mvUrl` (do not invent IDs)
+- Follow-up: Phase 6 optional remediation batches
 
 ## Technical Root Cause Summary
 
@@ -103,13 +123,17 @@ The main sources were:
 - visible indexed placeholders: `0`
 - albumSlug orphans: `0`（2026-07-17 closeout）
 - songSlugs drift: `0`（derived from song `albumSlug`）
+- deep-read tiers: **editorial=184, scaffold=0, passable=0**
+- missing verified mvUrl: **~179**
+- `npm test`: 52 passing (branch)
 - build status: passing (last verified via project ops notes)
 
 ## Follow-up Rule
 
-Before continuing large-scale indexing or content expansion:
+Before continuing large-scale content expansion:
 
 1. keep visible UI text UTF-8 clean
 2. keep indexed metadata clean
-3. run build validation after each batch
-4. record unresolved issues here first
+3. run `npm run report:deepread-quality` after editorial batches
+4. never invent MV IDs or full lyrics
+5. record unresolved issues here first

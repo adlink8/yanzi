@@ -19,7 +19,7 @@
       "母语感",
       "回望"
     ],
-    "summary": "把长大后的失落和小时候的安全感并置在一起，是很典型的燕姿式温柔。",
+    "summary": "外婆的台语童谣与成人世界的残缺同线：忘记那首歌之后，天黑时才重新听懂——下起雨也要前进，同时允许自己想家。",
     "personalRating": 10,
     "favoriteLevel": "high",
     "hasDeepRead": true,
@@ -182,7 +182,7 @@
       "牵引",
       "距离"
     ],
-    "summary": "表面是轻，内里却一直有拉扯和失重感。",
+    "summary": "不绑住一秒、看你飞过云端，山上的人还在喊：成全写得很轻，失重感却一直在。",
     "favoriteLevel": "medium",
     "hasDeepRead": true,
     "relatedSongs": [
@@ -209,7 +209,7 @@
       "希望",
       "跳跃"
     ],
-    "summary": "有一种向前奔跑的轻盈，也是很多人入坑时最先记住的光。",
+    "summary": "翻山越云去找一道触电般的绿光：searching 不停步，希望也可以 right here。",
     "favoriteLevel": "medium",
     "hasDeepRead": true,
     "relatedSongs": [
@@ -236,7 +236,7 @@
       "藏着",
       "没说出口"
     ],
-    "summary": "那种不是不能说，而是不知道该对谁说的感觉很强。",
+    "summary": "爱得更早却不说出口：多年后承认我们都一样，夏天短思念长。",
     "favoriteLevel": "medium",
     "hasDeepRead": true,
     "relatedSongs": [
@@ -263,7 +263,7 @@
       "失控",
       "拉扯"
     ],
-    "summary": "出道专《燕姿》中的早期张力曲：曲名指向未遂与阻滞，卡片气质为倔强、失衡与拉扯；完整歌词核验后可再补逐句细读。",
+    "summary": "出道专《燕姿》早期张力曲：曲名「上＋不了」写未遂与阻滞，气质倔强、失衡与拉扯；完整歌词入库前仅作诚实概读。",
     "favoriteLevel": "low",
     "hasDeepRead": true,
     "relatedSongs": [
@@ -279,16 +279,19 @@
     "releaseYear": 2000,
     "era": "出道延展",
     "moodTags": [
-      "回望"
+      "清醒",
+      "向前"
     ],
     "themeTags": [
       "成长",
-      "勇气"
+      "自主"
     ],
     "keywords": [
-      "我要的幸福"
+      "我要的幸福",
+      "黏土",
+      "速度"
     ],
-    "summary": "《我要的幸福》最可贵的地方，是它把“幸福”说得既不空，也不软。它不是站在远处想象幸福，而是很认真地把幸福当成自己必须去辨认的一件事。",
+    "summary": "《我要的幸福》把幸福写成可辨认、可塑形的事：先记账式清点付出，再承认自己还在找与世界合拍的速度，坚持每一步该走的方向。",
     "favoriteLevel": "medium",
     "hasDeepRead": true,
     "relatedSongs": [
@@ -329,16 +332,19 @@
     "releaseYear": 2000,
     "era": "出道延展",
     "moodTags": [
-      "回望"
+      "不安",
+      "克制"
     ],
     "themeTags": [
-      "成长",
-      "勇气"
+      "关系变化",
+      "自我保护"
     ],
     "keywords": [
-      "害怕"
+      "害怕",
+      "夜深人静",
+      "止损"
     ],
-    "summary": "《害怕》最真实的地方，是它不努力把自己说得很坚强。它承认那种一旦在乎，就会开始怕失去、怕受伤、怕自己撑不住的感觉，而这种承认本身就很动人。",
+    "summary": "不努力遗忘，却仍怕夜深想起、怕听见消息；拥有已是失去时选择放弃，并带着害怕走下去。",
     "favoriteLevel": "medium",
     "hasDeepRead": true,
     "relatedSongs": [
@@ -636,16 +642,19 @@
     "releaseYear": 2000,
     "era": "出道起点",
     "moodTags": [
-      "回望"
+      "温暖",
+      "笃定"
     ],
     "themeTags": [
       "青春",
-      "自我表达"
+      "亲密"
     ],
     "keywords": [
-      "很好"
+      "很好",
+      "城堡",
+      "相依为命"
     ],
-    "summary": "《很好》不是一首会立刻把情绪推高的歌，但它很容易在你反复听的时候慢慢变重。因为它写的不是明显的剧烈，而是很多人更熟悉的那种——表面还好，里面其实没那么简单。",
+    "summary": "下雨迷路也好，第一次心甘情愿不想逃；没人看好也要筑座城堡——幸福是因为互相依靠。",
     "favoriteLevel": "medium",
     "hasDeepRead": true,
     "relatedSongs": [
@@ -661,16 +670,19 @@
     "releaseYear": 2000,
     "era": "出道起点",
     "moodTags": [
-      "回望"
+      "亢奋",
+      "果敢"
     ],
     "themeTags": [
       "青春",
       "自我表达"
     ],
     "keywords": [
-      "超快感"
+      "超快感",
+      "心跳起飞",
+      "往前追"
     ],
-    "summary": "《超快感》像把整张专辑里最亮、最快、最有冲劲的一面抽出来单独放大。它不一定是最细的歌，但一定是最能一下把人带进状态的歌之一。",
+    "summary": "感觉对了就出发：用速度、分贝与心跳把爱定义成利落干脆的超快感。",
     "favoriteLevel": "medium",
     "hasDeepRead": true,
     "relatedSongs": [
@@ -765,16 +777,19 @@
     "releaseYear": 2001,
     "era": "展开期",
     "moodTags": [
-      "回望"
+      "清醒",
+      "怅惘"
     ],
     "themeTags": [
-      "希望",
+      "命名",
       "距离"
     ],
     "keywords": [
-      "爱情字典"
+      "字典",
+      "永远",
+      "界线"
     ],
-    "summary": "《爱情字典》最值得细看的，是它不只是说“我感受到了什么”，而是试图进一步问：这些感受到底该怎么被理解、怎么被命名。光这一点，就让它很有辨识度。",
+    "summary": "学会爱情语言仍失去世界：字典里找不到永远，还有一道看不见的界线。",
     "favoriteLevel": "medium",
     "hasDeepRead": true,
     "relatedSongs": [
@@ -827,7 +842,7 @@
     "keywords": [
       "零缺点"
     ],
-    "summary": "《零缺点》最适合从“理想化”去听。它未必是在说世界上真的有完美的人，而是在写一种很青春的时刻：你愿意先相信、先投射、先把对方想得特别好。",
+    "summary": "《零缺点》从“受不了平淡”写起：抛物线或已过顶，说爱要直接、爱要冒险；情绪化无过与“我要你零缺点”并置，骨子里盼一个能看见问号的好人。",
     "favoriteLevel": "medium",
     "hasDeepRead": true,
     "relatedSongs": [
@@ -922,16 +937,19 @@
     "releaseYear": 2007,
     "era": "成熟高峰",
     "moodTags": [
-      "回望"
+      "俏皮",
+      "轻松"
     ],
     "themeTags": [
-      "回望",
-      "韧性"
+      "日常",
+      "真实"
     ],
     "keywords": [
-      "咕叽咕叽"
+      "咕叽咕叽",
+      "真实就好",
+      "我们都是鸟"
     ],
-    "summary": "《咕叽咕叽》最大的魅力，就是它不沉重但不空。它像一首会眨眼睛的歌，用很轻的方式把整张专辑里更活、更灵、更俏皮的一面拉出来。",
+    "summary": "《咕叽咕叽》用吃到饱约会与自找烦恼的玩笑消解比较：候鸟筑巢给温度，英文 Let’s not 反高潮，碰面问好收束。",
     "favoriteLevel": "medium",
     "hasDeepRead": true,
     "relatedSongs": [
@@ -947,16 +965,19 @@
     "releaseYear": 2005,
     "era": "阶段平衡",
     "moodTags": [
-      "回望"
+      "慵懒",
+      "明亮"
     ],
     "themeTags": [
       "日常感",
       "愿望"
     ],
     "keywords": [
+      "大房子",
+      "落地窗",
       "完美的一天"
     ],
-    "summary": "《完美的一天》的解读正在整理中。",
+    "summary": "把完美写成落地窗、房间清单与小狗奔跑：告别暗淡，夺回自己的一天。",
     "favoriteLevel": "medium",
     "hasDeepRead": true,
     "relatedSongs": [
@@ -1025,16 +1046,19 @@
     "releaseYear": 2005,
     "era": "阶段平衡",
     "moodTags": [
-      "回望"
+      "隐忍",
+      "孤独"
     ],
     "themeTags": [
-      "日常感",
-      "愿望"
+      "单恋",
+      "自我缩小"
     ],
     "keywords": [
-      "隐形人"
+      "隐形人",
+      "体温",
+      "指纹"
     ],
-    "summary": "《隐形人》的解读正在整理中。",
+    "summary": "《隐形人》写的是爱到想把自己擦掉：给体温、藏伤痕，在对方凌乱世界里只剩没心跳的指纹。",
     "favoriteLevel": "medium",
     "hasDeepRead": true,
     "relatedSongs": [
@@ -1203,16 +1227,19 @@
     "releaseYear": 2011,
     "era": "成熟内省",
     "moodTags": [
-      "回望"
+      "内省",
+      "松绑"
     ],
     "themeTags": [
-      "内省",
-      "语言失效"
+      "心语",
+      "自由"
     ],
     "keywords": [
-      "世说心语"
+      "世说心语",
+      "心自由",
+      "不完美"
     ],
-    "summary": "《世说心语》很适合从“语言到底能不能真正抵达内心”去读。它不是只在讲一段心情，而是在讲人如何在外部声音里，努力保住自己的那一点真心话。",
+    "summary": "《世说心语》从镜前呼吸变远写起：外界美丽语言再多，也不如心语干净；停下来学会不完美的美，才能再次起飞。",
     "favoriteLevel": "medium",
     "hasDeepRead": true,
     "relatedSongs": [
@@ -1383,16 +1410,19 @@
     "releaseYear": 2007,
     "era": "成熟高峰",
     "moodTags": [
-      "回望"
+      "失重",
+      "冰冷"
     ],
     "themeTags": [
-      "回望",
-      "韧性"
+      "失恋",
+      "出离"
     ],
     "keywords": [
-      "飘着"
+      "飘着",
+      "失重",
+      "躯壳"
     ],
-    "summary": "《飘着》最动人的地方，是它不把情绪说得很满，而是让你一直悬在那里。正因为没有完全落地，它才会有那么长的后劲。",
+    "summary": "呼吸凝着、灵魂失重：守着爱却一直飘着，进退不得的悬浮感很长。",
     "favoriteLevel": "medium",
     "hasDeepRead": true,
     "relatedSongs": [
@@ -1408,16 +1438,19 @@
     "releaseYear": 2000,
     "era": "出道起点",
     "moodTags": [
-      "回望"
+      "回望",
+      "期待"
     ],
     "themeTags": [
       "青春",
       "自我表达"
     ],
     "keywords": [
-      "E-Lover"
+      "E-Lover",
+      "远距",
+      "指尖"
     ],
-    "summary": "《E-Lover》最值得看的，不只是它写爱情，而是它写一种已经被时代和媒介改变了的爱情。它让首张专辑除了情绪真诚，还多了一层很鲜明的现代感。",
+    "summary": "跨城雨天、生日卡片与指尖输入：尚未碰面的爱靠媒介维持“浅浅的思念”，副歌再把谨慎改写成直觉与冒险。",
     "favoriteLevel": "medium",
     "hasDeepRead": true,
     "relatedSongs": [
@@ -1442,7 +1475,7 @@
     "keywords": [
       "是时候"
     ],
-    "summary": "《是时候》最动人的地方，是它把很多人心里那个迟迟不愿承认的瞬间说出来了：不是所有事情都能再等等，有些改变，真的到了必须面对的时候。",
+    "summary": "失温的语言、梦中一秒温暖、以为洒脱其实彼此一样脆弱——是时候转身，也是时候承认坚强不是解脱。",
     "favoriteLevel": "high",
     "hasDeepRead": true,
     "relatedSongs": [
@@ -1508,16 +1541,19 @@
     "releaseYear": 2026,
     "era": "单曲/活动单曲",
     "moodTags": [
-      "回望"
+      "决绝",
+      "托付"
     ],
     "themeTags": [
       "近期单曲",
       "强动态"
     ],
     "keywords": [
-      "飞瀑而下"
+      "飞瀑而下",
+      "自由落体",
+      "失速"
     ],
-    "summary": "《飞瀑而下》最让人记住的，不是一个细小情绪，而是一整股冲下来的力量。它更像是在把某种积压已久的东西，一次性打开给你看。",
+    "summary": "雷达与守护星之后失速：飞瀑瞬间你是唯一，坠毁也有微笑轨迹，失速边界仍落在怀里。",
     "favoriteLevel": "medium",
     "hasDeepRead": true,
     "relatedSongs": [
@@ -1596,7 +1632,7 @@
       "前进",
       "动能"
     ],
-    "summary": "更像经历整理之后仍然愿意继续往前的一股劲。",
+    "summary": "《奔》先把人闷到变形，再发令狂奔：自由可以是发泄，对错归零后再认识，I will go this way 是意志不是口号。",
     "favoriteLevel": "medium",
     "hasDeepRead": true,
     "relatedSongs": [
@@ -1624,7 +1660,7 @@
       "诗意",
       "沉淀"
     ],
-    "summary": "把眼泪进一步写成诗，是这张专辑里很重要的重抒情样本。",
+    "summary": "伤口化作玫瑰、绝情变成恭维：林夕式炼金把眼泪写成诗，字不醉人、人自醉，回忆与品位总是美。",
     "favoriteLevel": "medium",
     "hasDeepRead": true,
     "relatedSongs": [
@@ -1667,13 +1703,17 @@
     "releaseYear": 2006,
     "era": "阶段回看",
     "moodTags": [
-      "回望"
+      "回望",
+      "轻盈"
     ],
     "themeTags": [
-      "关系变化"
+      "直觉",
+      "再出发"
     ],
     "keywords": [
-      "情绪"
+      "第六感",
+      "直觉",
+      "偶然"
     ],
     "summary": "《第六感》像精选期的一次肩膀放松：感情没有绝对答案时，与其把眼泪浪费在复盘，不如作好心理准备，把方向交给自己的直觉与偶然。",
     "favoriteLevel": "medium",
@@ -1801,15 +1841,19 @@
     "releaseYear": 2017,
     "era": "2017 时期",
     "moodTags": [
-      "回望"
+      "回望",
+      "温暖"
     ],
     "themeTags": [
-      "关系变化"
+      "成长",
+      "回忆"
     ],
     "keywords": [
-      "情绪"
+      "风衣",
+      "日历",
+      "回忆"
     ],
-    "summary": "《风衣》的解读正在整理中。",
+    "summary": "《风衣》把成长剪成可贴身的物件：沉痛后来轻如话语，日历与告别拼成风衣；大风反成包裹，穿上名为回忆的外套推门找星星。",
     "favoriteLevel": "medium",
     "hasDeepRead": true,
     "relatedSongs": [
@@ -1825,15 +1869,19 @@
     "releaseYear": 2017,
     "era": "2017 时期",
     "moodTags": [
-      "回望"
+      "冷感",
+      "低落"
     ],
     "themeTags": [
-      "关系变化"
+      "自欺",
+      "崩溃"
     ],
     "keywords": [
-      "情绪"
+      "我很愉快",
+      "泪流到天亮",
+      "假象"
     ],
-    "summary": "《我很愉快》的解读正在整理中。",
+    "summary": "《我很愉快》把崩溃说成愉快：捡起地上的谎，请不要说我疯狂；标题句贴在泪流到天亮上，病一场怎样——反讽比哭诉更冷。",
     "favoriteLevel": "medium",
     "hasDeepRead": true,
     "relatedSongs": [
@@ -2358,15 +2406,19 @@
     "releaseYear": null,
     "era": "2002 时期",
     "moodTags": [
-      "回望"
+      "冷静",
+      "决绝"
     ],
     "themeTags": [
-      "关系变化"
+      "关系边界",
+      "自我觉醒"
     ],
     "keywords": [
-      "懂事"
+      "懂事",
+      "放纵",
+      "离开我的世界"
     ],
-    "summary": "《懂事》的解读正在整理中。",
+    "summary": "拆解被赞美的懂事：翻译你的自由、预支一定会懂，任你犯错到尽头后冷静看着离开。",
     "favoriteLevel": "low",
     "hasDeepRead": true,
     "relatedSongs": [
@@ -2454,7 +2506,7 @@
       "换用左手",
       "散场"
     ],
-    "summary": "放自己一天假换一口纯氧，换左手重练生活；反过来走走不握紧而放松，散场鼓掌谢谢 bye bye。",
+    "summary": "《反过来走走》是自救手册：放假要纯氧，换左手重练生活；认真化被动、不握紧而放松，对 always right 有空再说，散场鼓掌谢谢 bye bye。",
     "favoriteLevel": "low",
     "hasDeepRead": true,
     "relatedSongs": [
@@ -2566,7 +2618,7 @@
       "固执",
       "相信"
     ],
-    "summary": "在兵慌马乱里固执地要求和平对待你：微笑是信号，相信是重启。",
+    "summary": "《和平》在兵慌马乱里固执地要求和平对待你：怒气说给陌生人、微笑是求和平信号，相信你把这一天重新开始。",
     "favoriteLevel": "low",
     "hasDeepRead": true,
     "relatedSongs": [
@@ -3580,15 +3632,19 @@
     "releaseYear": null,
     "era": "单曲/活动单曲",
     "moodTags": [
-      "回望"
+      "冷冽",
+      "觉醒"
     ],
     "themeTags": [
-      "关系变化"
+      "身份认同",
+      "失语与发声"
     ],
     "keywords": [
-      "Silent All These Years"
+      "Silent All These Years",
+      "mermaid",
+      "hear my voice"
     ],
-    "summary": "《Silent All These Years》的解读正在整理中。",
+    "summary": "翻唱 Tori Amos：借身份与美人鱼错置写长期失语，终在「听见自己的声音／沉默这些年」完成归位。",
     "favoriteLevel": "low",
     "hasDeepRead": true,
     "relatedSongs": [
@@ -3935,15 +3991,20 @@
     "releaseYear": null,
     "era": "阶段节点",
     "moodTags": [
-      "回望"
+      "回望",
+      "释然"
     ],
     "themeTags": [
-      "关系变化"
+      "成长",
+      "暂别与自由"
     ],
     "keywords": [
-      "The Moment"
+      "The Moment",
+      "这一刻",
+      "远行",
+      "自由"
     ],
-    "summary": "《The Moment》的解读正在整理中。",
+    "summary": "阶段节点的钢琴告白：回头看见百感交集的自己，放心离开并许诺自由；远行不是逃避，告别为延续回忆。",
     "favoriteLevel": "low",
     "hasDeepRead": true,
     "relatedSongs": [
@@ -4320,15 +4381,19 @@
     "releaseYear": null,
     "era": "单曲/活动单曲",
     "moodTags": [
-      "回望"
+      "决绝",
+      "清醒"
     ],
     "themeTags": [
-      "关系变化"
+      "关系变化",
+      "自我边界"
     ],
     "keywords": [
-      "我不爱"
+      "我不爱",
+      "放弃要放哪里",
+      "你给的未来"
     ],
-    "summary": "《我不爱》的解读正在整理中。",
+    "summary": "共生抽离后的失位与断舍：眼泪里认出自己，拒绝以丢自我为代价的未来与空转的现在。",
     "favoriteLevel": "low",
     "hasDeepRead": true,
     "relatedSongs": [

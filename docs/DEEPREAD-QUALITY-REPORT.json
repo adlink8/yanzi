@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-17T01:32:24.303Z",
+  "generatedAt": "2026-07-17T01:59:55.068Z",
   "scanned": 184,
   "tierCounts": {
     "scaffold": 0,
@@ -45,10 +45,10 @@
       "flags": [
         "missing_mvUrl"
       ],
-      "interpretationCount": 4,
+      "interpretationCount": 6,
       "weakInterpretationCount": 0,
       "uniqueInterpretationRatio": 1,
-      "bodyChars": 214,
+      "bodyChars": 358,
       "hasMvUrl": false,
       "scaffoldHits": []
     },
@@ -68,10 +68,10 @@
       "flags": [
         "missing_mvUrl"
       ],
-      "interpretationCount": 4,
+      "interpretationCount": 6,
       "weakInterpretationCount": 0,
       "uniqueInterpretationRatio": 1,
-      "bodyChars": 161,
+      "bodyChars": 360,
       "hasMvUrl": false,
       "scaffoldHits": []
     },
@@ -91,10 +91,10 @@
       "flags": [
         "missing_mvUrl"
       ],
-      "interpretationCount": 4,
+      "interpretationCount": 6,
       "weakInterpretationCount": 0,
       "uniqueInterpretationRatio": 1,
-      "bodyChars": 221,
+      "bodyChars": 366,
       "hasMvUrl": false,
       "scaffoldHits": []
     },
@@ -109,15 +109,15 @@
         "内省",
         "语言失效"
       ],
-      "summary": "《是时候》最动人的地方，是它把很多人心里那个迟迟不愿承认的瞬间说出来了：不是所有事情都能再等等，有些改变，真的到了必须面对的时候。",
+      "summary": "失温的语言、梦中一秒温暖、以为洒脱其实彼此一样脆弱——是时候转身，也是时候承认坚强不是解脱。",
       "tier": "editorial",
       "flags": [
         "missing_mvUrl"
       ],
-      "interpretationCount": 4,
+      "interpretationCount": 6,
       "weakInterpretationCount": 0,
       "uniqueInterpretationRatio": 1,
-      "bodyChars": 221,
+      "bodyChars": 412,
       "hasMvUrl": false,
       "scaffoldHits": []
     },
@@ -133,13 +133,13 @@
         "青春",
         "自我和解"
       ],
-      "summary": "把长大后的失落和小时候的安全感并置在一起，是很典型的燕姿式温柔。",
+      "summary": "外婆的台语童谣与成人世界的残缺同线：忘记那首歌之后，天黑时才重新听懂——下起雨也要前进，同时允许自己想家。",
       "tier": "editorial",
       "flags": [],
-      "interpretationCount": 4,
+      "interpretationCount": 6,
       "weakInterpretationCount": 0,
       "uniqueInterpretationRatio": 1,
-      "bodyChars": 265,
+      "bodyChars": 367,
       "hasMvUrl": true,
       "scaffoldHits": []
     },
@@ -160,10 +160,10 @@
       "flags": [
         "missing_mvUrl"
       ],
-      "interpretationCount": 4,
+      "interpretationCount": 6,
       "weakInterpretationCount": 0,
       "uniqueInterpretationRatio": 1,
-      "bodyChars": 168,
+      "bodyChars": 367,
       "hasMvUrl": false,
       "scaffoldHits": []
     },
@@ -184,10 +184,10 @@
       "flags": [
         "missing_mvUrl"
       ],
-      "interpretationCount": 4,
+      "interpretationCount": 6,
       "weakInterpretationCount": 0,
       "uniqueInterpretationRatio": 1,
-      "bodyChars": 173,
+      "bodyChars": 362,
       "hasMvUrl": false,
       "scaffoldHits": []
     },
@@ -206,10 +206,10 @@
       "summary": "轻轻地讲缘分，却把人与人之间的时间差说得很动人。",
       "tier": "editorial",
       "flags": [],
-      "interpretationCount": 4,
+      "interpretationCount": 6,
       "weakInterpretationCount": 0,
       "uniqueInterpretationRatio": 1,
-      "bodyChars": 169,
+      "bodyChars": 345,
       "hasMvUrl": true,
       "scaffoldHits": []
     },
@@ -251,10 +251,10 @@
       "summary": "《爱情证书》最动人的地方，是它把“我想确认你是真的”写得很直接。不是拐弯，也不是故作潇洒，而是很认真地想把这段关系落在一个可以相信的位置上。",
       "tier": "editorial",
       "flags": [],
-      "interpretationCount": 3,
+      "interpretationCount": 6,
       "weakInterpretationCount": 0,
       "uniqueInterpretationRatio": 1,
-      "bodyChars": 227,
+      "bodyChars": 307,
       "hasMvUrl": true,
       "scaffoldHits": []
     },
@@ -263,20 +263,23 @@
       "title": "爱情字典",
       "favoriteLevel": "medium",
       "moodTags": [
-        "回望"
+        "清醒",
+        "怅惘"
       ],
       "themeTags": [
-        "希望",
+        "命名",
         "距离"
       ],
-      "summary": "《爱情字典》最值得细看的，是它不只是说“我感受到了什么”，而是试图进一步问：这些感受到底该怎么被理解、怎么被命名。光这一点，就让它很有辨识度。",
+      "summary": "学会爱情语言仍失去世界：字典里找不到永远，还有一道看不见的界线。",
       "tier": "editorial",
-      "flags": [],
-      "interpretationCount": 3,
+      "flags": [
+        "missing_mvUrl"
+      ],
+      "interpretationCount": 6,
       "weakInterpretationCount": 0,
       "uniqueInterpretationRatio": 1,
-      "bodyChars": 198,
-      "hasMvUrl": true,
+      "bodyChars": 386,
+      "hasMvUrl": false,
       "scaffoldHits": []
     },
     {
@@ -339,14 +342,16 @@
         "向前",
         "生命力"
       ],
-      "summary": "更像经历整理之后仍然愿意继续往前的一股劲。",
+      "summary": "《奔》先把人闷到变形，再发令狂奔：自由可以是发泄，对错归零后再认识，I will go this way 是意志不是口号。",
       "tier": "editorial",
-      "flags": [],
-      "interpretationCount": 3,
+      "flags": [
+        "missing_mvUrl"
+      ],
+      "interpretationCount": 6,
       "weakInterpretationCount": 0,
       "uniqueInterpretationRatio": 1,
-      "bodyChars": 188,
-      "hasMvUrl": true,
+      "bodyChars": 399,
+      "hasMvUrl": false,
       "scaffoldHits": []
     },
     {
@@ -402,20 +407,23 @@
       "title": "超快感",
       "favoriteLevel": "medium",
       "moodTags": [
-        "回望"
+        "亢奋",
+        "果敢"
       ],
       "themeTags": [
         "青春",
         "自我表达"
       ],
-      "summary": "《超快感》像把整张专辑里最亮、最快、最有冲劲的一面抽出来单独放大。它不一定是最细的歌，但一定是最能一下把人带进状态的歌之一。",
+      "summary": "感觉对了就出发：用速度、分贝与心跳把爱定义成利落干脆的超快感。",
       "tier": "editorial",
-      "flags": [],
-      "interpretationCount": 3,
+      "flags": [
+        "missing_mvUrl"
+      ],
+      "interpretationCount": 6,
       "weakInterpretationCount": 0,
       "uniqueInterpretationRatio": 1,
-      "bodyChars": 202,
-      "hasMvUrl": true,
+      "bodyChars": 322,
+      "hasMvUrl": false,
       "scaffoldHits": []
     },
     {
@@ -458,10 +466,10 @@
       "flags": [
         "missing_mvUrl"
       ],
-      "interpretationCount": 5,
+      "interpretationCount": 6,
       "weakInterpretationCount": 0,
       "uniqueInterpretationRatio": 1,
-      "bodyChars": 260,
+      "bodyChars": 308,
       "hasMvUrl": false,
       "scaffoldHits": []
     },
@@ -470,20 +478,22 @@
       "title": "第六感",
       "favoriteLevel": "medium",
       "moodTags": [
-        "回望"
+        "回望",
+        "轻盈"
       ],
       "themeTags": [
-        "关系变化"
+        "直觉",
+        "再出发"
       ],
       "summary": "《第六感》像精选期的一次肩膀放松：感情没有绝对答案时，与其把眼泪浪费在复盘，不如作好心理准备，把方向交给自己的直觉与偶然。",
       "tier": "editorial",
       "flags": [
         "missing_mvUrl"
       ],
-      "interpretationCount": 5,
+      "interpretationCount": 6,
       "weakInterpretationCount": 0,
       "uniqueInterpretationRatio": 1,
-      "bodyChars": 249,
+      "bodyChars": 328,
       "hasMvUrl": false,
       "scaffoldHits": []
     },
@@ -515,21 +525,22 @@
       "title": "E Lover",
       "favoriteLevel": "medium",
       "moodTags": [
-        "回望"
+        "回望",
+        "期待"
       ],
       "themeTags": [
         "青春",
         "自我表达"
       ],
-      "summary": "《E-Lover》最值得看的，不只是它写爱情，而是它写一种已经被时代和媒介改变了的爱情。它让首张专辑除了情绪真诚，还多了一层很鲜明的现代感。",
+      "summary": "跨城雨天、生日卡片与指尖输入：尚未碰面的爱靠媒介维持“浅浅的思念”，副歌再把谨慎改写成直觉与冒险。",
       "tier": "editorial",
       "flags": [
         "missing_mvUrl"
       ],
-      "interpretationCount": 5,
+      "interpretationCount": 6,
       "weakInterpretationCount": 0,
       "uniqueInterpretationRatio": 1,
-      "bodyChars": 232,
+      "bodyChars": 339,
       "hasMvUrl": false,
       "scaffoldHits": []
     },
@@ -538,21 +549,22 @@
       "title": "飞瀑而下",
       "favoriteLevel": "medium",
       "moodTags": [
-        "回望"
+        "决绝",
+        "托付"
       ],
       "themeTags": [
         "近期单曲",
         "强动态"
       ],
-      "summary": "《飞瀑而下》最让人记住的，不是一个细小情绪，而是一整股冲下来的力量。它更像是在把某种积压已久的东西，一次性打开给你看。",
+      "summary": "雷达与守护星之后失速：飞瀑瞬间你是唯一，坠毁也有微笑轨迹，失速边界仍落在怀里。",
       "tier": "editorial",
       "flags": [
         "missing_mvUrl"
       ],
-      "interpretationCount": 5,
+      "interpretationCount": 6,
       "weakInterpretationCount": 0,
       "uniqueInterpretationRatio": 1,
-      "bodyChars": 236,
+      "bodyChars": 330,
       "hasMvUrl": false,
       "scaffoldHits": []
     },
@@ -561,19 +573,23 @@
       "title": "风衣",
       "favoriteLevel": "medium",
       "moodTags": [
-        "回望"
+        "回望",
+        "温暖"
       ],
       "themeTags": [
-        "关系变化"
+        "成长",
+        "回忆"
       ],
-      "summary": "《风衣》的解读正在整理中。",
+      "summary": "《风衣》把成长剪成可贴身的物件：沉痛后来轻如话语，日历与告别拼成风衣；大风反成包裹，穿上名为回忆的外套推门找星星。",
       "tier": "editorial",
-      "flags": [],
-      "interpretationCount": 3,
+      "flags": [
+        "missing_mvUrl"
+      ],
+      "interpretationCount": 6,
       "weakInterpretationCount": 0,
       "uniqueInterpretationRatio": 1,
-      "bodyChars": 211,
-      "hasMvUrl": true,
+      "bodyChars": 303,
+      "hasMvUrl": false,
       "scaffoldHits": []
     },
     {
@@ -588,28 +604,7 @@
         "青春",
         "关系变化"
       ],
-      "summary": "表面是轻，内里却一直有拉扯和失重感。",
-      "tier": "editorial",
-      "flags": [],
-      "interpretationCount": 3,
-      "weakInterpretationCount": 0,
-      "uniqueInterpretationRatio": 1,
-      "bodyChars": 180,
-      "hasMvUrl": true,
-      "scaffoldHits": []
-    },
-    {
-      "slug": "gu-ji-gu-ji",
-      "title": "咕叽咕叽",
-      "favoriteLevel": "medium",
-      "moodTags": [
-        "回望"
-      ],
-      "themeTags": [
-        "回望",
-        "韧性"
-      ],
-      "summary": "《咕叽咕叽》最大的魅力，就是它不沉重但不空。它像一首会眨眼睛的歌，用很轻的方式把整张专辑里更活、更灵、更俏皮的一面拉出来。",
+      "summary": "不绑住一秒、看你飞过云端，山上的人还在喊：成全写得很轻，失重感却一直在。",
       "tier": "editorial",
       "flags": [
         "missing_mvUrl"
@@ -617,7 +612,31 @@
       "interpretationCount": 6,
       "weakInterpretationCount": 0,
       "uniqueInterpretationRatio": 1,
-      "bodyChars": 262,
+      "bodyChars": 301,
+      "hasMvUrl": false,
+      "scaffoldHits": []
+    },
+    {
+      "slug": "gu-ji-gu-ji",
+      "title": "咕叽咕叽",
+      "favoriteLevel": "medium",
+      "moodTags": [
+        "俏皮",
+        "轻松"
+      ],
+      "themeTags": [
+        "日常",
+        "真实"
+      ],
+      "summary": "《咕叽咕叽》用吃到饱约会与自找烦恼的玩笑消解比较：候鸟筑巢给温度，英文 Let’s not 反高潮，碰面问好收束。",
+      "tier": "editorial",
+      "flags": [
+        "missing_mvUrl"
+      ],
+      "interpretationCount": 6,
+      "weakInterpretationCount": 0,
+      "uniqueInterpretationRatio": 1,
+      "bodyChars": 332,
       "hasMvUrl": false,
       "scaffoldHits": []
     },
@@ -626,20 +645,23 @@
       "title": "害怕",
       "favoriteLevel": "medium",
       "moodTags": [
-        "回望"
+        "不安",
+        "克制"
       ],
       "themeTags": [
-        "成长",
-        "勇气"
+        "关系变化",
+        "自我保护"
       ],
-      "summary": "《害怕》最真实的地方，是它不努力把自己说得很坚强。它承认那种一旦在乎，就会开始怕失去、怕受伤、怕自己撑不住的感觉，而这种承认本身就很动人。",
+      "summary": "不努力遗忘，却仍怕夜深想起、怕听见消息；拥有已是失去时选择放弃，并带着害怕走下去。",
       "tier": "editorial",
-      "flags": [],
-      "interpretationCount": 3,
+      "flags": [
+        "missing_mvUrl"
+      ],
+      "interpretationCount": 6,
       "weakInterpretationCount": 0,
       "uniqueInterpretationRatio": 1,
-      "bodyChars": 164,
-      "hasMvUrl": true,
+      "bodyChars": 284,
+      "hasMvUrl": false,
       "scaffoldHits": []
     },
     {
@@ -647,20 +669,23 @@
       "title": "很好",
       "favoriteLevel": "medium",
       "moodTags": [
-        "回望"
+        "温暖",
+        "笃定"
       ],
       "themeTags": [
         "青春",
-        "自我表达"
+        "亲密"
       ],
-      "summary": "《很好》不是一首会立刻把情绪推高的歌，但它很容易在你反复听的时候慢慢变重。因为它写的不是明显的剧烈，而是很多人更熟悉的那种——表面还好，里面其实没那么简单。",
+      "summary": "下雨迷路也好，第一次心甘情愿不想逃；没人看好也要筑座城堡——幸福是因为互相依靠。",
       "tier": "editorial",
-      "flags": [],
-      "interpretationCount": 3,
+      "flags": [
+        "missing_mvUrl"
+      ],
+      "interpretationCount": 6,
       "weakInterpretationCount": 0,
       "uniqueInterpretationRatio": 1,
-      "bodyChars": 176,
-      "hasMvUrl": true,
+      "bodyChars": 303,
+      "hasMvUrl": false,
       "scaffoldHits": []
     },
     {
@@ -684,7 +709,7 @@
       "interpretationCount": 6,
       "weakInterpretationCount": 0,
       "uniqueInterpretationRatio": 1,
-      "bodyChars": 277,
+      "bodyChars": 331,
       "hasMvUrl": false,
       "scaffoldHits": []
     },
@@ -734,7 +759,7 @@
       "interpretationCount": 6,
       "weakInterpretationCount": 0,
       "uniqueInterpretationRatio": 1,
-      "bodyChars": 246,
+      "bodyChars": 305,
       "hasMvUrl": false,
       "scaffoldHits": []
     },
@@ -759,7 +784,7 @@
       "interpretationCount": 6,
       "weakInterpretationCount": 0,
       "uniqueInterpretationRatio": 1,
-      "bodyChars": 279,
+      "bodyChars": 341,
       "hasMvUrl": false,
       "scaffoldHits": []
     },
@@ -776,12 +801,14 @@
       ],
       "summary": "不是突然看开，而是终于承认很多事情本来就留不住。",
       "tier": "editorial",
-      "flags": [],
-      "interpretationCount": 3,
+      "flags": [
+        "missing_mvUrl"
+      ],
+      "interpretationCount": 6,
       "weakInterpretationCount": 0,
       "uniqueInterpretationRatio": 1,
-      "bodyChars": 189,
-      "hasMvUrl": true,
+      "bodyChars": 346,
+      "hasMvUrl": false,
       "scaffoldHits": []
     },
     {
@@ -805,7 +832,7 @@
       "interpretationCount": 6,
       "weakInterpretationCount": 0,
       "uniqueInterpretationRatio": 1,
-      "bodyChars": 257,
+      "bodyChars": 296,
       "hasMvUrl": false,
       "scaffoldHits": []
     },
@@ -830,7 +857,7 @@
       "interpretationCount": 6,
       "weakInterpretationCount": 0,
       "uniqueInterpretationRatio": 1,
-      "bodyChars": 253,
+      "bodyChars": 319,
       "hasMvUrl": false,
       "scaffoldHits": []
     },
@@ -897,10 +924,10 @@
       "flags": [
         "missing_mvUrl"
       ],
-      "interpretationCount": 5,
+      "interpretationCount": 6,
       "weakInterpretationCount": 0,
       "uniqueInterpretationRatio": 1,
-      "bodyChars": 258,
+      "bodyChars": 302,
       "hasMvUrl": false,
       "scaffoldHits": []
     },
@@ -915,15 +942,15 @@
         "成长",
         "勇气"
       ],
-      "summary": "《零缺点》最适合从“理想化”去听。它未必是在说世界上真的有完美的人，而是在写一种很青春的时刻：你愿意先相信、先投射、先把对方想得特别好。",
+      "summary": "《零缺点》从“受不了平淡”写起：抛物线或已过顶，说爱要直接、爱要冒险；情绪化无过与“我要你零缺点”并置，骨子里盼一个能看见问号的好人。",
       "tier": "editorial",
       "flags": [
         "missing_mvUrl"
       ],
-      "interpretationCount": 5,
+      "interpretationCount": 6,
       "weakInterpretationCount": 0,
       "uniqueInterpretationRatio": 1,
-      "bodyChars": 276,
+      "bodyChars": 373,
       "hasMvUrl": false,
       "scaffoldHits": []
     },
@@ -944,10 +971,10 @@
       "flags": [
         "missing_mvUrl"
       ],
-      "interpretationCount": 5,
+      "interpretationCount": 6,
       "weakInterpretationCount": 0,
       "uniqueInterpretationRatio": 1,
-      "bodyChars": 262,
+      "bodyChars": 325,
       "hasMvUrl": false,
       "scaffoldHits": []
     },
@@ -963,14 +990,16 @@
         "命运感",
         "自我表达"
       ],
-      "summary": "有一种向前奔跑的轻盈，也是很多人入坑时最先记住的光。",
+      "summary": "翻山越云去找一道触电般的绿光：searching 不停步，希望也可以 right here。",
       "tier": "editorial",
-      "flags": [],
-      "interpretationCount": 3,
+      "flags": [
+        "missing_mvUrl"
+      ],
+      "interpretationCount": 6,
       "weakInterpretationCount": 0,
       "uniqueInterpretationRatio": 1,
-      "bodyChars": 204,
-      "hasMvUrl": true,
+      "bodyChars": 359,
+      "hasMvUrl": false,
       "scaffoldHits": []
     },
     {
@@ -1061,10 +1090,10 @@
       "flags": [
         "missing_mvUrl"
       ],
-      "interpretationCount": 5,
+      "interpretationCount": 6,
       "weakInterpretationCount": 0,
       "uniqueInterpretationRatio": 1,
-      "bodyChars": 266,
+      "bodyChars": 313,
       "hasMvUrl": false,
       "scaffoldHits": []
     },
@@ -1097,20 +1126,23 @@
       "title": "飘着",
       "favoriteLevel": "medium",
       "moodTags": [
-        "回望"
+        "失重",
+        "冰冷"
       ],
       "themeTags": [
-        "回望",
-        "韧性"
+        "失恋",
+        "出离"
       ],
-      "summary": "《飘着》最动人的地方，是它不把情绪说得很满，而是让你一直悬在那里。正因为没有完全落地，它才会有那么长的后劲。",
+      "summary": "呼吸凝着、灵魂失重：守着爱却一直飘着，进退不得的悬浮感很长。",
       "tier": "editorial",
-      "flags": [],
-      "interpretationCount": 3,
+      "flags": [
+        "missing_mvUrl"
+      ],
+      "interpretationCount": 6,
       "weakInterpretationCount": 0,
       "uniqueInterpretationRatio": 1,
-      "bodyChars": 201,
-      "hasMvUrl": true,
+      "bodyChars": 340,
+      "hasMvUrl": false,
       "scaffoldHits": []
     },
     {
@@ -1178,10 +1210,10 @@
       "flags": [
         "missing_mvUrl"
       ],
-      "interpretationCount": 5,
+      "interpretationCount": 6,
       "weakInterpretationCount": 0,
       "uniqueInterpretationRatio": 1,
-      "bodyChars": 248,
+      "bodyChars": 282,
       "hasMvUrl": false,
       "scaffoldHits": []
     },
@@ -1202,10 +1234,10 @@
       "flags": [
         "missing_mvUrl"
       ],
-      "interpretationCount": 5,
+      "interpretationCount": 6,
       "weakInterpretationCount": 0,
       "uniqueInterpretationRatio": 1,
-      "bodyChars": 259,
+      "bodyChars": 297,
       "hasMvUrl": false,
       "scaffoldHits": []
     },
@@ -1214,20 +1246,23 @@
       "title": "世说心语",
       "favoriteLevel": "medium",
       "moodTags": [
-        "回望"
+        "内省",
+        "松绑"
       ],
       "themeTags": [
-        "内省",
-        "语言失效"
+        "心语",
+        "自由"
       ],
-      "summary": "《世说心语》很适合从“语言到底能不能真正抵达内心”去读。它不是只在讲一段心情，而是在讲人如何在外部声音里，努力保住自己的那一点真心话。",
+      "summary": "《世说心语》从镜前呼吸变远写起：外界美丽语言再多，也不如心语干净；停下来学会不完美的美，才能再次起飞。",
       "tier": "editorial",
-      "flags": [],
-      "interpretationCount": 3,
+      "flags": [
+        "missing_mvUrl"
+      ],
+      "interpretationCount": 6,
       "weakInterpretationCount": 0,
       "uniqueInterpretationRatio": 1,
-      "bodyChars": 182,
-      "hasMvUrl": true,
+      "bodyChars": 405,
+      "hasMvUrl": false,
       "scaffoldHits": []
     },
     {
@@ -1247,10 +1282,10 @@
       "flags": [
         "missing_mvUrl"
       ],
-      "interpretationCount": 5,
+      "interpretationCount": 6,
       "weakInterpretationCount": 0,
       "uniqueInterpretationRatio": 1,
-      "bodyChars": 268,
+      "bodyChars": 306,
       "hasMvUrl": false,
       "scaffoldHits": []
     },
@@ -1271,10 +1306,10 @@
       "flags": [
         "missing_mvUrl"
       ],
-      "interpretationCount": 5,
+      "interpretationCount": 6,
       "weakInterpretationCount": 0,
       "uniqueInterpretationRatio": 1,
-      "bodyChars": 267,
+      "bodyChars": 324,
       "hasMvUrl": false,
       "scaffoldHits": []
     },
@@ -1295,10 +1330,10 @@
       "flags": [
         "missing_mvUrl"
       ],
-      "interpretationCount": 5,
+      "interpretationCount": 6,
       "weakInterpretationCount": 0,
       "uniqueInterpretationRatio": 1,
-      "bodyChars": 266,
+      "bodyChars": 293,
       "hasMvUrl": false,
       "scaffoldHits": []
     },
@@ -1331,20 +1366,23 @@
       "title": "完美的一天",
       "favoriteLevel": "medium",
       "moodTags": [
-        "回望"
+        "慵懒",
+        "明亮"
       ],
       "themeTags": [
         "日常感",
         "愿望"
       ],
-      "summary": "《完美的一天》的解读正在整理中。",
+      "summary": "把完美写成落地窗、房间清单与小狗奔跑：告别暗淡，夺回自己的一天。",
       "tier": "editorial",
-      "flags": [],
-      "interpretationCount": 3,
+      "flags": [
+        "missing_mvUrl"
+      ],
+      "interpretationCount": 6,
       "weakInterpretationCount": 0,
       "uniqueInterpretationRatio": 1,
-      "bodyChars": 197,
-      "hasMvUrl": true,
+      "bodyChars": 365,
+      "hasMvUrl": false,
       "scaffoldHits": []
     },
     {
@@ -1384,12 +1422,14 @@
       ],
       "summary": "越说不难过，越能听出那种故作镇定的裂缝。",
       "tier": "editorial",
-      "flags": [],
-      "interpretationCount": 3,
+      "flags": [
+        "missing_mvUrl"
+      ],
+      "interpretationCount": 6,
       "weakInterpretationCount": 0,
       "uniqueInterpretationRatio": 1,
-      "bodyChars": 193,
-      "hasMvUrl": true,
+      "bodyChars": 352,
+      "hasMvUrl": false,
       "scaffoldHits": []
     },
     {
@@ -1405,12 +1445,14 @@
       ],
       "summary": "《我的爱》最有分量的地方，是它把感情写得离自己非常近。不是想象里的爱，也不是远处的爱，而是已经进入自己生活、进入自己身体感受的一份爱。",
       "tier": "editorial",
-      "flags": [],
-      "interpretationCount": 3,
+      "flags": [
+        "missing_mvUrl"
+      ],
+      "interpretationCount": 6,
       "weakInterpretationCount": 0,
       "uniqueInterpretationRatio": 1,
-      "bodyChars": 209,
-      "hasMvUrl": true,
+      "bodyChars": 304,
+      "hasMvUrl": false,
       "scaffoldHits": []
     },
     {
@@ -1418,19 +1460,23 @@
       "title": "我很愉快",
       "favoriteLevel": "medium",
       "moodTags": [
-        "回望"
+        "冷感",
+        "低落"
       ],
       "themeTags": [
-        "关系变化"
+        "自欺",
+        "崩溃"
       ],
-      "summary": "《我很愉快》的解读正在整理中。",
+      "summary": "《我很愉快》把崩溃说成愉快：捡起地上的谎，请不要说我疯狂；标题句贴在泪流到天亮上，病一场怎样——反讽比哭诉更冷。",
       "tier": "editorial",
-      "flags": [],
-      "interpretationCount": 3,
+      "flags": [
+        "missing_mvUrl"
+      ],
+      "interpretationCount": 6,
       "weakInterpretationCount": 0,
       "uniqueInterpretationRatio": 1,
-      "bodyChars": 209,
-      "hasMvUrl": true,
+      "bodyChars": 283,
+      "hasMvUrl": false,
       "scaffoldHits": []
     },
     {
@@ -1438,20 +1484,23 @@
       "title": "我要的幸福",
       "favoriteLevel": "medium",
       "moodTags": [
-        "回望"
+        "清醒",
+        "向前"
       ],
       "themeTags": [
         "成长",
-        "勇气"
+        "自主"
       ],
-      "summary": "《我要的幸福》最可贵的地方，是它把“幸福”说得既不空，也不软。它不是站在远处想象幸福，而是很认真地把幸福当成自己必须去辨认的一件事。",
+      "summary": "《我要的幸福》把幸福写成可辨认、可塑形的事：先记账式清点付出，再承认自己还在找与世界合拍的速度，坚持每一步该走的方向。",
       "tier": "editorial",
-      "flags": [],
-      "interpretationCount": 3,
+      "flags": [
+        "missing_mvUrl"
+      ],
+      "interpretationCount": 6,
       "weakInterpretationCount": 0,
       "uniqueInterpretationRatio": 1,
-      "bodyChars": 188,
-      "hasMvUrl": true,
+      "bodyChars": 383,
+      "hasMvUrl": false,
       "scaffoldHits": []
     },
     {
@@ -1466,14 +1515,16 @@
         "关系变化",
         "内心独白"
       ],
-      "summary": "那种不是不能说，而是不知道该对谁说的感觉很强。",
+      "summary": "爱得更早却不说出口：多年后承认我们都一样，夏天短思念长。",
       "tier": "editorial",
-      "flags": [],
-      "interpretationCount": 3,
+      "flags": [
+        "missing_mvUrl"
+      ],
+      "interpretationCount": 6,
       "weakInterpretationCount": 0,
       "uniqueInterpretationRatio": 1,
-      "bodyChars": 193,
-      "hasMvUrl": true,
+      "bodyChars": 348,
+      "hasMvUrl": false,
       "scaffoldHits": []
     },
     {
@@ -1558,13 +1609,13 @@
         "抒情重心",
         "情绪语言化"
       ],
-      "summary": "把眼泪进一步写成诗，是这张专辑里很重要的重抒情样本。",
+      "summary": "伤口化作玫瑰、绝情变成恭维：林夕式炼金把眼泪写成诗，字不醉人、人自醉，回忆与品位总是美。",
       "tier": "editorial",
       "flags": [],
-      "interpretationCount": 3,
+      "interpretationCount": 6,
       "weakInterpretationCount": 0,
       "uniqueInterpretationRatio": 1,
-      "bodyChars": 174,
+      "bodyChars": 296,
       "hasMvUrl": true,
       "scaffoldHits": []
     },
@@ -1581,12 +1632,14 @@
       ],
       "summary": "《银泰》最适合从“地点为什么会变成记忆的容器”去读。它会让你意识到，有些情绪从来不是悬空发生的，而是总会附着在某个具体场所里。",
       "tier": "editorial",
-      "flags": [],
-      "interpretationCount": 3,
+      "flags": [
+        "missing_mvUrl"
+      ],
+      "interpretationCount": 6,
       "weakInterpretationCount": 0,
       "uniqueInterpretationRatio": 1,
-      "bodyChars": 224,
-      "hasMvUrl": true,
+      "bodyChars": 302,
+      "hasMvUrl": false,
       "scaffoldHits": []
     },
     {
@@ -1594,20 +1647,23 @@
       "title": "隐形人",
       "favoriteLevel": "medium",
       "moodTags": [
-        "回望"
+        "隐忍",
+        "孤独"
       ],
       "themeTags": [
-        "日常感",
-        "愿望"
+        "单恋",
+        "自我缩小"
       ],
-      "summary": "《隐形人》的解读正在整理中。",
+      "summary": "《隐形人》写的是爱到想把自己擦掉：给体温、藏伤痕，在对方凌乱世界里只剩没心跳的指纹。",
       "tier": "editorial",
-      "flags": [],
-      "interpretationCount": 3,
+      "flags": [
+        "missing_mvUrl"
+      ],
+      "interpretationCount": 6,
       "weakInterpretationCount": 0,
       "uniqueInterpretationRatio": 1,
-      "bodyChars": 183,
-      "hasMvUrl": true,
+      "bodyChars": 386,
+      "hasMvUrl": false,
       "scaffoldHits": []
     },
     {
@@ -1627,10 +1683,10 @@
       "flags": [
         "missing_mvUrl"
       ],
-      "interpretationCount": 5,
+      "interpretationCount": 6,
       "weakInterpretationCount": 0,
       "uniqueInterpretationRatio": 1,
-      "bodyChars": 274,
+      "bodyChars": 395,
       "hasMvUrl": false,
       "scaffoldHits": []
     },
@@ -1670,12 +1726,14 @@
       ],
       "summary": "《愚人的国度》不是只写一个人受伤，而是把人的自欺、沉陷、明知故犯都拉到同一个世界里来看。也正因为这样，它会比普通伤感歌更重、更大，也更难一下子听完就过去。",
       "tier": "editorial",
-      "flags": [],
-      "interpretationCount": 3,
+      "flags": [
+        "missing_mvUrl"
+      ],
+      "interpretationCount": 6,
       "weakInterpretationCount": 0,
       "uniqueInterpretationRatio": 1,
-      "bodyChars": 218,
-      "hasMvUrl": true,
+      "bodyChars": 289,
+      "hasMvUrl": false,
       "scaffoldHits": []
     },
     {
@@ -1875,10 +1933,10 @@
       "flags": [
         "missing_mvUrl"
       ],
-      "interpretationCount": 5,
+      "interpretationCount": 6,
       "weakInterpretationCount": 0,
       "uniqueInterpretationRatio": 1,
-      "bodyChars": 259,
+      "bodyChars": 299,
       "hasMvUrl": false,
       "scaffoldHits": []
     },
@@ -1897,10 +1955,10 @@
       "flags": [
         "missing_mvUrl"
       ],
-      "interpretationCount": 5,
+      "interpretationCount": 6,
       "weakInterpretationCount": 0,
       "uniqueInterpretationRatio": 1,
-      "bodyChars": 265,
+      "bodyChars": 287,
       "hasMvUrl": false,
       "scaffoldHits": []
     },
@@ -2073,18 +2131,20 @@
       "title": "懂事",
       "favoriteLevel": "low",
       "moodTags": [
-        "回望"
+        "冷静",
+        "决绝"
       ],
       "themeTags": [
-        "关系变化"
+        "关系边界",
+        "自我觉醒"
       ],
-      "summary": "《懂事》的解读正在整理中。",
+      "summary": "拆解被赞美的懂事：翻译你的自由、预支一定会懂，任你犯错到尽头后冷静看着离开。",
       "tier": "editorial",
       "flags": [],
-      "interpretationCount": 3,
+      "interpretationCount": 6,
       "weakInterpretationCount": 0,
       "uniqueInterpretationRatio": 1,
-      "bodyChars": 185,
+      "bodyChars": 307,
       "hasMvUrl": true,
       "scaffoldHits": []
     },
@@ -2150,7 +2210,7 @@
         "自救",
         "关系疏离"
       ],
-      "summary": "放自己一天假换一口纯氧，换左手重练生活；反过来走走不握紧而放松，散场鼓掌谢谢 bye bye。",
+      "summary": "《反过来走走》是自救手册：放假要纯氧，换左手重练生活；认真化被动、不握紧而放松，对 always right 有空再说，散场鼓掌谢谢 bye bye。",
       "tier": "editorial",
       "flags": [
         "missing_mvUrl"
@@ -2158,7 +2218,7 @@
       "interpretationCount": 5,
       "weakInterpretationCount": 0,
       "uniqueInterpretationRatio": 1,
-      "bodyChars": 226,
+      "bodyChars": 333,
       "hasMvUrl": false,
       "scaffoldHits": []
     },
@@ -2227,10 +2287,10 @@
       "flags": [
         "missing_mvUrl"
       ],
-      "interpretationCount": 5,
+      "interpretationCount": 6,
       "weakInterpretationCount": 0,
       "uniqueInterpretationRatio": 1,
-      "bodyChars": 264,
+      "bodyChars": 351,
       "hasMvUrl": false,
       "scaffoldHits": []
     },
@@ -2246,15 +2306,15 @@
         "和解",
         "信任"
       ],
-      "summary": "在兵慌马乱里固执地要求和平对待你：微笑是信号，相信是重启。",
+      "summary": "《和平》在兵慌马乱里固执地要求和平对待你：怒气说给陌生人、微笑是求和平信号，相信你把这一天重新开始。",
       "tier": "editorial",
       "flags": [
         "missing_mvUrl"
       ],
-      "interpretationCount": 5,
+      "interpretationCount": 6,
       "weakInterpretationCount": 0,
       "uniqueInterpretationRatio": 1,
-      "bodyChars": 244,
+      "bodyChars": 310,
       "hasMvUrl": false,
       "scaffoldHits": []
     },
@@ -2377,10 +2437,10 @@
       "flags": [
         "missing_mvUrl"
       ],
-      "interpretationCount": 5,
+      "interpretationCount": 6,
       "weakInterpretationCount": 0,
       "uniqueInterpretationRatio": 1,
-      "bodyChars": 277,
+      "bodyChars": 324,
       "hasMvUrl": false,
       "scaffoldHits": []
     },
@@ -2455,10 +2515,10 @@
       "flags": [
         "missing_mvUrl"
       ],
-      "interpretationCount": 5,
+      "interpretationCount": 6,
       "weakInterpretationCount": 0,
       "uniqueInterpretationRatio": 1,
-      "bodyChars": 278,
+      "bodyChars": 298,
       "hasMvUrl": false,
       "scaffoldHits": []
     },
@@ -2559,10 +2619,10 @@
       "flags": [
         "missing_mvUrl"
       ],
-      "interpretationCount": 5,
+      "interpretationCount": 6,
       "weakInterpretationCount": 0,
       "uniqueInterpretationRatio": 1,
-      "bodyChars": 273,
+      "bodyChars": 308,
       "hasMvUrl": false,
       "scaffoldHits": []
     },
@@ -2804,7 +2864,7 @@
       "interpretationCount": 6,
       "weakInterpretationCount": 0,
       "uniqueInterpretationRatio": 1,
-      "bodyChars": 270,
+      "bodyChars": 374,
       "hasMvUrl": false,
       "scaffoldHits": []
     },
@@ -3041,10 +3101,10 @@
       "flags": [
         "missing_mvUrl"
       ],
-      "interpretationCount": 4,
+      "interpretationCount": 6,
       "weakInterpretationCount": 0,
       "uniqueInterpretationRatio": 1,
-      "bodyChars": 326,
+      "bodyChars": 331,
       "hasMvUrl": false,
       "scaffoldHits": []
     },
@@ -3065,10 +3125,10 @@
       "flags": [
         "missing_mvUrl"
       ],
-      "interpretationCount": 4,
+      "interpretationCount": 6,
       "weakInterpretationCount": 0,
       "uniqueInterpretationRatio": 1,
-      "bodyChars": 464,
+      "bodyChars": 522,
       "hasMvUrl": false,
       "scaffoldHits": []
     },
@@ -3084,15 +3144,15 @@
         "关系变化",
         "内心独白"
       ],
-      "summary": "出道专《燕姿》中的早期张力曲：曲名指向未遂与阻滞，卡片气质为倔强、失衡与拉扯；完整歌词核验后可再补逐句细读。",
+      "summary": "出道专《燕姿》早期张力曲：曲名「上＋不了」写未遂与阻滞，气质倔强、失衡与拉扯；完整歌词入库前仅作诚实概读。",
       "tier": "editorial",
       "flags": [
         "missing_mvUrl"
       ],
-      "interpretationCount": 4,
+      "interpretationCount": 6,
       "weakInterpretationCount": 0,
       "uniqueInterpretationRatio": 1,
-      "bodyChars": 360,
+      "bodyChars": 464,
       "hasMvUrl": false,
       "scaffoldHits": []
     },
@@ -3113,10 +3173,10 @@
       "flags": [
         "missing_mvUrl"
       ],
-      "interpretationCount": 4,
+      "interpretationCount": 6,
       "weakInterpretationCount": 0,
       "uniqueInterpretationRatio": 1,
-      "bodyChars": 335,
+      "bodyChars": 353,
       "hasMvUrl": false,
       "scaffoldHits": []
     },
@@ -3125,19 +3185,23 @@
       "title": "Silent All These Years",
       "favoriteLevel": "low",
       "moodTags": [
-        "回望"
+        "冷冽",
+        "觉醒"
       ],
       "themeTags": [
-        "关系变化"
+        "身份认同",
+        "失语与发声"
       ],
-      "summary": "《Silent All These Years》的解读正在整理中。",
+      "summary": "翻唱 Tori Amos：借身份与美人鱼错置写长期失语，终在「听见自己的声音／沉默这些年」完成归位。",
       "tier": "editorial",
-      "flags": [],
-      "interpretationCount": 3,
+      "flags": [
+        "missing_mvUrl"
+      ],
+      "interpretationCount": 6,
       "weakInterpretationCount": 0,
       "uniqueInterpretationRatio": 1,
-      "bodyChars": 249,
-      "hasMvUrl": true,
+      "bodyChars": 490,
+      "hasMvUrl": false,
       "scaffoldHits": []
     },
     {
@@ -3157,10 +3221,10 @@
       "flags": [
         "missing_mvUrl"
       ],
-      "interpretationCount": 4,
+      "interpretationCount": 6,
       "weakInterpretationCount": 0,
       "uniqueInterpretationRatio": 1,
-      "bodyChars": 405,
+      "bodyChars": 581,
       "hasMvUrl": false,
       "scaffoldHits": []
     },
@@ -3181,10 +3245,10 @@
       "flags": [
         "missing_mvUrl"
       ],
-      "interpretationCount": 4,
+      "interpretationCount": 6,
       "weakInterpretationCount": 0,
       "uniqueInterpretationRatio": 1,
-      "bodyChars": 482,
+      "bodyChars": 657,
       "hasMvUrl": false,
       "scaffoldHits": []
     },
@@ -3375,10 +3439,10 @@
       "flags": [
         "missing_mvUrl"
       ],
-      "interpretationCount": 5,
+      "interpretationCount": 6,
       "weakInterpretationCount": 0,
       "uniqueInterpretationRatio": 1,
-      "bodyChars": 276,
+      "bodyChars": 325,
       "hasMvUrl": false,
       "scaffoldHits": []
     },
@@ -3436,19 +3500,23 @@
       "title": "The Moment",
       "favoriteLevel": "low",
       "moodTags": [
-        "回望"
+        "回望",
+        "释然"
       ],
       "themeTags": [
-        "关系变化"
+        "成长",
+        "暂别与自由"
       ],
-      "summary": "《The Moment》的解读正在整理中。",
+      "summary": "阶段节点的钢琴告白：回头看见百感交集的自己，放心离开并许诺自由；远行不是逃避，告别为延续回忆。",
       "tier": "editorial",
-      "flags": [],
-      "interpretationCount": 3,
+      "flags": [
+        "missing_mvUrl"
+      ],
+      "interpretationCount": 6,
       "weakInterpretationCount": 0,
       "uniqueInterpretationRatio": 1,
-      "bodyChars": 214,
-      "hasMvUrl": true,
+      "bodyChars": 339,
+      "hasMvUrl": false,
       "scaffoldHits": []
     },
     {
@@ -3469,10 +3537,10 @@
       "flags": [
         "missing_mvUrl"
       ],
-      "interpretationCount": 5,
+      "interpretationCount": 6,
       "weakInterpretationCount": 0,
       "uniqueInterpretationRatio": 1,
-      "bodyChars": 251,
+      "bodyChars": 308,
       "hasMvUrl": false,
       "scaffoldHits": []
     },
@@ -3494,10 +3562,10 @@
       "flags": [
         "missing_mvUrl"
       ],
-      "interpretationCount": 5,
+      "interpretationCount": 6,
       "weakInterpretationCount": 0,
       "uniqueInterpretationRatio": 1,
-      "bodyChars": 266,
+      "bodyChars": 354,
       "hasMvUrl": false,
       "scaffoldHits": []
     },
@@ -3519,10 +3587,10 @@
       "flags": [
         "missing_mvUrl"
       ],
-      "interpretationCount": 5,
+      "interpretationCount": 6,
       "weakInterpretationCount": 0,
       "uniqueInterpretationRatio": 1,
-      "bodyChars": 261,
+      "bodyChars": 345,
       "hasMvUrl": false,
       "scaffoldHits": []
     },
@@ -3544,10 +3612,10 @@
       "flags": [
         "missing_mvUrl"
       ],
-      "interpretationCount": 5,
+      "interpretationCount": 6,
       "weakInterpretationCount": 0,
       "uniqueInterpretationRatio": 1,
-      "bodyChars": 276,
+      "bodyChars": 317,
       "hasMvUrl": false,
       "scaffoldHits": []
     },
@@ -3594,10 +3662,10 @@
       "flags": [
         "missing_mvUrl"
       ],
-      "interpretationCount": 5,
+      "interpretationCount": 6,
       "weakInterpretationCount": 0,
       "uniqueInterpretationRatio": 1,
-      "bodyChars": 256,
+      "bodyChars": 292,
       "hasMvUrl": false,
       "scaffoldHits": []
     },
@@ -3692,10 +3760,10 @@
       "flags": [
         "missing_mvUrl"
       ],
-      "interpretationCount": 5,
+      "interpretationCount": 6,
       "weakInterpretationCount": 0,
       "uniqueInterpretationRatio": 1,
-      "bodyChars": 252,
+      "bodyChars": 309,
       "hasMvUrl": false,
       "scaffoldHits": []
     },
@@ -3716,10 +3784,10 @@
       "flags": [
         "missing_mvUrl"
       ],
-      "interpretationCount": 5,
+      "interpretationCount": 6,
       "weakInterpretationCount": 0,
       "uniqueInterpretationRatio": 1,
-      "bodyChars": 277,
+      "bodyChars": 328,
       "hasMvUrl": false,
       "scaffoldHits": []
     },
@@ -3740,10 +3808,10 @@
       "flags": [
         "missing_mvUrl"
       ],
-      "interpretationCount": 5,
+      "interpretationCount": 6,
       "weakInterpretationCount": 0,
       "uniqueInterpretationRatio": 1,
-      "bodyChars": 262,
+      "bodyChars": 303,
       "hasMvUrl": false,
       "scaffoldHits": []
     },
@@ -3764,10 +3832,10 @@
       "flags": [
         "missing_mvUrl"
       ],
-      "interpretationCount": 5,
+      "interpretationCount": 6,
       "weakInterpretationCount": 0,
       "uniqueInterpretationRatio": 1,
-      "bodyChars": 277,
+      "bodyChars": 321,
       "hasMvUrl": false,
       "scaffoldHits": []
     },
@@ -3776,19 +3844,23 @@
       "title": "我不爱",
       "favoriteLevel": "low",
       "moodTags": [
-        "回望"
+        "决绝",
+        "清醒"
       ],
       "themeTags": [
-        "关系变化"
+        "关系变化",
+        "自我边界"
       ],
-      "summary": "《我不爱》的解读正在整理中。",
+      "summary": "共生抽离后的失位与断舍：眼泪里认出自己，拒绝以丢自我为代价的未来与空转的现在。",
       "tier": "editorial",
-      "flags": [],
-      "interpretationCount": 3,
+      "flags": [
+        "missing_mvUrl"
+      ],
+      "interpretationCount": 6,
       "weakInterpretationCount": 0,
       "uniqueInterpretationRatio": 1,
-      "bodyChars": 191,
-      "hasMvUrl": true,
+      "bodyChars": 346,
+      "hasMvUrl": false,
       "scaffoldHits": []
     },
     {
@@ -3808,10 +3880,10 @@
       "flags": [
         "missing_mvUrl"
       ],
-      "interpretationCount": 5,
+      "interpretationCount": 6,
       "weakInterpretationCount": 0,
       "uniqueInterpretationRatio": 1,
-      "bodyChars": 278,
+      "bodyChars": 303,
       "hasMvUrl": false,
       "scaffoldHits": []
     },
@@ -4002,10 +4074,10 @@
       "flags": [
         "missing_mvUrl"
       ],
-      "interpretationCount": 5,
+      "interpretationCount": 6,
       "weakInterpretationCount": 0,
       "uniqueInterpretationRatio": 1,
-      "bodyChars": 253,
+      "bodyChars": 288,
       "hasMvUrl": false,
       "scaffoldHits": []
     },
@@ -4027,10 +4099,10 @@
       "flags": [
         "missing_mvUrl"
       ],
-      "interpretationCount": 5,
+      "interpretationCount": 6,
       "weakInterpretationCount": 0,
       "uniqueInterpretationRatio": 1,
-      "bodyChars": 272,
+      "bodyChars": 335,
       "hasMvUrl": false,
       "scaffoldHits": []
     },
@@ -4052,10 +4124,10 @@
       "flags": [
         "missing_mvUrl"
       ],
-      "interpretationCount": 5,
+      "interpretationCount": 6,
       "weakInterpretationCount": 0,
       "uniqueInterpretationRatio": 1,
-      "bodyChars": 268,
+      "bodyChars": 298,
       "hasMvUrl": false,
       "scaffoldHits": []
     },
@@ -4077,10 +4149,10 @@
       "flags": [
         "missing_mvUrl"
       ],
-      "interpretationCount": 5,
+      "interpretationCount": 6,
       "weakInterpretationCount": 0,
       "uniqueInterpretationRatio": 1,
-      "bodyChars": 249,
+      "bodyChars": 283,
       "hasMvUrl": false,
       "scaffoldHits": []
     },
@@ -4198,10 +4270,10 @@
       "flags": [
         "missing_mvUrl"
       ],
-      "interpretationCount": 5,
+      "interpretationCount": 6,
       "weakInterpretationCount": 0,
       "uniqueInterpretationRatio": 1,
-      "bodyChars": 278,
+      "bodyChars": 309,
       "hasMvUrl": false,
       "scaffoldHits": []
     },
@@ -4270,10 +4342,10 @@
       "flags": [
         "missing_mvUrl"
       ],
-      "interpretationCount": 5,
+      "interpretationCount": 6,
       "weakInterpretationCount": 0,
       "uniqueInterpretationRatio": 1,
-      "bodyChars": 174,
+      "bodyChars": 284,
       "hasMvUrl": false,
       "scaffoldHits": []
     },
@@ -4294,10 +4366,10 @@
       "flags": [
         "missing_mvUrl"
       ],
-      "interpretationCount": 4,
+      "interpretationCount": 6,
       "weakInterpretationCount": 0,
       "uniqueInterpretationRatio": 1,
-      "bodyChars": 166,
+      "bodyChars": 306,
       "hasMvUrl": false,
       "scaffoldHits": []
     },
@@ -4318,10 +4390,10 @@
       "flags": [
         "missing_mvUrl"
       ],
-      "interpretationCount": 5,
+      "interpretationCount": 6,
       "weakInterpretationCount": 0,
       "uniqueInterpretationRatio": 1,
-      "bodyChars": 180,
+      "bodyChars": 305,
       "hasMvUrl": false,
       "scaffoldHits": []
     },
@@ -4342,10 +4414,10 @@
       "flags": [
         "missing_mvUrl"
       ],
-      "interpretationCount": 5,
+      "interpretationCount": 6,
       "weakInterpretationCount": 0,
       "uniqueInterpretationRatio": 1,
-      "bodyChars": 163,
+      "bodyChars": 285,
       "hasMvUrl": false,
       "scaffoldHits": []
     },
@@ -4366,10 +4438,10 @@
       "flags": [
         "missing_mvUrl"
       ],
-      "interpretationCount": 5,
+      "interpretationCount": 6,
       "weakInterpretationCount": 0,
       "uniqueInterpretationRatio": 1,
-      "bodyChars": 183,
+      "bodyChars": 284,
       "hasMvUrl": false,
       "scaffoldHits": []
     }

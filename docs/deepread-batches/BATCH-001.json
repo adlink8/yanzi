@@ -2,103 +2,132 @@
   "id": "BATCH-001",
   "number": 1,
   "size": 6,
+  "mode": "depth_upgrade",
   "songs": [
     {
-      "slug": "nan-de-yi-jian-start-concert",
-      "title": "难得一见（Start演唱会）",
-      "favoriteLevel": "low",
-      "tier": "scaffold",
-      "albumSlug": "start-live",
+      "slug": "shi-shi-hou",
+      "title": "是时候",
+      "favoriteLevel": "high",
+      "tier": "editorial",
+      "bodyChars": 298,
+      "interpretationCount": 6,
+      "albumSlug": "shi-shi-hou",
       "moodTags": [
         "回望"
       ],
       "themeTags": [
-        "关系变化"
+        "内省",
+        "语言失效"
       ],
-      "summary": "《难得一见（Start演唱会）》的解读正在整理中。",
-      "deepReadPath": "content/songs/deep-reads/nan-de-yi-jian-start-concert.md",
-      "rawLyricsPath": "content/songs/raw-lyrics/nan-de-yi-jian-start-concert.txt"
+      "summary": "失温的语言、梦中一秒温暖、以为洒脱其实彼此一样脆弱——是时候转身，也是时候承认坚强不是解脱。",
+      "deepReadPath": "content/songs/deep-reads/shi-shi-hou.md",
+      "rawLyricsPath": "content/songs/raw-lyrics/shi-shi-hou.txt",
+      "goal": "depth_upgrade"
     },
     {
-      "slug": "ni-hao-bu-hao",
-      "title": "你好不好",
-      "favoriteLevel": "low",
-      "tier": "scaffold",
-      "albumSlug": "official-singles-collection",
+      "slug": "tian-hei-hei",
+      "title": "天黑黑",
+      "favoriteLevel": "high",
+      "tier": "editorial",
+      "bodyChars": 298,
+      "interpretationCount": 6,
+      "albumSlug": "yanzi",
       "moodTags": [
-        "回望"
+        "成长",
+        "想念"
       ],
       "themeTags": [
-        "关系变化"
+        "青春",
+        "自我和解"
       ],
-      "summary": "《你好不好》的解读正在整理中。",
-      "deepReadPath": "content/songs/deep-reads/ni-hao-bu-hao.md",
-      "rawLyricsPath": "content/songs/raw-lyrics/ni-hao-bu-hao.txt"
+      "summary": "外婆的台语童谣与成人世界的残缺同线：忘记那首歌之后，天黑时才重新听懂——下起雨也要前进，同时允许自己想家。",
+      "deepReadPath": "content/songs/deep-reads/tian-hei-hei.md",
+      "rawLyricsPath": "content/songs/raw-lyrics/tian-hei-hei.txt",
+      "goal": "depth_upgrade"
     },
     {
-      "slug": "ni-ming-wan-sui",
-      "title": "匿名万岁",
-      "favoriteLevel": "low",
-      "tier": "scaffold",
-      "albumSlug": "official-singles-collection",
-      "moodTags": [
-        "回望"
-      ],
-      "themeTags": [
-        "关系变化"
-      ],
-      "summary": "《匿名万岁》的解读正在整理中。",
-      "deepReadPath": "content/songs/deep-reads/ni-ming-wan-sui.md",
-      "rawLyricsPath": "content/songs/raw-lyrics/ni-ming-wan-sui.txt"
-    },
-    {
-      "slug": "nian-qing-wu-xian",
-      "title": "年轻无限",
-      "favoriteLevel": "low",
-      "tier": "scaffold",
-      "albumSlug": "wei-wan-cheng",
-      "moodTags": [
-        "回望"
-      ],
-      "themeTags": [
-        "关系变化"
-      ],
-      "summary": "《年轻无限》的解读正在整理中。",
-      "deepReadPath": "content/songs/deep-reads/nian-qing-wu-xian.md",
-      "rawLyricsPath": "content/songs/raw-lyrics/nian-qing-wu-xian.txt"
-    },
-    {
-      "slug": "nong-mei-mao",
-      "title": "浓眉毛",
-      "favoriteLevel": "low",
-      "tier": "scaffold",
+      "slug": "e-lover",
+      "title": "E Lover",
+      "favoriteLevel": "medium",
+      "tier": "editorial",
+      "bodyChars": 232,
+      "interpretationCount": 5,
       "albumSlug": "yanzi",
       "moodTags": [
         "回望"
       ],
       "themeTags": [
-        "关系变化"
+        "青春",
+        "自我表达"
       ],
-      "summary": "《浓眉毛》的解读正在整理中。",
-      "deepReadPath": "content/songs/deep-reads/nong-mei-mao.md",
-      "rawLyricsPath": "content/songs/raw-lyrics/nong-mei-mao.txt"
+      "summary": "《E-Lover》最值得看的，不只是它写爱情，而是它写一种已经被时代和媒介改变了的爱情。它让首张专辑除了情绪真诚，还多了一层很鲜明的现代感。",
+      "deepReadPath": "content/songs/deep-reads/e-lover.md",
+      "rawLyricsPath": "content/songs/raw-lyrics/e-lover.txt",
+      "goal": "depth_upgrade"
     },
     {
-      "slug": "on-the-road",
-      "title": "On The Road",
-      "favoriteLevel": "low",
-      "tier": "scaffold",
+      "slug": "fei-pu-er-xia",
+      "title": "飞瀑而下",
+      "favoriteLevel": "medium",
+      "tier": "editorial",
+      "bodyChars": 236,
+      "interpretationCount": 5,
       "albumSlug": "official-singles-collection",
       "moodTags": [
         "回望"
       ],
       "themeTags": [
-        "关系变化"
+        "近期单曲",
+        "强动态"
       ],
-      "summary": "《On The Road》的解读正在整理中。",
-      "deepReadPath": "content/songs/deep-reads/on-the-road.md",
-      "rawLyricsPath": "content/songs/raw-lyrics/on-the-road.txt"
+      "summary": "《飞瀑而下》最让人记住的，不是一个细小情绪，而是一整股冲下来的力量。它更像是在把某种积压已久的东西，一次性打开给你看。",
+      "deepReadPath": "content/songs/deep-reads/fei-pu-er-xia.md",
+      "rawLyricsPath": "content/songs/raw-lyrics/fei-pu-er-xia.txt",
+      "goal": "depth_upgrade"
+    },
+    {
+      "slug": "ji-mei",
+      "title": "极美",
+      "favoriteLevel": "medium",
+      "tier": "editorial",
+      "bodyChars": 246,
+      "interpretationCount": 6,
+      "albumSlug": "no-13",
+      "moodTags": [
+        "开阔",
+        "安住"
+      ],
+      "themeTags": [
+        "陪伴",
+        "归处",
+        "成熟"
+      ],
+      "summary": "《极美》劝人卸下逞强与空洞狂欢，把美放进伞、旧风衣与麦田相聚：灯熄也无妨，云集即欢庆。",
+      "deepReadPath": "content/songs/deep-reads/ji-mei.md",
+      "rawLyricsPath": "content/songs/raw-lyrics/ji-mei.txt",
+      "goal": "depth_upgrade"
+    },
+    {
+      "slug": "shen-qi",
+      "title": "神奇",
+      "favoriteLevel": "medium",
+      "tier": "editorial",
+      "bodyChars": 248,
+      "interpretationCount": 5,
+      "albumSlug": "wei-wan-cheng",
+      "moodTags": [
+        "奇幻",
+        "着迷"
+      ],
+      "themeTags": [
+        "轮回",
+        "爱情"
+      ],
+      "summary": "《神奇》用一道光把两人扔进异世界：红点、咖喱、恒河与梵乐叠成轮回蒙太奇，着迷来不及分析就已经被带走。",
+      "deepReadPath": "content/songs/deep-reads/shen-qi.md",
+      "rawLyricsPath": "content/songs/raw-lyrics/shen-qi.txt",
+      "goal": "depth_upgrade"
     }
   ],
-  "createdAt": "2026-07-17T01:24:35.940Z"
+  "createdAt": "2026-07-17T01:40:11.741Z"
 }

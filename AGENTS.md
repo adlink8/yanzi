@@ -18,6 +18,7 @@
 - `npm run ci`: local mirror of GitHub Actions (typecheck + lint + tests + catalog audit + content gate).
 - `npm run build:cf`: Cloudflare Pages build via `@cloudflare/next-on-pages`.
 - Content quality checks: `npm run gate:content`, `npm run audit:content`, `npm run audit:catalog`.
+- Deep-read quality: `npm run report:deepread-quality`, `npm run prepare:deepread-batches`, `npm run prepare:deepread-depth`, `npm run verify:deepread-batch`.
 
 ## Coding Style & Naming Conventions
 - Language: TypeScript with `strict` mode enabled.
