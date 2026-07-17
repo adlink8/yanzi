@@ -20,8 +20,13 @@
 ```bash
 npm test              # vitest run — all tests once
 npm run test:watch    # vitest — watch mode
+npm run typecheck     # tsc --noEmit
+npm run lint          # next lint
+npm run ci            # typecheck + lint + tests + audit:catalog + gate:content
 # Coverage: not configured (no coverage script or thresholds in package.json / vitest.config.ts)
 ```
+
+**CI:** `.github/workflows/ci.yml` (Node 22, `npm ci`, same checks as `npm run ci`)
 
 ## Test File Organization
 
@@ -36,15 +41,17 @@ npm run test:watch    # vitest — watch mode
 **Structure:**
 ```
 tests/
-  api/
-    recommend-mood-route.test.ts   # import POST from app/api/.../route
-  recommend/
-    mood.test.ts                   # pure lib/recommend logic
+  helpers/fixtures.ts
+  api/          # ask song/album, feedback, mood recommend
+  ai/           # config, client, prompts, context builders
+  content/      # sanitize, static-client, catalog integrity
+  recommend/    # mood, related, daily
 ```
 
 **Prescriptive scope (from AGENTS.md + current practice):**
-- Add or update tests for any change in `lib/recommend/*` and `app/api/*` behavior
+- Add or update tests for any change in `lib/recommend/*`, `lib/ai/*`, `lib/content/*`, and `app/api/*` behavior
 - Prefer behavior assertions (status, payload shape, ranking order) over implementation details
+- Live catalog integrity tests must stay green after content remaps
 
 ## Test Structure
 
