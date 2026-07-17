@@ -379,10 +379,12 @@
     "releaseYear": 2000,
     "era": "出道延展",
     "moodTags": [
-      "回望"
+      "湿冷",
+      "僵持"
     ],
     "themeTags": [
-      "成长",
+      "冷战",
+      "自尊",
       "勇气"
     ],
     "keywords": [
@@ -879,14 +881,17 @@
     "releaseYear": 2007,
     "era": "成熟高峰",
     "moodTags": [
-      "回望"
+      "轻快",
+      "清醒"
     ],
     "themeTags": [
-      "回望",
-      "韧性"
+      "关系变化",
+      "都市"
     ],
     "keywords": [
-      "爱情的花样"
+      "爱情的花样",
+      "账单",
+      "循环"
     ],
     "summary": "《爱情的花样》像是在提醒人：别太快以为自己已经看懂爱情。真正复杂的地方，正是在于它可以有很多种样子，而人常常只经历了其中很小的一部分。",
     "favoriteLevel": "medium",
@@ -954,16 +959,18 @@
     "releaseYear": 2005,
     "era": "阶段平衡",
     "moodTags": [
-      "回望"
+      "轻快",
+      "心虚"
     ],
     "themeTags": [
       "日常感",
-      "愿望"
+      "距离",
+      "时间"
     ],
     "keywords": [
       "Honey Honey"
     ],
-    "summary": "《Honey Honey》的解读正在整理中。",
+    "summary": "《Honey Honey》写忙碌恋爱的轻亏欠：好日子与喝茶的愿望清单底下，副歌其实是「对不起，我总是没时间陪你」；距离被合理化，安慰只剩「知道我在你心里」。",
     "favoriteLevel": "medium",
     "hasDeepRead": true,
     "relatedSongs": [
@@ -1129,14 +1136,17 @@
     "releaseYear": 2014,
     "era": "后期凝练",
     "moodTags": [
-      "回望"
+      "回望",
+      "温和"
     ],
     "themeTags": [
       "时间感",
-      "命运感"
+      "释然"
     ],
     "keywords": [
-      "比较幸福"
+      "比较幸福",
+      "蓝图",
+      "错误"
     ],
     "summary": "《比较幸福》最动人的地方，是它愿意承认幸福不一定要是满分。很多时候，能比过去更安稳一点、更松一点、更像自己一点，就已经很珍贵。",
     "favoriteLevel": "medium",
@@ -1204,11 +1214,13 @@
     "releaseYear": 2011,
     "era": "成熟内省",
     "moodTags": [
-      "回望"
+      "临界",
+      "紧绷"
     ],
     "themeTags": [
-      "内省",
-      "语言失效"
+      "崩溃",
+      "理解",
+      "亲密矛盾"
     ],
     "keywords": [
       "快疯了"
@@ -1229,11 +1241,13 @@
     "releaseYear": 2011,
     "era": "成熟内省",
     "moodTags": [
-      "回望"
+      "刺痛",
+      "抽离"
     ],
     "themeTags": [
-      "内省",
-      "语言失效"
+      "承诺失效",
+      "语言失重",
+      "思念"
     ],
     "keywords": [
       "空口言"
@@ -1279,16 +1293,17 @@
     "releaseYear": 2005,
     "era": "阶段平衡",
     "moodTags": [
-      "回望"
+      "低落",
+      "内省"
     ],
     "themeTags": [
-      "日常感",
-      "愿望"
+      "自我",
+      "脆弱"
     ],
     "keywords": [
       "另一张脸"
     ],
-    "summary": "《另一张脸》的解读正在整理中。",
+    "summary": "《另一张脸》把无来由的灰心情写成内在第二张脸：黑暗变形、自己都讨厌，却仍想像傻子一样笑着过一天。它在意志脆弱时复发，灰脸与我的脸几乎重叠。",
     "favoriteLevel": "medium",
     "hasDeepRead": true,
     "relatedSongs": [
@@ -1610,15 +1625,18 @@
     "releaseYear": 2006,
     "era": "阶段回看",
     "moodTags": [
-      "回望"
+      "回望",
+      "克制"
     ],
     "themeTags": [
-      "关系变化"
+      "关系变化",
+      "了解"
     ],
     "keywords": [
-      "情绪"
+      "了解",
+      "伤心"
     ],
-    "summary": "《了解》的解读正在整理中。",
+    "summary": "《了解》写的不是误会，而是太懂：两个窗口、无声电影，因为太了解所以更伤心；时间说会痊愈，人却仍无法坚定地哭完这一刀。",
     "favoriteLevel": "medium",
     "hasDeepRead": true,
     "relatedSongs": [
@@ -1642,7 +1660,7 @@
     "keywords": [
       "情绪"
     ],
-    "summary": "《第六感》的解读正在整理中。",
+    "summary": "《第六感》像精选期的一次肩膀放松：感情没有绝对答案时，与其把眼泪浪费在复盘，不如作好心理准备，把方向交给自己的直觉与偶然。",
     "favoriteLevel": "medium",
     "hasDeepRead": true,
     "relatedSongs": [
@@ -1658,15 +1676,19 @@
     "releaseYear": 2015,
     "era": "单曲/活动单曲",
     "moodTags": [
-      "回望"
+      "挂念",
+      "遗憾"
     ],
     "themeTags": [
-      "关系变化"
+      "关系变化",
+      "时间感"
     ],
     "keywords": [
-      "情绪"
+      "半句再见",
+      "无解",
+      "思念"
     ],
-    "summary": "《半句再见》的解读正在整理中。",
+    "summary": "《半句再见》写的是说不完的道别：照片与失眠里复习旧人，越想遗忘越挂牵，终以“无解”和直线画不成圆承认有些关系没有圆满句。",
     "favoriteLevel": "medium",
     "hasDeepRead": true,
     "relatedSongs": [
@@ -1854,15 +1876,18 @@
     "releaseYear": 2017,
     "era": "2017 时期",
     "moodTags": [
-      "回望"
+      "开阔",
+      "安住"
     ],
     "themeTags": [
-      "关系变化"
+      "陪伴",
+      "归处",
+      "成熟"
     ],
     "keywords": [
       "情绪"
     ],
-    "summary": "《极美》的解读正在整理中。",
+    "summary": "《极美》劝人卸下逞强与空洞狂欢，把美放进伞、旧风衣与麦田相聚：灯熄也无妨，云集即欢庆。",
     "favoriteLevel": "medium",
     "hasDeepRead": true,
     "relatedSongs": [
@@ -1878,15 +1903,19 @@
     "releaseYear": 2017,
     "era": "2017 时期",
     "moodTags": [
-      "回望"
+      "倔强",
+      "昂扬"
     ],
     "themeTags": [
-      "关系变化"
+      "韧性",
+      "自我"
     ],
     "keywords": [
-      "情绪"
+      "充氧期",
+      "捷径",
+      "昂起头"
     ],
-    "summary": "《充氧期》的解读正在整理中。",
+    "summary": "《充氧期》把难挨日子写成体能课：拒伞、不抄捷径，在细胞嘶吼与爱情湍流里咬牙补氧，终以昂头拒绝快进与回头。",
     "favoriteLevel": "medium",
     "hasDeepRead": true,
     "relatedSongs": [
@@ -1926,15 +1955,19 @@
     "releaseYear": 2019,
     "era": "2019 时期",
     "moodTags": [
-      "回望"
+      "明亮",
+      "守护"
     ],
     "themeTags": [
-      "关系变化"
+      "成长",
+      "陪伴"
     ],
     "keywords": [
-      "情绪"
+      "彩虹金刚",
+      "小巨人",
+      "海洋"
     ],
-    "summary": "《彩虹金刚》的解读正在整理中。",
+    "summary": "《彩虹金刚》是明亮的守护歌：童趣通感与小巨人托举成长，终句把所爱命名为“我的彩虹金刚”——柔软光谱与不可摧的强度并存。",
     "favoriteLevel": "medium",
     "hasDeepRead": true,
     "relatedSongs": [
@@ -1950,15 +1983,19 @@
     "releaseYear": 2007,
     "era": "成熟高峰",
     "moodTags": [
-      "回望"
+      "释然",
+      "克制"
     ],
     "themeTags": [
-      "关系变化"
+      "关系变化",
+      "内省"
     ],
     "keywords": [
-      "情绪"
+      "安宁",
+      "分手",
+      "刺青"
     ],
-    "summary": "《安宁》的解读正在整理中。",
+    "summary": "《安宁》穿过夜色、刺青般的离去与哭不出的麻痹，最终落到一种意外的安静：分手完成之后，人也可以在空地里重新呼吸。",
     "favoriteLevel": "medium",
     "hasDeepRead": true,
     "relatedSongs": [
@@ -1974,15 +2011,18 @@
     "releaseYear": 2017,
     "era": "2017 时期",
     "moodTags": [
-      "回望"
+      "向前",
+      "致谢"
     ],
     "themeTags": [
-      "关系变化"
+      "启程",
+      "同行",
+      "信念"
     ],
     "keywords": [
       "情绪"
     ],
-    "summary": "《接下来》的解读正在整理中。",
+    "summary": "《接下来》是献给同行者的启程曲：承认靠近的遥远与偶尔的累，有好有坏也只记得起点，迎接、不后退，与你们一起飞。",
     "favoriteLevel": "medium",
     "hasDeepRead": true,
     "relatedSongs": [

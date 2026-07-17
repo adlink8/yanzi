@@ -1,0 +1,76 @@
+{
+  "generatedAt": "2026-07-17T01:14:34.993Z",
+  "filters": {
+    "size": 6,
+    "limit": 24,
+    "favorite": "medium",
+    "tiers": [
+      "scaffold",
+      "passable"
+    ]
+  },
+  "totalCandidates": 24,
+  "batchCount": 4,
+  "batches": [
+    {
+      "id": "BATCH-001",
+      "number": 1,
+      "size": 6,
+      "slugs": [
+        "ai-qing-de-hua-yang",
+        "an-ning",
+        "ban-ju-zai-jian",
+        "bi-jiao-xing-fu",
+        "cai-hong-jin-gang",
+        "chong-yang-qi"
+      ],
+      "promptFile": "docs/deepread-batches/BATCH-001.md",
+      "dataFile": "docs/deepread-batches/BATCH-001.json"
+    },
+    {
+      "id": "BATCH-002",
+      "number": 2,
+      "size": 6,
+      "slugs": [
+        "cuo-jue",
+        "di-liu-gan",
+        "di-yi-tian",
+        "e-lover",
+        "fei-pu-er-xia",
+        "gu-ji-gu-ji"
+      ],
+      "promptFile": "docs/deepread-batches/BATCH-002.md",
+      "dataFile": "docs/deepread-batches/BATCH-002.json"
+    },
+    {
+      "id": "BATCH-003",
+      "number": 3,
+      "size": 6,
+      "slugs": [
+        "honey-honey",
+        "huai-tian-qi",
+        "ji-mei",
+        "jie-xia-lai",
+        "kong-kou-yan",
+        "kuai-feng-le"
+      ],
+      "promptFile": "docs/deepread-batches/BATCH-003.md",
+      "dataFile": "docs/deepread-batches/BATCH-003.json"
+    },
+    {
+      "id": "BATCH-004",
+      "number": 4,
+      "size": 6,
+      "slugs": [
+        "leave",
+        "leave-me-alone",
+        "liao-jie",
+        "ling-que-dian",
+        "ling-yi-zhang-lian",
+        "man-man-lai"
+      ],
+      "promptFile": "docs/deepread-batches/BATCH-004.md",
+      "dataFile": "docs/deepread-batches/BATCH-004.json"
+    }
+  ]
+}

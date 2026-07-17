@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-07-17T01:09:52.218Z",
+  "generatedAt": "2026-07-17T01:17:27.694Z",
   "scanned": 184,
   "tierCounts": {
-    "scaffold": 137,
+    "scaffold": 113,
     "passable": 13,
-    "editorial": 34
+    "editorial": 58
   },
   "highFavoriteCount": 8,
   "highFavoriteEditorial": 8,
@@ -212,694 +212,6 @@
       "bodyChars": 169,
       "hasMvUrl": true,
       "scaffoldHits": []
-    },
-    {
-      "slug": "ai-qing-de-hua-yang",
-      "title": "爱情的花样",
-      "favoriteLevel": "medium",
-      "moodTags": [
-        "回望"
-      ],
-      "themeTags": [
-        "回望",
-        "韧性"
-      ],
-      "summary": "《爱情的花样》像是在提醒人：别太快以为自己已经看懂爱情。真正复杂的地方，正是在于它可以有很多种样子，而人常常只经历了其中很小的一部分。",
-      "tier": "scaffold",
-      "flags": [
-        "missing_mvUrl",
-        "some_interpretations_weak",
-        "scaffold:自动补充的第|情绪结构样本|语句 5"
-      ],
-      "interpretationCount": 5,
-      "weakInterpretationCount": 2,
-      "uniqueInterpretationRatio": 1,
-      "bodyChars": 208,
-      "hasMvUrl": false,
-      "scaffoldHits": [
-        "自动补充的第",
-        "情绪结构样本",
-        "语句 5"
-      ]
-    },
-    {
-      "slug": "an-ning",
-      "title": "安宁",
-      "favoriteLevel": "medium",
-      "moodTags": [
-        "回望"
-      ],
-      "themeTags": [
-        "关系变化"
-      ],
-      "summary": "《安宁》的解读正在整理中。",
-      "tier": "scaffold",
-      "flags": [
-        "missing_mvUrl",
-        "some_interpretations_weak",
-        "scaffold:自动补充的第|情绪结构样本|语句 5"
-      ],
-      "interpretationCount": 5,
-      "weakInterpretationCount": 2,
-      "uniqueInterpretationRatio": 1,
-      "bodyChars": 205,
-      "hasMvUrl": false,
-      "scaffoldHits": [
-        "自动补充的第",
-        "情绪结构样本",
-        "语句 5"
-      ]
-    },
-    {
-      "slug": "ban-ju-zai-jian",
-      "title": "半句再见",
-      "favoriteLevel": "medium",
-      "moodTags": [
-        "回望"
-      ],
-      "themeTags": [
-        "关系变化"
-      ],
-      "summary": "《半句再见》的解读正在整理中。",
-      "tier": "scaffold",
-      "flags": [
-        "missing_mvUrl",
-        "some_interpretations_weak",
-        "scaffold:自动补充的第|情绪结构样本|语句 5"
-      ],
-      "interpretationCount": 5,
-      "weakInterpretationCount": 2,
-      "uniqueInterpretationRatio": 1,
-      "bodyChars": 205,
-      "hasMvUrl": false,
-      "scaffoldHits": [
-        "自动补充的第",
-        "情绪结构样本",
-        "语句 5"
-      ]
-    },
-    {
-      "slug": "bi-jiao-xing-fu",
-      "title": "比较幸福",
-      "favoriteLevel": "medium",
-      "moodTags": [
-        "回望"
-      ],
-      "themeTags": [
-        "时间感",
-        "命运感"
-      ],
-      "summary": "《比较幸福》最动人的地方，是它愿意承认幸福不一定要是满分。很多时候，能比过去更安稳一点、更松一点、更像自己一点，就已经很珍贵。",
-      "tier": "scaffold",
-      "flags": [
-        "missing_mvUrl",
-        "some_interpretations_weak",
-        "scaffold:自动补充的第|情绪结构样本|语句 5"
-      ],
-      "interpretationCount": 5,
-      "weakInterpretationCount": 2,
-      "uniqueInterpretationRatio": 1,
-      "bodyChars": 207,
-      "hasMvUrl": false,
-      "scaffoldHits": [
-        "自动补充的第",
-        "情绪结构样本",
-        "语句 5"
-      ]
-    },
-    {
-      "slug": "cai-hong-jin-gang",
-      "title": "彩虹金刚",
-      "favoriteLevel": "medium",
-      "moodTags": [
-        "回望"
-      ],
-      "themeTags": [
-        "关系变化"
-      ],
-      "summary": "《彩虹金刚》的解读正在整理中。",
-      "tier": "scaffold",
-      "flags": [
-        "missing_mvUrl",
-        "some_interpretations_weak",
-        "scaffold:自动补充的第|情绪结构样本|语句 5"
-      ],
-      "interpretationCount": 5,
-      "weakInterpretationCount": 2,
-      "uniqueInterpretationRatio": 1,
-      "bodyChars": 207,
-      "hasMvUrl": false,
-      "scaffoldHits": [
-        "自动补充的第",
-        "情绪结构样本",
-        "语句 5"
-      ]
-    },
-    {
-      "slug": "chong-yang-qi",
-      "title": "充氧期",
-      "favoriteLevel": "medium",
-      "moodTags": [
-        "回望"
-      ],
-      "themeTags": [
-        "关系变化"
-      ],
-      "summary": "《充氧期》的解读正在整理中。",
-      "tier": "scaffold",
-      "flags": [
-        "missing_mvUrl",
-        "some_interpretations_weak",
-        "scaffold:自动补充的第|情绪结构样本|语句 5"
-      ],
-      "interpretationCount": 5,
-      "weakInterpretationCount": 2,
-      "uniqueInterpretationRatio": 1,
-      "bodyChars": 204,
-      "hasMvUrl": false,
-      "scaffoldHits": [
-        "自动补充的第",
-        "情绪结构样本",
-        "语句 5"
-      ]
-    },
-    {
-      "slug": "cuo-jue",
-      "title": "错觉",
-      "favoriteLevel": "medium",
-      "moodTags": [
-        "回望"
-      ],
-      "themeTags": [
-        "时间感",
-        "命运感"
-      ],
-      "summary": "《错觉》最刺人的地方，不是失去，而是你后来开始怀疑：原来我一直以来理解的，可能都不是完整真相。那种认知开始松动的瞬间，往往比难过更难受。",
-      "tier": "scaffold",
-      "flags": [
-        "missing_mvUrl",
-        "some_interpretations_weak",
-        "scaffold:自动补充的第|情绪结构样本|语句 5"
-      ],
-      "interpretationCount": 5,
-      "weakInterpretationCount": 2,
-      "uniqueInterpretationRatio": 1,
-      "bodyChars": 205,
-      "hasMvUrl": false,
-      "scaffoldHits": [
-        "自动补充的第",
-        "情绪结构样本",
-        "语句 5"
-      ]
-    },
-    {
-      "slug": "di-liu-gan",
-      "title": "第六感",
-      "favoriteLevel": "medium",
-      "moodTags": [
-        "回望"
-      ],
-      "themeTags": [
-        "关系变化"
-      ],
-      "summary": "《第六感》的解读正在整理中。",
-      "tier": "scaffold",
-      "flags": [
-        "missing_mvUrl",
-        "some_interpretations_weak",
-        "scaffold:自动补充的第|情绪结构样本|语句 5"
-      ],
-      "interpretationCount": 5,
-      "weakInterpretationCount": 2,
-      "uniqueInterpretationRatio": 1,
-      "bodyChars": 206,
-      "hasMvUrl": false,
-      "scaffoldHits": [
-        "自动补充的第",
-        "情绪结构样本",
-        "语句 5"
-      ]
-    },
-    {
-      "slug": "di-yi-tian",
-      "title": "第一天",
-      "favoriteLevel": "medium",
-      "moodTags": [
-        "回望"
-      ],
-      "themeTags": [
-        "关系变化",
-        "克制"
-      ],
-      "summary": "《第一天》像生活重新开机时的那种轻快感。它不会用很大的词去说开始，而是让你在听的过程里慢慢觉得：今天好像真的可以重新变亮一点。",
-      "tier": "scaffold",
-      "flags": [
-        "missing_mvUrl",
-        "some_interpretations_weak",
-        "scaffold:自动补充的第|情绪结构样本|语句 5"
-      ],
-      "interpretationCount": 5,
-      "weakInterpretationCount": 2,
-      "uniqueInterpretationRatio": 1,
-      "bodyChars": 204,
-      "hasMvUrl": false,
-      "scaffoldHits": [
-        "自动补充的第",
-        "情绪结构样本",
-        "语句 5"
-      ]
-    },
-    {
-      "slug": "e-lover",
-      "title": "E Lover",
-      "favoriteLevel": "medium",
-      "moodTags": [
-        "回望"
-      ],
-      "themeTags": [
-        "青春",
-        "自我表达"
-      ],
-      "summary": "《E-Lover》最值得看的，不只是它写爱情，而是它写一种已经被时代和媒介改变了的爱情。它让首张专辑除了情绪真诚，还多了一层很鲜明的现代感。",
-      "tier": "scaffold",
-      "flags": [
-        "missing_mvUrl",
-        "some_interpretations_weak",
-        "scaffold:自动补充的第|情绪结构样本|语句 5"
-      ],
-      "interpretationCount": 5,
-      "weakInterpretationCount": 2,
-      "uniqueInterpretationRatio": 1,
-      "bodyChars": 210,
-      "hasMvUrl": false,
-      "scaffoldHits": [
-        "自动补充的第",
-        "情绪结构样本",
-        "语句 5"
-      ]
-    },
-    {
-      "slug": "fei-pu-er-xia",
-      "title": "飞瀑而下",
-      "favoriteLevel": "medium",
-      "moodTags": [
-        "回望"
-      ],
-      "themeTags": [
-        "近期单曲",
-        "强动态"
-      ],
-      "summary": "《飞瀑而下》最让人记住的，不是一个细小情绪，而是一整股冲下来的力量。它更像是在把某种积压已久的东西，一次性打开给你看。",
-      "tier": "scaffold",
-      "flags": [
-        "missing_mvUrl",
-        "some_interpretations_weak",
-        "scaffold:自动补充的第|情绪结构样本|语句 5"
-      ],
-      "interpretationCount": 5,
-      "weakInterpretationCount": 2,
-      "uniqueInterpretationRatio": 1,
-      "bodyChars": 207,
-      "hasMvUrl": false,
-      "scaffoldHits": [
-        "自动补充的第",
-        "情绪结构样本",
-        "语句 5"
-      ]
-    },
-    {
-      "slug": "gu-ji-gu-ji",
-      "title": "咕叽咕叽",
-      "favoriteLevel": "medium",
-      "moodTags": [
-        "回望"
-      ],
-      "themeTags": [
-        "回望",
-        "韧性"
-      ],
-      "summary": "《咕叽咕叽》最大的魅力，就是它不沉重但不空。它像一首会眨眼睛的歌，用很轻的方式把整张专辑里更活、更灵、更俏皮的一面拉出来。",
-      "tier": "scaffold",
-      "flags": [
-        "missing_mvUrl",
-        "some_interpretations_weak",
-        "scaffold:自动补充的第|情绪结构样本|语句 5"
-      ],
-      "interpretationCount": 5,
-      "weakInterpretationCount": 2,
-      "uniqueInterpretationRatio": 1,
-      "bodyChars": 207,
-      "hasMvUrl": false,
-      "scaffoldHits": [
-        "自动补充的第",
-        "情绪结构样本",
-        "语句 5"
-      ]
-    },
-    {
-      "slug": "honey-honey",
-      "title": "Honey Honey",
-      "favoriteLevel": "medium",
-      "moodTags": [
-        "回望"
-      ],
-      "themeTags": [
-        "日常感",
-        "愿望"
-      ],
-      "summary": "《Honey Honey》的解读正在整理中。",
-      "tier": "scaffold",
-      "flags": [
-        "missing_mvUrl",
-        "some_interpretations_weak",
-        "scaffold:自动补充的第|情绪结构样本|语句 5"
-      ],
-      "interpretationCount": 5,
-      "weakInterpretationCount": 2,
-      "uniqueInterpretationRatio": 1,
-      "bodyChars": 214,
-      "hasMvUrl": false,
-      "scaffoldHits": [
-        "自动补充的第",
-        "情绪结构样本",
-        "语句 5"
-      ]
-    },
-    {
-      "slug": "huai-tian-qi",
-      "title": "坏天气",
-      "favoriteLevel": "medium",
-      "moodTags": [
-        "回望"
-      ],
-      "themeTags": [
-        "成长",
-        "勇气"
-      ],
-      "summary": "《坏天气》最有意思的地方，是它把情绪变成一种天气。不是你明确遇到了什么，而是整个人像被低气压罩住，于是连世界的颜色都一起沉了下去。",
-      "tier": "scaffold",
-      "flags": [
-        "missing_mvUrl",
-        "some_interpretations_weak",
-        "scaffold:自动补充的第|情绪结构样本|语句 5"
-      ],
-      "interpretationCount": 5,
-      "weakInterpretationCount": 2,
-      "uniqueInterpretationRatio": 1,
-      "bodyChars": 206,
-      "hasMvUrl": false,
-      "scaffoldHits": [
-        "自动补充的第",
-        "情绪结构样本",
-        "语句 5"
-      ]
-    },
-    {
-      "slug": "ji-mei",
-      "title": "极美",
-      "favoriteLevel": "medium",
-      "moodTags": [
-        "回望"
-      ],
-      "themeTags": [
-        "关系变化"
-      ],
-      "summary": "《极美》的解读正在整理中。",
-      "tier": "scaffold",
-      "flags": [
-        "missing_mvUrl",
-        "some_interpretations_weak",
-        "scaffold:自动补充的第|情绪结构样本|语句 5"
-      ],
-      "interpretationCount": 5,
-      "weakInterpretationCount": 2,
-      "uniqueInterpretationRatio": 1,
-      "bodyChars": 205,
-      "hasMvUrl": false,
-      "scaffoldHits": [
-        "自动补充的第",
-        "情绪结构样本",
-        "语句 5"
-      ]
-    },
-    {
-      "slug": "jie-xia-lai",
-      "title": "接下来",
-      "favoriteLevel": "medium",
-      "moodTags": [
-        "回望"
-      ],
-      "themeTags": [
-        "关系变化"
-      ],
-      "summary": "《接下来》的解读正在整理中。",
-      "tier": "scaffold",
-      "flags": [
-        "missing_mvUrl",
-        "some_interpretations_weak",
-        "scaffold:自动补充的第|情绪结构样本|语句 5"
-      ],
-      "interpretationCount": 5,
-      "weakInterpretationCount": 2,
-      "uniqueInterpretationRatio": 1,
-      "bodyChars": 206,
-      "hasMvUrl": false,
-      "scaffoldHits": [
-        "自动补充的第",
-        "情绪结构样本",
-        "语句 5"
-      ]
-    },
-    {
-      "slug": "kong-kou-yan",
-      "title": "空口言",
-      "favoriteLevel": "medium",
-      "moodTags": [
-        "回望"
-      ],
-      "themeTags": [
-        "内省",
-        "语言失效"
-      ],
-      "summary": "《空口言》最刺人的地方，是它把问题从“你说了什么”推进到“你说的话还算不算数”。一旦语言本身开始失重，关系就会变得特别冷。",
-      "tier": "scaffold",
-      "flags": [
-        "missing_mvUrl",
-        "some_interpretations_weak",
-        "scaffold:自动补充的第|情绪结构样本|语句 5"
-      ],
-      "interpretationCount": 5,
-      "weakInterpretationCount": 2,
-      "uniqueInterpretationRatio": 1,
-      "bodyChars": 206,
-      "hasMvUrl": false,
-      "scaffoldHits": [
-        "自动补充的第",
-        "情绪结构样本",
-        "语句 5"
-      ]
-    },
-    {
-      "slug": "kuai-feng-le",
-      "title": "快疯了",
-      "favoriteLevel": "medium",
-      "moodTags": [
-        "回望"
-      ],
-      "themeTags": [
-        "内省",
-        "语言失效"
-      ],
-      "summary": "《快疯了》最真实的地方，是它没有把崩溃写成一个戏剧性的瞬间，而是写成一个人还在撑、却已经快撑不下去的过程。很多人真正熟悉的，恰恰就是这种临界状态。",
-      "tier": "scaffold",
-      "flags": [
-        "missing_mvUrl",
-        "some_interpretations_weak",
-        "scaffold:自动补充的第|情绪结构样本|语句 5"
-      ],
-      "interpretationCount": 5,
-      "weakInterpretationCount": 2,
-      "uniqueInterpretationRatio": 1,
-      "bodyChars": 204,
-      "hasMvUrl": false,
-      "scaffoldHits": [
-        "自动补充的第",
-        "情绪结构样本",
-        "语句 5"
-      ]
-    },
-    {
-      "slug": "leave",
-      "title": "Leave",
-      "favoriteLevel": "medium",
-      "moodTags": [
-        "回望"
-      ],
-      "themeTags": [
-        "回看",
-        "精选"
-      ],
-      "summary": "《Leave》最难受的地方，不是离开这个动作本身，而是离开以后世界突然空了一点、安静了一点、也远了一点。它是一首很适合在余波里慢慢读的歌。",
-      "tier": "scaffold",
-      "flags": [
-        "missing_mvUrl",
-        "some_interpretations_weak",
-        "scaffold:自动补充的第|情绪结构样本|语句 5"
-      ],
-      "interpretationCount": 5,
-      "weakInterpretationCount": 2,
-      "uniqueInterpretationRatio": 1,
-      "bodyChars": 206,
-      "hasMvUrl": false,
-      "scaffoldHits": [
-        "自动补充的第",
-        "情绪结构样本",
-        "语句 5"
-      ]
-    },
-    {
-      "slug": "leave-me-alone",
-      "title": "Leave Me Alone",
-      "favoriteLevel": "medium",
-      "moodTags": [
-        "回望"
-      ],
-      "themeTags": [
-        "青春",
-        "自我表达"
-      ],
-      "summary": "《Leave Me Alone》最爽的地方，在于它不解释太多，也不试图好好说服谁，而是直接把边界立起来。它让人看到，燕姿早期作品里除了温柔，也有很利落的拒绝和很干脆的力量。",
-      "tier": "scaffold",
-      "flags": [
-        "missing_mvUrl",
-        "some_interpretations_weak",
-        "scaffold:自动补充的第|情绪结构样本|语句 5"
-      ],
-      "interpretationCount": 5,
-      "weakInterpretationCount": 2,
-      "uniqueInterpretationRatio": 1,
-      "bodyChars": 217,
-      "hasMvUrl": false,
-      "scaffoldHits": [
-        "自动补充的第",
-        "情绪结构样本",
-        "语句 5"
-      ]
-    },
-    {
-      "slug": "liao-jie",
-      "title": "了解",
-      "favoriteLevel": "medium",
-      "moodTags": [
-        "回望"
-      ],
-      "themeTags": [
-        "关系变化"
-      ],
-      "summary": "《了解》的解读正在整理中。",
-      "tier": "scaffold",
-      "flags": [
-        "missing_mvUrl",
-        "some_interpretations_weak",
-        "scaffold:自动补充的第|情绪结构样本|语句 5"
-      ],
-      "interpretationCount": 5,
-      "weakInterpretationCount": 2,
-      "uniqueInterpretationRatio": 1,
-      "bodyChars": 205,
-      "hasMvUrl": false,
-      "scaffoldHits": [
-        "自动补充的第",
-        "情绪结构样本",
-        "语句 5"
-      ]
-    },
-    {
-      "slug": "ling-que-dian",
-      "title": "零缺点",
-      "favoriteLevel": "medium",
-      "moodTags": [
-        "回望"
-      ],
-      "themeTags": [
-        "成长",
-        "勇气"
-      ],
-      "summary": "《零缺点》最适合从“理想化”去听。它未必是在说世界上真的有完美的人，而是在写一种很青春的时刻：你愿意先相信、先投射、先把对方想得特别好。",
-      "tier": "scaffold",
-      "flags": [
-        "missing_mvUrl",
-        "some_interpretations_weak",
-        "scaffold:自动补充的第|情绪结构样本|语句 5"
-      ],
-      "interpretationCount": 5,
-      "weakInterpretationCount": 2,
-      "uniqueInterpretationRatio": 1,
-      "bodyChars": 208,
-      "hasMvUrl": false,
-      "scaffoldHits": [
-        "自动补充的第",
-        "情绪结构样本",
-        "语句 5"
-      ]
-    },
-    {
-      "slug": "ling-yi-zhang-lian",
-      "title": "另一张脸",
-      "favoriteLevel": "medium",
-      "moodTags": [
-        "回望"
-      ],
-      "themeTags": [
-        "日常感",
-        "愿望"
-      ],
-      "summary": "《另一张脸》的解读正在整理中。",
-      "tier": "scaffold",
-      "flags": [
-        "missing_mvUrl",
-        "some_interpretations_weak",
-        "scaffold:自动补充的第|情绪结构样本|语句 5"
-      ],
-      "interpretationCount": 5,
-      "weakInterpretationCount": 2,
-      "uniqueInterpretationRatio": 1,
-      "bodyChars": 205,
-      "hasMvUrl": false,
-      "scaffoldHits": [
-        "自动补充的第",
-        "情绪结构样本",
-        "语句 5"
-      ]
-    },
-    {
-      "slug": "man-man-lai",
-      "title": "慢慢来",
-      "favoriteLevel": "medium",
-      "moodTags": [
-        "回望"
-      ],
-      "themeTags": [
-        "内心独白",
-        "回看"
-      ],
-      "summary": "《慢慢来》不是让人退缩，而是提醒人：不是所有事情都要靠快来证明自己。它更像在教人把节奏调回身体和心都能承受的位置上。",
-      "tier": "scaffold",
-      "flags": [
-        "missing_mvUrl",
-        "some_interpretations_weak",
-        "scaffold:自动补充的第|情绪结构样本|语句 5"
-      ],
-      "interpretationCount": 5,
-      "weakInterpretationCount": 2,
-      "uniqueInterpretationRatio": 1,
-      "bodyChars": 204,
-      "hasMvUrl": false,
-      "scaffoldHits": [
-        "自动补充的第",
-        "情绪结构样本",
-        "语句 5"
-      ]
     },
     {
       "slug": "mei-you-ren-de-fang-xiang",
@@ -1621,6 +933,30 @@
       ]
     },
     {
+      "slug": "ai-qing-de-hua-yang",
+      "title": "爱情的花样",
+      "favoriteLevel": "medium",
+      "moodTags": [
+        "轻快",
+        "清醒"
+      ],
+      "themeTags": [
+        "关系变化",
+        "都市"
+      ],
+      "summary": "《爱情的花样》像是在提醒人：别太快以为自己已经看懂爱情。真正复杂的地方，正是在于它可以有很多种样子，而人常常只经历了其中很小的一部分。",
+      "tier": "editorial",
+      "flags": [
+        "missing_mvUrl"
+      ],
+      "interpretationCount": 5,
+      "weakInterpretationCount": 0,
+      "uniqueInterpretationRatio": 1,
+      "bodyChars": 310,
+      "hasMvUrl": false,
+      "scaffoldHits": []
+    },
+    {
       "slug": "ai-qing-zheng-shu",
       "title": "爱情证书",
       "favoriteLevel": "medium",
@@ -1663,6 +999,54 @@
       "scaffoldHits": []
     },
     {
+      "slug": "an-ning",
+      "title": "安宁",
+      "favoriteLevel": "medium",
+      "moodTags": [
+        "释然",
+        "克制"
+      ],
+      "themeTags": [
+        "关系变化",
+        "内省"
+      ],
+      "summary": "《安宁》穿过夜色、刺青般的离去与哭不出的麻痹，最终落到一种意外的安静：分手完成之后，人也可以在空地里重新呼吸。",
+      "tier": "editorial",
+      "flags": [
+        "missing_mvUrl"
+      ],
+      "interpretationCount": 5,
+      "weakInterpretationCount": 0,
+      "uniqueInterpretationRatio": 1,
+      "bodyChars": 290,
+      "hasMvUrl": false,
+      "scaffoldHits": []
+    },
+    {
+      "slug": "ban-ju-zai-jian",
+      "title": "半句再见",
+      "favoriteLevel": "medium",
+      "moodTags": [
+        "挂念",
+        "遗憾"
+      ],
+      "themeTags": [
+        "关系变化",
+        "时间感"
+      ],
+      "summary": "《半句再见》写的是说不完的道别：照片与失眠里复习旧人，越想遗忘越挂牵，终以“无解”和直线画不成圆承认有些关系没有圆满句。",
+      "tier": "editorial",
+      "flags": [
+        "missing_mvUrl"
+      ],
+      "interpretationCount": 5,
+      "weakInterpretationCount": 0,
+      "uniqueInterpretationRatio": 1,
+      "bodyChars": 280,
+      "hasMvUrl": false,
+      "scaffoldHits": []
+    },
+    {
       "slug": "ben",
       "title": "奔",
       "favoriteLevel": "medium",
@@ -1685,6 +1069,54 @@
       "scaffoldHits": []
     },
     {
+      "slug": "bi-jiao-xing-fu",
+      "title": "比较幸福",
+      "favoriteLevel": "medium",
+      "moodTags": [
+        "回望",
+        "温和"
+      ],
+      "themeTags": [
+        "时间感",
+        "释然"
+      ],
+      "summary": "《比较幸福》最动人的地方，是它愿意承认幸福不一定要是满分。很多时候，能比过去更安稳一点、更松一点、更像自己一点，就已经很珍贵。",
+      "tier": "editorial",
+      "flags": [
+        "missing_mvUrl"
+      ],
+      "interpretationCount": 5,
+      "weakInterpretationCount": 0,
+      "uniqueInterpretationRatio": 1,
+      "bodyChars": 301,
+      "hasMvUrl": false,
+      "scaffoldHits": []
+    },
+    {
+      "slug": "cai-hong-jin-gang",
+      "title": "彩虹金刚",
+      "favoriteLevel": "medium",
+      "moodTags": [
+        "明亮",
+        "守护"
+      ],
+      "themeTags": [
+        "成长",
+        "陪伴"
+      ],
+      "summary": "《彩虹金刚》是明亮的守护歌：童趣通感与小巨人托举成长，终句把所爱命名为“我的彩虹金刚”——柔软光谱与不可摧的强度并存。",
+      "tier": "editorial",
+      "flags": [
+        "missing_mvUrl"
+      ],
+      "interpretationCount": 5,
+      "weakInterpretationCount": 0,
+      "uniqueInterpretationRatio": 1,
+      "bodyChars": 315,
+      "hasMvUrl": false,
+      "scaffoldHits": []
+    },
+    {
       "slug": "chao-kuai-gan",
       "title": "超快感",
       "favoriteLevel": "medium",
@@ -1703,6 +1135,144 @@
       "uniqueInterpretationRatio": 1,
       "bodyChars": 202,
       "hasMvUrl": true,
+      "scaffoldHits": []
+    },
+    {
+      "slug": "chong-yang-qi",
+      "title": "充氧期",
+      "favoriteLevel": "medium",
+      "moodTags": [
+        "倔强",
+        "昂扬"
+      ],
+      "themeTags": [
+        "韧性",
+        "自我"
+      ],
+      "summary": "《充氧期》把难挨日子写成体能课：拒伞、不抄捷径，在细胞嘶吼与爱情湍流里咬牙补氧，终以昂头拒绝快进与回头。",
+      "tier": "editorial",
+      "flags": [
+        "missing_mvUrl"
+      ],
+      "interpretationCount": 5,
+      "weakInterpretationCount": 0,
+      "uniqueInterpretationRatio": 1,
+      "bodyChars": 314,
+      "hasMvUrl": false,
+      "scaffoldHits": []
+    },
+    {
+      "slug": "cuo-jue",
+      "title": "错觉",
+      "favoriteLevel": "medium",
+      "moodTags": [
+        "回望"
+      ],
+      "themeTags": [
+        "时间感",
+        "命运感"
+      ],
+      "summary": "《错觉》最刺人的地方，不是失去，而是你后来开始怀疑：原来我一直以来理解的，可能都不是完整真相。那种认知开始松动的瞬间，往往比难过更难受。",
+      "tier": "editorial",
+      "flags": [
+        "missing_mvUrl"
+      ],
+      "interpretationCount": 5,
+      "weakInterpretationCount": 0,
+      "uniqueInterpretationRatio": 1,
+      "bodyChars": 260,
+      "hasMvUrl": false,
+      "scaffoldHits": []
+    },
+    {
+      "slug": "di-liu-gan",
+      "title": "第六感",
+      "favoriteLevel": "medium",
+      "moodTags": [
+        "回望"
+      ],
+      "themeTags": [
+        "关系变化"
+      ],
+      "summary": "《第六感》像精选期的一次肩膀放松：感情没有绝对答案时，与其把眼泪浪费在复盘，不如作好心理准备，把方向交给自己的直觉与偶然。",
+      "tier": "editorial",
+      "flags": [
+        "missing_mvUrl"
+      ],
+      "interpretationCount": 5,
+      "weakInterpretationCount": 0,
+      "uniqueInterpretationRatio": 1,
+      "bodyChars": 249,
+      "hasMvUrl": false,
+      "scaffoldHits": []
+    },
+    {
+      "slug": "di-yi-tian",
+      "title": "第一天",
+      "favoriteLevel": "medium",
+      "moodTags": [
+        "回望"
+      ],
+      "themeTags": [
+        "关系变化",
+        "克制"
+      ],
+      "summary": "《第一天》像生活重新开机时的那种轻快感。它不会用很大的词去说开始，而是让你在听的过程里慢慢觉得：今天好像真的可以重新变亮一点。",
+      "tier": "editorial",
+      "flags": [
+        "missing_mvUrl"
+      ],
+      "interpretationCount": 6,
+      "weakInterpretationCount": 0,
+      "uniqueInterpretationRatio": 1,
+      "bodyChars": 280,
+      "hasMvUrl": false,
+      "scaffoldHits": []
+    },
+    {
+      "slug": "e-lover",
+      "title": "E Lover",
+      "favoriteLevel": "medium",
+      "moodTags": [
+        "回望"
+      ],
+      "themeTags": [
+        "青春",
+        "自我表达"
+      ],
+      "summary": "《E-Lover》最值得看的，不只是它写爱情，而是它写一种已经被时代和媒介改变了的爱情。它让首张专辑除了情绪真诚，还多了一层很鲜明的现代感。",
+      "tier": "editorial",
+      "flags": [
+        "missing_mvUrl"
+      ],
+      "interpretationCount": 5,
+      "weakInterpretationCount": 0,
+      "uniqueInterpretationRatio": 1,
+      "bodyChars": 232,
+      "hasMvUrl": false,
+      "scaffoldHits": []
+    },
+    {
+      "slug": "fei-pu-er-xia",
+      "title": "飞瀑而下",
+      "favoriteLevel": "medium",
+      "moodTags": [
+        "回望"
+      ],
+      "themeTags": [
+        "近期单曲",
+        "强动态"
+      ],
+      "summary": "《飞瀑而下》最让人记住的，不是一个细小情绪，而是一整股冲下来的力量。它更像是在把某种积压已久的东西，一次性打开给你看。",
+      "tier": "editorial",
+      "flags": [
+        "missing_mvUrl"
+      ],
+      "interpretationCount": 5,
+      "weakInterpretationCount": 0,
+      "uniqueInterpretationRatio": 1,
+      "bodyChars": 236,
+      "hasMvUrl": false,
       "scaffoldHits": []
     },
     {
@@ -1748,6 +1318,29 @@
       "scaffoldHits": []
     },
     {
+      "slug": "gu-ji-gu-ji",
+      "title": "咕叽咕叽",
+      "favoriteLevel": "medium",
+      "moodTags": [
+        "回望"
+      ],
+      "themeTags": [
+        "回望",
+        "韧性"
+      ],
+      "summary": "《咕叽咕叽》最大的魅力，就是它不沉重但不空。它像一首会眨眼睛的歌，用很轻的方式把整张专辑里更活、更灵、更俏皮的一面拉出来。",
+      "tier": "editorial",
+      "flags": [
+        "missing_mvUrl"
+      ],
+      "interpretationCount": 6,
+      "weakInterpretationCount": 0,
+      "uniqueInterpretationRatio": 1,
+      "bodyChars": 262,
+      "hasMvUrl": false,
+      "scaffoldHits": []
+    },
+    {
       "slug": "hai-pa",
       "title": "害怕",
       "favoriteLevel": "medium",
@@ -1790,6 +1383,106 @@
       "scaffoldHits": []
     },
     {
+      "slug": "honey-honey",
+      "title": "Honey Honey",
+      "favoriteLevel": "medium",
+      "moodTags": [
+        "轻快",
+        "心虚"
+      ],
+      "themeTags": [
+        "日常感",
+        "距离",
+        "时间"
+      ],
+      "summary": "《Honey Honey》写忙碌恋爱的轻亏欠：好日子与喝茶的愿望清单底下，副歌其实是「对不起，我总是没时间陪你」；距离被合理化，安慰只剩「知道我在你心里」。",
+      "tier": "editorial",
+      "flags": [
+        "missing_mvUrl"
+      ],
+      "interpretationCount": 6,
+      "weakInterpretationCount": 0,
+      "uniqueInterpretationRatio": 1,
+      "bodyChars": 277,
+      "hasMvUrl": false,
+      "scaffoldHits": []
+    },
+    {
+      "slug": "huai-tian-qi",
+      "title": "坏天气",
+      "favoriteLevel": "medium",
+      "moodTags": [
+        "湿冷",
+        "僵持"
+      ],
+      "themeTags": [
+        "冷战",
+        "自尊",
+        "勇气"
+      ],
+      "summary": "《坏天气》最有意思的地方，是它把情绪变成一种天气。不是你明确遇到了什么，而是整个人像被低气压罩住，于是连世界的颜色都一起沉了下去。",
+      "tier": "editorial",
+      "flags": [
+        "missing_mvUrl"
+      ],
+      "interpretationCount": 6,
+      "weakInterpretationCount": 0,
+      "uniqueInterpretationRatio": 1,
+      "bodyChars": 283,
+      "hasMvUrl": false,
+      "scaffoldHits": []
+    },
+    {
+      "slug": "ji-mei",
+      "title": "极美",
+      "favoriteLevel": "medium",
+      "moodTags": [
+        "开阔",
+        "安住"
+      ],
+      "themeTags": [
+        "陪伴",
+        "归处",
+        "成熟"
+      ],
+      "summary": "《极美》劝人卸下逞强与空洞狂欢，把美放进伞、旧风衣与麦田相聚：灯熄也无妨，云集即欢庆。",
+      "tier": "editorial",
+      "flags": [
+        "missing_mvUrl"
+      ],
+      "interpretationCount": 6,
+      "weakInterpretationCount": 0,
+      "uniqueInterpretationRatio": 1,
+      "bodyChars": 246,
+      "hasMvUrl": false,
+      "scaffoldHits": []
+    },
+    {
+      "slug": "jie-xia-lai",
+      "title": "接下来",
+      "favoriteLevel": "medium",
+      "moodTags": [
+        "向前",
+        "致谢"
+      ],
+      "themeTags": [
+        "启程",
+        "同行",
+        "信念"
+      ],
+      "summary": "《接下来》是献给同行者的启程曲：承认靠近的遥远与偶尔的累，有好有坏也只记得起点，迎接、不后退，与你们一起飞。",
+      "tier": "editorial",
+      "flags": [
+        "missing_mvUrl"
+      ],
+      "interpretationCount": 6,
+      "weakInterpretationCount": 0,
+      "uniqueInterpretationRatio": 1,
+      "bodyChars": 279,
+      "hasMvUrl": false,
+      "scaffoldHits": []
+    },
+    {
       "slug": "kai-shi-dong-le",
       "title": "开始懂了",
       "favoriteLevel": "medium",
@@ -1808,6 +1501,173 @@
       "uniqueInterpretationRatio": 1,
       "bodyChars": 189,
       "hasMvUrl": true,
+      "scaffoldHits": []
+    },
+    {
+      "slug": "kong-kou-yan",
+      "title": "空口言",
+      "favoriteLevel": "medium",
+      "moodTags": [
+        "刺痛",
+        "抽离"
+      ],
+      "themeTags": [
+        "承诺失效",
+        "语言失重",
+        "思念"
+      ],
+      "summary": "《空口言》最刺人的地方，是它把问题从“你说了什么”推进到“你说的话还算不算数”。一旦语言本身开始失重，关系就会变得特别冷。",
+      "tier": "editorial",
+      "flags": [
+        "missing_mvUrl"
+      ],
+      "interpretationCount": 6,
+      "weakInterpretationCount": 0,
+      "uniqueInterpretationRatio": 1,
+      "bodyChars": 257,
+      "hasMvUrl": false,
+      "scaffoldHits": []
+    },
+    {
+      "slug": "kuai-feng-le",
+      "title": "快疯了",
+      "favoriteLevel": "medium",
+      "moodTags": [
+        "临界",
+        "紧绷"
+      ],
+      "themeTags": [
+        "崩溃",
+        "理解",
+        "亲密矛盾"
+      ],
+      "summary": "《快疯了》最真实的地方，是它没有把崩溃写成一个戏剧性的瞬间，而是写成一个人还在撑、却已经快撑不下去的过程。很多人真正熟悉的，恰恰就是这种临界状态。",
+      "tier": "editorial",
+      "flags": [
+        "missing_mvUrl"
+      ],
+      "interpretationCount": 6,
+      "weakInterpretationCount": 0,
+      "uniqueInterpretationRatio": 1,
+      "bodyChars": 253,
+      "hasMvUrl": false,
+      "scaffoldHits": []
+    },
+    {
+      "slug": "leave",
+      "title": "Leave",
+      "favoriteLevel": "medium",
+      "moodTags": [
+        "回望"
+      ],
+      "themeTags": [
+        "回看",
+        "精选"
+      ],
+      "summary": "《Leave》最难受的地方，不是离开这个动作本身，而是离开以后世界突然空了一点、安静了一点、也远了一点。它是一首很适合在余波里慢慢读的歌。",
+      "tier": "editorial",
+      "flags": [
+        "missing_mvUrl"
+      ],
+      "interpretationCount": 5,
+      "weakInterpretationCount": 0,
+      "uniqueInterpretationRatio": 1,
+      "bodyChars": 305,
+      "hasMvUrl": false,
+      "scaffoldHits": []
+    },
+    {
+      "slug": "leave-me-alone",
+      "title": "Leave Me Alone",
+      "favoriteLevel": "medium",
+      "moodTags": [
+        "回望"
+      ],
+      "themeTags": [
+        "青春",
+        "自我表达"
+      ],
+      "summary": "《Leave Me Alone》最爽的地方，在于它不解释太多，也不试图好好说服谁，而是直接把边界立起来。它让人看到，燕姿早期作品里除了温柔，也有很利落的拒绝和很干脆的力量。",
+      "tier": "editorial",
+      "flags": [
+        "missing_mvUrl"
+      ],
+      "interpretationCount": 5,
+      "weakInterpretationCount": 0,
+      "uniqueInterpretationRatio": 1,
+      "bodyChars": 329,
+      "hasMvUrl": false,
+      "scaffoldHits": []
+    },
+    {
+      "slug": "liao-jie",
+      "title": "了解",
+      "favoriteLevel": "medium",
+      "moodTags": [
+        "回望",
+        "克制"
+      ],
+      "themeTags": [
+        "关系变化",
+        "了解"
+      ],
+      "summary": "《了解》写的不是误会，而是太懂：两个窗口、无声电影，因为太了解所以更伤心；时间说会痊愈，人却仍无法坚定地哭完这一刀。",
+      "tier": "editorial",
+      "flags": [
+        "missing_mvUrl"
+      ],
+      "interpretationCount": 5,
+      "weakInterpretationCount": 0,
+      "uniqueInterpretationRatio": 1,
+      "bodyChars": 258,
+      "hasMvUrl": false,
+      "scaffoldHits": []
+    },
+    {
+      "slug": "ling-que-dian",
+      "title": "零缺点",
+      "favoriteLevel": "medium",
+      "moodTags": [
+        "回望"
+      ],
+      "themeTags": [
+        "成长",
+        "勇气"
+      ],
+      "summary": "《零缺点》最适合从“理想化”去听。它未必是在说世界上真的有完美的人，而是在写一种很青春的时刻：你愿意先相信、先投射、先把对方想得特别好。",
+      "tier": "editorial",
+      "flags": [
+        "missing_mvUrl"
+      ],
+      "interpretationCount": 5,
+      "weakInterpretationCount": 0,
+      "uniqueInterpretationRatio": 1,
+      "bodyChars": 276,
+      "hasMvUrl": false,
+      "scaffoldHits": []
+    },
+    {
+      "slug": "ling-yi-zhang-lian",
+      "title": "另一张脸",
+      "favoriteLevel": "medium",
+      "moodTags": [
+        "低落",
+        "内省"
+      ],
+      "themeTags": [
+        "自我",
+        "脆弱"
+      ],
+      "summary": "《另一张脸》把无来由的灰心情写成内在第二张脸：黑暗变形、自己都讨厌，却仍想像傻子一样笑着过一天。它在意志脆弱时复发，灰脸与我的脸几乎重叠。",
+      "tier": "editorial",
+      "flags": [
+        "missing_mvUrl"
+      ],
+      "interpretationCount": 5,
+      "weakInterpretationCount": 0,
+      "uniqueInterpretationRatio": 1,
+      "bodyChars": 262,
+      "hasMvUrl": false,
       "scaffoldHits": []
     },
     {
@@ -1830,6 +1690,29 @@
       "uniqueInterpretationRatio": 1,
       "bodyChars": 204,
       "hasMvUrl": true,
+      "scaffoldHits": []
+    },
+    {
+      "slug": "man-man-lai",
+      "title": "慢慢来",
+      "favoriteLevel": "medium",
+      "moodTags": [
+        "回望"
+      ],
+      "themeTags": [
+        "内心独白",
+        "回看"
+      ],
+      "summary": "《慢慢来》不是让人退缩，而是提醒人：不是所有事情都要靠快来证明自己。它更像在教人把节奏调回身体和心都能承受的位置上。",
+      "tier": "editorial",
+      "flags": [
+        "missing_mvUrl"
+      ],
+      "interpretationCount": 5,
+      "weakInterpretationCount": 0,
+      "uniqueInterpretationRatio": 1,
+      "bodyChars": 316,
+      "hasMvUrl": false,
       "scaffoldHits": []
     },
     {

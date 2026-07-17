@@ -1,13 +1,13 @@
 # DeepRead Quality Report
 
-Generated: 2026-07-17T01:09:52.218Z
+Generated: 2026-07-17T01:17:27.694Z
 
 ## Summary
 
 - deep-reads scanned: 184
-- tier scaffold: 137
+- tier scaffold: 113
 - tier passable: 13
-- tier editorial: 34
+- tier editorial: 58
 - favoriteLevel=high: 8 (editorial 8)
 
 ## Classification rules
@@ -39,30 +39,6 @@ Scaffold markers: `待补充`, `待补录`, `待补全`, `基础深读版本整�
 
 | slug | title | favorite | tier | flags |
 |------|-------|----------|------|-------|
-| ai-qing-de-hua-yang | 爱情的花样 | medium | scaffold | missing_mvUrl; some_interpretations_weak; scaffold:自动补充的第|情绪结构样本|语句 5 |
-| an-ning | 安宁 | medium | scaffold | missing_mvUrl; some_interpretations_weak; scaffold:自动补充的第|情绪结构样本|语句 5 |
-| ban-ju-zai-jian | 半句再见 | medium | scaffold | missing_mvUrl; some_interpretations_weak; scaffold:自动补充的第|情绪结构样本|语句 5 |
-| bi-jiao-xing-fu | 比较幸福 | medium | scaffold | missing_mvUrl; some_interpretations_weak; scaffold:自动补充的第|情绪结构样本|语句 5 |
-| cai-hong-jin-gang | 彩虹金刚 | medium | scaffold | missing_mvUrl; some_interpretations_weak; scaffold:自动补充的第|情绪结构样本|语句 5 |
-| chong-yang-qi | 充氧期 | medium | scaffold | missing_mvUrl; some_interpretations_weak; scaffold:自动补充的第|情绪结构样本|语句 5 |
-| cuo-jue | 错觉 | medium | scaffold | missing_mvUrl; some_interpretations_weak; scaffold:自动补充的第|情绪结构样本|语句 5 |
-| di-liu-gan | 第六感 | medium | scaffold | missing_mvUrl; some_interpretations_weak; scaffold:自动补充的第|情绪结构样本|语句 5 |
-| di-yi-tian | 第一天 | medium | scaffold | missing_mvUrl; some_interpretations_weak; scaffold:自动补充的第|情绪结构样本|语句 5 |
-| e-lover | E Lover | medium | scaffold | missing_mvUrl; some_interpretations_weak; scaffold:自动补充的第|情绪结构样本|语句 5 |
-| fei-pu-er-xia | 飞瀑而下 | medium | scaffold | missing_mvUrl; some_interpretations_weak; scaffold:自动补充的第|情绪结构样本|语句 5 |
-| gu-ji-gu-ji | 咕叽咕叽 | medium | scaffold | missing_mvUrl; some_interpretations_weak; scaffold:自动补充的第|情绪结构样本|语句 5 |
-| honey-honey | Honey Honey | medium | scaffold | missing_mvUrl; some_interpretations_weak; scaffold:自动补充的第|情绪结构样本|语句 5 |
-| huai-tian-qi | 坏天气 | medium | scaffold | missing_mvUrl; some_interpretations_weak; scaffold:自动补充的第|情绪结构样本|语句 5 |
-| ji-mei | 极美 | medium | scaffold | missing_mvUrl; some_interpretations_weak; scaffold:自动补充的第|情绪结构样本|语句 5 |
-| jie-xia-lai | 接下来 | medium | scaffold | missing_mvUrl; some_interpretations_weak; scaffold:自动补充的第|情绪结构样本|语句 5 |
-| kong-kou-yan | 空口言 | medium | scaffold | missing_mvUrl; some_interpretations_weak; scaffold:自动补充的第|情绪结构样本|语句 5 |
-| kuai-feng-le | 快疯了 | medium | scaffold | missing_mvUrl; some_interpretations_weak; scaffold:自动补充的第|情绪结构样本|语句 5 |
-| leave | Leave | medium | scaffold | missing_mvUrl; some_interpretations_weak; scaffold:自动补充的第|情绪结构样本|语句 5 |
-| leave-me-alone | Leave Me Alone | medium | scaffold | missing_mvUrl; some_interpretations_weak; scaffold:自动补充的第|情绪结构样本|语句 5 |
-| liao-jie | 了解 | medium | scaffold | missing_mvUrl; some_interpretations_weak; scaffold:自动补充的第|情绪结构样本|语句 5 |
-| ling-que-dian | 零缺点 | medium | scaffold | missing_mvUrl; some_interpretations_weak; scaffold:自动补充的第|情绪结构样本|语句 5 |
-| ling-yi-zhang-lian | 另一张脸 | medium | scaffold | missing_mvUrl; some_interpretations_weak; scaffold:自动补充的第|情绪结构样本|语句 5 |
-| man-man-lai | 慢慢来 | medium | scaffold | missing_mvUrl; some_interpretations_weak; scaffold:自动补充的第|情绪结构样本|语句 5 |
 | mei-you-ren-de-fang-xiang | 没有人的方向 | medium | scaffold | missing_mvUrl; some_interpretations_weak; scaffold:自动补充的第|情绪结构样本|语句 5 |
 | meng-you | 梦游 | medium | scaffold | missing_mvUrl; some_interpretations_weak; scaffold:自动补充的第|情绪结构样本|语句 5 |
 | nan-de-yi-jian | 难得一见 | medium | scaffold | missing_mvUrl; some_interpretations_weak; scaffold:自动补充的第|情绪结构样本|语句 5 |
@@ -79,3 +55,27 @@ Scaffold markers: `待补充`, `待补录`, `待补全`, `基础深读版本整�
 | xiang-xin | 相信 | medium | scaffold | missing_mvUrl; some_interpretations_weak; scaffold:自动补充的第|情绪结构样本|语句 5 |
 | xin-yuan | 心愿 | medium | scaffold | missing_mvUrl; some_interpretations_weak; scaffold:自动补充的第|情绪结构样本|语句 5 |
 | xiu-zhi-fu | 休止符 | medium | scaffold | missing_mvUrl; some_interpretations_weak; scaffold:自动补充的第|情绪结构样本|语句 5 |
+| yu-e | 余额 | medium | scaffold | missing_mvUrl; some_interpretations_weak; scaffold:自动补充的第|情绪结构样本|语句 5 |
+| yu-hai-shi-bu-ting-de-luo-xia | 雨还是不停地落下 | medium | scaffold | missing_mvUrl; some_interpretations_weak; scaffold:自动补充的第|情绪结构样本|语句 5 |
+| yu-tian | 雨天 | medium | scaffold | missing_mvUrl; some_interpretations_weak; scaffold:自动补充的第|情绪结构样本|语句 5 |
+| zhen-de | 真的 | medium | scaffold | missing_mvUrl; some_interpretations_weak; scaffold:自动补充的第|情绪结构样本|语句 5 |
+| zhi-lai-zhi-wang | 直来直往 | medium | scaffold | missing_mvUrl; some_interpretations_weak; scaffold:自动补充的第|情绪结构样本|语句 5 |
+| zhong | 种 | medium | scaffold | missing_mvUrl; some_interpretations_weak; scaffold:自动补充的第|情绪结构样本|语句 5 |
+| zhu-ni-kai-xin | 祝你开心 | medium | scaffold | missing_mvUrl; some_interpretations_weak; scaffold:自动补充的第|情绪结构样本|语句 5 |
+| zi-ran | 自然 | medium | scaffold | missing_mvUrl; some_interpretations_weak; scaffold:自动补充的第|情绪结构样本|语句 5 |
+| zui-hou-zhi-hou | 最后之后 | medium | scaffold | missing_mvUrl; some_interpretations_weak; scaffold:自动补充的第|情绪结构样本|语句 5 |
+| 180-du | 180度 | low | scaffold | missing_mvUrl; some_interpretations_weak; scaffold:自动补充的第|情绪结构样本|语句 5 |
+| ai-cong-ling-kai-shi | 爱从零开始 | low | scaffold | missing_mvUrl; some_interpretations_weak; scaffold:自动补充的第|情绪结构样本|语句 5 |
+| ai-qing-zheng-shu-start-concert | 爱情证书（Start演唱会） | low | scaffold | missing_mvUrl; some_interpretations_weak; scaffold:自动补充的第|情绪结构样本|语句 5 |
+| ai-qing-zi-dian-start-concert | 爱情字典（Start演唱会） | low | scaffold | missing_mvUrl; some_interpretations_weak; scaffold:自动补充的第|情绪结构样本|语句 5 |
+| bu-neng-he-ni-yi-qi | 不能和你一起 | low | scaffold | missing_mvUrl; some_interpretations_weak; scaffold:自动补充的第|情绪结构样本|语句 5 |
+| bu-shi-zhen-de-ai-wo | 不是真的爱我 | low | scaffold | missing_mvUrl; some_interpretations_weak; scaffold:自动补充的第|情绪结构样本|语句 5 |
+| bu-tong | 不同 | low | scaffold | missing_mvUrl; some_interpretations_weak; scaffold:自动补充的第|情绪结构样本|语句 5 |
+| chao-kuai-gan-start-concert | 超快感（Start演唱会） | low | scaffold | missing_mvUrl; some_interpretations_weak; scaffold:自动补充的第|情绪结构样本|语句 5 |
+| chao-ren-lei | 超人类 | low | scaffold | missing_mvUrl; some_interpretations_weak; scaffold:自动补充的第|情绪结构样本|语句 5 |
+| dang-dong-ye-jian-nuan | 当冬夜渐暖 | low | scaffold | missing_mvUrl; some_interpretations_weak; scaffold:自动补充的第|情绪结构样本|语句 5 |
+| dream-a-little-dream-of-me | Dream A Little Dream Of Me | low | scaffold | missing_mvUrl; some_interpretations_weak; scaffold:自动补充的第|情绪结构样本|语句 5 |
+| e-lover-2 | E Lover 2 | low | scaffold | missing_mvUrl; some_interpretations_weak; scaffold:自动补充的第|情绪结构样本|语句 5 |
+| lets-vino | Let's Vino | low | scaffold | missing_mvUrl; some_interpretations_weak; scaffold:自动补充的第|情绪结构样本|语句 5 |
+| lian-xi | 练习 | low | scaffold | missing_mvUrl; some_interpretations_weak; scaffold:自动补充的第|情绪结构样本|语句 5 |
+| ling-que-dian-start-concert | 零缺点（Start演唱会） | low | scaffold | missing_mvUrl; some_interpretations_weak; scaffold:自动补充的第|情绪结构样本|语句 5 |

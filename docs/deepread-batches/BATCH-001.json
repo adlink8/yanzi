@@ -1,0 +1,106 @@
+{
+  "id": "BATCH-001",
+  "number": 1,
+  "size": 6,
+  "songs": [
+    {
+      "slug": "ai-qing-de-hua-yang",
+      "title": "爱情的花样",
+      "favoriteLevel": "medium",
+      "tier": "scaffold",
+      "albumSlug": "ni-guang",
+      "moodTags": [
+        "回望"
+      ],
+      "themeTags": [
+        "回望",
+        "韧性"
+      ],
+      "summary": "《爱情的花样》像是在提醒人：别太快以为自己已经看懂爱情。真正复杂的地方，正是在于它可以有很多种样子，而人常常只经历了其中很小的一部分。",
+      "deepReadPath": "content/songs/deep-reads/ai-qing-de-hua-yang.md",
+      "rawLyricsPath": "content/songs/raw-lyrics/ai-qing-de-hua-yang.txt"
+    },
+    {
+      "slug": "an-ning",
+      "title": "安宁",
+      "favoriteLevel": "medium",
+      "tier": "scaffold",
+      "albumSlug": "ni-guang",
+      "moodTags": [
+        "回望"
+      ],
+      "themeTags": [
+        "关系变化"
+      ],
+      "summary": "《安宁》的解读正在整理中。",
+      "deepReadPath": "content/songs/deep-reads/an-ning.md",
+      "rawLyricsPath": "content/songs/raw-lyrics/an-ning.txt"
+    },
+    {
+      "slug": "ban-ju-zai-jian",
+      "title": "半句再见",
+      "favoriteLevel": "medium",
+      "tier": "scaffold",
+      "albumSlug": "official-singles-collection",
+      "moodTags": [
+        "回望"
+      ],
+      "themeTags": [
+        "关系变化"
+      ],
+      "summary": "《半句再见》的解读正在整理中。",
+      "deepReadPath": "content/songs/deep-reads/ban-ju-zai-jian.md",
+      "rawLyricsPath": "content/songs/raw-lyrics/ban-ju-zai-jian.txt"
+    },
+    {
+      "slug": "bi-jiao-xing-fu",
+      "title": "比较幸福",
+      "favoriteLevel": "medium",
+      "tier": "scaffold",
+      "albumSlug": "ke-bu-le",
+      "moodTags": [
+        "回望"
+      ],
+      "themeTags": [
+        "时间感",
+        "命运感"
+      ],
+      "summary": "《比较幸福》最动人的地方，是它愿意承认幸福不一定要是满分。很多时候，能比过去更安稳一点、更松一点、更像自己一点，就已经很珍贵。",
+      "deepReadPath": "content/songs/deep-reads/bi-jiao-xing-fu.md",
+      "rawLyricsPath": "content/songs/raw-lyrics/bi-jiao-xing-fu.txt"
+    },
+    {
+      "slug": "cai-hong-jin-gang",
+      "title": "彩虹金刚",
+      "favoriteLevel": "medium",
+      "tier": "scaffold",
+      "albumSlug": "cai-hong-jin-gang-ep",
+      "moodTags": [
+        "回望"
+      ],
+      "themeTags": [
+        "关系变化"
+      ],
+      "summary": "《彩虹金刚》的解读正在整理中。",
+      "deepReadPath": "content/songs/deep-reads/cai-hong-jin-gang.md",
+      "rawLyricsPath": "content/songs/raw-lyrics/cai-hong-jin-gang.txt"
+    },
+    {
+      "slug": "chong-yang-qi",
+      "title": "充氧期",
+      "favoriteLevel": "medium",
+      "tier": "scaffold",
+      "albumSlug": "no-13",
+      "moodTags": [
+        "回望"
+      ],
+      "themeTags": [
+        "关系变化"
+      ],
+      "summary": "《充氧期》的解读正在整理中。",
+      "deepReadPath": "content/songs/deep-reads/chong-yang-qi.md",
+      "rawLyricsPath": "content/songs/raw-lyrics/chong-yang-qi.txt"
+    }
+  ],
+  "createdAt": "2026-07-17T01:14:34.989Z"
+}

@@ -1,0 +1,109 @@
+{
+  "id": "BATCH-004",
+  "number": 4,
+  "size": 6,
+  "songs": [
+    {
+      "slug": "leave",
+      "title": "Leave",
+      "favoriteLevel": "medium",
+      "tier": "scaffold",
+      "albumSlug": "my-story",
+      "moodTags": [
+        "回望"
+      ],
+      "themeTags": [
+        "回看",
+        "精选"
+      ],
+      "summary": "《Leave》最难受的地方，不是离开这个动作本身，而是离开以后世界突然空了一点、安静了一点、也远了一点。它是一首很适合在余波里慢慢读的歌。",
+      "deepReadPath": "content/songs/deep-reads/leave.md",
+      "rawLyricsPath": "content/songs/raw-lyrics/leave.txt"
+    },
+    {
+      "slug": "leave-me-alone",
+      "title": "Leave Me Alone",
+      "favoriteLevel": "medium",
+      "tier": "scaffold",
+      "albumSlug": "yanzi",
+      "moodTags": [
+        "回望"
+      ],
+      "themeTags": [
+        "青春",
+        "自我表达"
+      ],
+      "summary": "《Leave Me Alone》最爽的地方，在于它不解释太多，也不试图好好说服谁，而是直接把边界立起来。它让人看到，燕姿早期作品里除了温柔，也有很利落的拒绝和很干脆的力量。",
+      "deepReadPath": "content/songs/deep-reads/leave-me-alone.md",
+      "rawLyricsPath": "content/songs/raw-lyrics/leave-me-alone.txt"
+    },
+    {
+      "slug": "liao-jie",
+      "title": "了解",
+      "favoriteLevel": "medium",
+      "tier": "scaffold",
+      "albumSlug": "my-story",
+      "moodTags": [
+        "回望"
+      ],
+      "themeTags": [
+        "关系变化"
+      ],
+      "summary": "《了解》的解读正在整理中。",
+      "deepReadPath": "content/songs/deep-reads/liao-jie.md",
+      "rawLyricsPath": "content/songs/raw-lyrics/liao-jie.txt"
+    },
+    {
+      "slug": "ling-que-dian",
+      "title": "零缺点",
+      "favoriteLevel": "medium",
+      "tier": "scaffold",
+      "albumSlug": "wo-yao-de-xing-fu",
+      "moodTags": [
+        "回望"
+      ],
+      "themeTags": [
+        "成长",
+        "勇气"
+      ],
+      "summary": "《零缺点》最适合从“理想化”去听。它未必是在说世界上真的有完美的人，而是在写一种很青春的时刻：你愿意先相信、先投射、先把对方想得特别好。",
+      "deepReadPath": "content/songs/deep-reads/ling-que-dian.md",
+      "rawLyricsPath": "content/songs/raw-lyrics/ling-que-dian.txt"
+    },
+    {
+      "slug": "ling-yi-zhang-lian",
+      "title": "另一张脸",
+      "favoriteLevel": "medium",
+      "tier": "scaffold",
+      "albumSlug": "wan-mei-de-yi-tian",
+      "moodTags": [
+        "回望"
+      ],
+      "themeTags": [
+        "日常感",
+        "愿望"
+      ],
+      "summary": "《另一张脸》的解读正在整理中。",
+      "deepReadPath": "content/songs/deep-reads/ling-yi-zhang-lian.md",
+      "rawLyricsPath": "content/songs/raw-lyrics/ling-yi-zhang-lian.txt"
+    },
+    {
+      "slug": "man-man-lai",
+      "title": "慢慢来",
+      "favoriteLevel": "medium",
+      "tier": "scaffold",
+      "albumSlug": "stefanie-self-titled",
+      "moodTags": [
+        "回望"
+      ],
+      "themeTags": [
+        "内心独白",
+        "回看"
+      ],
+      "summary": "《慢慢来》不是让人退缩，而是提醒人：不是所有事情都要靠快来证明自己。它更像在教人把节奏调回身体和心都能承受的位置上。",
+      "deepReadPath": "content/songs/deep-reads/man-man-lai.md",
+      "rawLyricsPath": "content/songs/raw-lyrics/man-man-lai.txt"
+    }
+  ],
+  "createdAt": "2026-07-17T01:14:34.992Z"
+}

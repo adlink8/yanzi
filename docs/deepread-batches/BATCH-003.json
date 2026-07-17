@@ -1,0 +1,108 @@
+{
+  "id": "BATCH-003",
+  "number": 3,
+  "size": 6,
+  "songs": [
+    {
+      "slug": "honey-honey",
+      "title": "Honey Honey",
+      "favoriteLevel": "medium",
+      "tier": "scaffold",
+      "albumSlug": "wan-mei-de-yi-tian",
+      "moodTags": [
+        "回望"
+      ],
+      "themeTags": [
+        "日常感",
+        "愿望"
+      ],
+      "summary": "《Honey Honey》的解读正在整理中。",
+      "deepReadPath": "content/songs/deep-reads/honey-honey.md",
+      "rawLyricsPath": "content/songs/raw-lyrics/honey-honey.txt"
+    },
+    {
+      "slug": "huai-tian-qi",
+      "title": "坏天气",
+      "favoriteLevel": "medium",
+      "tier": "scaffold",
+      "albumSlug": "wo-yao-de-xing-fu",
+      "moodTags": [
+        "回望"
+      ],
+      "themeTags": [
+        "成长",
+        "勇气"
+      ],
+      "summary": "《坏天气》最有意思的地方，是它把情绪变成一种天气。不是你明确遇到了什么，而是整个人像被低气压罩住，于是连世界的颜色都一起沉了下去。",
+      "deepReadPath": "content/songs/deep-reads/huai-tian-qi.md",
+      "rawLyricsPath": "content/songs/raw-lyrics/huai-tian-qi.txt"
+    },
+    {
+      "slug": "ji-mei",
+      "title": "极美",
+      "favoriteLevel": "medium",
+      "tier": "scaffold",
+      "albumSlug": "no-13",
+      "moodTags": [
+        "回望"
+      ],
+      "themeTags": [
+        "关系变化"
+      ],
+      "summary": "《极美》的解读正在整理中。",
+      "deepReadPath": "content/songs/deep-reads/ji-mei.md",
+      "rawLyricsPath": "content/songs/raw-lyrics/ji-mei.txt"
+    },
+    {
+      "slug": "jie-xia-lai",
+      "title": "接下来",
+      "favoriteLevel": "medium",
+      "tier": "scaffold",
+      "albumSlug": "no-13",
+      "moodTags": [
+        "回望"
+      ],
+      "themeTags": [
+        "关系变化"
+      ],
+      "summary": "《接下来》的解读正在整理中。",
+      "deepReadPath": "content/songs/deep-reads/jie-xia-lai.md",
+      "rawLyricsPath": "content/songs/raw-lyrics/jie-xia-lai.txt"
+    },
+    {
+      "slug": "kong-kou-yan",
+      "title": "空口言",
+      "favoriteLevel": "medium",
+      "tier": "scaffold",
+      "albumSlug": "shi-shi-hou",
+      "moodTags": [
+        "回望"
+      ],
+      "themeTags": [
+        "内省",
+        "语言失效"
+      ],
+      "summary": "《空口言》最刺人的地方，是它把问题从“你说了什么”推进到“你说的话还算不算数”。一旦语言本身开始失重，关系就会变得特别冷。",
+      "deepReadPath": "content/songs/deep-reads/kong-kou-yan.md",
+      "rawLyricsPath": "content/songs/raw-lyrics/kong-kou-yan.txt"
+    },
+    {
+      "slug": "kuai-feng-le",
+      "title": "快疯了",
+      "favoriteLevel": "medium",
+      "tier": "scaffold",
+      "albumSlug": "shi-shi-hou",
+      "moodTags": [
+        "回望"
+      ],
+      "themeTags": [
+        "内省",
+        "语言失效"
+      ],
+      "summary": "《快疯了》最真实的地方，是它没有把崩溃写成一个戏剧性的瞬间，而是写成一个人还在撑、却已经快撑不下去的过程。很多人真正熟悉的，恰恰就是这种临界状态。",
+      "deepReadPath": "content/songs/deep-reads/kuai-feng-le.md",
+      "rawLyricsPath": "content/songs/raw-lyrics/kuai-feng-le.txt"
+    }
+  ],
+  "createdAt": "2026-07-17T01:14:34.991Z"
+}
