@@ -17,6 +17,7 @@
     "remediate:mv": "node scripts/remediate-mv-links.mjs",
     "worklist:album": "node scripts/generate-album-reclassify-worklist.mjs",
     "audit:style": "node scripts/audit-deepread-style.mjs",
+    "report:deepread-quality": "node scripts/report-deepread-quality.mjs",
     "gate:content": "node scripts/validate-content-gate.mjs",
     "ci": "npm run typecheck && npm run lint && npm run test:ci && npm run audit:catalog && npm run gate:content"
   },

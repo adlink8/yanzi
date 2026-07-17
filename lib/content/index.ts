@@ -3,6 +3,8 @@ import path from 'node:path'
 import matter from 'gray-matter'
 import {
   humanizeSlug,
+  isScaffoldInterpretationUnit,
+  resolveRealFullLyrics,
   sanitizeMultilineText,
   sanitizeText,
   sanitizeTextArray
@@ -110,7 +112,7 @@ function parseInterpretationUnits(value: unknown): SongInterpretationUnit[] {
         return null
       }
 
-      return {
+      const unit = {
         id,
         section,
         reference,
@@ -118,6 +120,12 @@ function parseInterpretationUnits(value: unknown): SongInterpretationUnit[] {
         interpretation,
         whyItMatters: whyItMatters || undefined
       }
+
+      if (isScaffoldInterpretationUnit(unit)) {
+        return null
+      }
+
+      return unit
     })
     .filter(isSongInterpretationUnit)
 }
@@ -201,13 +209,15 @@ export async function getSongDeepRead(slug: string): Promise<SongDeepRead | null
 
     const mvUrl = typeof data.mvUrl === 'string' ? data.mvUrl.trim() : ''
     const mvTitle = sanitizeText(typeof data.mvTitle === 'string' ? data.mvTitle : '', '')
-    const fullLyricsFromFrontmatter = sanitizeMultilineText(typeof data.fullLyrics === 'string' ? data.fullLyrics : '')
+    const fullLyricsFromFrontmatter =
+      typeof data.fullLyrics === 'string' ? data.fullLyrics : undefined
+    const fullLyrics = resolveRealFullLyrics(rawLyrics, fullLyricsFromFrontmatter)
 
     return {
       content: sanitizeMultilineText(content),
       mvUrl: mvUrl || undefined,
       mvTitle: mvTitle || undefined,
-      fullLyrics: rawLyrics || fullLyricsFromFrontmatter || undefined,
+      fullLyrics,
       lyricBlocks: parseStringArray(data.lyricBlocks),
       lyricInterpretations: parseInterpretationUnits(data.lyricInterpretations),
       songDesign: parseSongDesign(data.songDesign)

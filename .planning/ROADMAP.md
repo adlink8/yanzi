@@ -11,7 +11,7 @@ Phase 1–3 为历史交付；Phase 4 目录规范化已关闭；当前进入 Ph
 - [x] **Phase 2: Core Product Pages** - 首页/歌曲/专辑/时间线主路径
 - [x] **Phase 3: Full Catalog Ingestion** - 全量索引与首轮 deep-read 覆盖
 - [x] **Phase 4: Catalog Normalization** - 归档回填与专辑映射规范化
-- [ ] **Phase 5: Deep Read Quality Upgrade** - 深读内容与元数据质量提升
+- [x] **Phase 5: Deep Read Quality Upgrade** - 深读内容与元数据质量提升（wave-1：高优先 8 首 + 歌词回退）
 - [ ] **Phase 6: Reliability Hardening** - 测试、反馈链路与构建稳定性增强
 
 ## Phase Details
@@ -33,18 +33,22 @@ Phase 1–3 为历史交付；Phase 4 目录规范化已关闭；当前进入 Ph
 - [x] 04-01: 目录一致性审计基线（脚本+报告）
 - [x] 04-02: 批次执行 + 映射收口（含 start-live 恢复与 songSlugs 同步）
 
-### Phase 5: Deep Read Quality Upgrade
+### Phase 5: Deep Read Quality Upgrade — WAVE-1 COMPLETE
 **Goal**: 提升 deep-read 与歌词/标签一致性，使歌曲页内容可长期维护  
 **Depends on**: Phase 4  
-**Requirements**: META-02, META-03, READ-01, READ-02, READ-03  
+**Requirements**: META-02 (partial), META-03 (partial), READ-01 (high-fav), READ-02 (partial), READ-03  
+**Completed (wave-1)**: 2026-07-17
+
 **Success Criteria:**
-1. 用户打开重点歌曲时可看到结构化段落解读，不再只有粗粒度/模板说明
-2. 缺失或占位歌词案例可在歌曲页展示真实歌词
-3. deep-read 字段（MV、songDesign、interpretations）在页面可稳定渲染
+1. ✓ 高优先（favorite=high）8 首为 editorial 结构化解读
+2. ~ 占位歌词不再伪完整展示；`shang-bu-liao` 真实歌词仍待补录
+3. ✓ 字段可渲染；假 MV 已清理；多数曲仍缺 verified MV
 
 **Plans:**
-- [ ] 05-01: deep-read 结构化精修与标签一致性校准
-- [ ] 05-02: 歌词回退链路与缺失项修复
+- [x] 05-01: deep-read 结构化精修与标签一致性校准
+- [x] 05-02: 歌词回退链路与缺失项修复
+
+**Follow-up (optional batch-2):** 中优先级 scaffold 分批精修、MV 补链、真实歌词补录
 
 ### Phase 6: Reliability Hardening
 **Goal**: 内容工程最小可靠性防线  
@@ -67,5 +71,5 @@ Phase 1–3 为历史交付；Phase 4 目录规范化已关闭；当前进入 Ph
 | 2. Core Product Pages | historical | Complete | 2026-04-09 |
 | 3. Full Catalog Ingestion | historical | Complete | 2026-04-09 |
 | 4. Catalog Normalization | 2/2 | Complete | 2026-07-17 |
-| 5. Deep Read Quality Upgrade | 0/2 | Not started | - |
-| 6. Reliability Hardening | 0/2 | Not started | - |
+| 5. Deep Read Quality Upgrade | 2/2 | Complete (wave-1) | 2026-07-17 |
+| 6. Reliability Hardening | 0/2 | Partial (CI on branch) | - |

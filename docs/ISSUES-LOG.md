@@ -75,11 +75,18 @@
 - Song:
   - `shang-bu-liao`
 - File:
-  - `content/songs/raw-lyrics/shang-bu-liao.txt` exists but body is still a `[待补录]` placeholder
-- Impact:
-  - song page can load a file, but users do not see real lyrics
+  - `content/songs/raw-lyrics/shang-bu-liao.txt` remains an explicit `[待补录]` placeholder (no verified full lyrics in-repo; do not invent)
+- Deep-read:
+  - scaffold units (`开场句` / `中段句` / `自动补充`) removed from `content/songs/deep-reads/shang-bu-liao.md`
+- Impact (historical):
+  - raw-lyrics file existed so loaders treated it as “has lyrics” and UI could claim completeness with meta text / fake interpretation units
+- Mitigation (Phase 5 Plan 02 / META-03 / READ-03):
+  - `resolveRealFullLyrics` + `isLyricsPlaceholderDocument` refuse placeholder raw/frontmatter lyrics
+  - scaffold interpretation units filtered in `parseInterpretationUnits`
+  - song page shows muted「歌词待补录」when deep-read exists but no real lyrics
 - Status:
-  - open（Phase 5 / META-03）
+  - **partially closed** — fake completeness fixed; real lyrics still pending manual UTF-8补录
+  - remaining open item: replace `shang-bu-liao.txt` placeholder with verified full lyrics only
 
 ## Technical Root Cause Summary
 

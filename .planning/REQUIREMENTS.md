@@ -23,14 +23,14 @@
 ### Content Quality
 
 - [x] **META-01**: 所有专辑条目具备可读摘要与代表曲列表
-- [ ] **META-02**: 歌曲 `summary`、`moodTags`、`themeTags` 与 deep-read 内容语义一致
-- [ ] **META-03**: 关键缺失/占位歌词案例（如 `shang-bu-liao`）被补齐并可在歌曲页显示真实歌词
+- [~] **META-02**: 歌曲 `summary`、`moodTags`、`themeTags` 与 deep-read 内容语义一致（high-favorite batch done）
+- [~] **META-03**: 关键缺失/占位歌词案例（如 `shang-bu-liao`）— 伪完整已消除，真实歌词仍待补
 
 ### Deep Read Enrichment
 
-- [ ] **READ-01**: 高优先歌曲 deep-read 包含结构化段落解读（`lyricInterpretations`）
-- [ ] **READ-02**: deep-read 文件的 MV 信息、整体解读、歌曲设计分析字段完整可渲染
-- [ ] **READ-03**: 歌曲详情页在无 frontmatter 歌词时可稳定回退 `raw-lyrics/*.txt`
+- [x] **READ-01**: 高优先歌曲 deep-read 包含结构化段落解读（8/8 high favorites editorial）
+- [~] **READ-02**: deep-read 字段可渲染；verified MV 仅部分曲目具备
+- [x] **READ-03**: 歌曲详情页 raw-lyrics 回退正确；占位不展示为完整歌词
 
 ### Reliability & QA
 
@@ -63,19 +63,20 @@
 | CATA-02 | Phase 4 | Done |
 | CATA-03 | Phase 4 | Done |
 | META-01 | Phase 4 | Done |
-| META-02 | Phase 5 | Pending |
-| META-03 | Phase 5 | Pending |
-| READ-01 | Phase 5 | Pending |
-| READ-02 | Phase 5 | Pending |
-| READ-03 | Phase 5 | Pending |
-| QA-01 | Phase 6 | Pending |
+| META-02 | Phase 5 | Partial (high-fav) |
+| META-03 | Phase 5 | Partial (no fake full lyrics) |
+| READ-01 | Phase 5 | Done (high-fav) |
+| READ-02 | Phase 5 | Partial |
+| READ-03 | Phase 5 | Done |
+| QA-01 | Phase 6 | Partial (CI tests on branch) |
 | QA-02 | Phase 6 | Pending |
 | QA-03 | Phase 6 | Pending |
 
 **Coverage:**
 - v1 requirements: 12 total
-- Done: 4 (CATA-01..03, META-01)
-- Open: 8 (Phase 5–6)
+- Done: 6 (CATA-01..03, META-01, READ-01, READ-03)
+- Partial: META-02, META-03, READ-02, QA-01
+- Open: QA-02, QA-03
 
 ---
 *Requirements updated: 2026-07-17 after Phase 4 catalog closeout*
