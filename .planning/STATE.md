@@ -2,73 +2,60 @@
 
 ## Project Reference
 
-See: .planning/PROJECT.md (updated 2026-04-10)
+See: .planning/PROJECT.md (updated 2026-07-17)
 
 **Core value:** 用户可以稳定地按歌曲、专辑、时间线访问完整内容，并得到可读、可信的深度解读。
-**Current focus:** Phase 4 - Catalog Normalization
+**Current focus:** Phase 6 — Reliability / MV 补链 / 真歌词补录（深读全库 editorial 已完成）
 
 ## Current Position
 
-Phase: 4 of 6 (Catalog Normalization)
-Plan: 2 of 2 in current phase
-Status: In progress
-Last activity: 2026-04-10 — simultaneous remaining bucket handling completed (16 remaps)
+Phase: 6 of 6 (Reliability Hardening) — ready to plan/execute  
+Phase 5 status: **COMPLETE** (catalog-wide editorial + depth upgrade)
 
-Progress: [██████████] 100%
+| Metric (2026-07-17) | Value |
+|---------------------|-------|
+| Deep-reads scanned | 184 |
+| tier=editorial | **184** |
+| tier=scaffold | **0** |
+| tier=passable | **0** |
+| high-favorite editorial | 8/8 |
+| body≥280 & interp≥5 (depth bar) | **184** (post depth waves) |
+| missing verified mvUrl | ~179 |
+
+Last activity: 2026-07-17 — full-catalog editorial batches + depth-upgrade waves; docs sync
+
+Progress: Phase 5 [██████████] 100% · Phase 6 [██░░░░░░░░] partial (CI/tests already on branch)
 
 ## Performance Metrics
 
-**Velocity:**
-- Total plans completed: 1 (under current GSD tracking)
-- Average duration: ~30 min
-- Total execution time: ~0.5 hours
-
-**By Phase:**
-
-| Phase | Plans | Total | Avg/Plan |
-|-------|-------|-------|----------|
-| 4 | 1 (+04-02 in progress) | ~30min | ~30min |
-| 5 | 0 | - | - |
-| 6 | 0 | - | - |
-
-**Recent Trend:**
-- Last 5 plans: 04-01 completed, 04-02 in progress
-- Trend: Stable
+| Phase | Plans | Status |
+|-------|-------|--------|
+| 1–3 | historical | Complete |
+| 4 | 2/2 | Complete |
+| 5 | 2/2 + catalog batches | Complete |
+| 6 | 0/2 formal | Partial (Vitest 52 + GitHub Actions CI on `chore/ci-and-full-tests`) |
 
 ## Accumulated Context
 
 ### Decisions
 
-Decisions are logged in PROJECT.md Key Decisions table.
-Recent decisions affecting current work:
-
-- [Consolidation]: 旧计划作为历史里程碑保留，当前执行从 Phase 4 开始
-- [Execution]: 先审计后修复，避免无基线的批量改数据
-- [Batching]: 85 首 archive 歌曲按 67/13/5 三批执行，避免一次性大改
-- [Subagent]: Batch 03 先做可证明映射（canonical 非 archive）以低风险推进
-
-### Pending Todos
-
-None yet.
+- Quality tiers: `scaffold` \| `passable` \| `editorial` via `npm run report:deepread-quality`
+- Per-song editorial pipeline: `docs/DEEPREAD-EDITORIAL-SPEC.md` + `prepare:deepread-batches` / `prepare:deepread-depth` + subagent batches
+- Never invent MV URLs or unverified full lyrics
+- Placeholder lyrics must not surface as complete lyrics on song pages
+- AI: OpenAI-compatible **cloud-first** (Ollama optional only)
 
 ### Blockers/Concerns
 
-- `docs/ISSUES-LOG.md` 中 `shang-bu-liao` 缺失歌词问题仍为 open（当前为占位文本）
-- `archiveAlbumAssignments = 0` 仍待逐批回填（已从 85 降到 0）
-- `mvMissing = 180` 仍待逐歌补链
+- Most songs still missing **verified** `mvUrl` (~179)
+- `shang-bu-liao` real lyrics still pending human supply (honest deep-read without fake full lyrics)
+- Edge AI still without deep-read body context (architecture debt)
+- Phase 6 formal smoke/E2E not yet planned as GSD plans
 
 ## Session Continuity
 
-Last session: 2026-04-10 19:25
-Stopped at: archive mappings complete (all archive buckets cleared), ready to move to next quality phase
-Resume file: docs/ALBUM-RECLASSIFY-BATCH-01-MAINLINE.md
-
-
-
-
-
-
-
-
-
-
+Last session: 2026-07-17  
+Branch: `chore/ci-and-full-tests` (PR #4)  
+Stopped at: docs sync after full editorial + depth upgrade  
+Next: Phase 6 plan, MV remediation, or merge PR  
+Resume: `.planning/ROADMAP.md`, `docs/DEEPREAD-QUALITY-REPORT.md`, `docs/DEEPREAD-EDITORIAL-SPEC.md`

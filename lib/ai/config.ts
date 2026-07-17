@@ -6,6 +6,7 @@ export type AiConfig = {
   provider: 'openai' | 'ollama' | 'custom'
 }
 
+// Cloud-first defaults. Local Ollama is optional via env override only.
 const DEFAULT_BASE_URL = 'https://api.openai.com/v1'
 const DEFAULT_MODEL = 'gpt-4o-mini'
 
@@ -18,13 +19,20 @@ export function getAiConfig(): AiConfig {
   const apiKey = process.env.OPENAI_API_KEY?.trim() || ''
   const model = process.env.OPENAI_MODEL?.trim() || DEFAULT_MODEL
 
-  const isOllama = baseUrl.includes('127.0.0.1') || baseUrl.includes('localhost')
+  // Heuristic only — used for logging/labels, not for enabling AI.
+  const isLocalEndpoint =
+    baseUrl.includes('127.0.0.1') || baseUrl.includes('localhost')
 
   return {
     baseUrl: trimTrailingSlash(baseUrl),
     apiKey,
     model,
-    enabled: Boolean(apiKey), // Only enabled if API key is provided
-    provider: isOllama ? 'ollama' : (baseUrl === DEFAULT_BASE_URL ? 'openai' : 'custom')
+    // Require explicit API key; cloud providers always need one.
+    enabled: Boolean(apiKey),
+    provider: isLocalEndpoint
+      ? 'ollama'
+      : baseUrl === DEFAULT_BASE_URL
+        ? 'openai'
+        : 'custom'
   }
 }

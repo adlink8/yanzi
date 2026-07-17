@@ -2,7 +2,7 @@
 slug: dream-a-little-dream-of-me
 title: Dream A Little Dream Of Me
 status: ready
-updatedAt: '2026-04-08'
+updatedAt: '2026-07-17'
 lyricBlocks:
   - |-
     Stars shining bright above you
@@ -13,6 +13,7 @@ lyricBlocks:
     鸟儿在悬铃木上尽情歌唱
     Dream a little dream of me
     希望你的梦中有我
+  - |-
     对我说晚安 然后亲吻我
     Just hold me tight
     紧紧拥我入怀
@@ -22,14 +23,14 @@ lyricBlocks:
     当我孤独忧伤的时候
     Dream a little dream of me
     希望你的梦中有我
+  - |-
     Stars fading but I linger on dear
     群星渐渐暗淡 但是亲爱的 我还在徘徊
     Still craving your kiss
     仍然渴望你的亲吻
     I'm longing to linger till dawn dear
     渴望我能留在你身边 直到黎明到来 亲爱的
-    Just saying this
-    我只是为了对你说这些
+  - |-
     Sweet dreams till sunbeams find you
     做个美梦 直到阳光出现
     Sweet dreams that leave all worries far behind you
@@ -38,69 +39,73 @@ lyricBlocks:
     但是 无论你梦见什么
     Dream a little dream of me
     希望你的梦中有我
-    Stars fading but I linger on dear
-    群星渐渐暗淡 但是亲爱的 我还在徘徊
-    Still craving your kiss
-    仍然渴望你的亲吻
-    I'm longing to linger till dawn dear
-    渴望我能留在你身边 直到黎明到来 亲爱的
-    Just saying this
-    我只是为了对你说这些
-    Sweet dreams till sunbeams find you
-    做个美梦 直到阳光出现
-    Sweet dreams that leave all worries far behind you
-    美梦能让你抛去一切烦恼
-    But in your dreams whatever they be
-    但是 无论你梦见什么
-    Dream a little dream of me
-    希望你的梦中有我
-    希
 lyricInterpretations:
-  - id: unit-01
-    section: 开场锚点
-    reference: 开场第一组歌词把语气先定住
-    lyricText: Stars shining bright above you
-    interpretation: 这一句的价值在于“先立气质”。它不急着解释全部故事，而是先把 孤独 的底色摆出来，让听者立刻进入这首歌的情绪空间。
-    whyItMatters: 它决定了这首歌的第一印象和情绪方向。
-  - id: unit-02
-    section: 中段推进
-    reference: 中段开始把情绪和关系并行推进
-    lyricText: 希望你的梦中有我
-    interpretation: 到这一段时，歌曲开始把 想念 的层次推出来。你会听到情绪不是单向上升，而是边靠近边犹疑，这种拉扯让中段特别耐听。
-    whyItMatters: 它让歌曲从“有感觉”进入“有层次”。
-  - id: unit-03
-    section: 转折时刻
-    reference: 转折句让内在冲突变得更清楚
-    lyricText: Stars fading but I linger on dear
-    interpretation: 这一句像转轴，把前面的铺垫和后面的收束接起来。它不是爆发式宣告，而是让内心判断变得更具体，所以转折感会非常清晰。
-    whyItMatters: 它是整首歌叙事与情绪的关键连接点。
-  - id: unit-04
-    section: 收束余味
-    reference: 结尾把情绪落在留白和回响里
-    lyricText: 希
-    interpretation: 结尾这句的处理方式很克制：不把情绪讲满，而是留一点空白。也因为有这层留白，整首歌听完之后的余味会更长。
-    whyItMatters: 它决定听者最终记住的是哪一种情绪。
-  - id: auto-5
-    section: 自动补充段 5
-    reference: 《Dream A Little Dream Of Me》 第 5 段
-    lyricText: 《Dream A Little Dream Of Me》 语句 5
-    interpretation: 这是《Dream A Little Dream Of Me》自动补充的第 5 段解读，主要呼应整体主题。
-    whyItMatters: 这段让《Dream A Little Dream Of Me》的情绪继续向前，是理解整首歌的补白。
+  - id: part-01
+    section: 夜的邀请
+    reference: 标准曲开场
+    lyricText: Stars shining bright above you / Night breezes seem to whisper I love you
+    interpretation: >-
+      经典开场用星光与夜风布置温柔场景：爱意甚至不用人说出口，夜风似乎已经代为呢喃。
+      燕姿版本保留英文主词，中文旁行像字幕式低语，听感介于翻唱与双语私语之间。
+      悬铃木上的鸟鸣把画面定在具体的树下，而不是抽象「浪漫夜晚」。
+    whyItMatters: 建立全曲「轻声请求」的语气：不是占有，而是把我放进你的夜。
+  - id: part-02
+    section: 小小的请求
+    reference: 标题句
+    lyricText: Dream a little dream of me / 希望你的梦中有我
+    interpretation: >-
+      标题句的关键是 little：只要一点点的梦，不是整晚独占。请求小，反而显得情意真且克制。
+      中英对照把同一愿望说两遍，像怕英文太轻、中文太直，两边一起托住。
+      在燕姿诠释里，这句常被唱得偏柔、偏近，像靠在耳边而不是舞台中央。
+    whyItMatters: 定义本曲的感情尺度：小请求、大柔软，而不是戏剧性告白。
+  - id: part-03
+    section: 孤独的条件句
+    reference: 拥抱与想念
+    lyricText: Just hold me tight / While I'm alone and blue as can be
+    interpretation: >-
+      身体要求很具体：抱紧、说你会想我；条件是「当我孤独忧伤到极点」。
+      歌承认分离与 blue 的状态，请求发生在脆弱时刻，而不是蜜月巅峰。
+      「对我说晚安然后亲吻我」把仪式感写进日常睡前，像一对异地或即将分开的人的固定程序。
+    whyItMatters: 让「入梦」不只是诗意，而是对抗 alone and blue 的具体安慰。
+  - id: part-04
+    section: 星沉仍徘徊
+    reference: 中段渴望
+    lyricText: Stars fading but I linger on dear / Still craving your kiss
+    interpretation: >-
+      星光渐暗，人却还在场：linger、craving、longing to linger till dawn——动词全是停留与渴望。
+      夜越深，请求越黏。相对开场的轻盈风景，这里更肉身、更舍不得。
+      「Just saying this」像怕说重了，连表白都要轻描淡写地递过去。
+    whyItMatters: 情绪从布置场景推进到难以离开的依恋，层次才有起伏。
+  - id: part-05
+    section: 无论梦见什么
+    reference: 祝福式收束
+    lyricText: Sweet dreams that leave all worries far behind you / But in your dreams whatever they be
+    interpretation: >-
+      先送出无条件祝福：美梦带走烦恼，直到阳光找到你；再补一句「无论你梦见什么」——
+      允许对方的梦自由，只要其中有一点点我。占有欲被自觉收住，留下尊重与残留的愿望并置。
+      这是老歌能翻唱百年的原因之一：爱意表达完，仍把对方的内在空间还回去。
+    whyItMatters: 收束把请求放进祝福框架，避免变成缠人的命令。
 songDesign:
-  summary: 这首歌的设计重点是把 孤独 与 想念 通过“铺垫-推进-转折-收束”连成完整体验，结构清楚，情绪后劲明显。
+  summary: >-
+    燕姿版《Dream A Little Dream Of Me》以星光、夜风、悬铃木布置温柔夜景，用 little dream 提出克制请求；
+    中段在星沉后仍 linger、crave kiss；收束先祝对方无忧入梦，再轻声希望梦里有我。中英叠唱增强私语感。
   structure:
-    - 前段先给出核心语气，建立情绪入口。
-    - 中段扩大信息密度，推动情绪纵深。
-    - 后段通过转折与留白完成收束。
+    - 开场自然意象 + 标题请求，中英并行。
+    - 睡前仪式：晚安、亲吻、抱紧、说想我。
+    - 星光褪去后的停留与渴望，情绪更黏。
+    - Sweet dreams 祝福后，以 whatever they be 保留对方自由，再回到 dream of me。
   emotionCurve:
-    - 开头偏克制，先建立氛围。
-    - 中段逐步抬高，形成内在拉扯。
-    - 结尾回落但不断电，保留余味。
+    - 轻柔布置：星、风、鸟。
+    - 亲昵请求：抱紧与想念。
+    - 夜深依恋：星沉仍徘徊。
+    - 祝福式放手中带着残留愿望。
   craftNotes:
-    - 关键词与意象反复出现，帮助情绪聚焦。
-    - 转折句承担结构功能，不只是字面意义变化。
-    - 结尾不强行解释，提升回听价值。
+    - 标准爵士／流行老歌骨架，燕姿处理偏清亮柔软，少烟嗓沧桑。
+    - 中文译词与英文原词并置，适合华语听众进入，也保留原曲音节。
+    - 作为单曲／精选收录的翻唱，解读重点在诠释气质，而非原创叙事。
 ---
-《Dream A Little Dream Of Me》最值得反复听的地方，在于它没有用夸张的叙事去推动情绪，而是把 孤独 和 想念 放在同一条线里慢慢展开。听感上会先被一句很具体的画面抓住，再被更深一层的情绪拉进去，最后落到一种“说得不重但后劲很强”的状态。
+《Dream A Little Dream Of Me》在燕姿歌单里像一封用星光写的睡前短信。Stars shining bright、夜风呢喃 I love you、悬铃木上的鸟——先把夜布置好，再轻轻说：Dream a little dream of me。little 是关键：只要一点点梦，不是要你整晚只梦我。
 
-把这首歌放进整站的作品脉络看，它更像一个“情绪结构样本”：前段先定语气，中段把关系或自我拉扯推高，尾段不急着给答案，而是留出回味空间。这种克制但清楚的写法，也正是很多歌会让人想要回听的原因。
+中段请求变得更身体：说晚安、亲吻、抱紧、告诉我你会想我；条件句是 while I'm alone and blue as can be——安慰发生在最蓝的时候。群星暗淡后仍 linger on，仍 craving your kiss，想留到 dawn：风景淡了，人的舍不得反而清楚。
+
+收尾先送 Sweet dreams，让烦恼远走，直到阳光找到你；又补上「无论你梦见什么」——允许对方的梦自由，只希望其中有我。占有欲被收住，祝福与愿望并置。作为翻唱标准曲，它不靠复杂叙事取胜，而靠燕姿把「小声请求」唱得足够近：像在枕边，而不是在广场。

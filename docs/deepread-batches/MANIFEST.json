@@ -1,0 +1,117 @@
+{
+  "generatedAt": "2026-07-17T01:40:11.749Z",
+  "mode": "depth_upgrade",
+  "filters": {
+    "size": 6,
+    "limit": 48,
+    "bodyMax": 280,
+    "interpMax": 4
+  },
+  "totalCandidates": 47,
+  "batchCount": 8,
+  "batches": [
+    {
+      "id": "BATCH-001",
+      "number": 1,
+      "size": 6,
+      "slugs": [
+        "shi-shi-hou",
+        "tian-hei-hei",
+        "e-lover",
+        "fei-pu-er-xia",
+        "ji-mei",
+        "shen-qi"
+      ]
+    },
+    {
+      "id": "BATCH-002",
+      "number": 2,
+      "size": 6,
+      "slugs": [
+        "di-liu-gan",
+        "kuai-feng-le",
+        "kong-kou-yan",
+        "liao-jie",
+        "shi-jie-zhong-jie-qian-yi-tian",
+        "cuo-jue"
+      ]
+    },
+    {
+      "id": "BATCH-003",
+      "number": 3,
+      "size": 6,
+      "slugs": [
+        "gu-ji-gu-ji",
+        "ling-yi-zhang-lian",
+        "nan-de-yi-jian",
+        "tao-wang",
+        "sui-tang-ce-yan",
+        "shou-hu-yong-heng-de-ai"
+      ]
+    },
+    {
+      "id": "BATCH-004",
+      "number": 4,
+      "size": 6,
+      "slugs": [
+        "yu-e",
+        "ling-que-dian",
+        "honey-honey",
+        "jie-xia-lai",
+        "fan-guo-lai-zou-zou",
+        "he-ping"
+      ]
+    },
+    {
+      "id": "BATCH-005",
+      "number": 5,
+      "size": 6,
+      "slugs": [
+        "yan-shen",
+        "tian-kong",
+        "wei-rao",
+        "xu-yao-ni",
+        "up2u",
+        "ai-cong-ling-kai-shi"
+      ]
+    },
+    {
+      "id": "BATCH-006",
+      "number": 6,
+      "size": 6,
+      "slugs": [
+        "tian-yue-liang-ye-yue-hei-2",
+        "wei-zhi-de-jing-cai-2",
+        "hai-pa-start-concert",
+        "ai-qing-zheng-shu-start-concert",
+        "tian-yue-liang-ye-yue-hei",
+        "xue-hui"
+      ]
+    },
+    {
+      "id": "BATCH-007",
+      "number": 7,
+      "size": 6,
+      "slugs": [
+        "ni-ming-wan-sui",
+        "xuan-wo",
+        "liu-lang-di-tu",
+        "ta-men-de-ge",
+        "ting-jian",
+        "ke"
+      ]
+    },
+    {
+      "id": "BATCH-008",
+      "number": 8,
+      "size": 5,
+      "slugs": [
+        "wei-wan-cheng",
+        "wen-rou-mayday-blue-20th",
+        "lei-zhui",
+        "wo-hen-wo-ai-ni",
+        "yong-yuan"
+      ]
+    }
+  ]
+}

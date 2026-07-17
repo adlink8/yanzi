@@ -2,7 +2,7 @@
 slug: venus-start-concert
 title: Venus Start Concert
 status: ready
-updatedAt: '2026-04-08'
+updatedAt: '2026-07-17'
 lyricBlocks:
   - |-
     Goddess on the mountain top
@@ -38,50 +38,50 @@ lyricBlocks:
     At your desire
 lyricInterpretations:
   - id: unit-01
-    section: 开场锚点
-    reference: 开场第一组歌词把语气先定住
+    section: 开场登神
+    reference: 演唱会语境下的山巅第一句
     lyricText: Goddess on the mountain top
-    interpretation: 这一句的价值在于“先立气质”。它不急着解释全部故事，而是先把 情绪推进 的底色摆出来，让听者立刻进入这首歌的情绪空间。
-    whyItMatters: 它决定了这首歌的第一印象和情绪方向。
+    interpretation: 在 Start 演唱会序列里，这句更像灯光切亮后的亮相词。studio 造像靠双语文本慢慢立住；live 则靠一声与气势，一个 mountain top 就把场地尺度抬高——听众不是翻歌词本，而是被按进仰视席。
+    whyItMatters: 明确本轨是“现场亮相曲”而非私密情歌。
   - id: unit-02
-    section: 中段推进
-    reference: 中段开始把情绪和关系并行推进
-    lyricText: I'm your fire
-    interpretation: 到这一段时，歌曲开始把 关系表达 的层次推出来。你会听到情绪不是单向上升，而是边靠近边犹疑，这种拉扯让中段特别耐听。
-    whyItMatters: 它让歌曲从“有感觉”进入“有层次”。
+    section: 银焰与命名
+    reference: 火焰意象接专名
+    lyricText: Burning like a silver flame And Venus was her name
+    interpretation: silver flame 在现场更容易被灯色与编曲高光托住；name 一出，全场完成角色对齐。live 版歌词更干净地停在英文，少了旁白层，神话句子直接变成可喊的咒语。
+    whyItMatters: 用最短路径完成“她是谁”的现场共识。
   - id: unit-03
-    section: 转折时刻
-    reference: 转折句让内在冲突变得更清楚
-    lyricText: I'm your Venus
-    interpretation: 这一句像转轴，把前面的铺垫和后面的收束接起来。它不是爆发式宣告，而是让内心判断变得更具体，所以转折感会非常清晰。
-    whyItMatters: 它是整首歌叙事与情绪的关键连接点。
+    section: 全场对唱钩
+    reference: she's got it 的起哄结构
+    lyricText: She's got it Yeah baby she's got it
+    interpretation: 这两句在演唱会里几乎是为互动预留的空隙：主唱抛出，和声或观众接 baby。功能从录音室的“盖章”升级为“带操”——魅力判决变成集体起哄，热度靠重复堆叠而不是语义推进。
+    whyItMatters: 解释 live 为何更吵、更欢、更适合开场或气氛位。
   - id: unit-04
-    section: 收束余味
-    reference: 结尾把情绪落在留白和回响里
-    lyricText: At your desire
-    interpretation: 结尾这句的处理方式很克制：不把情绪讲满，而是留一点空白。也因为有这层留白，整首歌听完之后的余味会更长。
-    whyItMatters: 它决定听者最终记住的是哪一种情绪。
-  - id: auto-5
-    section: 自动补充段 5
-    reference: 《Venus Start Concert》 第 5 段
-    lyricText: 《Venus Start Concert》 语句 5
-    interpretation: 这是《Venus Start Concert》自动补充的第 5 段解读，主要呼应整体主题。
-    whyItMatters: 这段让《Venus Start Concert》的情绪继续向前，是理解整首歌的补白。
+    section: 欲望契约
+    reference: Venus／Fire／Desire 三联
+    lyricText: I'm your Venus I'm your fire At your desire
+    interpretation: 现场连唱时，三联句像聚光灯三连切：身份、能量、邀请。your 把万人场拉回“我与你”的假性私密，这是流行演唱会经典技法——大空间里制造被点名的幻觉。燕姿的清亮声线在 fire 上特别容易打穿乐队墙。
+    whyItMatters: 本轨情绪峰值通常落在这组循环，而非叙事桥段。
+  - id: unit-05
+    section: 武器化眉眼
+    reference: crystal eyes 的中段刺点
+    lyricText: Her weapons were her crystal eyes Making every man a man
+    interpretation: 中段在 live 里往往是喘口气仍保持攻击性的段落：weapons 把媚力武器化，making every man a man 带着复古摇滚的夸张性别修辞。它提醒听众：Venus 不只是可爱，还有征服语法——与 Start 时期舞台上的锐利形象同频。
+    whyItMatters: 给欢快副歌保留锋利齿感，避免整轨只剩口号蹦迪。
 songDesign:
-  summary: 这首歌的设计重点是把 情绪推进 与 关系表达 通过“铺垫-推进-转折-收束”连成完整体验，结构清楚，情绪后劲明显。
+  summary: Start 演唱会现场轨：英文原词直给、少文本旁白，强调亮相、起哄与三联副歌的循环热度；功能偏气氛与角色展示，而非录音室双语造像。
   structure:
-    - 前段先给出核心语气，建立情绪入口。
-    - 中段扩大信息密度，推动情绪纵深。
-    - 后段通过转折与留白完成收束。
+    - 开场神话短句快速立人，服务舞台第一印象。
+    - she's got it 与 I'm your Venus 形成可互动的双钩子。
+    - crystal eyes 中段穿插后再度副歌轰炸，典型 live 起落。
   emotionCurve:
-    - 开头偏克制，先建立氛围。
-    - 中段逐步抬高，形成内在拉扯。
-    - 结尾回落但不断电，保留余味。
+    - 仰视亮相：山巅女神进场。
+    - 集体起哄：she's got it 加热。
+    - 欲望认领：Venus／fire／desire 循环封顶。
   craftNotes:
-    - 关键词与意象反复出现，帮助情绪聚焦。
-    - 转折句承担结构功能，不只是字面意义变化。
-    - 结尾不强行解释，提升回听价值。
+    - 与 studio《Venus》同词核，差异主要在媒介：现场混响、观众层、英文单语更利喊唱。
+    - 收录于 start-live 脉络，适合作为理解早期演唱会“外语嗨曲”位的样本。
+    - 勿编造不存在的官方 MV；本轨价值在现场文献与听感对照。
 ---
-《Venus Start Concert》最值得反复听的地方，在于它没有用夸张的叙事去推动情绪，而是把 情绪推进 和 关系表达 放在同一条线里慢慢展开。听感上会先被一句很具体的画面抓住，再被更深一层的情绪拉进去，最后落到一种“说得不重但后劲很强”的状态。
+《Venus Start Concert》是同一套 Venus 神话的现场用法。歌词仍从 goddess on the mountain top 起手，仍用 silver flame 与专名完成亮相，但少了录音室双语旁白，句子更适合直接喊出口。she's got it 在这里不只是盖章，更像带观众一起起哄的空隙；I'm your Venus / I'm your fire / At your desire 则把万人场切成“被你点名”的幻觉三联。
 
-把这首歌放进整站的作品脉络看，它更像一个“情绪结构样本”：前段先定语气，中段把关系或自我拉扯推高，尾段不急着给答案，而是留出回味空间。这种克制但清楚的写法，也正是很多歌会让人想要回听的原因。
+中段 crystal eyes 当武器，让嗨曲仍保留一点征服语法，而不是全程甜蜜。把它和 studio《Venus》并听，最清楚的差别是功能：一版像完整造像与文本对照，这一版像 Start 舞台上的角色开关与热度泵。没有必要给它额外编故事——它的意义就在现场文献：燕姿如何用一条经典外语副歌，迅速点燃场地并站稳女神位。

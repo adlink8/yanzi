@@ -1,0 +1,136 @@
+{
+  "id": "BATCH-006",
+  "number": 6,
+  "size": 6,
+  "mode": "depth_upgrade",
+  "songs": [
+    {
+      "slug": "tian-yue-liang-ye-yue-hei-2",
+      "title": "天越亮，夜越黑（版本二）",
+      "favoriteLevel": "low",
+      "tier": "editorial",
+      "bodyChars": 261,
+      "interpretationCount": 5,
+      "albumSlug": "official-singles-collection",
+      "moodTags": [
+        "执着",
+        "紧绷"
+      ],
+      "themeTags": [
+        "明暗对照",
+        "逆境前行",
+        "自我提问"
+      ],
+      "summary": "《天越亮，夜越黑（版本二）》把亮与黑写成同一种驱动力：越亮越执着，越黑越绝对；脆弱仍在，却蠢蠢欲追。",
+      "deepReadPath": "content/songs/deep-reads/tian-yue-liang-ye-yue-hei-2.md",
+      "rawLyricsPath": "content/songs/raw-lyrics/tian-yue-liang-ye-yue-hei-2.txt",
+      "goal": "depth_upgrade"
+    },
+    {
+      "slug": "wei-zhi-de-jing-cai-2",
+      "title": "未知的精采（版本二）",
+      "favoriteLevel": "low",
+      "tier": "editorial",
+      "bodyChars": 262,
+      "interpretationCount": 5,
+      "albumSlug": "stefanie-self-titled",
+      "moodTags": [
+        "自信",
+        "开朗"
+      ],
+      "themeTags": [
+        "自我主宰",
+        "未知"
+      ],
+      "summary": "版本二以动脉直觉当路牌：未知未来不要谁来编排，期待如色彩可涂改，多姿多彩由自己主宰。",
+      "deepReadPath": "content/songs/deep-reads/wei-zhi-de-jing-cai-2.md",
+      "rawLyricsPath": "content/songs/raw-lyrics/wei-zhi-de-jing-cai-2.txt",
+      "goal": "depth_upgrade"
+    },
+    {
+      "slug": "hai-pa-start-concert",
+      "title": "害怕（Start演唱会）",
+      "favoriteLevel": "low",
+      "tier": "editorial",
+      "bodyChars": 264,
+      "interpretationCount": 5,
+      "albumSlug": "start-live",
+      "moodTags": [
+        "不安",
+        "克制"
+      ],
+      "themeTags": [
+        "分离",
+        "勇气"
+      ],
+      "summary": "Start 现场《害怕》：忘想对仗与双怕副歌，承认在乎后的恐惧，仍选择走下去。",
+      "deepReadPath": "content/songs/deep-reads/hai-pa-start-concert.md",
+      "rawLyricsPath": "content/songs/raw-lyrics/hai-pa-start-concert.txt",
+      "goal": "depth_upgrade"
+    },
+    {
+      "slug": "ai-qing-zheng-shu-start-concert",
+      "title": "爱情证书（Start演唱会）",
+      "favoriteLevel": "low",
+      "tier": "editorial",
+      "bodyChars": 265,
+      "interpretationCount": 5,
+      "albumSlug": "start-live",
+      "moodTags": [
+        "回望"
+      ],
+      "themeTags": [
+        "关系变化"
+      ],
+      "summary": "Start 版《爱情证书》把异地寂寞与距离考卷唱成可合唱的成人契约：一点点辛苦换一点点幸福，终点是一张证明从此不孤独的证书。",
+      "deepReadPath": "content/songs/deep-reads/ai-qing-zheng-shu-start-concert.md",
+      "rawLyricsPath": "content/songs/raw-lyrics/ai-qing-zheng-shu-start-concert.txt",
+      "goal": "depth_upgrade"
+    },
+    {
+      "slug": "tian-yue-liang-ye-yue-hei",
+      "title": "天越亮，夜越黑",
+      "favoriteLevel": "low",
+      "tier": "editorial",
+      "bodyChars": 266,
+      "interpretationCount": 5,
+      "albumSlug": "official-singles-collection",
+      "moodTags": [
+        "执着",
+        "昂扬"
+      ],
+      "themeTags": [
+        "成长",
+        "意志",
+        "明暗"
+      ],
+      "summary": "明暗交替里写意志：天越亮执着越强，夜越黑坚定更绝对；脆弱与不安仍要蠢蠢欲追。",
+      "deepReadPath": "content/songs/deep-reads/tian-yue-liang-ye-yue-hei.md",
+      "rawLyricsPath": "content/songs/raw-lyrics/tian-yue-liang-ye-yue-hei.txt",
+      "goal": "depth_upgrade"
+    },
+    {
+      "slug": "xue-hui",
+      "title": "学会",
+      "favoriteLevel": "low",
+      "tier": "editorial",
+      "bodyChars": 268,
+      "interpretationCount": 5,
+      "albumSlug": "official-singles-collection",
+      "moodTags": [
+        "成长",
+        "释然"
+      ],
+      "themeTags": [
+        "离别",
+        "学习",
+        "向前"
+      ],
+      "summary": "从流泪、怕黑到离别后悔谅解：爱过才学会，逆着风起飞，让自己成为每个起点。",
+      "deepReadPath": "content/songs/deep-reads/xue-hui.md",
+      "rawLyricsPath": "content/songs/raw-lyrics/xue-hui.txt",
+      "goal": "depth_upgrade"
+    }
+  ],
+  "createdAt": "2026-07-17T01:40:11.747Z"
+}

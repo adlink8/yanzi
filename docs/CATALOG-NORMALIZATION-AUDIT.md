@@ -1,11 +1,11 @@
 # Catalog Normalization Audit
 
-Generated: 2026-04-10T06:43:47.130Z
+Generated: 2026-07-17T01:03:33.549Z
 
 ## Totals
 
 - Songs: 184
-- Albums: 29
+- Albums: 17
 - Unique song slugs: 184
 
 ## Summary
@@ -15,7 +15,7 @@ Generated: 2026-04-10T06:43:47.130Z
 - duplicateSongSlug: 0
 - missingDeepRead: 0
 - missingRawLyrics: 0
-- unusedAlbums: 5
+- unusedAlbums: 0
 
 ## missingAlbumSlug
 
@@ -39,8 +39,4 @@ Generated: 2026-04-10T06:43:47.130Z
 
 ## unusedAlbums
 
-- leave
-- start
-- archive-live-start-concert
-- archive-alternate-versions
-- archive-english-cover-candidates
+- none

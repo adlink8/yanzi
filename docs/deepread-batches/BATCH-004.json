@@ -1,0 +1,136 @@
+{
+  "id": "BATCH-004",
+  "number": 4,
+  "size": 6,
+  "mode": "depth_upgrade",
+  "songs": [
+    {
+      "slug": "yu-e",
+      "title": "余额",
+      "favoriteLevel": "medium",
+      "tier": "editorial",
+      "bodyChars": 274,
+      "interpretationCount": 5,
+      "albumSlug": "official-singles-collection",
+      "moodTags": [
+        "克制",
+        "余韵"
+      ],
+      "themeTags": [
+        "关系变化",
+        "耗尽"
+      ],
+      "summary": "《余额》把爱写成会花光的额度：亲吻曾让人变强，只是爱没余额了。城里的缝隙房间里，人卸下行李，连“多久没想你”都不敢说出口。",
+      "deepReadPath": "content/songs/deep-reads/yu-e.md",
+      "rawLyricsPath": "content/songs/raw-lyrics/yu-e.txt",
+      "goal": "depth_upgrade"
+    },
+    {
+      "slug": "ling-que-dian",
+      "title": "零缺点",
+      "favoriteLevel": "medium",
+      "tier": "editorial",
+      "bodyChars": 276,
+      "interpretationCount": 5,
+      "albumSlug": "wo-yao-de-xing-fu",
+      "moodTags": [
+        "回望"
+      ],
+      "themeTags": [
+        "成长",
+        "勇气"
+      ],
+      "summary": "《零缺点》最适合从“理想化”去听。它未必是在说世界上真的有完美的人，而是在写一种很青春的时刻：你愿意先相信、先投射、先把对方想得特别好。",
+      "deepReadPath": "content/songs/deep-reads/ling-que-dian.md",
+      "rawLyricsPath": "content/songs/raw-lyrics/ling-que-dian.txt",
+      "goal": "depth_upgrade"
+    },
+    {
+      "slug": "honey-honey",
+      "title": "Honey Honey",
+      "favoriteLevel": "medium",
+      "tier": "editorial",
+      "bodyChars": 277,
+      "interpretationCount": 6,
+      "albumSlug": "wan-mei-de-yi-tian",
+      "moodTags": [
+        "轻快",
+        "心虚"
+      ],
+      "themeTags": [
+        "日常感",
+        "距离",
+        "时间"
+      ],
+      "summary": "《Honey Honey》写忙碌恋爱的轻亏欠：好日子与喝茶的愿望清单底下，副歌其实是「对不起，我总是没时间陪你」；距离被合理化，安慰只剩「知道我在你心里」。",
+      "deepReadPath": "content/songs/deep-reads/honey-honey.md",
+      "rawLyricsPath": "content/songs/raw-lyrics/honey-honey.txt",
+      "goal": "depth_upgrade"
+    },
+    {
+      "slug": "jie-xia-lai",
+      "title": "接下来",
+      "favoriteLevel": "medium",
+      "tier": "editorial",
+      "bodyChars": 279,
+      "interpretationCount": 6,
+      "albumSlug": "no-13",
+      "moodTags": [
+        "向前",
+        "致谢"
+      ],
+      "themeTags": [
+        "启程",
+        "同行",
+        "信念"
+      ],
+      "summary": "《接下来》是献给同行者的启程曲：承认靠近的遥远与偶尔的累，有好有坏也只记得起点，迎接、不后退，与你们一起飞。",
+      "deepReadPath": "content/songs/deep-reads/jie-xia-lai.md",
+      "rawLyricsPath": "content/songs/raw-lyrics/jie-xia-lai.txt",
+      "goal": "depth_upgrade"
+    },
+    {
+      "slug": "fan-guo-lai-zou-zou",
+      "title": "反过来走走",
+      "favoriteLevel": "low",
+      "tier": "editorial",
+      "bodyChars": 226,
+      "interpretationCount": 5,
+      "albumSlug": "stefanie-self-titled",
+      "moodTags": [
+        "松绑",
+        "自嘲"
+      ],
+      "themeTags": [
+        "自救",
+        "关系疏离"
+      ],
+      "summary": "放自己一天假换一口纯氧，换左手重练生活；反过来走走不握紧而放松，散场鼓掌谢谢 bye bye。",
+      "deepReadPath": "content/songs/deep-reads/fan-guo-lai-zou-zou.md",
+      "rawLyricsPath": "content/songs/raw-lyrics/fan-guo-lai-zou-zou.txt",
+      "goal": "depth_upgrade"
+    },
+    {
+      "slug": "he-ping",
+      "title": "和平",
+      "favoriteLevel": "low",
+      "tier": "editorial",
+      "bodyChars": 244,
+      "interpretationCount": 5,
+      "albumSlug": "yanzi",
+      "moodTags": [
+        "温和",
+        "坚定"
+      ],
+      "themeTags": [
+        "和解",
+        "信任"
+      ],
+      "summary": "在兵慌马乱里固执地要求和平对待你：微笑是信号，相信是重启。",
+      "deepReadPath": "content/songs/deep-reads/he-ping.md",
+      "rawLyricsPath": "content/songs/raw-lyrics/he-ping.txt",
+      "goal": "depth_upgrade"
+    }
+  ],
+  "createdAt": "2026-07-17T01:40:11.745Z"
+}

@@ -1,0 +1,134 @@
+{
+  "id": "BATCH-002",
+  "number": 2,
+  "size": 6,
+  "mode": "depth_upgrade",
+  "songs": [
+    {
+      "slug": "di-liu-gan",
+      "title": "第六感",
+      "favoriteLevel": "medium",
+      "tier": "editorial",
+      "bodyChars": 249,
+      "interpretationCount": 5,
+      "albumSlug": "my-story",
+      "moodTags": [
+        "回望"
+      ],
+      "themeTags": [
+        "关系变化"
+      ],
+      "summary": "《第六感》像精选期的一次肩膀放松：感情没有绝对答案时，与其把眼泪浪费在复盘，不如作好心理准备，把方向交给自己的直觉与偶然。",
+      "deepReadPath": "content/songs/deep-reads/di-liu-gan.md",
+      "rawLyricsPath": "content/songs/raw-lyrics/di-liu-gan.txt",
+      "goal": "depth_upgrade"
+    },
+    {
+      "slug": "kuai-feng-le",
+      "title": "快疯了",
+      "favoriteLevel": "medium",
+      "tier": "editorial",
+      "bodyChars": 253,
+      "interpretationCount": 6,
+      "albumSlug": "shi-shi-hou",
+      "moodTags": [
+        "临界",
+        "紧绷"
+      ],
+      "themeTags": [
+        "崩溃",
+        "理解",
+        "亲密矛盾"
+      ],
+      "summary": "《快疯了》最真实的地方，是它没有把崩溃写成一个戏剧性的瞬间，而是写成一个人还在撑、却已经快撑不下去的过程。很多人真正熟悉的，恰恰就是这种临界状态。",
+      "deepReadPath": "content/songs/deep-reads/kuai-feng-le.md",
+      "rawLyricsPath": "content/songs/raw-lyrics/kuai-feng-le.txt",
+      "goal": "depth_upgrade"
+    },
+    {
+      "slug": "kong-kou-yan",
+      "title": "空口言",
+      "favoriteLevel": "medium",
+      "tier": "editorial",
+      "bodyChars": 257,
+      "interpretationCount": 6,
+      "albumSlug": "shi-shi-hou",
+      "moodTags": [
+        "刺痛",
+        "抽离"
+      ],
+      "themeTags": [
+        "承诺失效",
+        "语言失重",
+        "思念"
+      ],
+      "summary": "《空口言》最刺人的地方，是它把问题从“你说了什么”推进到“你说的话还算不算数”。一旦语言本身开始失重，关系就会变得特别冷。",
+      "deepReadPath": "content/songs/deep-reads/kong-kou-yan.md",
+      "rawLyricsPath": "content/songs/raw-lyrics/kong-kou-yan.txt",
+      "goal": "depth_upgrade"
+    },
+    {
+      "slug": "liao-jie",
+      "title": "了解",
+      "favoriteLevel": "medium",
+      "tier": "editorial",
+      "bodyChars": 258,
+      "interpretationCount": 5,
+      "albumSlug": "my-story",
+      "moodTags": [
+        "回望",
+        "克制"
+      ],
+      "themeTags": [
+        "关系变化",
+        "了解"
+      ],
+      "summary": "《了解》写的不是误会，而是太懂：两个窗口、无声电影，因为太了解所以更伤心；时间说会痊愈，人却仍无法坚定地哭完这一刀。",
+      "deepReadPath": "content/songs/deep-reads/liao-jie.md",
+      "rawLyricsPath": "content/songs/raw-lyrics/liao-jie.txt",
+      "goal": "depth_upgrade"
+    },
+    {
+      "slug": "shi-jie-zhong-jie-qian-yi-tian",
+      "title": "世界终结前一天",
+      "favoriteLevel": "medium",
+      "tier": "editorial",
+      "bodyChars": 259,
+      "interpretationCount": 5,
+      "albumSlug": "official-singles-collection",
+      "moodTags": [
+        "决绝",
+        "温柔"
+      ],
+      "themeTags": [
+        "相守",
+        "时间"
+      ],
+      "summary": "《世界终结前一天》把关系放进倒计时：预言与余晖将熄时，仍选择“未来来不及也承载到底”，最后收在十指扣紧。",
+      "deepReadPath": "content/songs/deep-reads/shi-jie-zhong-jie-qian-yi-tian.md",
+      "rawLyricsPath": "content/songs/raw-lyrics/shi-jie-zhong-jie-qian-yi-tian.txt",
+      "goal": "depth_upgrade"
+    },
+    {
+      "slug": "cuo-jue",
+      "title": "错觉",
+      "favoriteLevel": "medium",
+      "tier": "editorial",
+      "bodyChars": 260,
+      "interpretationCount": 5,
+      "albumSlug": "ke-bu-le",
+      "moodTags": [
+        "回望"
+      ],
+      "themeTags": [
+        "时间感",
+        "命运感"
+      ],
+      "summary": "《错觉》最刺人的地方，不是失去，而是你后来开始怀疑：原来我一直以来理解的，可能都不是完整真相。那种认知开始松动的瞬间，往往比难过更难受。",
+      "deepReadPath": "content/songs/deep-reads/cuo-jue.md",
+      "rawLyricsPath": "content/songs/raw-lyrics/cuo-jue.txt",
+      "goal": "depth_upgrade"
+    }
+  ],
+  "createdAt": "2026-07-17T01:40:11.743Z"
+}

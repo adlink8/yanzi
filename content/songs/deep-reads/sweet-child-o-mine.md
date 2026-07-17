@@ -2,55 +2,57 @@
 slug: sweet-child-o-mine
 title: Sweet Child O' Mine
 status: ready
-updatedAt: '2026-04-08'
+updatedAt: '2026-07-17'
 lyricBlocks:
   - She&#x27;s got a smile that it seems to me
 lyricInterpretations:
-  - id: opening-frame
-    section: 开场设定
-    reference: She's got a smile that it seems to me
-    lyricText: She's got a smile that it seems to me
-    interpretation: 开场先把这首歌的核心气质立住：记忆触发与纯真想象。这首版本更像对经典情绪核的凝缩：纯真、眷恋与轻微不安。
-    whyItMatters: 开场是否立得住，决定听众后面会把它当作情绪记录，还是当作可反复进入的作品。
-  - id: middle-shift
-    section: 中段推进
-    reference: Of a warm safe place
-    lyricText: Of a warm safe place
-    interpretation: 到中段时，表达重心开始从“描述状态”转向“处理状态”。以明亮意象开场，随后让情绪慢慢转向脆弱。
-    whyItMatters: 这一段通常是全歌的结构转轴，会把听感从单一情绪推进到更复杂的心理层次。
-  - id: turning-point
-    section: 转折点
-    reference: Sweet love of mine
-    lyricText: Sweet love of mine
-    interpretation: 这一句附近的写法不靠大起大落，而是通过语气、重复或意象变化把立场慢慢推出来，因而更耐听。
-    whyItMatters: 它让歌曲不只停在“我有情绪”，而是进一步走到“我怎么理解这段经历”。
-  - id: ending-aftertaste
-    section: 收束余味
-    reference: Yeah
-    lyricText: Yeah
-    interpretation: 尾段的处理很关键：结尾保留在“mine”的占有感与不确定之间。
-    whyItMatters: 好的收束不会把答案说死，而是留一个可回听、可反刍的情绪空间。
-  - id: auto-5
-    section: 自动补充段 5
-    reference: 《Sweet Child O' Mine》 第 5 段
-    lyricText: 《Sweet Child O' Mine》 语句 5
-    interpretation: 这是《Sweet Child O' Mine》自动补充的第 5 段解读，主要呼应整体主题。
-    whyItMatters: 这段让《Sweet Child O' Mine》的情绪继续向前，是理解整首歌的补白。
+  - id: unit-01
+    section: 微笑入口
+    reference: 全曲仅存开场的可核验片段
+    lyricText: got a smile that it seems to me
+    interpretation: 现有歌词文本只稳定保留开场微笑句中的这一截：她有一个在我看来……的微笑。Guns N' Roses 原曲以标志性吉他 riff 著名，燕姿版若弱化重金属骨架，微笑就更容易成为情绪入口——不是摇滚英雄叙事，而是把视线落在一张脸上。it seems to me 带着主观限定：这是「我以为」的美，已埋下回忆滤镜。
+    whyItMatters: 在残缺歌词条件下仍锚定原曲的第一人称凝视起点。
+  - id: unit-02
+    section: 主观限定
+    reference: seems to me 的不确定
+    lyricText: that it seems to me
+    interpretation: seems 比 is 软弱、也更诚实：美是被感知建构的。翻唱者若用偏柔的声线处理，这半句会像自言自语，而不是体育场式呐喊。站内把此曲放在单曲／活动脉络时，这句主观性正好解释「为何同一张笑也能触发童年式安全想象」——答案在观者心里，不在微笑本身。
+    whyItMatters: 标出本曲核心机制：记忆投射，而非客观肖像。
+  - id: unit-03
+    section: 微笑作为钩子
+    reference: smile 的功能
+    lyricText: got a smile
+    interpretation: got a smile 完成人物出场：不写名字、不写故事，只给一个表情零件。对英文翻唱听众，这是立刻可识别的经典钩子；对华语听众，则像一扇门——门后原曲还有童年蓝天、泪点与 where do we go，但本库 raw 文本未展开。解读因此必须诚实：我们能深读的，是「凝视如何开始」，不是全剧情复述。
+    whyItMatters: 承认文本残缺，同时说明残句仍足以启动经典互文。
+  - id: unit-04
+    section: 微笑与观者
+    reference: smile … seems 的链路
+    lyricText: a smile that it seems
+    interpretation: smile 与 seems 连成一条感知链：先有表情，再有「在我看来」。甜是关系性的，不是物品属性。燕姿作为女性声线重唱这段凝视，还额外叠一层转译可能：原曲男声的迷恋，现场可被唱成旁观、祝福或自我投射，取决于编排，而不是固定人设。
+    whyItMatters: 把残句读成关系几何，而不是空喊歌名。
+  - id: unit-05
+    section: 翻唱位置
+    reference: 开场片段即边界
+    lyricText: smile that it seems to me
+    interpretation: 当可核验歌词几乎停在开场，深读重心应移到「燕姿英文摇滚／经典翻唱」这条线：与 Hey Jude、Silent All These Years 等并列时，Sweet Child 代表的是更阳光、更 riff 记忆向的一端。smile 句像样本标签——提醒听众去对照完整演出或原曲，而不是假装站内已有全词剧本。
+    whyItMatters: 为残缺数据给出版本学结论：此条是入口标签，细读需补全源。
 songDesign:
-  summary: 这首歌可理解为“记忆触发与纯真想象”的结构化表达。它通过前段定调、中段推进、后段收束，把单点感受扩展成完整听感路径。
+  summary: 站内《Sweet Child O' Mine》歌词文本几近只留开场微笑句：以 got a smile / seems to me 启动主观凝视；深读聚焦记忆投射与英文经典翻唱位置，不强行虚构后段词。
   structure:
-    - 开头用核心意象或口气快速定调，先把角色位置讲清楚。
-    - 中段引入关系变化或心理位移，让叙述从静态走向动态。
-    - 后段通过重复句或结论句回收主题，并保留回响空间。
+    - 唯一稳固锚点：开场 smile / seems to me 片段。
+    - 语义拆解：smile 出场、seems 主观、感知链。
+    - 互文提示：原曲后段童年／泪点／where do we go 不在本 raw 中展开。
+    - 作品线位置：英文翻唱里的阳光 riff 记忆端。
   emotionCurve:
-    - 前段：先建立识别度，情绪相对集中。
-    - 中段：进入拉扯或扩张，张力上升。
-    - 尾段：不做过度宣泄，落在更稳定但更有后劲的状态。
+    - 识别：经典开场微笑。
+    - 主观：it seems to me。
+    - 克制：承认文本残缺。
+    - 开放：指向完整原曲与现场。
   craftNotes:
-    - 主题关键词可概括为：记忆触发与纯真想象。
-    - 写法上重视句式重复与语气变化，而不是堆砌复杂修辞。
-    - 与《天黑黑》类似，价值不在“说多重”，而在“说得准、留得住”。
+    - raw-lyrics 仅一行且含实体编码，解读禁止编造未入库歌词行；锚点避开 HTML 实体差异。
+    - 与 sweet-child-o-mine-2 区分条目时，以本 slug 的文本边界为准，不混写。
+    - 价值在互文与声线转译，不在伪完整剧情。
 ---
-Sweet Child O' Mine 在站内作品线里很适合作为“记忆触发与纯真想象”样本来听。它的可贵之处不是情绪有多夸张，而是能把看似分散的经验收拢成一个清晰的内部逻辑：先承认处境，再辨认关系，最后给出一个可继续生活下去的姿态。
+《Sweet Child O' Mine》在站内目前几乎是一张「开场标签」：可核验的歌词文本稳定停在那句微笑相关的开场片段。原曲靠标志吉他 riff 与童年式安全想象走红，燕姿版本若出现在单曲／活动脉络，听众记住的往往是那句微笑——温柔、主观、带一点 seems 的不确定，而不是重金属英雄史。
 
-如果把它和《天黑黑》放在同一条线上看，会发现两者都不靠戏剧性转折取胜，而是通过细节推进把听众带进更深的心理现场。前者更偏记忆触发与纯真想象，后者更偏成长回望，但共同点是都把“情绪”写成“过程”，这也是它值得反复回听的原因。
+因此本条深读选择诚实：不伪造后段 childhood memories、where do we go 等未入 raw 的句子，而把多个解读单元都钉在这一句的不同切面——微笑作为人物出场、seems 作为记忆滤镜、感知链作为观看关系、以及它在燕姿英文翻唱谱系里偏阳光的位置。对想听完整叙事的人，应回到完整现场或原曲；对站内目录而言，这首歌的意义是标出一条经典互文入口：同一把声音，也可以从一张「在我看来」的笑开始，把摇滚情歌唱成偏柔的凝视。

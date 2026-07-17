@@ -29,6 +29,9 @@ export default async function SongDetailPage({ params }: { params: Promise<{ slu
   const hasOverview = Boolean(deepRead?.content) && !isPlaceholderLikeText(deepRead?.content)
   const hasLineByLine = Boolean(deepRead?.lyricInterpretations?.length) && deepRead!.lyricInterpretations.some((item) => !isPlaceholderLikeText(item.interpretation))
   const hasDesign = Boolean(deepRead?.songDesign) && !isPlaceholderLikeText(deepRead?.songDesign?.summary)
+  const hasFullLyrics = Boolean(deepRead?.fullLyrics) && !isPlaceholderLikeText(deepRead?.fullLyrics)
+  const hasLyricBlocks = Boolean(deepRead?.lyricBlocks?.length)
+  const lyricsPending = Boolean(deepRead) && !hasFullLyrics && !hasLyricBlocks
 
   return (
     <div className="space-y-6" data-era={song.era}>
@@ -74,20 +77,22 @@ export default async function SongDetailPage({ params }: { params: Promise<{ slu
           <h3 className="font-serif text-xl font-semibold">完整歌词</h3>
           <p className="mt-1 text-sm text-muted">这里支持完整歌词录入与折叠展示。</p>
         </div>
-        {deepRead?.fullLyrics ? (
+        {hasFullLyrics ? (
           <details className="rounded-2xl border border-line p-4">
             <summary className="cursor-pointer list-none text-base font-medium">展开完整歌词</summary>
-            <div className="mt-4 whitespace-pre-wrap text-sm leading-7 text-muted">{deepRead.fullLyrics}</div>
+            <div className="mt-4 whitespace-pre-wrap text-sm leading-7 text-muted">{deepRead?.fullLyrics}</div>
           </details>
-        ) : deepRead?.lyricBlocks?.length ? (
+        ) : hasLyricBlocks ? (
           <details className="rounded-2xl border border-line p-4">
             <summary className="cursor-pointer list-none text-base font-medium">展开分段歌词</summary>
             <div className="mt-4 space-y-4 text-sm leading-7 text-muted">
-              {deepRead.lyricBlocks.map((block, index) => (
+              {deepRead?.lyricBlocks.map((block, index) => (
                 <div key={index} className="whitespace-pre-wrap rounded-xl border border-line bg-paper p-3">{block}</div>
               ))}
             </div>
           </details>
+        ) : lyricsPending ? (
+          <p className="text-sm text-muted">歌词待补录</p>
         ) : (
           <p className="text-sm text-muted">你还没有录入这首歌的完整歌词。</p>
         )}

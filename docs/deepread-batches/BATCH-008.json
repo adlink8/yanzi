@@ -1,0 +1,116 @@
+{
+  "id": "BATCH-008",
+  "number": 8,
+  "size": 5,
+  "mode": "depth_upgrade",
+  "songs": [
+    {
+      "slug": "wei-wan-cheng",
+      "title": "未完成",
+      "favoriteLevel": "low",
+      "tier": "editorial",
+      "bodyChars": 277,
+      "interpretationCount": 5,
+      "albumSlug": "wei-wan-cheng",
+      "moodTags": [
+        "成长中",
+        "轻松"
+      ],
+      "themeTags": [
+        "成长",
+        "未完成"
+      ],
+      "summary": "绕路与拐弯说话里被迫长大：未完成的我一出场就要表现，却把未完成改写成永远做不完的期待。",
+      "deepReadPath": "content/songs/deep-reads/wei-wan-cheng.md",
+      "rawLyricsPath": "content/songs/raw-lyrics/wei-wan-cheng.txt",
+      "goal": "depth_upgrade"
+    },
+    {
+      "slug": "wen-rou-mayday-blue-20th",
+      "title": "温柔（五月天 BLUE 20th）",
+      "favoriteLevel": "low",
+      "tier": "editorial",
+      "bodyChars": 277,
+      "interpretationCount": 5,
+      "albumSlug": "official-singles-collection",
+      "moodTags": [
+        "温柔",
+        "心酸"
+      ],
+      "themeTags": [
+        "放手",
+        "成全"
+      ],
+      "summary": "五月天《温柔》关联版本：气候式温柔反衬变心，“不打扰是我的温柔”，想靠近却孤单到黎明，终以让你自由收束。",
+      "deepReadPath": "content/songs/deep-reads/wen-rou-mayday-blue-20th.md",
+      "rawLyricsPath": "content/songs/raw-lyrics/wen-rou-mayday-blue-20th.txt",
+      "goal": "depth_upgrade"
+    },
+    {
+      "slug": "lei-zhui",
+      "title": "泪坠",
+      "favoriteLevel": "low",
+      "tier": "editorial",
+      "bodyChars": 278,
+      "interpretationCount": 5,
+      "albumSlug": "wo-yao-de-xing-fu",
+      "moodTags": [
+        "决绝",
+        "酸楚",
+        "清醒"
+      ],
+      "themeTags": [
+        "止损",
+        "分手",
+        "自尊"
+      ],
+      "summary": "止损式分手：不再将错就错，痛恨予取予求的挥霍，宁可知难而退，也不当谁花心的累赘。",
+      "deepReadPath": "content/songs/deep-reads/lei-zhui.md",
+      "rawLyricsPath": "content/songs/raw-lyrics/lei-zhui.txt",
+      "goal": "depth_upgrade"
+    },
+    {
+      "slug": "wo-hen-wo-ai-ni",
+      "title": "我恨我爱你",
+      "favoriteLevel": "low",
+      "tier": "editorial",
+      "bodyChars": 278,
+      "interpretationCount": 5,
+      "albumSlug": "official-singles-collection",
+      "moodTags": [
+        "决裂",
+        "拉扯"
+      ],
+      "themeTags": [
+        "爱恨交织",
+        "分手"
+      ],
+      "summary": "分手后的爱恨同框：微笑离场与一点小伤的淡化之后，副歌把恨与爱焊死，终被“我爱你”一句打穿。",
+      "deepReadPath": "content/songs/deep-reads/wo-hen-wo-ai-ni.md",
+      "rawLyricsPath": "content/songs/raw-lyrics/wo-hen-wo-ai-ni.txt",
+      "goal": "depth_upgrade"
+    },
+    {
+      "slug": "yong-yuan",
+      "title": "永远",
+      "favoriteLevel": "low",
+      "tier": "editorial",
+      "bodyChars": 278,
+      "interpretationCount": 5,
+      "albumSlug": "official-singles-collection",
+      "moodTags": [
+        "疏离",
+        "失落"
+      ],
+      "themeTags": [
+        "承诺消散",
+        "出局"
+      ],
+      "summary": "夜色人潮里的失焦：永远曾像实现过，又在那一天走远；剧情在你手心，誓言只埋在单方心里。",
+      "deepReadPath": "content/songs/deep-reads/yong-yuan.md",
+      "rawLyricsPath": "content/songs/raw-lyrics/yong-yuan.txt",
+      "goal": "depth_upgrade"
+    }
+  ],
+  "createdAt": "2026-07-17T01:40:11.748Z"
+}

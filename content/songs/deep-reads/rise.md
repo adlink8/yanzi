@@ -2,7 +2,7 @@
 slug: rise
 title: Rise
 status: ready
-updatedAt: '2026-04-08'
+updatedAt: '2026-07-17'
 lyricBlocks:
   - |-
     There is a voice within my mind
@@ -12,11 +12,13 @@ lyricBlocks:
     Shaping the facets that define
     How we have come to be the present
     Descendants
+  - |-
     Though we're from ten different lands
     Bound by shores of common sand
     Singing out as one
     Let's stand
     The world is in our hands
+  - |-
     No matter where we're from
     If we could sing one song
     Dreams that are yours and mine
@@ -26,6 +28,7 @@ lyricBlocks:
     Children unite
     People of asean
     Rise
+  - |-
     Chapters unfolding from the past
     Speaking on wisdom to my heart
     Lessons to learn from our ancestors
@@ -33,80 +36,94 @@ lyricBlocks:
     Our differences we will embrace
     Shaping as one our common future
     Our future
-    Though we're from ten different lands
-    Bound by shores of common sand
-    Singing out as one
-    Let's stand
-    The world is in our hands
-    No matter where we're from
-    If we could sing one song
-    Dreams that are yours and mine
-    They will be realized
-    Trusting the love we feel
-    Trust in the love that's real
-    Children unite
-    People of asean
-    Rise
-    No matter where we're from
-    If we could sing one song
-    Dreams that are yours and mine
-    They will be realized
-    Trusting the love we feel
-    Trust in the love that's real
-    Children unite
-    People of asean
-    Rise
-    Trusting the love we feel
-    Trust in the love that's real
-    Children unite
-    People of asean
-    Rise
 lyricInterpretations:
-  - id: unit-01
-    section: 开场锚点
-    reference: 开场第一组歌词把语气先定住
+  - id: part-01
+    section: 内在的古老声音
+    reference: distant times
     lyricText: There is a voice within my mind
-    interpretation: 这一句的价值在于“先立气质”。它不急着解释全部故事，而是先把 情绪推进 的底色摆出来，让听者立刻进入这首歌的情绪空间。
-    whyItMatters: 它决定了这首歌的第一印象和情绪方向。
-  - id: unit-02
-    section: 中段推进
-    reference: 中段开始把情绪和关系并行推进
-    lyricText: Children unite
-    interpretation: 到这一段时，歌曲开始把 关系表达 的层次推出来。你会听到情绪不是单向上升，而是边靠近边犹疑，这种拉扯让中段特别耐听。
-    whyItMatters: 它让歌曲从“有感觉”进入“有层次”。
-  - id: unit-03
-    section: 转折时刻
-    reference: 转折句让内在冲突变得更清楚
-    lyricText: They will be realized
-    interpretation: 这一句像转轴，把前面的铺垫和后面的收束接起来。它不是爆发式宣告，而是让内心判断变得更具体，所以转折感会非常清晰。
-    whyItMatters: 它是整首歌叙事与情绪的关键连接点。
-  - id: unit-04
-    section: 收束余味
-    reference: 结尾把情绪落在留白和回响里
-    lyricText: Rise
-    interpretation: 结尾这句的处理方式很克制：不把情绪讲满，而是留一点空白。也因为有这层留白，整首歌听完之后的余味会更长。
-    whyItMatters: 它决定听者最终记住的是哪一种情绪。
-  - id: auto-5
-    section: 自动补充段 5
-    reference: 《Rise》 第 5 段
-    lyricText: 《Rise》 语句 5
-    interpretation: 这是《Rise》自动补充的第 5 段解读，主要呼应整体主题。
-    whyItMatters: 这段让《Rise》的情绪继续向前，是理解整首歌的补白。
+    interpretation: >-
+      英文开场不是恋爱独白，而是把「声音」放在心里：远古的歌、失落地平线的想法、
+      必须被当作征兆的 music and words。它先建立跨时间的倾听姿态——现在的我们，
+      是被祖先与历史塑出来的。燕姿在活动/主题曲语境里唱这类段落时，语气偏开阔，
+      像把个人声线借给更大的集体记忆，而不是收进情歌的二人称。
+    whyItMatters: 先立「我们从何处来」，后面东盟十国的团结才有时间纵深。
+  - id: part-02
+    section: 后代身份
+    reference: Descendants
+    lyricText: How we have come to be the present / Descendants
+    interpretation: >-
+      facets that define / how we have come to be the present 把身份写成被塑造的切面，
+      最后落到单独成行的 Descendants。主语从「我心里有声音」扩成「我们是谁的后代」——
+      个人声线只是入口，真正的主角是历史链条上的复数。这一步决定了全曲不会滑回
+      私密心事，而是公共纪念与区域认同的语法。
+    whyItMatters: Descendants 是集体主语的开关，Rise 由此不是个人励志高音。
+  - id: part-03
+    section: 十国与同一片沙岸
+    reference: common sand
+    lyricText: Though we're from ten different lands
+    interpretation: >-
+      ten different lands 点明东盟十国的地理现实；common sand 把差异收束到同一条海岸线。
+      不是抹平不同，而是承认来处各异，仍可站在同一片岸上 singing out as one。
+      沙与岸比抽象「团结」更可感——边界在水边相接，而非在口号里消失。Let's stand /
+      The world is in our hands 则把站立姿态与共同责任并置。
+    whyItMatters: 全曲地缘坐标：多元并置，而非单一文化吞并。
+  - id: part-04
+    section: 一首共享的歌
+    reference: sing one song
+    lyricText: If we could sing one song
+    interpretation: >-
+      副歌前半把梦想写成 yours and mine 的共享，把条件写成「若能共唱一首歌」——
+      歌在此既是字面合唱，也是政治隐喻里的共同语言。Trusting the love we feel 与
+      Trust in the love that's real 用 feel / real 的双行，把情绪信任推进到可核验的
+      「真实之爱」，避免主题曲只剩温暖形容词。
+    whyItMatters: 把团结从姿势落到可跟唱的机制：共唱、共享梦、确认真实的爱。
+  - id: part-05
+    section: 东盟起身
+    reference: People of asean
+    lyricText: Children unite / People of asean / Rise
+    interpretation: >-
+      标题动作在三层召唤里兑现：Children unite（代际与未来主体）、People of asean
+      （区域人民显名）、Rise（起身）。Rise 不是某段私密心事的高潮，而是共同体声量的
+      抬升；短词叠唱便于活动现场跟唱。ASEAN 作为歌词专名出现，解读必须扣住区域语境，
+      不可稀释成泛泛「大家加油」。
+    whyItMatters: 标题词在此落地：上升的是东盟集体声量。
+  - id: part-06
+    section: 拥抱差异与共同未来
+    reference: common future
+    lyricText: Our differences we will embrace
+    interpretation: >-
+      中后段从 chapters unfolding from the past、祖先 lessons，推进到 embrace differences
+      与 shaping as one our common future。差异不是要被删除的噪音，而是共同未来的原材料；
+      Pushing horizons 把地理地平线与心理边界叠在一起。收束重复 Our future，把 Rise
+      落成路径：记得来路、容纳不同、共建。
+    whyItMatters: 防止主题曲只剩口号；给 Rise 补上历史学习与差异伦理。
 songDesign:
-  summary: 这首歌的设计重点是把 情绪推进 与 关系表达 通过“铺垫-推进-转折-收束”连成完整体验，结构清楚，情绪后劲明显。
+  summary: >-
+    《Rise》是面向东盟共同体的英文主题向作品：从心中古老声音与 Descendants 身份起笔，
+    经 ten lands / common sand 的区域地理，把副歌推到 Children unite / People of asean /
+    Rise，并以拥抱差异、塑造 common future 收束。公共演讲式英文与可合唱短句，刻意
+    远离私密情歌密度。
   structure:
-    - 前段先给出核心语气，建立情绪入口。
-    - 中段扩大信息密度，推动情绪纵深。
-    - 后段通过转折与留白完成收束。
+    - 前段：内在声音、distant times、lost horizons → Descendants。
+    - 桥段：ten different lands / common sand / singing out as one / world in our hands。
+    - 副歌：one song、yours and mine、love that's real → Children / ASEAN / Rise。
+    - 后段：祖先章节、pushing horizons、embrace differences、common future。
+    - 重复段强化合唱钩子，功能优先于叙事推进。
   emotionCurve:
-    - 开头偏克制，先建立氛围。
-    - 中段逐步抬高，形成内在拉扯。
-    - 结尾回落但不断电，保留余味。
+    - 沉静召唤：内在声音、远方时间。
+    - 身份确认：我们是后代，被历史塑形。
+    - 凝聚：多国、同岸、同站、同唱。
+    - 高扬：Unite / People of asean / Rise 的口号式抬升。
+    - 展望：学于祖先，拥抱差异，走向共同未来。
   craftNotes:
-    - 关键词与意象反复出现，帮助情绪聚焦。
-    - 转折句承担结构功能，不只是字面意义变化。
-    - 结尾不强行解释，提升回听价值。
+    - 英文用词偏公共演讲与主题曲传统，意象轴是地理（lands/sand/horizons）与历史（ancestors/chapters）。
+    - 短句副歌适合活动合唱；与《Someone》式室内物证叙事刻意不同。
+    - ten different lands / People of asean 是可核对区域指涉，禁止改写成普通恋爱隐喻。
+    - Descendants 单独成行，结构上像主语落点，解读应保留其重量。
+    - 无已核实 MV 则不填链接；功能定位是主题向/活动向，而非情歌 MV 叙事。
 ---
-《Rise》最值得反复听的地方，在于它没有用夸张的叙事去推动情绪，而是把 情绪推进 和 关系表达 放在同一条线里慢慢展开。听感上会先被一句很具体的画面抓住，再被更深一层的情绪拉进去，最后落到一种“说得不重但后劲很强”的状态。
+《Rise》不宜按普通情歌去听。它的主语几乎从一开始就是「我们」：心里有一个唱着 distant times 的声音，音乐与词语被当作 signs，把当下接到更长的时间线；Descendants 单独落下时，个人声线已经把麦克风交给历史链条上的复数。
 
-把这首歌放进整站的作品脉络看，它更像一个“情绪结构样本”：前段先定语气，中段把关系或自我拉扯推高，尾段不急着给答案，而是留出回味空间。这种克制但清楚的写法，也正是很多歌会让人想要回听的原因。
+Though we're from ten different lands / Bound by shores of common sand 把东盟十国的差异和共享海岸写进同一句：团结不靠抹平来处，而靠承认站在同一片沙岸上仍可齐唱。副歌把梦想改写成 yours and mine，把信任落在 love that's real，再以 Children unite、People of asean、Rise 完成标题动作——上升的是区域共同的声量，短词便于活动现场跟唱。
+
+后段补上祖先的章节与 embrace differences，让 Rise 不只是口号式高音，而是「记得来路、容纳不同、塑造共同未来」的路径。在站内单曲/活动线里，它标出燕姿作品中少见的公共政治地理坐标：听感开阔、功能明确，私密心事让位于集体起身；与室内物证型英文曲（如《Someone》）对照时，更能看清它的公共语法。

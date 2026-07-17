@@ -1,68 +1,67 @@
 # Progress Snapshot
 
-Updated: 2026-04-09
+Updated: 2026-07-17
 
 ## Current Status
 
 - Project mode: private self-use
-- Main workflow: 时间线 → 专辑 → 歌曲
-- Current phase: full-catalog ingestion completed, first-pass deep reads completed, feature hardening in progress
-- Build status: passing
+- Main workflow: 时间线 → 专辑 → 歌曲 → 按曲 deep-read
+- **Phase 5 COMPLETE** — 全库 deep-read `editorial`（0 scaffold / 0 passable）
+- **Next:** Phase 6 reliability；MV 补链；真歌词补录
+- AI: OpenAI-compatible **cloud-first**
+- Branch: `chore/ci-and-full-tests`（含 CI + 内容）
 
 ## Current Totals
 
-- Local raw lyrics files: 183
-- Indexed songs: 184
-- Indexed songs marked ready: 184
-- Indexed songs with deep-read enabled: 184
-- Album / EP / Single entries: 28
-- Visible indexed placeholders: 0
+| Item | Count / status |
+|------|----------------|
+| Indexed songs | **184** |
+| Deep-read files | **184+**（与索引对齐） |
+| Deep-read tier editorial | **184** |
+| Deep-read tier scaffold | **0** |
+| Deep-read tier passable | **0** |
+| Raw lyrics files | **184**（`shang-bu-liao` 仍为待补录占位） |
+| Albums | **17**（含 `start-live`、`official-singles-collection`） |
+| Archive-group assignments | **0** |
+| albumSlug orphans | **0** |
+| songSlugs drift | **0** |
+| Missing verified mvUrl | **~179** |
+| Vitest tests | **52** |
 
-## Milestone Reached
+## Milestones Reached
 
-All songs currently represented in the website catalog now have a first-pass readable deep-read structure.
+### Catalog Normalization (Phase 4)
+- Archive buckets cleared；`start-live` restored
+- `songSlugs` derived from `albumSlug`
 
-This means:
+### Deep Read Quality (Phase 5)
+- Spec: `docs/DEEPREAD-EDITORIAL-SPEC.md`
+- Pipeline: report → prepare batches → subagent rewrite → verify
+- Catalog-wide **per-song** editorial (not template scaffolds)
+- Depth upgrade waves: body ≥280 chars, 5–6 lyric-anchored units for polished set
+- Lyrics fallback: placeholder raw-lyrics never shown as full lyrics
 
-- every indexed song is browseable
-- every indexed song has a deep-read file
-- every indexed song is marked `ready`
-- visible placeholder text has been removed from indexed content
-- refinement is now a quality-improvement phase rather than a completeness phase
+## Open Gaps (Phase 6+)
 
-## Recently Completed (This Round)
+1. Verified **MV** coverage still sparse
+2. **`shang-bu-liao`** real lyrics still pending
+3. Optional smoke/E2E for pages/feedback
+4. Edge AI still limited catalog metadata (deep-read body not fully in edge context)
 
-1. Added global song search on `/songs`
-2. Re-enabled mood recommendation API (`/api/recommend/mood`) with real scoring logic
-3. Fixed duplicate React key warnings for repeated tag names
-4. Added automated test baseline with Vitest
-5. Added tests for mood recommendation logic and mood API route
-6. Verified local build and test execution
-7. Pushed latest code to GitHub (`main`, commit `55d8b8f`)
+## How to re-check quality
 
-## Verified Capabilities
-
-- Users can search songs by title / summary / mood tags / theme tags / keywords
-- Homepage mood recommender can return recommendation cards again
-- `npm test` available and passing (`2` files, `4` tests)
-- `npm run build` passes
-
-## Next Phase
-
-The next phase is refinement and normalization:
-
-1. move temporarily archived songs back into confirmed official albums
-2. strengthen metadata quality for archive-group songs
-3. deepen first-pass deep reads into richer lyric-by-lyric interpretation
-4. improve album summaries and representative-song curation
-5. continue fixing missing raw-lyrics edge cases such as `shang-bu-liao`
-6. expand automated tests (critical pages, feedback flow, deploy smoke checks)
+```bash
+npm run report:deepread-quality
+npm run verify:deepread-batch -- --slugs tian-hei-hei,yu-jian
+npm run ci
+```
 
 ## Related Docs
 
-- `docs/CONTENT-SEQUENCE.md`
-- `docs/CONTENT-COVERAGE.md`
-- `docs/ARCHIVE-BATCHES.md`
-- `docs/ARCHIVE-BUCKETS.md`
-- `docs/UNINDEXED-SONGS.md`
+- `.planning/STATE.md` / `ROADMAP.md` / `REQUIREMENTS.md`
+- `docs/DEEPREAD-EDITORIAL-SPEC.md`
+- `docs/DEEPREAD-QUALITY-REPORT.md`
+- `docs/deepread-batches/`
+- `docs/SETUP.md`
 - `docs/ISSUES-LOG.md`
+- `docs/CODE-QUALITY.md`

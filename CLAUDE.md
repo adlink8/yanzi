@@ -4,8 +4,8 @@
 **Stefanie Sun Deep Reads**
 
 一个私有自用的孙燕姿作品图书馆与深度解读站点。
-项目以可检索的歌曲/专辑/时间线内容为核心，并在本地模型上提供问答与导览。
-当前进入“全量覆盖后精修”阶段，重点从补齐转向质量提升与结构归档。
+项目以可检索的歌曲/专辑/时间线内容为核心，并通过 OpenAI-compatible 云端 API 提供问答与导览（本地 Ollama 仅可选）。
+目录规范化与全库按曲 deep-read（184 editorial）已完成；当前重点为可靠性（Phase 6）、MV 补链与少数真歌词补录。
 
 **Core Value:** 用户可以稳定地按歌曲、专辑、时间线访问完整内容，并得到可读、可信的深度解读。
 
@@ -14,7 +14,7 @@
 - **Runtime**: WSL Ubuntu-D — 依赖、构建与运行统一在 WSL 里执行
 - **Scope**: Private self-use — 功能优先服务个人知识与解读工作流
 - **Data Model**: JSON/Markdown/TXT first — 当前阶段不引入数据库迁移成本
-- **AI Provider**: Local-first (Ollama) — 默认本地推理可用，云端仅可选
+- **AI Provider**: Cloud-first OpenAI-compatible — 云端默认；本地 Ollama 仅可选
 <!-- GSD:project-end -->
 
 <!-- GSD:stack-start source:STACK.md -->

@@ -8,3 +8,7 @@ content/feedback/suggestions.jsonl
 .dev-server.log
 .dev-server.pid
 .vercel/
+
+log/
+*.tsbuildinfo
+.codex/

@@ -1,0 +1,137 @@
+{
+  "id": "BATCH-005",
+  "number": 5,
+  "size": 6,
+  "mode": "depth_upgrade",
+  "songs": [
+    {
+      "slug": "yan-shen",
+      "title": "眼神",
+      "favoriteLevel": "low",
+      "tier": "editorial",
+      "bodyChars": 249,
+      "interpretationCount": 5,
+      "albumSlug": "official-singles-collection",
+      "moodTags": [
+        "温暖",
+        "信任"
+      ],
+      "themeTags": [
+        "陪伴",
+        "梦想",
+        "支持"
+      ],
+      "summary": "现实推挤中，爱有时是一种眼神：赶走苦闷、不需保证，逆风时牵手同行并保持恒温。",
+      "deepReadPath": "content/songs/deep-reads/yan-shen.md",
+      "rawLyricsPath": "content/songs/raw-lyrics/yan-shen.txt",
+      "goal": "depth_upgrade"
+    },
+    {
+      "slug": "tian-kong",
+      "title": "天空",
+      "favoriteLevel": "low",
+      "tier": "editorial",
+      "bodyChars": 251,
+      "interpretationCount": 5,
+      "albumSlug": "official-singles-collection",
+      "moodTags": [
+        "思念",
+        "克制"
+      ],
+      "themeTags": [
+        "分隔",
+        "天空",
+        "祈愿"
+      ],
+      "summary": "我的、你的、我们的天空层层对照：湿泪灰脸、想的雨冷的月，盼相连，尾声但愿不再涂灰。",
+      "deepReadPath": "content/songs/deep-reads/tian-kong.md",
+      "rawLyricsPath": "content/songs/raw-lyrics/tian-kong.txt",
+      "goal": "depth_upgrade"
+    },
+    {
+      "slug": "wei-rao",
+      "title": "围绕",
+      "favoriteLevel": "low",
+      "tier": "editorial",
+      "bodyChars": 252,
+      "interpretationCount": 5,
+      "albumSlug": "official-singles-collection",
+      "moodTags": [
+        "犹疑",
+        "自省"
+      ],
+      "themeTags": [
+        "自我定位",
+        "关系距离"
+      ],
+      "summary": "用空位、平行交叉与“围绕自己的线”写自我定位：道别又折返、对了没到了没，最终停在“围绕谁”的眼前一问。",
+      "deepReadPath": "content/songs/deep-reads/wei-rao.md",
+      "rawLyricsPath": "content/songs/raw-lyrics/wei-rao.txt",
+      "goal": "depth_upgrade"
+    },
+    {
+      "slug": "xu-yao-ni",
+      "title": "需要你",
+      "favoriteLevel": "low",
+      "tier": "editorial",
+      "bodyChars": 253,
+      "interpretationCount": 5,
+      "albumSlug": "official-singles-collection",
+      "moodTags": [
+        "寂寞",
+        "犹豫"
+      ],
+      "themeTags": [
+        "需要",
+        "缺席",
+        "自我承认"
+      ],
+      "summary": "夜望海洋想清楚不安与寂寞；明明不在却学会忍耐，明明需要你却仍犹豫不定。",
+      "deepReadPath": "content/songs/deep-reads/xu-yao-ni.md",
+      "rawLyricsPath": "content/songs/raw-lyrics/xu-yao-ni.txt",
+      "goal": "depth_upgrade"
+    },
+    {
+      "slug": "up2u",
+      "title": "Up2u",
+      "favoriteLevel": "low",
+      "tier": "editorial",
+      "bodyChars": 256,
+      "interpretationCount": 5,
+      "albumSlug": "official-singles-collection",
+      "moodTags": [
+        "明亮",
+        "轻快"
+      ],
+      "themeTags": [
+        "自主选择",
+        "青春动能",
+        "自我许可"
+      ],
+      "summary": "《Up2u》把选择权塞回你手里：换规则、变色彩，要多美都由你作主；想飞就飞，一眨眼看见另一个我。",
+      "deepReadPath": "content/songs/deep-reads/up2u.md",
+      "rawLyricsPath": "content/songs/raw-lyrics/up2u.txt",
+      "goal": "depth_upgrade"
+    },
+    {
+      "slug": "ai-cong-ling-kai-shi",
+      "title": "爱从零开始",
+      "favoriteLevel": "low",
+      "tier": "editorial",
+      "bodyChars": 259,
+      "interpretationCount": 5,
+      "albumSlug": "leave",
+      "moodTags": [
+        "回望"
+      ],
+      "themeTags": [
+        "关系变化"
+      ],
+      "summary": "《爱从零开始》歌名像重启，歌词却是档案室开灯：那一秒已遗失，名字换址，翻出最初的字才读懂当初多爱，而爱从第一天就在偷偷倒数。",
+      "deepReadPath": "content/songs/deep-reads/ai-cong-ling-kai-shi.md",
+      "rawLyricsPath": "content/songs/raw-lyrics/ai-cong-ling-kai-shi.txt",
+      "goal": "depth_upgrade"
+    }
+  ],
+  "createdAt": "2026-07-17T01:40:11.746Z"
+}
