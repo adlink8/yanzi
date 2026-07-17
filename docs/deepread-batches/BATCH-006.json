@@ -1,0 +1,104 @@
+{
+  "id": "BATCH-006",
+  "number": 6,
+  "size": 6,
+  "songs": [
+    {
+      "slug": "bu-shi-zhen-de-ai-wo",
+      "title": "不是真的爱我",
+      "favoriteLevel": "low",
+      "tier": "scaffold",
+      "albumSlug": "feng-zheng",
+      "moodTags": [
+        "回望"
+      ],
+      "themeTags": [
+        "关系变化"
+      ],
+      "summary": "《不是真的爱我》的解读正在整理中。",
+      "deepReadPath": "content/songs/deep-reads/bu-shi-zhen-de-ai-wo.md",
+      "rawLyricsPath": "content/songs/raw-lyrics/bu-shi-zhen-de-ai-wo.txt"
+    },
+    {
+      "slug": "bu-tong",
+      "title": "不同",
+      "favoriteLevel": "low",
+      "tier": "scaffold",
+      "albumSlug": "leave",
+      "moodTags": [
+        "回望"
+      ],
+      "themeTags": [
+        "关系变化"
+      ],
+      "summary": "《不同》的解读正在整理中。",
+      "deepReadPath": "content/songs/deep-reads/bu-tong.md",
+      "rawLyricsPath": "content/songs/raw-lyrics/bu-tong.txt"
+    },
+    {
+      "slug": "chao-kuai-gan-start-concert",
+      "title": "超快感（Start演唱会）",
+      "favoriteLevel": "low",
+      "tier": "scaffold",
+      "albumSlug": "start-live",
+      "moodTags": [
+        "回望"
+      ],
+      "themeTags": [
+        "关系变化"
+      ],
+      "summary": "《超快感（Start演唱会）》的解读正在整理中。",
+      "deepReadPath": "content/songs/deep-reads/chao-kuai-gan-start-concert.md",
+      "rawLyricsPath": "content/songs/raw-lyrics/chao-kuai-gan-start-concert.txt"
+    },
+    {
+      "slug": "chao-ren-lei",
+      "title": "超人类",
+      "favoriteLevel": "low",
+      "tier": "scaffold",
+      "albumSlug": "no-13",
+      "moodTags": [
+        "回望"
+      ],
+      "themeTags": [
+        "关系变化"
+      ],
+      "summary": "《超人类》的解读正在整理中。",
+      "deepReadPath": "content/songs/deep-reads/chao-ren-lei.md",
+      "rawLyricsPath": "content/songs/raw-lyrics/chao-ren-lei.txt"
+    },
+    {
+      "slug": "dang-dong-ye-jian-nuan",
+      "title": "当冬夜渐暖",
+      "favoriteLevel": "low",
+      "tier": "scaffold",
+      "albumSlug": "shi-shi-hou",
+      "moodTags": [
+        "回望"
+      ],
+      "themeTags": [
+        "关系变化"
+      ],
+      "summary": "《当冬夜渐暖》的解读正在整理中。",
+      "deepReadPath": "content/songs/deep-reads/dang-dong-ye-jian-nuan.md",
+      "rawLyricsPath": "content/songs/raw-lyrics/dang-dong-ye-jian-nuan.txt"
+    },
+    {
+      "slug": "dream-a-little-dream-of-me",
+      "title": "Dream A Little Dream Of Me",
+      "favoriteLevel": "low",
+      "tier": "scaffold",
+      "albumSlug": "official-singles-collection",
+      "moodTags": [
+        "回望"
+      ],
+      "themeTags": [
+        "关系变化"
+      ],
+      "summary": "《Dream A Little Dream Of Me》的解读正在整理中。",
+      "deepReadPath": "content/songs/deep-reads/dream-a-little-dream-of-me.md",
+      "rawLyricsPath": "content/songs/raw-lyrics/dream-a-little-dream-of-me.txt"
+    }
+  ],
+  "createdAt": "2026-07-17T01:19:47.868Z"
+}

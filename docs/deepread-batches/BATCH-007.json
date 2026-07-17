@@ -1,0 +1,104 @@
+{
+  "id": "BATCH-007",
+  "number": 7,
+  "size": 6,
+  "songs": [
+    {
+      "slug": "e-lover-2",
+      "title": "E Lover 2",
+      "favoriteLevel": "low",
+      "tier": "scaffold",
+      "albumSlug": "yanzi",
+      "moodTags": [
+        "回望"
+      ],
+      "themeTags": [
+        "关系变化"
+      ],
+      "summary": "《E Lover 2》的解读正在整理中。",
+      "deepReadPath": "content/songs/deep-reads/e-lover-2.md",
+      "rawLyricsPath": "content/songs/raw-lyrics/e-lover-2.txt"
+    },
+    {
+      "slug": "lets-vino",
+      "title": "Let's Vino",
+      "favoriteLevel": "low",
+      "tier": "scaffold",
+      "albumSlug": "stefanie-self-titled",
+      "moodTags": [
+        "回望"
+      ],
+      "themeTags": [
+        "关系变化"
+      ],
+      "summary": "《Let's Vino》的解读正在整理中。",
+      "deepReadPath": "content/songs/deep-reads/lets-vino.md",
+      "rawLyricsPath": "content/songs/raw-lyrics/lets-vino.txt"
+    },
+    {
+      "slug": "lian-xi",
+      "title": "练习",
+      "favoriteLevel": "low",
+      "tier": "scaffold",
+      "albumSlug": "feng-zheng",
+      "moodTags": [
+        "回望"
+      ],
+      "themeTags": [
+        "关系变化"
+      ],
+      "summary": "《练习》的解读正在整理中。",
+      "deepReadPath": "content/songs/deep-reads/lian-xi.md",
+      "rawLyricsPath": "content/songs/raw-lyrics/lian-xi.txt"
+    },
+    {
+      "slug": "ling-que-dian-start-concert",
+      "title": "零缺点（Start演唱会）",
+      "favoriteLevel": "low",
+      "tier": "scaffold",
+      "albumSlug": "start-live",
+      "moodTags": [
+        "回望"
+      ],
+      "themeTags": [
+        "关系变化"
+      ],
+      "summary": "《零缺点（Start演唱会）》的解读正在整理中。",
+      "deepReadPath": "content/songs/deep-reads/ling-que-dian-start-concert.md",
+      "rawLyricsPath": "content/songs/raw-lyrics/ling-que-dian-start-concert.txt"
+    },
+    {
+      "slug": "liu-lang-di-tu",
+      "title": "流浪地图",
+      "favoriteLevel": "low",
+      "tier": "scaffold",
+      "albumSlug": "wan-mei-de-yi-tian",
+      "moodTags": [
+        "回望"
+      ],
+      "themeTags": [
+        "关系变化"
+      ],
+      "summary": "《流浪地图》的解读正在整理中。",
+      "deepReadPath": "content/songs/deep-reads/liu-lang-di-tu.md",
+      "rawLyricsPath": "content/songs/raw-lyrics/liu-lang-di-tu.txt"
+    },
+    {
+      "slug": "lu-guang-start-concert",
+      "title": "绿光（Start演唱会）",
+      "favoriteLevel": "low",
+      "tier": "scaffold",
+      "albumSlug": "start-live",
+      "moodTags": [
+        "回望"
+      ],
+      "themeTags": [
+        "关系变化"
+      ],
+      "summary": "《绿光（Start演唱会）》的解读正在整理中。",
+      "deepReadPath": "content/songs/deep-reads/lu-guang-start-concert.md",
+      "rawLyricsPath": "content/songs/raw-lyrics/lu-guang-start-concert.txt"
+    }
+  ],
+  "createdAt": "2026-07-17T01:19:47.869Z"
+}

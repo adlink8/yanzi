@@ -1,0 +1,105 @@
+{
+  "id": "BATCH-005",
+  "number": 5,
+  "size": 6,
+  "songs": [
+    {
+      "slug": "zui-hou-zhi-hou",
+      "title": "最后之后",
+      "favoriteLevel": "medium",
+      "tier": "scaffold",
+      "albumSlug": "official-singles-collection",
+      "moodTags": [
+        "回望"
+      ],
+      "themeTags": [
+        "近期单曲",
+        "余波"
+      ],
+      "summary": "《最后之后》最有后劲的地方，是它没有把故事停在终点，而是继续问：终点之后怎么办？很多真正的难题，其实就是从这里才开始。",
+      "deepReadPath": "content/songs/deep-reads/zui-hou-zhi-hou.md",
+      "rawLyricsPath": "content/songs/raw-lyrics/zui-hou-zhi-hou.txt"
+    },
+    {
+      "slug": "180-du",
+      "title": "180度",
+      "favoriteLevel": "low",
+      "tier": "scaffold",
+      "albumSlug": "shi-shi-hou",
+      "moodTags": [
+        "回望"
+      ],
+      "themeTags": [
+        "关系变化"
+      ],
+      "summary": "《180度》的解读正在整理中。",
+      "deepReadPath": "content/songs/deep-reads/180-du.md",
+      "rawLyricsPath": "content/songs/raw-lyrics/180-du.txt"
+    },
+    {
+      "slug": "ai-cong-ling-kai-shi",
+      "title": "爱从零开始",
+      "favoriteLevel": "low",
+      "tier": "scaffold",
+      "albumSlug": "leave",
+      "moodTags": [
+        "回望"
+      ],
+      "themeTags": [
+        "关系变化"
+      ],
+      "summary": "《爱从零开始》的解读正在整理中。",
+      "deepReadPath": "content/songs/deep-reads/ai-cong-ling-kai-shi.md",
+      "rawLyricsPath": "content/songs/raw-lyrics/ai-cong-ling-kai-shi.txt"
+    },
+    {
+      "slug": "ai-qing-zheng-shu-start-concert",
+      "title": "爱情证书（Start演唱会）",
+      "favoriteLevel": "low",
+      "tier": "scaffold",
+      "albumSlug": "start-live",
+      "moodTags": [
+        "回望"
+      ],
+      "themeTags": [
+        "关系变化"
+      ],
+      "summary": "《爱情证书（Start演唱会）》的解读正在整理中。",
+      "deepReadPath": "content/songs/deep-reads/ai-qing-zheng-shu-start-concert.md",
+      "rawLyricsPath": "content/songs/raw-lyrics/ai-qing-zheng-shu-start-concert.txt"
+    },
+    {
+      "slug": "ai-qing-zi-dian-start-concert",
+      "title": "爱情字典（Start演唱会）",
+      "favoriteLevel": "low",
+      "tier": "scaffold",
+      "albumSlug": "start-live",
+      "moodTags": [
+        "回望"
+      ],
+      "themeTags": [
+        "关系变化"
+      ],
+      "summary": "《爱情字典（Start演唱会）》的解读正在整理中。",
+      "deepReadPath": "content/songs/deep-reads/ai-qing-zi-dian-start-concert.md",
+      "rawLyricsPath": "content/songs/raw-lyrics/ai-qing-zi-dian-start-concert.txt"
+    },
+    {
+      "slug": "bu-neng-he-ni-yi-qi",
+      "title": "不能和你一起",
+      "favoriteLevel": "low",
+      "tier": "scaffold",
+      "albumSlug": "the-moment",
+      "moodTags": [
+        "回望"
+      ],
+      "themeTags": [
+        "关系变化"
+      ],
+      "summary": "《不能和你一起》的解读正在整理中。",
+      "deepReadPath": "content/songs/deep-reads/bu-neng-he-ni-yi-qi.md",
+      "rawLyricsPath": "content/songs/raw-lyrics/bu-neng-he-ni-yi-qi.txt"
+    }
+  ],
+  "createdAt": "2026-07-17T01:19:47.867Z"
+}

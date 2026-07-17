@@ -4,8 +4,25 @@
   "size": 6,
   "songs": [
     {
-      "slug": "ai-qing-de-hua-yang",
-      "title": "爱情的花样",
+      "slug": "mei-you-ren-de-fang-xiang",
+      "title": "没有人的方向",
+      "favoriteLevel": "medium",
+      "tier": "scaffold",
+      "albumSlug": "wei-wan-cheng",
+      "moodTags": [
+        "回望"
+      ],
+      "themeTags": [
+        "关系变化",
+        "克制"
+      ],
+      "summary": "《没有人的方向》不是一下子把人打痛，而是让人慢慢意识到：原来真正难受的是，身边和心里都突然少了一个原本在场的人，于是连方向感都一起松掉了。",
+      "deepReadPath": "content/songs/deep-reads/mei-you-ren-de-fang-xiang.md",
+      "rawLyricsPath": "content/songs/raw-lyrics/mei-you-ren-de-fang-xiang.txt"
+    },
+    {
+      "slug": "meng-you",
+      "title": "梦游",
       "favoriteLevel": "medium",
       "tier": "scaffold",
       "albumSlug": "ni-guang",
@@ -16,78 +33,30 @@
         "回望",
         "韧性"
       ],
-      "summary": "《爱情的花样》像是在提醒人：别太快以为自己已经看懂爱情。真正复杂的地方，正是在于它可以有很多种样子，而人常常只经历了其中很小的一部分。",
-      "deepReadPath": "content/songs/deep-reads/ai-qing-de-hua-yang.md",
-      "rawLyricsPath": "content/songs/raw-lyrics/ai-qing-de-hua-yang.txt"
+      "summary": "《梦游》像一种意识还没完全回来的情绪。它不直接告诉你发生了什么，而是让你先进入那种模糊、发飘、像还在梦里的感觉。",
+      "deepReadPath": "content/songs/deep-reads/meng-you.md",
+      "rawLyricsPath": "content/songs/raw-lyrics/meng-you.txt"
     },
     {
-      "slug": "an-ning",
-      "title": "安宁",
+      "slug": "nan-de-yi-jian",
+      "title": "难得一见",
       "favoriteLevel": "medium",
       "tier": "scaffold",
-      "albumSlug": "ni-guang",
+      "albumSlug": "wo-yao-de-xing-fu",
       "moodTags": [
         "回望"
       ],
       "themeTags": [
-        "关系变化"
+        "成长",
+        "勇气"
       ],
-      "summary": "《安宁》的解读正在整理中。",
-      "deepReadPath": "content/songs/deep-reads/an-ning.md",
-      "rawLyricsPath": "content/songs/raw-lyrics/an-ning.txt"
+      "summary": "《难得一见》是一首很适合慢慢喜欢上的歌。它不会一下子撞上来，但会让你在回味的时候越来越觉得：原来真正打动人的，是那种“得来不易，所以特别珍惜”的心情。",
+      "deepReadPath": "content/songs/deep-reads/nan-de-yi-jian.md",
+      "rawLyricsPath": "content/songs/raw-lyrics/nan-de-yi-jian.txt"
     },
     {
-      "slug": "ban-ju-zai-jian",
-      "title": "半句再见",
-      "favoriteLevel": "medium",
-      "tier": "scaffold",
-      "albumSlug": "official-singles-collection",
-      "moodTags": [
-        "回望"
-      ],
-      "themeTags": [
-        "关系变化"
-      ],
-      "summary": "《半句再见》的解读正在整理中。",
-      "deepReadPath": "content/songs/deep-reads/ban-ju-zai-jian.md",
-      "rawLyricsPath": "content/songs/raw-lyrics/ban-ju-zai-jian.txt"
-    },
-    {
-      "slug": "bi-jiao-xing-fu",
-      "title": "比较幸福",
-      "favoriteLevel": "medium",
-      "tier": "scaffold",
-      "albumSlug": "ke-bu-le",
-      "moodTags": [
-        "回望"
-      ],
-      "themeTags": [
-        "时间感",
-        "命运感"
-      ],
-      "summary": "《比较幸福》最动人的地方，是它愿意承认幸福不一定要是满分。很多时候，能比过去更安稳一点、更松一点、更像自己一点，就已经很珍贵。",
-      "deepReadPath": "content/songs/deep-reads/bi-jiao-xing-fu.md",
-      "rawLyricsPath": "content/songs/raw-lyrics/bi-jiao-xing-fu.txt"
-    },
-    {
-      "slug": "cai-hong-jin-gang",
-      "title": "彩虹金刚",
-      "favoriteLevel": "medium",
-      "tier": "scaffold",
-      "albumSlug": "cai-hong-jin-gang-ep",
-      "moodTags": [
-        "回望"
-      ],
-      "themeTags": [
-        "关系变化"
-      ],
-      "summary": "《彩虹金刚》的解读正在整理中。",
-      "deepReadPath": "content/songs/deep-reads/cai-hong-jin-gang.md",
-      "rawLyricsPath": "content/songs/raw-lyrics/cai-hong-jin-gang.txt"
-    },
-    {
-      "slug": "chong-yang-qi",
-      "title": "充氧期",
+      "slug": "piao-fu-qun-dao",
+      "title": "漂浮群岛",
       "favoriteLevel": "medium",
       "tier": "scaffold",
       "albumSlug": "no-13",
@@ -97,10 +66,44 @@
       "themeTags": [
         "关系变化"
       ],
-      "summary": "《充氧期》的解读正在整理中。",
-      "deepReadPath": "content/songs/deep-reads/chong-yang-qi.md",
-      "rawLyricsPath": "content/songs/raw-lyrics/chong-yang-qi.txt"
+      "summary": "《漂浮群岛》的解读正在整理中。",
+      "deepReadPath": "content/songs/deep-reads/piao-fu-qun-dao.md",
+      "rawLyricsPath": "content/songs/raw-lyrics/piao-fu-qun-dao.txt"
+    },
+    {
+      "slug": "ren-xing",
+      "title": "任性",
+      "favoriteLevel": "medium",
+      "tier": "scaffold",
+      "albumSlug": "feng-zheng",
+      "moodTags": [
+        "回望"
+      ],
+      "themeTags": [
+        "希望",
+        "距离"
+      ],
+      "summary": "《任性》最有意思的地方，是它并不怕显得不那么“懂事”。它把关系里那种不想退、还想坚持自己感受的部分唱了出来，所以整首歌会有一种很鲜活的年轻劲。",
+      "deepReadPath": "content/songs/deep-reads/ren-xing.md",
+      "rawLyricsPath": "content/songs/raw-lyrics/ren-xing.txt"
+    },
+    {
+      "slug": "ri-luo",
+      "title": "日落",
+      "favoriteLevel": "medium",
+      "tier": "scaffold",
+      "albumSlug": "official-singles-collection",
+      "moodTags": [
+        "回望"
+      ],
+      "themeTags": [
+        "近期单曲",
+        "时间感"
+      ],
+      "summary": "《日落》最适合在傍晚去听。它像把一天的结束感、光线退去的过程和心里慢慢安静下来的那一点余温，都收在同一首歌里。",
+      "deepReadPath": "content/songs/deep-reads/ri-luo.md",
+      "rawLyricsPath": "content/songs/raw-lyrics/ri-luo.txt"
     }
   ],
-  "createdAt": "2026-07-17T01:14:34.989Z"
+  "createdAt": "2026-07-17T01:19:47.863Z"
 }

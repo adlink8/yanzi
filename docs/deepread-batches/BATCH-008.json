@@ -1,0 +1,104 @@
+{
+  "id": "BATCH-008",
+  "number": 8,
+  "size": 6,
+  "songs": [
+    {
+      "slug": "mei-shi-jian",
+      "title": "没时间",
+      "favoriteLevel": "low",
+      "tier": "scaffold",
+      "albumSlug": "start",
+      "moodTags": [
+        "回望"
+      ],
+      "themeTags": [
+        "关系变化"
+      ],
+      "summary": "《没时间》的解读正在整理中。",
+      "deepReadPath": "content/songs/deep-reads/mei-shi-jian.md",
+      "rawLyricsPath": "content/songs/raw-lyrics/mei-shi-jian.txt"
+    },
+    {
+      "slug": "meng-bu-luo",
+      "title": "梦不落",
+      "favoriteLevel": "low",
+      "tier": "scaffold",
+      "albumSlug": "wan-mei-de-yi-tian",
+      "moodTags": [
+        "回望"
+      ],
+      "themeTags": [
+        "关系变化"
+      ],
+      "summary": "《梦不落》的解读正在整理中。",
+      "deepReadPath": "content/songs/deep-reads/meng-bu-luo.md",
+      "rawLyricsPath": "content/songs/raw-lyrics/meng-bu-luo.txt"
+    },
+    {
+      "slug": "meng-xiang-tian-kong",
+      "title": "梦想天空",
+      "favoriteLevel": "low",
+      "tier": "scaffold",
+      "albumSlug": "my-story",
+      "moodTags": [
+        "回望"
+      ],
+      "themeTags": [
+        "关系变化"
+      ],
+      "summary": "《梦想天空》的解读正在整理中。",
+      "deepReadPath": "content/songs/deep-reads/meng-xiang-tian-kong.md",
+      "rawLyricsPath": "content/songs/raw-lyrics/meng-xiang-tian-kong.txt"
+    },
+    {
+      "slug": "ming-tian-de-ji-yi",
+      "title": "明天的记忆",
+      "favoriteLevel": "low",
+      "tier": "scaffold",
+      "albumSlug": "shi-shi-hou",
+      "moodTags": [
+        "回望"
+      ],
+      "themeTags": [
+        "关系变化"
+      ],
+      "summary": "《明天的记忆》的解读正在整理中。",
+      "deepReadPath": "content/songs/deep-reads/ming-tian-de-ji-yi.md",
+      "rawLyricsPath": "content/songs/raw-lyrics/ming-tian-de-ji-yi.txt"
+    },
+    {
+      "slug": "ming-tian-qing-tian",
+      "title": "明天晴天",
+      "favoriteLevel": "low",
+      "tier": "scaffold",
+      "albumSlug": "wan-mei-de-yi-tian",
+      "moodTags": [
+        "回望"
+      ],
+      "themeTags": [
+        "关系变化"
+      ],
+      "summary": "《明天晴天》的解读正在整理中。",
+      "deepReadPath": "content/songs/deep-reads/ming-tian-qing-tian.md",
+      "rawLyricsPath": "content/songs/raw-lyrics/ming-tian-qing-tian.txt"
+    },
+    {
+      "slug": "my-story-your-song",
+      "title": "My Story, Your Song",
+      "favoriteLevel": "low",
+      "tier": "scaffold",
+      "albumSlug": "official-singles-collection",
+      "moodTags": [
+        "回望"
+      ],
+      "themeTags": [
+        "关系变化"
+      ],
+      "summary": "《My Story, Your Song》的解读正在整理中。",
+      "deepReadPath": "content/songs/deep-reads/my-story-your-song.md",
+      "rawLyricsPath": "content/songs/raw-lyrics/my-story-your-song.txt"
+    }
+  ],
+  "createdAt": "2026-07-17T01:19:47.870Z"
+}

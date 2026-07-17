@@ -1,4 +1,4 @@
-# Deep-read editorial batch BATCH-004
+# Deep-read editorial batch BATCH-006
 
 ## Role
 你是内容执行子代理。把下列歌曲的 deep-read 从模板改为 **按曲定制** 解读。
@@ -10,12 +10,12 @@
 Read and obey: `docs/DEEPREAD-EDITORIAL-SPEC.md`
 
 ## Songs in this batch ONLY
-1. `yu-tian` — 雨天 (favorite=medium, was scaffold)
-2. `zhen-de` — 真的 (favorite=medium, was scaffold)
-3. `zhi-lai-zhi-wang` — 直来直往 (favorite=medium, was scaffold)
-4. `zhong` — 种 (favorite=medium, was scaffold)
-5. `zhu-ni-kai-xin` — 祝你开心 (favorite=medium, was scaffold)
-6. `zi-ran` — 自然 (favorite=medium, was scaffold)
+1. `bu-shi-zhen-de-ai-wo` — 不是真的爱我 (favorite=low, was scaffold)
+2. `bu-tong` — 不同 (favorite=low, was scaffold)
+3. `chao-kuai-gan-start-concert` — 超快感（Start演唱会） (favorite=low, was scaffold)
+4. `chao-ren-lei` — 超人类 (favorite=low, was scaffold)
+5. `dang-dong-ye-jian-nuan` — 当冬夜渐暖 (favorite=low, was scaffold)
+6. `dream-a-little-dream-of-me` — Dream A Little Dream Of Me (favorite=low, was scaffold)
 
 Do **not** edit songs outside this list.
 
@@ -39,13 +39,13 @@ For each slug:
 
 ## Verify before finish
 ```bash
-npm run verify:deepread-batch -- --batch 4
+npm run verify:deepread-batch -- --batch 6
 npm run report:deepread-quality
 ```
 All songs in this batch must be `editorial`.
 
 ## Return (confirmation only)
-## Batch BATCH-004 Complete
+## Batch BATCH-006 Complete
 - slugs upgraded: ...
 - verify: pass/fail
 - notes: ...

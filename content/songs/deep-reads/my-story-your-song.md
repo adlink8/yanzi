@@ -1,8 +1,10 @@
 ---
 slug: my-story-your-song
-title: 'My Story, Your Song'
+title: My Story, Your Song
 status: ready
-updatedAt: '2026-04-08'
+updatedAt: '2026-07-17'
+mvUrl: ''
+mvTitle: ''
 lyricBlocks:
   - |-
     Is your smile genuine
@@ -11,78 +13,75 @@ lyricBlocks:
     Where would you wanna hide what would you seek
     Would you want what you thought what you want if no one can see
     No one can see
+  - |-
     See the pretty lights pretty smiles a long way from home
     See our story come sing along what would you know
     This is your song
     This is your song
-    Is your smile genuine are you that really kind
-    Do you like money and what it can bring
-    It can bring
-    Where would you wanna hide what would you seek
-    Would you want what you thought what you want if no one can see
-    No one can see
-    Is your smile genuine
-    Are you that really kind
-    Do you like money and what it can bring
-    Where would you wanna hide what would you seek
-    Would you want what you thought what you want if no one can see see
-    See the pretty lights pretty smiles a long way from home
-    See our story come sing along what would you know
-    This is your song oh
+  - |-
     I know where i'd rather be
     So i'm holding on going strong
     Joining the wrists we must be giving good we'll be good as new
-    See the pretty lights pretty smiles a long way from home
-    See our story come sing along what would you know
-    This is your song
-    This is your song
-    This is your song
 lyricInterpretations:
   - id: unit-01
-    section: 开场锚点
-    reference: 开场第一组歌词把语气先定住
+    section: 真假微笑
+    reference: Is your smile genuine
     lyricText: Is your smile genuine
-    interpretation: 这一句的价值在于“先立气质”。它不急着解释全部故事，而是先把 情绪推进 的底色摆出来，让听者立刻进入这首歌的情绪空间。
-    whyItMatters: 它决定了这首歌的第一印象和情绪方向。
+    interpretation: >-
+      开场连珠炮式提问：微笑真假、是否真善良、是否爱金钱能带来的东西。
+      不是告白，是审讯——对关系、对舞台、对公共人格的怀疑先于温情。
+    whyItMatters: 定下全曲的质疑语气，后文“your song”才有被检验的重量。
   - id: unit-02
-    section: 中段推进
-    reference: 中段开始把情绪和关系并行推进
-    lyricText: Is your smile genuine are you that really kind
-    interpretation: 到这一段时，歌曲开始把 关系表达 的层次推出来。你会听到情绪不是单向上升，而是边靠近边犹疑，这种拉扯让中段特别耐听。
-    whyItMatters: 它让歌曲从“有感觉”进入“有层次”。
+    section: 无人看见
+    reference: if no one can see
+    lyricText: Would you want what you thought what you want if no one can see
+    interpretation: >-
+      欲望在“无人看见”的条件下被重审：你以为自己想要的，独处时是否仍想要？
+      句式绕口，像思维打结——身份表演卸下后，想要之物可能变空。
+    whyItMatters: 把主题从八卦式提问推到自我认知：可见与不可见两套欲望。
   - id: unit-03
-    section: 转折时刻
-    reference: 转折句让内在冲突变得更清楚
+    section: 远处灯火
+    reference: pretty lights pretty smiles
     lyricText: See the pretty lights pretty smiles a long way from home
-    interpretation: 这一句像转轴，把前面的铺垫和后面的收束接起来。它不是爆发式宣告，而是让内心判断变得更具体，所以转折感会非常清晰。
-    whyItMatters: 它是整首歌叙事与情绪的关键连接点。
+    interpretation: >-
+      漂亮灯火与笑容，却“离家很远”：光鲜是巡演／城市景观，也是疏离感。
+      故事被邀请一起唱（come sing along），听众知道多少却成问句——共享与隔阂并存。
+    whyItMatters: 把故事／歌曲关系场景化：我们一起唱，你未必真懂。
   - id: unit-04
-    section: 收束余味
-    reference: 结尾把情绪落在留白和回响里
+    section: This is your song
+    reference: This is your song
     lyricText: This is your song
-    interpretation: 结尾这句的处理方式很克制：不把情绪讲满，而是留一点空白。也因为有这层留白，整首歌听完之后的余味会更长。
-    whyItMatters: 它决定听者最终记住的是哪一种情绪。
-  - id: auto-5
-    section: 自动补充段 5
-    reference: '《My Story, Your Song》 第 5 段'
-    lyricText: '《My Story, Your Song》 语句 5'
-    interpretation: '这是《My Story, Your Song》自动补充的第 5 段解读，主要呼应整体主题。'
-    whyItMatters: '这段让《My Story, Your Song》的情绪继续向前，是理解整首歌的补白。'
+    interpretation: >-
+      标题后半在副歌兑现：故事是我们的（our story），歌却指给你（your song）。
+      所有权微妙错位——我叙事，你领唱；像把经历交还给倾听的一方。
+    whyItMatters: 解释歌名张力：My Story 与 Your Song 的人称分裂即主题。
+  - id: unit-05
+    section: Holding on
+    reference: holding on going strong
+    lyricText: So i'm holding on going strong
+    interpretation: >-
+      中后段转向自我定位：我知道更想待在哪里，所以抓紧、走稳；
+      “joining the wrists… good as new”像把手腕相连、彼此修复——质疑之后仍选择联结。
+    whyItMatters: 不把审问停在虚无，收在坚持与修复的行动上。
 songDesign:
-  summary: 这首歌的设计重点是把 情绪推进 与 关系表达 通过“铺垫-推进-转折-收束”连成完整体验，结构清楚，情绪后劲明显。
+  summary: >-
+    以真假微笑与金钱提问开场，经“无人看见”重审欲望，再用远方灯火与合唱写疏离共享，
+    副歌把故事交给“your song”，尾段以 holding on 与手腕相连完成质疑后的联结。
   structure:
-    - 前段先给出核心语气，建立情绪入口。
-    - 中段扩大信息密度，推动情绪纵深。
-    - 后段通过转折与留白完成收束。
+    - 连续质问建立怀疑。
+    - 不可见条件重审欲望。
+    - 灯火／合唱的旅程场景。
+    - your song 所有权翻转与 holding on 收束。
   emotionCurve:
-    - 开头偏克制，先建立氛围。
-    - 中段逐步抬高，形成内在拉扯。
-    - 结尾回落但不断电，保留余味。
+    - 审讯式冷
+    - 自我拆解
+    - 疏离的光鲜
+    - 抓紧与修复
   craftNotes:
-    - 关键词与意象反复出现，帮助情绪聚焦。
-    - 转折句承担结构功能，不只是字面意义变化。
-    - 结尾不强行解释，提升回听价值。
+    - 英文全词，提问句式是主记忆点。
+    - our story / your song 人称错位是标题引擎。
+    - 尾段从怀疑转向身体化的联结（wrists）。
 ---
-《My Story, Your Song》最值得反复听的地方，在于它没有用夸张的叙事去推动情绪，而是把 情绪推进 和 关系表达 放在同一条线里慢慢展开。听感上会先被一句很具体的画面抓住，再被更深一层的情绪拉进去，最后落到一种“说得不重但后劲很强”的状态。
+My Story, Your Song 用英文把一场关系（或公共形象）拆开审问：你的笑是真的吗，你真的善良吗，你爱的是钱能买来的东西吗？想躲去哪里、追寻什么？若无人看见，你还会想要你以为想要的吗？问题叠问题，像聚光灯下卸妆——可见的表演与不可见的欲望不一定同一套。
 
-把这首歌放进整站的作品脉络看，它更像一个“情绪结构样本”：前段先定语气，中段把关系或自我拉扯推高，尾段不急着给答案，而是留出回味空间。这种克制但清楚的写法，也正是很多歌会让人想要回听的原因。
+中段出现漂亮灯火与笑容，却 a long way from home：光鲜离家很远。See our story, come sing along——故事被邀请合唱，what would you know 却又把理解悬空。副歌反复 This is your song：故事可以说是我们的，歌却交到你手里；My Story 与 Your Song 的人称错位，正是歌名要咬住的张力。后段 I know where I'd rather be，所以 holding on, going strong；手腕相连，近乎 good as new——审问之后仍选择抓紧与修复。作为官方单曲脉络里的英文作品，它不像甜蜜情歌，更像把“谁在听、谁在演、歌属于谁”问清楚之后，再把手伸回去的那一下。

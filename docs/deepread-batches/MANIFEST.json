@@ -1,28 +1,28 @@
 {
-  "generatedAt": "2026-07-17T01:14:34.993Z",
+  "generatedAt": "2026-07-17T01:19:47.870Z",
   "filters": {
     "size": 6,
-    "limit": 24,
-    "favorite": "medium",
+    "limit": 48,
+    "favorite": "all",
     "tiers": [
       "scaffold",
       "passable"
     ]
   },
-  "totalCandidates": 24,
-  "batchCount": 4,
+  "totalCandidates": 48,
+  "batchCount": 8,
   "batches": [
     {
       "id": "BATCH-001",
       "number": 1,
       "size": 6,
       "slugs": [
-        "ai-qing-de-hua-yang",
-        "an-ning",
-        "ban-ju-zai-jian",
-        "bi-jiao-xing-fu",
-        "cai-hong-jin-gang",
-        "chong-yang-qi"
+        "mei-you-ren-de-fang-xiang",
+        "meng-you",
+        "nan-de-yi-jian",
+        "piao-fu-qun-dao",
+        "ren-xing",
+        "ri-luo"
       ],
       "promptFile": "docs/deepread-batches/BATCH-001.md",
       "dataFile": "docs/deepread-batches/BATCH-001.json"
@@ -32,12 +32,12 @@
       "number": 2,
       "size": 6,
       "slugs": [
-        "cuo-jue",
-        "di-liu-gan",
-        "di-yi-tian",
-        "e-lover",
-        "fei-pu-er-xia",
-        "gu-ji-gu-ji"
+        "shen-qi",
+        "shi-jie-zhong-jie-qian-yi-tian",
+        "shou-hu-yong-heng-de-ai",
+        "sui-tang-ce-yan",
+        "tao-wang",
+        "tian-tian-nian-nian"
       ],
       "promptFile": "docs/deepread-batches/BATCH-002.md",
       "dataFile": "docs/deepread-batches/BATCH-002.json"
@@ -47,12 +47,12 @@
       "number": 3,
       "size": 6,
       "slugs": [
-        "honey-honey",
-        "huai-tian-qi",
-        "ji-mei",
-        "jie-xia-lai",
-        "kong-kou-yan",
-        "kuai-feng-le"
+        "wei-zhi-de-jing-cai",
+        "xiang-xin",
+        "xin-yuan",
+        "xiu-zhi-fu",
+        "yu-e",
+        "yu-hai-shi-bu-ting-de-luo-xia"
       ],
       "promptFile": "docs/deepread-batches/BATCH-003.md",
       "dataFile": "docs/deepread-batches/BATCH-003.json"
@@ -62,15 +62,75 @@
       "number": 4,
       "size": 6,
       "slugs": [
-        "leave",
-        "leave-me-alone",
-        "liao-jie",
-        "ling-que-dian",
-        "ling-yi-zhang-lian",
-        "man-man-lai"
+        "yu-tian",
+        "zhen-de",
+        "zhi-lai-zhi-wang",
+        "zhong",
+        "zhu-ni-kai-xin",
+        "zi-ran"
       ],
       "promptFile": "docs/deepread-batches/BATCH-004.md",
       "dataFile": "docs/deepread-batches/BATCH-004.json"
+    },
+    {
+      "id": "BATCH-005",
+      "number": 5,
+      "size": 6,
+      "slugs": [
+        "zui-hou-zhi-hou",
+        "180-du",
+        "ai-cong-ling-kai-shi",
+        "ai-qing-zheng-shu-start-concert",
+        "ai-qing-zi-dian-start-concert",
+        "bu-neng-he-ni-yi-qi"
+      ],
+      "promptFile": "docs/deepread-batches/BATCH-005.md",
+      "dataFile": "docs/deepread-batches/BATCH-005.json"
+    },
+    {
+      "id": "BATCH-006",
+      "number": 6,
+      "size": 6,
+      "slugs": [
+        "bu-shi-zhen-de-ai-wo",
+        "bu-tong",
+        "chao-kuai-gan-start-concert",
+        "chao-ren-lei",
+        "dang-dong-ye-jian-nuan",
+        "dream-a-little-dream-of-me"
+      ],
+      "promptFile": "docs/deepread-batches/BATCH-006.md",
+      "dataFile": "docs/deepread-batches/BATCH-006.json"
+    },
+    {
+      "id": "BATCH-007",
+      "number": 7,
+      "size": 6,
+      "slugs": [
+        "e-lover-2",
+        "lets-vino",
+        "lian-xi",
+        "ling-que-dian-start-concert",
+        "liu-lang-di-tu",
+        "lu-guang-start-concert"
+      ],
+      "promptFile": "docs/deepread-batches/BATCH-007.md",
+      "dataFile": "docs/deepread-batches/BATCH-007.json"
+    },
+    {
+      "id": "BATCH-008",
+      "number": 8,
+      "size": 6,
+      "slugs": [
+        "mei-shi-jian",
+        "meng-bu-luo",
+        "meng-xiang-tian-kong",
+        "ming-tian-de-ji-yi",
+        "ming-tian-qing-tian",
+        "my-story-your-song"
+      ],
+      "promptFile": "docs/deepread-batches/BATCH-008.md",
+      "dataFile": "docs/deepread-batches/BATCH-008.json"
     }
   ]
 }

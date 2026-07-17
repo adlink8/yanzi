@@ -10,12 +10,12 @@
 Read and obey: `docs/DEEPREAD-EDITORIAL-SPEC.md`
 
 ## Songs in this batch ONLY
-1. `ai-qing-de-hua-yang` — 爱情的花样 (favorite=medium, was scaffold)
-2. `an-ning` — 安宁 (favorite=medium, was scaffold)
-3. `ban-ju-zai-jian` — 半句再见 (favorite=medium, was scaffold)
-4. `bi-jiao-xing-fu` — 比较幸福 (favorite=medium, was scaffold)
-5. `cai-hong-jin-gang` — 彩虹金刚 (favorite=medium, was scaffold)
-6. `chong-yang-qi` — 充氧期 (favorite=medium, was scaffold)
+1. `mei-you-ren-de-fang-xiang` — 没有人的方向 (favorite=medium, was scaffold)
+2. `meng-you` — 梦游 (favorite=medium, was scaffold)
+3. `nan-de-yi-jian` — 难得一见 (favorite=medium, was scaffold)
+4. `piao-fu-qun-dao` — 漂浮群岛 (favorite=medium, was scaffold)
+5. `ren-xing` — 任性 (favorite=medium, was scaffold)
+6. `ri-luo` — 日落 (favorite=medium, was scaffold)
 
 Do **not** edit songs outside this list.
 

@@ -2,7 +2,9 @@
 slug: lets-vino
 title: Let's Vino
 status: ready
-updatedAt: '2026-04-08'
+updatedAt: '2026-07-17'
+mvUrl: ''
+mvTitle: ''
 lyricBlocks:
   - |-
     好心情往前冲自在没有尽头
@@ -19,87 +21,79 @@ lyricBlocks:
     Vino vino let's go yi ya yi ya
     Vino vino 绕地球一周
     突发奇想天马行空我知道你懂
-    Vino vino
     烦恼的时候一起发疯
     耐心当垃圾桶让我尽情地说
     开心的时候笑到肚子痛
     因为有你i'm not alone
-    用自己的步伐摸索
-    美丽的风景太多
-    想要走遍世界每个角落
-    没有你怎么够
-    Vino vino 我们去兜风
-    Vino vino 加速带我走
-    留下美好精采内容
-    You've stolen my heart
-    Vino vino let's go yi ya yi ya
-    Vino vino 绕地球一周
-    突发奇想天马行空我知道你懂
     阴天晴天都是一天
     谁能阻挡梦想最大
     不只是现在看见未来
     I want what i want and i want it now
-    Vino vino
-    我们去兜风
-    Vino vino
-    加速带我走
-    留下美好精彩内容
-    You've stolen my heart
-    Vino vino let's go yi ya yi ya
-    Vino vino 绕地球一周
-    突发奇想天马行空我知道你懂
-    我们去兜风
-    加速带我走lai
-    You've stolen my heart
-    我们去兜风
-    加速带我走
-    突发奇想天马行空我知道你懂
 lyricInterpretations:
-  - id: unit-01
-    section: 开场锚点
-    reference: 开场第一组歌词把语气先定住
-    lyricText: 好心情往前冲自在没有尽头
-    interpretation: 这一句的价值在于“先立气质”。它不急着解释全部故事，而是先把 成长 的底色摆出来，让听者立刻进入这首歌的情绪空间。
-    whyItMatters: 它决定了这首歌的第一印象和情绪方向。
-  - id: unit-02
-    section: 中段推进
-    reference: 中段开始把情绪和关系并行推进
-    lyricText: 耐心当垃圾桶让我尽情地说
-    interpretation: 到这一段时，歌曲开始把 关系变化 的层次推出来。你会听到情绪不是单向上升，而是边靠近边犹疑，这种拉扯让中段特别耐听。
-    whyItMatters: 它让歌曲从“有感觉”进入“有层次”。
-  - id: unit-03
-    section: 转折时刻
-    reference: 转折句让内在冲突变得更清楚
-    lyricText: 不只是现在看见未来
-    interpretation: 这一句像转轴，把前面的铺垫和后面的收束接起来。它不是爆发式宣告，而是让内心判断变得更具体，所以转折感会非常清晰。
-    whyItMatters: 它是整首歌叙事与情绪的关键连接点。
-  - id: unit-04
-    section: 收束余味
-    reference: 结尾把情绪落在留白和回响里
-    lyricText: 突发奇想天马行空我知道你懂
-    interpretation: 结尾这句的处理方式很克制：不把情绪讲满，而是留一点空白。也因为有这层留白，整首歌听完之后的余味会更长。
-    whyItMatters: 它决定听者最终记住的是哪一种情绪。
-  - id: auto-5
-    section: 自动补充段 5
-    reference: 《Let's Vino》 第 5 段
-    lyricText: 《Let's Vino》 语句 5
-    interpretation: 这是《Let's Vino》自动补充的第 5 段解读，主要呼应整体主题。
-    whyItMatters: 这段让《Let's Vino》的情绪继续向前，是理解整首歌的补白。
+  - id: part-01
+    section: 加满勇气
+    reference: 自在没有尽头
+    lyricText: 好心情往前冲自在没有尽头 / 流浪的时候大步地走 / 勇气加满 i'm not a alone
+    interpretation: >-
+      开场像给情绪油箱加油：好心情往前冲、流浪大步走、勇气加满。英文口误式的
+      “i'm not a alone”并不追求语法完美，反而像随口喊麦——重点是“我不孤单”的自我打气。
+      《Stefanie》时期的轻快旅行感，在这里被写成同伴型公路口号。
+    whyItMatters: 先把歌钉在行动与结伴，而不是怀旧伤感。
+  - id: part-02
+    section: 没有你怎么够
+    reference: 走遍角落
+    lyricText: 想要走遍世界每个角落 / 没有你怎么够
+    interpretation: >-
+      风景再多、角落再远，一句“没有你怎么够”把旅行目的从打卡改成共享。
+      它不是占有宣言，而是把“同行者”设为体验的完整条件——世界很大，单人通关不算通关。
+    whyItMatters: 旅行情歌的核心：目的地次要，同座的人优先。
+  - id: part-03
+    section: Vino 兜风
+    reference: 加速带我走
+    lyricText: Vino vino 我们去兜风 / Vino vino 加速带我走 / 留下美好精采内容
+    interpretation: >-
+      副歌用 Vino 当拟声/昵称式钩子，像举杯也像踩油门：兜风、加速、留下精彩内容。
+      它不讲深刻剧情，专做情绪加速器——适合现场一起喊，也符合专辑里想“把自己唱轻一点”的那面。
+    whyItMatters: 歌名与钩子合一，听感上的记忆点全在这里。
+  - id: part-04
+    section: 垃圾桶与肚子痛
+    reference: 一起发疯
+    lyricText: 烦恼的时候一起发疯 / 耐心当垃圾桶让我尽情地说 / 开心的时候笑到肚子痛
+    interpretation: >-
+      中段把“好朋友/爱人”的功能写得很生活：当垃圾桶、一起发疯、笑到肚子痛。
+      浪漫被降级成陪伴劳动——耐心接住碎碎念，比花言巧语更像真的能上路的关系。
+    whyItMatters: 补上副歌之外的体温，避免整首歌只剩口号。
+  - id: part-05
+    section: 现在就要
+    reference: 梦想最大
+    lyricText: 阴天晴天都是一天 / 谁能阻挡梦想最大 / I want what i want and i want it now
+    interpretation: >-
+      天气被抹平为“都是一天”，梦想被推到最大，英文直白喊出 want it now——延迟满足在这里不受欢迎。
+      这是自我整合期少见的任性加速：不是等雨停，是雨里也要走；不是慢慢要，是现在就要。
+    whyItMatters: 把兜风从玩乐抬成意志声明：欲望可以理直气壮。
 songDesign:
-  summary: 这首歌的设计重点是把 成长 与 关系变化 通过“铺垫-推进-转折-收束”连成完整体验，结构清楚，情绪后劲明显。
+  summary: >-
+    《Let's Vino》是结伴公路式的轻快曲：勇气加满、Vino 兜风钩子反复加速，
+    中段用“垃圾桶/笑到肚子痛”写陪伴，末段 “I want it now” 把任性说满。
   structure:
-    - 前段先给出核心语气，建立情绪入口。
-    - 中段扩大信息密度，推动情绪纵深。
-    - 后段通过转折与留白完成收束。
+    - 前段：好心情与勇气加满，建立出发姿态。
+    - 过门：走遍角落，没有你怎么够。
+    - 副歌：Vino 兜风 / 加速 / 绕地球。
+    - 中段：烦恼与开心的日常并肩。
+    - 桥段：梦想最大 + want it now。
   emotionCurve:
-    - 开头偏克制，先建立氛围。
-    - 中段逐步抬高，形成内在拉扯。
-    - 结尾回落但不断电，保留余味。
+    - 轻快起步
+    - 结伴确认
+    - 副歌加速
+    - 生活体温
+    - 任性冲顶
   craftNotes:
-    - 关键词与意象反复出现，帮助情绪聚焦。
-    - 转折句承担结构功能，不只是字面意义变化。
-    - 结尾不强行解释，提升回听价值。
+    - Vino 作无实指拟声，功能是节奏与举杯感，不必过度释义成酒文化论文。
+    - 中英口号混用服务现场喊唱，语法瑕疵反成口语真感。
+    - 与同专偏内省曲形成对照：这一首负责“往外冲”。
 ---
-《Let's Vino》最值得反复听的地方，在于它没有用夸张的叙事去推动情绪，而是把 成长 和 关系变化 放在同一条线里慢慢展开。听感上会先被一句很具体的画面抓住，再被更深一层的情绪拉进去，最后落到一种“说得不重但后劲很强”的状态。
+《Let's Vino》听起来像给一段关系系上安全带再踩油门：好心情往前冲，流浪时大步走，勇气加满——i'm not alone。想走遍世界每个角落，可是没有你怎么够；风景再多，缺了同座的人就不完整。
 
-把这首歌放进整站的作品脉络看，它更像一个“情绪结构样本”：前段先定语气，中段把关系或自我拉扯推高，尾段不急着给答案，而是留出回味空间。这种克制但清楚的写法，也正是很多歌会让人想要回听的原因。
+副歌的 Vino vino 与其说是酒名，不如说是加速口令：兜风、加速带我走、绕地球一周、突发奇想你都懂。中段忽然生活化——烦恼一起发疯，耐心当垃圾桶，开心笑到肚子痛——浪漫被写成可上路的陪伴劳动。
+
+到了“阴天晴天都是一天”“I want what i want and i want it now”，歌把任性说满：别等天气，别延后欲望。放在《Stefanie》自我整合的语境里，它是那张专辑里负责往外冲、往前笑的那一面，轻，但不空。

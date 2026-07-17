@@ -4,8 +4,8 @@
   "size": 6,
   "songs": [
     {
-      "slug": "leave",
-      "title": "Leave",
+      "slug": "yu-tian",
+      "title": "雨天",
       "favoriteLevel": "medium",
       "tier": "scaffold",
       "albumSlug": "my-story",
@@ -16,80 +16,47 @@
         "回看",
         "精选"
       ],
-      "summary": "《Leave》最难受的地方，不是离开这个动作本身，而是离开以后世界突然空了一点、安静了一点、也远了一点。它是一首很适合在余波里慢慢读的歌。",
-      "deepReadPath": "content/songs/deep-reads/leave.md",
-      "rawLyricsPath": "content/songs/raw-lyrics/leave.txt"
+      "summary": "《雨天》最动人的地方，是它写出了一种很多人都懂的瞬间：并没有发生什么大事，只是下雨了，于是某些本来已经压下去的情绪，又慢慢浮上来了。",
+      "deepReadPath": "content/songs/deep-reads/yu-tian.md",
+      "rawLyricsPath": "content/songs/raw-lyrics/yu-tian.txt"
     },
     {
-      "slug": "leave-me-alone",
-      "title": "Leave Me Alone",
+      "slug": "zhen-de",
+      "title": "真的",
+      "favoriteLevel": "medium",
+      "tier": "scaffold",
+      "albumSlug": "feng-zheng",
+      "moodTags": [
+        "回望"
+      ],
+      "themeTags": [
+        "希望",
+        "距离"
+      ],
+      "summary": "《真的》不是靠情绪爆发取胜的歌，它更像一份反复确认过之后的表达。也正因为这种稳定感，它会让整张专辑里那些更摇晃、更不安的部分有了一个对照面。",
+      "deepReadPath": "content/songs/deep-reads/zhen-de.md",
+      "rawLyricsPath": "content/songs/raw-lyrics/zhen-de.txt"
+    },
+    {
+      "slug": "zhi-lai-zhi-wang",
+      "title": "直来直往",
       "favoriteLevel": "medium",
       "tier": "scaffold",
       "albumSlug": "yanzi",
       "moodTags": [
-        "回望"
+        "明亮",
+        "直接"
       ],
       "themeTags": [
-        "青春",
         "自我表达"
       ],
-      "summary": "《Leave Me Alone》最爽的地方，在于它不解释太多，也不试图好好说服谁，而是直接把边界立起来。它让人看到，燕姿早期作品里除了温柔，也有很利落的拒绝和很干脆的力量。",
-      "deepReadPath": "content/songs/deep-reads/leave-me-alone.md",
-      "rawLyricsPath": "content/songs/raw-lyrics/leave-me-alone.txt"
+      "summary": "她早期作品里很鲜明的一种轻快和直接。",
+      "deepReadPath": "content/songs/deep-reads/zhi-lai-zhi-wang.md",
+      "rawLyricsPath": "content/songs/raw-lyrics/zhi-lai-zhi-wang.txt"
     },
     {
-      "slug": "liao-jie",
-      "title": "了解",
-      "favoriteLevel": "medium",
-      "tier": "scaffold",
-      "albumSlug": "my-story",
-      "moodTags": [
-        "回望"
-      ],
-      "themeTags": [
-        "关系变化"
-      ],
-      "summary": "《了解》的解读正在整理中。",
-      "deepReadPath": "content/songs/deep-reads/liao-jie.md",
-      "rawLyricsPath": "content/songs/raw-lyrics/liao-jie.txt"
-    },
-    {
-      "slug": "ling-que-dian",
-      "title": "零缺点",
-      "favoriteLevel": "medium",
-      "tier": "scaffold",
-      "albumSlug": "wo-yao-de-xing-fu",
-      "moodTags": [
-        "回望"
-      ],
-      "themeTags": [
-        "成长",
-        "勇气"
-      ],
-      "summary": "《零缺点》最适合从“理想化”去听。它未必是在说世界上真的有完美的人，而是在写一种很青春的时刻：你愿意先相信、先投射、先把对方想得特别好。",
-      "deepReadPath": "content/songs/deep-reads/ling-que-dian.md",
-      "rawLyricsPath": "content/songs/raw-lyrics/ling-que-dian.txt"
-    },
-    {
-      "slug": "ling-yi-zhang-lian",
-      "title": "另一张脸",
-      "favoriteLevel": "medium",
-      "tier": "scaffold",
-      "albumSlug": "wan-mei-de-yi-tian",
-      "moodTags": [
-        "回望"
-      ],
-      "themeTags": [
-        "日常感",
-        "愿望"
-      ],
-      "summary": "《另一张脸》的解读正在整理中。",
-      "deepReadPath": "content/songs/deep-reads/ling-yi-zhang-lian.md",
-      "rawLyricsPath": "content/songs/raw-lyrics/ling-yi-zhang-lian.txt"
-    },
-    {
-      "slug": "man-man-lai",
-      "title": "慢慢来",
+      "slug": "zhong",
+      "title": "种",
       "favoriteLevel": "medium",
       "tier": "scaffold",
       "albumSlug": "stefanie-self-titled",
@@ -100,10 +67,43 @@
         "内心独白",
         "回看"
       ],
-      "summary": "《慢慢来》不是让人退缩，而是提醒人：不是所有事情都要靠快来证明自己。它更像在教人把节奏调回身体和心都能承受的位置上。",
-      "deepReadPath": "content/songs/deep-reads/man-man-lai.md",
-      "rawLyricsPath": "content/songs/raw-lyrics/man-man-lai.txt"
+      "summary": "《种》是一首很适合慢慢读的歌。因为它写的不是结果，而是结果出现之前那段还看不见、但已经在发生的生长过程。这会让它在很多时候都变得非常耐听。",
+      "deepReadPath": "content/songs/deep-reads/zhong.md",
+      "rawLyricsPath": "content/songs/raw-lyrics/zhong.txt"
+    },
+    {
+      "slug": "zhu-ni-kai-xin",
+      "title": "祝你开心",
+      "favoriteLevel": "medium",
+      "tier": "scaffold",
+      "albumSlug": "stefanie-self-titled",
+      "moodTags": [
+        "回望"
+      ],
+      "themeTags": [
+        "内心独白",
+        "回看"
+      ],
+      "summary": "《祝你开心》表面很轻，但真正动人的地方，是它像一句说得刚刚好的话：不把自己说得太重，也不把情感完全撤走，而是留在一个有分寸的距离上，认真地祝福你。",
+      "deepReadPath": "content/songs/deep-reads/zhu-ni-kai-xin.md",
+      "rawLyricsPath": "content/songs/raw-lyrics/zhu-ni-kai-xin.txt"
+    },
+    {
+      "slug": "zi-ran",
+      "title": "自然",
+      "favoriteLevel": "medium",
+      "tier": "scaffold",
+      "albumSlug": "yanzi",
+      "moodTags": [
+        "回望"
+      ],
+      "themeTags": [
+        "关系变化"
+      ],
+      "summary": "《自然》的解读正在整理中。",
+      "deepReadPath": "content/songs/deep-reads/zi-ran.md",
+      "rawLyricsPath": "content/songs/raw-lyrics/zi-ran.txt"
     }
   ],
-  "createdAt": "2026-07-17T01:14:34.992Z"
+  "createdAt": "2026-07-17T01:19:47.866Z"
 }

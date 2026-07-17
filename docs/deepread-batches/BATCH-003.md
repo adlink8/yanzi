@@ -10,12 +10,12 @@
 Read and obey: `docs/DEEPREAD-EDITORIAL-SPEC.md`
 
 ## Songs in this batch ONLY
-1. `honey-honey` — Honey Honey (favorite=medium, was scaffold)
-2. `huai-tian-qi` — 坏天气 (favorite=medium, was scaffold)
-3. `ji-mei` — 极美 (favorite=medium, was scaffold)
-4. `jie-xia-lai` — 接下来 (favorite=medium, was scaffold)
-5. `kong-kou-yan` — 空口言 (favorite=medium, was scaffold)
-6. `kuai-feng-le` — 快疯了 (favorite=medium, was scaffold)
+1. `wei-zhi-de-jing-cai` — 未知的精采 (favorite=medium, was scaffold)
+2. `xiang-xin` — 相信 (favorite=medium, was scaffold)
+3. `xin-yuan` — 心愿 (favorite=medium, was scaffold)
+4. `xiu-zhi-fu` — 休止符 (favorite=medium, was scaffold)
+5. `yu-e` — 余额 (favorite=medium, was scaffold)
+6. `yu-hai-shi-bu-ting-de-luo-xia` — 雨还是不停地落下 (favorite=medium, was scaffold)
 
 Do **not** edit songs outside this list.
 
