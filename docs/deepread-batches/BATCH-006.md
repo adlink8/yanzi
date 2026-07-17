@@ -10,12 +10,12 @@
 Read and obey: `docs/DEEPREAD-EDITORIAL-SPEC.md`
 
 ## Songs in this batch ONLY
-1. `bu-shi-zhen-de-ai-wo` — 不是真的爱我 (favorite=low, was scaffold)
-2. `bu-tong` — 不同 (favorite=low, was scaffold)
-3. `chao-kuai-gan-start-concert` — 超快感（Start演唱会） (favorite=low, was scaffold)
-4. `chao-ren-lei` — 超人类 (favorite=low, was scaffold)
-5. `dang-dong-ye-jian-nuan` — 当冬夜渐暖 (favorite=low, was scaffold)
-6. `dream-a-little-dream-of-me` — Dream A Little Dream Of Me (favorite=low, was scaffold)
+1. `tian-yue-liang-ye-yue-hei-2` — 天越亮，夜越黑（版本二） (favorite=low, was scaffold)
+2. `ting-jian` — 听见 (favorite=low, was scaffold)
+3. `tong-yao-1987` — 童谣1987 (favorite=low, was scaffold)
+4. `up2u` — Up2u (favorite=low, was scaffold)
+5. `venus` — Venus (favorite=low, was scaffold)
+6. `venus-start-concert` — Venus Start Concert (favorite=low, was scaffold)
 
 Do **not** edit songs outside this list.
 

@@ -2,7 +2,9 @@
 slug: one-united-people
 title: One United People
 status: ready
-updatedAt: '2026-04-08'
+updatedAt: '2026-07-17'
+mvUrl: ''
+mvTitle: ''
 lyricBlocks:
   - |-
     One Singapore
@@ -16,114 +18,83 @@ lyricBlocks:
     Lighting up the sky
     照亮着天空
     你和我 一起分享着新加坡的心跳
-    We are
-    我们是
-    One Singapore
-    团结的新加坡
+  - |-
     One nation strong and free
-    一个坚强自由的民族
     A thousand different voices sing in harmony
-    千个声音和谐的歌唱着
     We will stand together
-    我们会站在一起
     Together hand in hand as
-    手拉着手
     One united people
-    团结一心
     For Singapore my homeland
-    为了新加坡 我的祖国
+  - |-
     My Singapore
-    我的新加坡
     Our island in the sun
-    我们是太阳下的小岛
     This is my homeland
-    这是我的祖国
     It's where my strength is from
-    她是我的力量之源
-    A rainbow of thousand colors
-    千色的彩虹
-    Lighting up the sky
-    照亮着天空
     We build a brighter future together you and I
-    你和我 一起建设更加光明的未来
-    We are
-    我们是
-    One Singapore
-    团结的新加坡
-    One nation strong and free
-    一个坚强自由的民族
-    A thousand different voices sing in harmony
-    千个声音和谐的歌唱着
-    We will stand together
-    我们会站在一起
-    Together hand in hand as
-    手拉着手
-    One united people
-    团结一心
-    For Singapore my homeland
-    为了新加坡 我的祖国
-    One Singapore
-    团结的新加坡
-    One nation strong and free
-    一个坚强自由的民族
-    A thousand different voices sing in harmony
-    千个声音和谐的歌唱着
-    We will stand together
-    我们会站在一起
-    Together hand in hand as
-    手拉着手
-    One united people
-    团结一心
-    One united people
-    众志成城
-    One united people
-    团结一心
 lyricInterpretations:
   - id: unit-01
-    section: 开场锚点
-    reference: 开场第一组歌词把语气先定住
+    section: 国族开场
+    reference: One Singapore
     lyricText: One Singapore
-    interpretation: 这一句的价值在于“先立气质”。它不急着解释全部故事，而是先把 关系变化 的底色摆出来，让听者立刻进入这首歌的情绪空间。
-    whyItMatters: 它决定了这首歌的第一印象和情绪方向。
+    interpretation: >-
+      开场不以私密情歌起势，而是用国名直呼其名，把演唱位置放在公共场合：
+      这是面向群体的合唱宣言。中英叠句立刻把“新加坡”写成可被齐唱的符号，
+      音色要稳、要亮，而不是私语。
+    whyItMatters: 定调为国庆/公共仪式曲，而非个人叙事。
   - id: unit-02
-    section: 中段推进
-    reference: 中段开始把情绪和关系并行推进
-    lyricText: 团结一心
-    interpretation: 到这一段时，歌曲开始把 成长 的层次推出来。你会听到情绪不是单向上升，而是边靠近边犹疑，这种拉扯让中段特别耐听。
-    whyItMatters: 它让歌曲从“有感觉”进入“有层次”。
+    section: 千色彩虹
+    reference: rainbow of a thousand colors
+    lyricText: We are a rainbow of a thousand colors
+    interpretation: >-
+      “千色彩虹”是多元社会的经典隐喻：颜色各异，却要在同一片天空里发光。
+      不抹平差异，而是用光谱承认差异；“Lighting up the sky”把多样性写成光源，
+      而不是需要被管理的杂音。
+    whyItMatters: 把团结写成“并置发光”，避免单一同质化口号。
   - id: unit-03
-    section: 转折时刻
-    reference: 转折句让内在冲突变得更清楚
-    lyricText: 千个声音和谐的歌唱着
-    interpretation: 这一句像转轴，把前面的铺垫和后面的收束接起来。它不是爆发式宣告，而是让内心判断变得更具体，所以转折感会非常清晰。
-    whyItMatters: 它是整首歌叙事与情绪的关键连接点。
+    section: 岛屿心跳
+    reference: 分享着新加坡的心跳
+    lyricText: 你和我 一起分享着新加坡的心跳
+    interpretation: >-
+      中文句突然把“国”缩小成可触的身体节律——心跳。你和我不是抽象公民，
+      而是共用同一个节拍的人；这让爱国不落在标语，而落在共感。
+    whyItMatters: 用身体意象把公共主题拉回人际温度。
   - id: unit-04
-    section: 收束余味
-    reference: 结尾把情绪落在留白和回响里
-    lyricText: One united people
-    interpretation: 结尾这句的处理方式很克制：不把情绪讲满，而是留一点空白。也因为有这层留白，整首歌听完之后的余味会更长。
-    whyItMatters: 它决定听者最终记住的是哪一种情绪。
-  - id: auto-5
-    section: 自动补充段 5
-    reference: 《One United People》 第 5 段
-    lyricText: 《One United People》 语句 5
-    interpretation: 这是《One United People》自动补充的第 5 段解读，主要呼应整体主题。
-    whyItMatters: 这段让《One United People》的情绪继续向前，是理解整首歌的补白。
+    section: 千声和谐
+    reference: thousand different voices
+    lyricText: A thousand different voices sing in harmony
+    interpretation: >-
+      千种不同声音“唱成和声”：和声本身就承认各声部音高不同，却可同时存在。
+      与“one heart one voice”对照，这里更诚实——统一不等于同音，而是协调。
+    whyItMatters: 用音乐术语完成政治隐喻，贴合合唱体裁。
+  - id: unit-05
+    section: 力量之源
+    reference: where my strength is from
+    lyricText: It's where my strength is from
+    interpretation: >-
+      桥段把岛屿写成力量来源：不是向外夸耀，而是向内取暖。“Our island in the sun”
+      把地理缩小成家；力量来自归属感，而非征服叙事。
+    whyItMatters: 收束到个人与家园的情感连结，避免只剩口号。
 songDesign:
-  summary: 这首歌的设计重点是把 关系变化 与 成长 通过“铺垫-推进-转折-收束”连成完整体验，结构清楚，情绪后劲明显。
+  summary: >-
+    双语国庆合唱体：以 One Singapore 定公共位置，用千色彩虹与千声和声处理多元，
+    再以岛屿、心跳、homeland 把国家缩回可感的家。
   structure:
-    - 前段先给出核心语气，建立情绪入口。
-    - 中段扩大信息密度，推动情绪纵深。
-    - 后段通过转折与留白完成收束。
+    - 国名齐唱开场，中英对照建立仪式感。
+    - 彩虹/和声段展开多元与团结的双义。
+    - 岛屿与力量之源收束为家园归属。
+    - 反复 One united people 做齐声钩子。
   emotionCurve:
-    - 开头偏克制，先建立氛围。
-    - 中段逐步抬高，形成内在拉扯。
-    - 结尾回落但不断电，保留余味。
+    - 庄重明亮
+    - 开阔包容
+    - 亲切归属
+    - 齐声昂扬
   craftNotes:
-    - 关键词与意象反复出现，帮助情绪聚焦。
-    - 转折句承担结构功能，不只是字面意义变化。
-    - 结尾不强行解释，提升回听价值。
+    - 中英并置既服务本地听众，也便于合唱记忆。
+    - 彩虹、和声、心跳三类意象分工清晰。
+    - 人称从 we / 你和我 在公共与私密之间滑动。
 ---
-《One United People》最值得反复听的地方，在于它没有用夸张的叙事去推动情绪，而是把 关系变化 和 成长 放在同一条线里慢慢展开。听感上会先被一句很具体的画面抓住，再被更深一层的情绪拉进去，最后落到一种“说得不重但后劲很强”的状态。
+《One United People》不是情歌，而是把“新加坡”写成可合唱的公共文本。开场 One Singapore、strong and free，像国庆场上的旗帜：先立群体位置，再谈情绪。它不讲个人分手故事，而是讲“我们如何同时是许多颜色、许多声音”。
 
-把这首歌放进整站的作品脉络看，它更像一个“情绪结构样本”：前段先定语气，中段把关系或自我拉扯推高，尾段不急着给答案，而是留出回味空间。这种克制但清楚的写法，也正是很多歌会让人想要回听的原因。
+最有设计感的一句是 rainbow of a thousand colors——千色并不是杂乱，而是一起 lighting up the sky。后面又说 a thousand different voices sing in harmony：统一被写成和声，不是同音复制。中文里“你和我一起分享着新加坡的心跳”，则把国家缩小成可共享的节律，公共主题才有温度。
+
+桥段 My Singapore / Our island in the sun / where my strength is from，把地理收成家园，力量来自归属。整首歌适合在仪式、齐唱、民族日语境里成立：燕姿的声线在这里更像领唱者，把众声拉进同一拍，而不是低语心事。

@@ -10,12 +10,12 @@
 Read and obey: `docs/DEEPREAD-EDITORIAL-SPEC.md`
 
 ## Songs in this batch ONLY
-1. `mei-you-ren-de-fang-xiang` — 没有人的方向 (favorite=medium, was scaffold)
-2. `meng-you` — 梦游 (favorite=medium, was scaffold)
-3. `nan-de-yi-jian` — 难得一见 (favorite=medium, was scaffold)
-4. `piao-fu-qun-dao` — 漂浮群岛 (favorite=medium, was scaffold)
-5. `ren-xing` — 任性 (favorite=medium, was scaffold)
-6. `ri-luo` — 日落 (favorite=medium, was scaffold)
+1. `nan-de-yi-jian-start-concert` — 难得一见（Start演唱会） (favorite=low, was scaffold)
+2. `ni-hao-bu-hao` — 你好不好 (favorite=low, was scaffold)
+3. `ni-ming-wan-sui` — 匿名万岁 (favorite=low, was scaffold)
+4. `nian-qing-wu-xian` — 年轻无限 (favorite=low, was scaffold)
+5. `nong-mei-mao` — 浓眉毛 (favorite=low, was scaffold)
+6. `on-the-road` — On The Road (favorite=low, was scaffold)
 
 Do **not** edit songs outside this list.
 

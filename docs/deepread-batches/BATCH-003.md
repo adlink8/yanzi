@@ -10,12 +10,12 @@
 Read and obey: `docs/DEEPREAD-EDITORIAL-SPEC.md`
 
 ## Songs in this batch ONLY
-1. `wei-zhi-de-jing-cai` — 未知的精采 (favorite=medium, was scaffold)
-2. `xiang-xin` — 相信 (favorite=medium, was scaffold)
-3. `xin-yuan` — 心愿 (favorite=medium, was scaffold)
-4. `xiu-zhi-fu` — 休止符 (favorite=medium, was scaffold)
-5. `yu-e` — 余额 (favorite=medium, was scaffold)
-6. `yu-hai-shi-bu-ting-de-luo-xia` — 雨还是不停地落下 (favorite=medium, was scaffold)
+1. `ren-zhi` — 人质 (favorite=low, was scaffold)
+2. `rise` — Rise (favorite=low, was scaffold)
+3. `shang-bu-liao` — 上不了 (favorite=low, was scaffold)
+4. `shi-guang-xiao-tou` — 时光小偷 (favorite=low, was scaffold)
+5. `someone` — Someone (favorite=low, was scaffold)
+6. `someone-start-concert` — Someone Start Concert (favorite=low, was scaffold)
 
 Do **not** edit songs outside this list.
 

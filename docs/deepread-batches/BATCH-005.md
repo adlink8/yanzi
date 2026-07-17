@@ -10,12 +10,12 @@
 Read and obey: `docs/DEEPREAD-EDITORIAL-SPEC.md`
 
 ## Songs in this batch ONLY
-1. `zui-hou-zhi-hou` — 最后之后 (favorite=medium, was scaffold)
-2. `180-du` — 180度 (favorite=low, was scaffold)
-3. `ai-cong-ling-kai-shi` — 爱从零开始 (favorite=low, was scaffold)
-4. `ai-qing-zheng-shu-start-concert` — 爱情证书（Start演唱会） (favorite=low, was scaffold)
-5. `ai-qing-zi-dian-start-concert` — 爱情字典（Start演唱会） (favorite=low, was scaffold)
-6. `bu-neng-he-ni-yi-qi` — 不能和你一起 (favorite=low, was scaffold)
+1. `sweet-child-o-mine-2` — Sweet Child O Mine 2 (favorite=low, was scaffold)
+2. `ta-men-de-ge` — 他们的歌 (favorite=low, was scaffold)
+3. `tai-yang-di-xia` — 太阳底下 (favorite=low, was scaffold)
+4. `that-i-would-be-good` — That I Would Be Good (favorite=low, was scaffold)
+5. `tian-kong` — 天空 (favorite=low, was scaffold)
+6. `tian-yue-liang-ye-yue-hei` — 天越亮，夜越黑 (favorite=low, was scaffold)
 
 Do **not** edit songs outside this list.
 

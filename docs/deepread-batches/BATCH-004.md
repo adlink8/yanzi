@@ -10,12 +10,12 @@
 Read and obey: `docs/DEEPREAD-EDITORIAL-SPEC.md`
 
 ## Songs in this batch ONLY
-1. `yu-tian` — 雨天 (favorite=medium, was scaffold)
-2. `zhen-de` — 真的 (favorite=medium, was scaffold)
-3. `zhi-lai-zhi-wang` — 直来直往 (favorite=medium, was scaffold)
-4. `zhong` — 种 (favorite=medium, was scaffold)
-5. `zhu-ni-kai-xin` — 祝你开心 (favorite=medium, was scaffold)
-6. `zi-ran` — 自然 (favorite=medium, was scaffold)
+1. `sometimes-love-just-aint-enough` — Sometimes Love Just Ain't Enough (favorite=low, was scaffold)
+2. `sparking-diamonds` — Sparkling Diamonds (favorite=low, was scaffold)
+3. `sparkling-diamonds-start-concert` — Sparkling Diamonds Start Concert (favorite=low, was scaffold)
+4. `stefanie` — Stefanie (favorite=low, was scaffold)
+5. `sui-tang-ce-yan-start-concert` — 随堂测验（Start演唱会） (favorite=low, was scaffold)
+6. `sweet-child-o-mine` — Sweet Child O' Mine (favorite=low, was scaffold)
 
 Do **not** edit songs outside this list.
 

@@ -4,26 +4,9 @@
   "size": 6,
   "songs": [
     {
-      "slug": "shen-qi",
-      "title": "神奇",
-      "favoriteLevel": "medium",
-      "tier": "scaffold",
-      "albumSlug": "wei-wan-cheng",
-      "moodTags": [
-        "回望"
-      ],
-      "themeTags": [
-        "关系变化",
-        "克制"
-      ],
-      "summary": "《神奇》很像一种没有完全解释清楚的着迷。它的魅力就在这里：你来不及先分析，就已经先被它带进去了。",
-      "deepReadPath": "content/songs/deep-reads/shen-qi.md",
-      "rawLyricsPath": "content/songs/raw-lyrics/shen-qi.txt"
-    },
-    {
-      "slug": "shi-jie-zhong-jie-qian-yi-tian",
-      "title": "世界终结前一天",
-      "favoriteLevel": "medium",
+      "slug": "one-united-people",
+      "title": "One United People",
+      "favoriteLevel": "low",
       "tier": "scaffold",
       "albumSlug": "official-singles-collection",
       "moodTags": [
@@ -32,14 +15,14 @@
       "themeTags": [
         "关系变化"
       ],
-      "summary": "《世界终结前一天》的解读正在整理中。",
-      "deepReadPath": "content/songs/deep-reads/shi-jie-zhong-jie-qian-yi-tian.md",
-      "rawLyricsPath": "content/songs/raw-lyrics/shi-jie-zhong-jie-qian-yi-tian.txt"
+      "summary": "《One United People》的解读正在整理中。",
+      "deepReadPath": "content/songs/deep-reads/one-united-people.md",
+      "rawLyricsPath": "content/songs/raw-lyrics/one-united-people.txt"
     },
     {
-      "slug": "shou-hu-yong-heng-de-ai",
-      "title": "守护永恒的爱",
-      "favoriteLevel": "medium",
+      "slug": "opening",
+      "title": "Opening",
+      "favoriteLevel": "low",
       "tier": "scaffold",
       "albumSlug": "official-singles-collection",
       "moodTags": [
@@ -48,48 +31,14 @@
       "themeTags": [
         "关系变化"
       ],
-      "summary": "《守护永恒的爱》的解读正在整理中。",
-      "deepReadPath": "content/songs/deep-reads/shou-hu-yong-heng-de-ai.md",
-      "rawLyricsPath": "content/songs/raw-lyrics/shou-hu-yong-heng-de-ai.txt"
+      "summary": "《Opening》的解读正在整理中。",
+      "deepReadPath": "content/songs/deep-reads/opening.md",
+      "rawLyricsPath": "content/songs/raw-lyrics/opening.txt"
     },
     {
-      "slug": "sui-tang-ce-yan",
-      "title": "随堂测验",
-      "favoriteLevel": "medium",
-      "tier": "scaffold",
-      "albumSlug": "feng-zheng",
-      "moodTags": [
-        "回望"
-      ],
-      "themeTags": [
-        "希望",
-        "距离"
-      ],
-      "summary": "《随堂测验》是一首很适合从标题切进去的歌。因为它最迷人的地方，就是那种突然被抽问、来不及准备、却又不得不回应的情绪感。",
-      "deepReadPath": "content/songs/deep-reads/sui-tang-ce-yan.md",
-      "rawLyricsPath": "content/songs/raw-lyrics/sui-tang-ce-yan.txt"
-    },
-    {
-      "slug": "tao-wang",
-      "title": "逃亡",
-      "favoriteLevel": "medium",
-      "tier": "scaffold",
-      "albumSlug": "feng-zheng",
-      "moodTags": [
-        "回望"
-      ],
-      "themeTags": [
-        "希望",
-        "距离"
-      ],
-      "summary": "《逃亡》是一首很适合从动作感去理解的歌。它不是“离开以后慢慢想”，而更像“已经来不及想了，只能先跑”。这种速度感和危机感，会让它在《风筝》时期的作品里显得特别有张力。",
-      "deepReadPath": "content/songs/deep-reads/tao-wang.md",
-      "rawLyricsPath": "content/songs/raw-lyrics/tao-wang.txt"
-    },
-    {
-      "slug": "tian-tian-nian-nian",
-      "title": "天天年年",
-      "favoriteLevel": "medium",
+      "slug": "ping-ri-kuai-le",
+      "title": "平日快乐",
+      "favoriteLevel": "low",
       "tier": "scaffold",
       "albumSlug": "no-13",
       "moodTags": [
@@ -98,10 +47,58 @@
       "themeTags": [
         "关系变化"
       ],
-      "summary": "《天天年年》的解读正在整理中。",
-      "deepReadPath": "content/songs/deep-reads/tian-tian-nian-nian.md",
-      "rawLyricsPath": "content/songs/raw-lyrics/tian-tian-nian-nian.txt"
+      "summary": "《平日快乐》的解读正在整理中。",
+      "deepReadPath": "content/songs/deep-reads/ping-ri-kuai-le.md",
+      "rawLyricsPath": "content/songs/raw-lyrics/ping-ri-kuai-le.txt"
+    },
+    {
+      "slug": "qin-guang",
+      "title": "擒光",
+      "favoriteLevel": "low",
+      "tier": "scaffold",
+      "albumSlug": "official-singles-collection",
+      "moodTags": [
+        "回望"
+      ],
+      "themeTags": [
+        "关系变化"
+      ],
+      "summary": "《擒光》的解读正在整理中。",
+      "deepReadPath": "content/songs/deep-reads/qin-guang.md",
+      "rawLyricsPath": "content/songs/raw-lyrics/qin-guang.txt"
+    },
+    {
+      "slug": "quan-xin-quan-yi",
+      "title": "全心全意",
+      "favoriteLevel": "low",
+      "tier": "scaffold",
+      "albumSlug": "official-singles-collection",
+      "moodTags": [
+        "回望"
+      ],
+      "themeTags": [
+        "关系变化"
+      ],
+      "summary": "《全心全意》的解读正在整理中。",
+      "deepReadPath": "content/songs/deep-reads/quan-xin-quan-yi.md",
+      "rawLyricsPath": "content/songs/raw-lyrics/quan-xin-quan-yi.txt"
+    },
+    {
+      "slug": "radio",
+      "title": "Radio",
+      "favoriteLevel": "low",
+      "tier": "scaffold",
+      "albumSlug": "official-singles-collection",
+      "moodTags": [
+        "回望"
+      ],
+      "themeTags": [
+        "关系变化"
+      ],
+      "summary": "《Radio》的解读正在整理中。",
+      "deepReadPath": "content/songs/deep-reads/radio.md",
+      "rawLyricsPath": "content/songs/raw-lyrics/radio.txt"
     }
   ],
-  "createdAt": "2026-07-17T01:19:47.864Z"
+  "createdAt": "2026-07-17T01:24:35.941Z"
 }

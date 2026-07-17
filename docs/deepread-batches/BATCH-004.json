@@ -4,106 +4,101 @@
   "size": 6,
   "songs": [
     {
-      "slug": "yu-tian",
-      "title": "雨天",
-      "favoriteLevel": "medium",
+      "slug": "sometimes-love-just-aint-enough",
+      "title": "Sometimes Love Just Ain't Enough",
+      "favoriteLevel": "low",
       "tier": "scaffold",
-      "albumSlug": "my-story",
-      "moodTags": [
-        "回望"
-      ],
-      "themeTags": [
-        "回看",
-        "精选"
-      ],
-      "summary": "《雨天》最动人的地方，是它写出了一种很多人都懂的瞬间：并没有发生什么大事，只是下雨了，于是某些本来已经压下去的情绪，又慢慢浮上来了。",
-      "deepReadPath": "content/songs/deep-reads/yu-tian.md",
-      "rawLyricsPath": "content/songs/raw-lyrics/yu-tian.txt"
-    },
-    {
-      "slug": "zhen-de",
-      "title": "真的",
-      "favoriteLevel": "medium",
-      "tier": "scaffold",
-      "albumSlug": "feng-zheng",
-      "moodTags": [
-        "回望"
-      ],
-      "themeTags": [
-        "希望",
-        "距离"
-      ],
-      "summary": "《真的》不是靠情绪爆发取胜的歌，它更像一份反复确认过之后的表达。也正因为这种稳定感，它会让整张专辑里那些更摇晃、更不安的部分有了一个对照面。",
-      "deepReadPath": "content/songs/deep-reads/zhen-de.md",
-      "rawLyricsPath": "content/songs/raw-lyrics/zhen-de.txt"
-    },
-    {
-      "slug": "zhi-lai-zhi-wang",
-      "title": "直来直往",
-      "favoriteLevel": "medium",
-      "tier": "scaffold",
-      "albumSlug": "yanzi",
-      "moodTags": [
-        "明亮",
-        "直接"
-      ],
-      "themeTags": [
-        "自我表达"
-      ],
-      "summary": "她早期作品里很鲜明的一种轻快和直接。",
-      "deepReadPath": "content/songs/deep-reads/zhi-lai-zhi-wang.md",
-      "rawLyricsPath": "content/songs/raw-lyrics/zhi-lai-zhi-wang.txt"
-    },
-    {
-      "slug": "zhong",
-      "title": "种",
-      "favoriteLevel": "medium",
-      "tier": "scaffold",
-      "albumSlug": "stefanie-self-titled",
-      "moodTags": [
-        "回望"
-      ],
-      "themeTags": [
-        "内心独白",
-        "回看"
-      ],
-      "summary": "《种》是一首很适合慢慢读的歌。因为它写的不是结果，而是结果出现之前那段还看不见、但已经在发生的生长过程。这会让它在很多时候都变得非常耐听。",
-      "deepReadPath": "content/songs/deep-reads/zhong.md",
-      "rawLyricsPath": "content/songs/raw-lyrics/zhong.txt"
-    },
-    {
-      "slug": "zhu-ni-kai-xin",
-      "title": "祝你开心",
-      "favoriteLevel": "medium",
-      "tier": "scaffold",
-      "albumSlug": "stefanie-self-titled",
-      "moodTags": [
-        "回望"
-      ],
-      "themeTags": [
-        "内心独白",
-        "回看"
-      ],
-      "summary": "《祝你开心》表面很轻，但真正动人的地方，是它像一句说得刚刚好的话：不把自己说得太重，也不把情感完全撤走，而是留在一个有分寸的距离上，认真地祝福你。",
-      "deepReadPath": "content/songs/deep-reads/zhu-ni-kai-xin.md",
-      "rawLyricsPath": "content/songs/raw-lyrics/zhu-ni-kai-xin.txt"
-    },
-    {
-      "slug": "zi-ran",
-      "title": "自然",
-      "favoriteLevel": "medium",
-      "tier": "scaffold",
-      "albumSlug": "yanzi",
+      "albumSlug": "official-singles-collection",
       "moodTags": [
         "回望"
       ],
       "themeTags": [
         "关系变化"
       ],
-      "summary": "《自然》的解读正在整理中。",
-      "deepReadPath": "content/songs/deep-reads/zi-ran.md",
-      "rawLyricsPath": "content/songs/raw-lyrics/zi-ran.txt"
+      "summary": "《Sometimes Love Just Ain't Enough》的解读正在整理中。",
+      "deepReadPath": "content/songs/deep-reads/sometimes-love-just-aint-enough.md",
+      "rawLyricsPath": "content/songs/raw-lyrics/sometimes-love-just-aint-enough.txt"
+    },
+    {
+      "slug": "sparking-diamonds",
+      "title": "Sparkling Diamonds",
+      "favoriteLevel": "low",
+      "tier": "scaffold",
+      "albumSlug": "official-singles-collection",
+      "moodTags": [
+        "回望"
+      ],
+      "themeTags": [
+        "关系变化"
+      ],
+      "summary": "《Sparkling Diamonds》的解读正在整理中。",
+      "deepReadPath": "content/songs/deep-reads/sparking-diamonds.md",
+      "rawLyricsPath": "content/songs/raw-lyrics/sparking-diamonds.txt"
+    },
+    {
+      "slug": "sparkling-diamonds-start-concert",
+      "title": "Sparkling Diamonds Start Concert",
+      "favoriteLevel": "low",
+      "tier": "scaffold",
+      "albumSlug": "start-live",
+      "moodTags": [
+        "回望"
+      ],
+      "themeTags": [
+        "关系变化"
+      ],
+      "summary": "《Sparkling Diamonds Start Concert》的解读正在整理中。",
+      "deepReadPath": "content/songs/deep-reads/sparkling-diamonds-start-concert.md",
+      "rawLyricsPath": "content/songs/raw-lyrics/sparkling-diamonds-start-concert.txt"
+    },
+    {
+      "slug": "stefanie",
+      "title": "Stefanie",
+      "favoriteLevel": "low",
+      "tier": "scaffold",
+      "albumSlug": "official-singles-collection",
+      "moodTags": [
+        "回望"
+      ],
+      "themeTags": [
+        "关系变化"
+      ],
+      "summary": "《Stefanie》的解读正在整理中。",
+      "deepReadPath": "content/songs/deep-reads/stefanie.md",
+      "rawLyricsPath": "content/songs/raw-lyrics/stefanie.txt"
+    },
+    {
+      "slug": "sui-tang-ce-yan-start-concert",
+      "title": "随堂测验（Start演唱会）",
+      "favoriteLevel": "low",
+      "tier": "scaffold",
+      "albumSlug": "start-live",
+      "moodTags": [
+        "回望"
+      ],
+      "themeTags": [
+        "关系变化"
+      ],
+      "summary": "《随堂测验（Start演唱会）》的解读正在整理中。",
+      "deepReadPath": "content/songs/deep-reads/sui-tang-ce-yan-start-concert.md",
+      "rawLyricsPath": "content/songs/raw-lyrics/sui-tang-ce-yan-start-concert.txt"
+    },
+    {
+      "slug": "sweet-child-o-mine",
+      "title": "Sweet Child O' Mine",
+      "favoriteLevel": "low",
+      "tier": "scaffold",
+      "albumSlug": "official-singles-collection",
+      "moodTags": [
+        "回望"
+      ],
+      "themeTags": [
+        "关系变化"
+      ],
+      "summary": "《Sweet Child O' Mine》的解读正在整理中。",
+      "deepReadPath": "content/songs/deep-reads/sweet-child-o-mine.md",
+      "rawLyricsPath": "content/songs/raw-lyrics/sweet-child-o-mine.txt"
     }
   ],
-  "createdAt": "2026-07-17T01:19:47.866Z"
+  "createdAt": "2026-07-17T01:24:35.943Z"
 }

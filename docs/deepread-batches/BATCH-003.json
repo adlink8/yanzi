@@ -4,77 +4,9 @@
   "size": 6,
   "songs": [
     {
-      "slug": "wei-zhi-de-jing-cai",
-      "title": "未知的精采",
-      "favoriteLevel": "medium",
-      "tier": "scaffold",
-      "albumSlug": "stefanie-self-titled",
-      "moodTags": [
-        "回望"
-      ],
-      "themeTags": [
-        "内心独白",
-        "回看"
-      ],
-      "summary": "《未知的精采》最迷人的地方，是它没有要求你先看清楚全部，而是先告诉你：看不清也没关系，未知本身就可能很精彩。它给人的不是答案，而是一点继续往前的胆量。",
-      "deepReadPath": "content/songs/deep-reads/wei-zhi-de-jing-cai.md",
-      "rawLyricsPath": "content/songs/raw-lyrics/wei-zhi-de-jing-cai.txt"
-    },
-    {
-      "slug": "xiang-xin",
-      "title": "相信",
-      "favoriteLevel": "medium",
-      "tier": "scaffold",
-      "albumSlug": "wo-yao-de-xing-fu",
-      "moodTags": [
-        "回望"
-      ],
-      "themeTags": [
-        "成长",
-        "勇气"
-      ],
-      "summary": "《相信》不是把困难抹掉，而是把“即使如此，我还是想相信”说得很稳。它越平静，越能听见里面那种不想轻易放弃的力量。",
-      "deepReadPath": "content/songs/deep-reads/xiang-xin.md",
-      "rawLyricsPath": "content/songs/raw-lyrics/xiang-xin.txt"
-    },
-    {
-      "slug": "xin-yuan",
-      "title": "心愿",
-      "favoriteLevel": "medium",
-      "tier": "scaffold",
-      "albumSlug": "wan-mei-de-yi-tian",
-      "moodTags": [
-        "回望"
-      ],
-      "themeTags": [
-        "日常感",
-        "愿望"
-      ],
-      "summary": "《心愿》的解读正在整理中。",
-      "deepReadPath": "content/songs/deep-reads/xin-yuan.md",
-      "rawLyricsPath": "content/songs/raw-lyrics/xin-yuan.txt"
-    },
-    {
-      "slug": "xiu-zhi-fu",
-      "title": "休止符",
-      "favoriteLevel": "medium",
-      "tier": "scaffold",
-      "albumSlug": "wei-wan-cheng",
-      "moodTags": [
-        "回望"
-      ],
-      "themeTags": [
-        "关系变化",
-        "克制"
-      ],
-      "summary": "《休止符》最漂亮的地方，是它用一个音乐记号把情绪停住了。不是完全结束，也不是还能顺畅往下走，而是停在某个位置，让人不得不去看这段空白到底意味着什么。",
-      "deepReadPath": "content/songs/deep-reads/xiu-zhi-fu.md",
-      "rawLyricsPath": "content/songs/raw-lyrics/xiu-zhi-fu.txt"
-    },
-    {
-      "slug": "yu-e",
-      "title": "余额",
-      "favoriteLevel": "medium",
+      "slug": "ren-zhi",
+      "title": "人质",
+      "favoriteLevel": "low",
       "tier": "scaffold",
       "albumSlug": "official-singles-collection",
       "moodTags": [
@@ -83,27 +15,92 @@
       "themeTags": [
         "关系变化"
       ],
-      "summary": "《余额》的解读正在整理中。",
-      "deepReadPath": "content/songs/deep-reads/yu-e.md",
-      "rawLyricsPath": "content/songs/raw-lyrics/yu-e.txt"
+      "summary": "《人质》的解读正在整理中。",
+      "deepReadPath": "content/songs/deep-reads/ren-zhi.md",
+      "rawLyricsPath": "content/songs/raw-lyrics/ren-zhi.txt"
     },
     {
-      "slug": "yu-hai-shi-bu-ting-de-luo-xia",
-      "title": "雨还是不停地落下",
-      "favoriteLevel": "medium",
+      "slug": "rise",
+      "title": "Rise",
+      "favoriteLevel": "low",
       "tier": "scaffold",
-      "albumSlug": "ke-bu-le",
+      "albumSlug": "official-singles-collection",
       "moodTags": [
         "回望"
       ],
       "themeTags": [
-        "时间感",
-        "命运感"
+        "关系变化"
       ],
-      "summary": "《雨还是不停地落下》最刺人的地方，不是它写下雨，而是它写“还在下”。有些情绪最难受的不是突然到来，而是它已经来了很久，却还没有要停的意思。",
-      "deepReadPath": "content/songs/deep-reads/yu-hai-shi-bu-ting-de-luo-xia.md",
-      "rawLyricsPath": "content/songs/raw-lyrics/yu-hai-shi-bu-ting-de-luo-xia.txt"
+      "summary": "《Rise》的解读正在整理中。",
+      "deepReadPath": "content/songs/deep-reads/rise.md",
+      "rawLyricsPath": "content/songs/raw-lyrics/rise.txt"
+    },
+    {
+      "slug": "shang-bu-liao",
+      "title": "上不了",
+      "favoriteLevel": "low",
+      "tier": "scaffold",
+      "albumSlug": "yanzi",
+      "moodTags": [
+        "倔强",
+        "失衡"
+      ],
+      "themeTags": [
+        "关系变化",
+        "内心独白"
+      ],
+      "summary": "更靠近情绪爆发边缘的一首，适合补一篇关于早期张力的解读。",
+      "deepReadPath": "content/songs/deep-reads/shang-bu-liao.md",
+      "rawLyricsPath": "content/songs/raw-lyrics/shang-bu-liao.txt"
+    },
+    {
+      "slug": "shi-guang-xiao-tou",
+      "title": "时光小偷",
+      "favoriteLevel": "low",
+      "tier": "scaffold",
+      "albumSlug": "official-singles-collection",
+      "moodTags": [
+        "回望"
+      ],
+      "themeTags": [
+        "关系变化"
+      ],
+      "summary": "《时光小偷》的解读正在整理中。",
+      "deepReadPath": "content/songs/deep-reads/shi-guang-xiao-tou.md",
+      "rawLyricsPath": "content/songs/raw-lyrics/shi-guang-xiao-tou.txt"
+    },
+    {
+      "slug": "someone",
+      "title": "Someone",
+      "favoriteLevel": "low",
+      "tier": "scaffold",
+      "albumSlug": "official-singles-collection",
+      "moodTags": [
+        "回望"
+      ],
+      "themeTags": [
+        "关系变化"
+      ],
+      "summary": "《Someone》的解读正在整理中。",
+      "deepReadPath": "content/songs/deep-reads/someone.md",
+      "rawLyricsPath": "content/songs/raw-lyrics/someone.txt"
+    },
+    {
+      "slug": "someone-start-concert",
+      "title": "Someone Start Concert",
+      "favoriteLevel": "low",
+      "tier": "scaffold",
+      "albumSlug": "start-live",
+      "moodTags": [
+        "回望"
+      ],
+      "themeTags": [
+        "关系变化"
+      ],
+      "summary": "《Someone Start Concert》的解读正在整理中。",
+      "deepReadPath": "content/songs/deep-reads/someone-start-concert.md",
+      "rawLyricsPath": "content/songs/raw-lyrics/someone-start-concert.txt"
     }
   ],
-  "createdAt": "2026-07-17T01:19:47.865Z"
+  "createdAt": "2026-07-17T01:24:35.942Z"
 }

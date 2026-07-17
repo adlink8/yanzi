@@ -4,88 +4,8 @@
   "size": 6,
   "songs": [
     {
-      "slug": "bu-shi-zhen-de-ai-wo",
-      "title": "不是真的爱我",
-      "favoriteLevel": "low",
-      "tier": "scaffold",
-      "albumSlug": "feng-zheng",
-      "moodTags": [
-        "回望"
-      ],
-      "themeTags": [
-        "关系变化"
-      ],
-      "summary": "《不是真的爱我》的解读正在整理中。",
-      "deepReadPath": "content/songs/deep-reads/bu-shi-zhen-de-ai-wo.md",
-      "rawLyricsPath": "content/songs/raw-lyrics/bu-shi-zhen-de-ai-wo.txt"
-    },
-    {
-      "slug": "bu-tong",
-      "title": "不同",
-      "favoriteLevel": "low",
-      "tier": "scaffold",
-      "albumSlug": "leave",
-      "moodTags": [
-        "回望"
-      ],
-      "themeTags": [
-        "关系变化"
-      ],
-      "summary": "《不同》的解读正在整理中。",
-      "deepReadPath": "content/songs/deep-reads/bu-tong.md",
-      "rawLyricsPath": "content/songs/raw-lyrics/bu-tong.txt"
-    },
-    {
-      "slug": "chao-kuai-gan-start-concert",
-      "title": "超快感（Start演唱会）",
-      "favoriteLevel": "low",
-      "tier": "scaffold",
-      "albumSlug": "start-live",
-      "moodTags": [
-        "回望"
-      ],
-      "themeTags": [
-        "关系变化"
-      ],
-      "summary": "《超快感（Start演唱会）》的解读正在整理中。",
-      "deepReadPath": "content/songs/deep-reads/chao-kuai-gan-start-concert.md",
-      "rawLyricsPath": "content/songs/raw-lyrics/chao-kuai-gan-start-concert.txt"
-    },
-    {
-      "slug": "chao-ren-lei",
-      "title": "超人类",
-      "favoriteLevel": "low",
-      "tier": "scaffold",
-      "albumSlug": "no-13",
-      "moodTags": [
-        "回望"
-      ],
-      "themeTags": [
-        "关系变化"
-      ],
-      "summary": "《超人类》的解读正在整理中。",
-      "deepReadPath": "content/songs/deep-reads/chao-ren-lei.md",
-      "rawLyricsPath": "content/songs/raw-lyrics/chao-ren-lei.txt"
-    },
-    {
-      "slug": "dang-dong-ye-jian-nuan",
-      "title": "当冬夜渐暖",
-      "favoriteLevel": "low",
-      "tier": "scaffold",
-      "albumSlug": "shi-shi-hou",
-      "moodTags": [
-        "回望"
-      ],
-      "themeTags": [
-        "关系变化"
-      ],
-      "summary": "《当冬夜渐暖》的解读正在整理中。",
-      "deepReadPath": "content/songs/deep-reads/dang-dong-ye-jian-nuan.md",
-      "rawLyricsPath": "content/songs/raw-lyrics/dang-dong-ye-jian-nuan.txt"
-    },
-    {
-      "slug": "dream-a-little-dream-of-me",
-      "title": "Dream A Little Dream Of Me",
+      "slug": "tian-yue-liang-ye-yue-hei-2",
+      "title": "天越亮，夜越黑（版本二）",
       "favoriteLevel": "low",
       "tier": "scaffold",
       "albumSlug": "official-singles-collection",
@@ -95,10 +15,90 @@
       "themeTags": [
         "关系变化"
       ],
-      "summary": "《Dream A Little Dream Of Me》的解读正在整理中。",
-      "deepReadPath": "content/songs/deep-reads/dream-a-little-dream-of-me.md",
-      "rawLyricsPath": "content/songs/raw-lyrics/dream-a-little-dream-of-me.txt"
+      "summary": "《天越亮，夜越黑（版本二）》的解读正在整理中。",
+      "deepReadPath": "content/songs/deep-reads/tian-yue-liang-ye-yue-hei-2.md",
+      "rawLyricsPath": "content/songs/raw-lyrics/tian-yue-liang-ye-yue-hei-2.txt"
+    },
+    {
+      "slug": "ting-jian",
+      "title": "听见",
+      "favoriteLevel": "low",
+      "tier": "scaffold",
+      "albumSlug": "official-singles-collection",
+      "moodTags": [
+        "回望"
+      ],
+      "themeTags": [
+        "关系变化"
+      ],
+      "summary": "《听见》的解读正在整理中。",
+      "deepReadPath": "content/songs/deep-reads/ting-jian.md",
+      "rawLyricsPath": "content/songs/raw-lyrics/ting-jian.txt"
+    },
+    {
+      "slug": "tong-yao-1987",
+      "title": "童谣1987",
+      "favoriteLevel": "low",
+      "tier": "scaffold",
+      "albumSlug": "official-singles-collection",
+      "moodTags": [
+        "回望"
+      ],
+      "themeTags": [
+        "关系变化"
+      ],
+      "summary": "《童谣1987》的解读正在整理中。",
+      "deepReadPath": "content/songs/deep-reads/tong-yao-1987.md",
+      "rawLyricsPath": "content/songs/raw-lyrics/tong-yao-1987.txt"
+    },
+    {
+      "slug": "up2u",
+      "title": "Up2u",
+      "favoriteLevel": "low",
+      "tier": "scaffold",
+      "albumSlug": "official-singles-collection",
+      "moodTags": [
+        "回望"
+      ],
+      "themeTags": [
+        "关系变化"
+      ],
+      "summary": "《Up2u》的解读正在整理中。",
+      "deepReadPath": "content/songs/deep-reads/up2u.md",
+      "rawLyricsPath": "content/songs/raw-lyrics/up2u.txt"
+    },
+    {
+      "slug": "venus",
+      "title": "Venus",
+      "favoriteLevel": "low",
+      "tier": "scaffold",
+      "albumSlug": "official-singles-collection",
+      "moodTags": [
+        "回望"
+      ],
+      "themeTags": [
+        "关系变化"
+      ],
+      "summary": "《Venus》的解读正在整理中。",
+      "deepReadPath": "content/songs/deep-reads/venus.md",
+      "rawLyricsPath": "content/songs/raw-lyrics/venus.txt"
+    },
+    {
+      "slug": "venus-start-concert",
+      "title": "Venus Start Concert",
+      "favoriteLevel": "low",
+      "tier": "scaffold",
+      "albumSlug": "start-live",
+      "moodTags": [
+        "回望"
+      ],
+      "themeTags": [
+        "关系变化"
+      ],
+      "summary": "《Venus Start Concert》的解读正在整理中。",
+      "deepReadPath": "content/songs/deep-reads/venus-start-concert.md",
+      "rawLyricsPath": "content/songs/raw-lyrics/venus-start-concert.txt"
     }
   ],
-  "createdAt": "2026-07-17T01:19:47.868Z"
+  "createdAt": "2026-07-17T01:24:35.946Z"
 }

@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-07-17T01:23:52.378Z",
+  "generatedAt": "2026-07-17T01:32:24.303Z",
   "scanned": 184,
   "tierCounts": {
-    "scaffold": 65,
-    "passable": 13,
-    "editorial": 106
+    "scaffold": 0,
+    "passable": 0,
+    "editorial": 184
   },
   "highFavoriteCount": 8,
   "highFavoriteEditorial": 8,
@@ -1839,2100 +1839,6 @@
       "scaffoldHits": []
     },
     {
-      "slug": "nan-de-yi-jian-start-concert",
-      "title": "难得一见（Start演唱会）",
-      "favoriteLevel": "low",
-      "moodTags": [
-        "回望"
-      ],
-      "themeTags": [
-        "关系变化"
-      ],
-      "summary": "《难得一见（Start演唱会）》的解读正在整理中。",
-      "tier": "scaffold",
-      "flags": [
-        "missing_mvUrl",
-        "some_interpretations_weak",
-        "scaffold:自动补充的第|情绪结构样本|语句 5"
-      ],
-      "interpretationCount": 5,
-      "weakInterpretationCount": 2,
-      "uniqueInterpretationRatio": 1,
-      "bodyChars": 215,
-      "hasMvUrl": false,
-      "scaffoldHits": [
-        "自动补充的第",
-        "情绪结构样本",
-        "语句 5"
-      ]
-    },
-    {
-      "slug": "ni-hao-bu-hao",
-      "title": "你好不好",
-      "favoriteLevel": "low",
-      "moodTags": [
-        "回望"
-      ],
-      "themeTags": [
-        "关系变化"
-      ],
-      "summary": "《你好不好》的解读正在整理中。",
-      "tier": "scaffold",
-      "flags": [
-        "missing_mvUrl",
-        "some_interpretations_weak",
-        "scaffold:自动补充的第|情绪结构样本|语句 5"
-      ],
-      "interpretationCount": 5,
-      "weakInterpretationCount": 2,
-      "uniqueInterpretationRatio": 1,
-      "bodyChars": 205,
-      "hasMvUrl": false,
-      "scaffoldHits": [
-        "自动补充的第",
-        "情绪结构样本",
-        "语句 5"
-      ]
-    },
-    {
-      "slug": "ni-ming-wan-sui",
-      "title": "匿名万岁",
-      "favoriteLevel": "low",
-      "moodTags": [
-        "回望"
-      ],
-      "themeTags": [
-        "关系变化"
-      ],
-      "summary": "《匿名万岁》的解读正在整理中。",
-      "tier": "scaffold",
-      "flags": [
-        "missing_mvUrl",
-        "some_interpretations_weak",
-        "scaffold:自动补充的第|情绪结构样本|语句 5"
-      ],
-      "interpretationCount": 5,
-      "weakInterpretationCount": 2,
-      "uniqueInterpretationRatio": 1,
-      "bodyChars": 207,
-      "hasMvUrl": false,
-      "scaffoldHits": [
-        "自动补充的第",
-        "情绪结构样本",
-        "语句 5"
-      ]
-    },
-    {
-      "slug": "nian-qing-wu-xian",
-      "title": "年轻无限",
-      "favoriteLevel": "low",
-      "moodTags": [
-        "回望"
-      ],
-      "themeTags": [
-        "关系变化"
-      ],
-      "summary": "《年轻无限》的解读正在整理中。",
-      "tier": "scaffold",
-      "flags": [
-        "missing_mvUrl",
-        "some_interpretations_weak",
-        "scaffold:自动补充的第|情绪结构样本|语句 5"
-      ],
-      "interpretationCount": 5,
-      "weakInterpretationCount": 2,
-      "uniqueInterpretationRatio": 1,
-      "bodyChars": 205,
-      "hasMvUrl": false,
-      "scaffoldHits": [
-        "自动补充的第",
-        "情绪结构样本",
-        "语句 5"
-      ]
-    },
-    {
-      "slug": "nong-mei-mao",
-      "title": "浓眉毛",
-      "favoriteLevel": "low",
-      "moodTags": [
-        "回望"
-      ],
-      "themeTags": [
-        "关系变化"
-      ],
-      "summary": "《浓眉毛》的解读正在整理中。",
-      "tier": "scaffold",
-      "flags": [
-        "missing_mvUrl",
-        "some_interpretations_weak",
-        "scaffold:自动补充的第|情绪结构样本|语句 5"
-      ],
-      "interpretationCount": 5,
-      "weakInterpretationCount": 2,
-      "uniqueInterpretationRatio": 1,
-      "bodyChars": 206,
-      "hasMvUrl": false,
-      "scaffoldHits": [
-        "自动补充的第",
-        "情绪结构样本",
-        "语句 5"
-      ]
-    },
-    {
-      "slug": "on-the-road",
-      "title": "On The Road",
-      "favoriteLevel": "low",
-      "moodTags": [
-        "回望"
-      ],
-      "themeTags": [
-        "关系变化"
-      ],
-      "summary": "《On The Road》的解读正在整理中。",
-      "tier": "scaffold",
-      "flags": [
-        "missing_mvUrl",
-        "some_interpretations_weak",
-        "scaffold:自动补充的第|情绪结构样本|语句 5"
-      ],
-      "interpretationCount": 5,
-      "weakInterpretationCount": 2,
-      "uniqueInterpretationRatio": 1,
-      "bodyChars": 216,
-      "hasMvUrl": false,
-      "scaffoldHits": [
-        "自动补充的第",
-        "情绪结构样本",
-        "语句 5"
-      ]
-    },
-    {
-      "slug": "one-united-people",
-      "title": "One United People",
-      "favoriteLevel": "low",
-      "moodTags": [
-        "回望"
-      ],
-      "themeTags": [
-        "关系变化"
-      ],
-      "summary": "《One United People》的解读正在整理中。",
-      "tier": "scaffold",
-      "flags": [
-        "missing_mvUrl",
-        "some_interpretations_weak",
-        "scaffold:自动补充的第|情绪结构样本|语句 5"
-      ],
-      "interpretationCount": 5,
-      "weakInterpretationCount": 2,
-      "uniqueInterpretationRatio": 1,
-      "bodyChars": 220,
-      "hasMvUrl": false,
-      "scaffoldHits": [
-        "自动补充的第",
-        "情绪结构样本",
-        "语句 5"
-      ]
-    },
-    {
-      "slug": "opening",
-      "title": "Opening",
-      "favoriteLevel": "low",
-      "moodTags": [
-        "回望"
-      ],
-      "themeTags": [
-        "关系变化"
-      ],
-      "summary": "《Opening》的解读正在整理中。",
-      "tier": "scaffold",
-      "flags": [
-        "missing_mvUrl",
-        "some_interpretations_weak",
-        "scaffold:自动补充的第|情绪结构样本|语句 5"
-      ],
-      "interpretationCount": 5,
-      "weakInterpretationCount": 2,
-      "uniqueInterpretationRatio": 1,
-      "bodyChars": 212,
-      "hasMvUrl": false,
-      "scaffoldHits": [
-        "自动补充的第",
-        "情绪结构样本",
-        "语句 5"
-      ]
-    },
-    {
-      "slug": "ping-ri-kuai-le",
-      "title": "平日快乐",
-      "favoriteLevel": "low",
-      "moodTags": [
-        "回望"
-      ],
-      "themeTags": [
-        "关系变化"
-      ],
-      "summary": "《平日快乐》的解读正在整理中。",
-      "tier": "scaffold",
-      "flags": [
-        "missing_mvUrl",
-        "some_interpretations_weak",
-        "scaffold:自动补充的第|情绪结构样本|语句 5"
-      ],
-      "interpretationCount": 5,
-      "weakInterpretationCount": 2,
-      "uniqueInterpretationRatio": 1,
-      "bodyChars": 207,
-      "hasMvUrl": false,
-      "scaffoldHits": [
-        "自动补充的第",
-        "情绪结构样本",
-        "语句 5"
-      ]
-    },
-    {
-      "slug": "qin-guang",
-      "title": "擒光",
-      "favoriteLevel": "low",
-      "moodTags": [
-        "回望"
-      ],
-      "themeTags": [
-        "关系变化"
-      ],
-      "summary": "《擒光》的解读正在整理中。",
-      "tier": "scaffold",
-      "flags": [
-        "missing_mvUrl",
-        "some_interpretations_weak",
-        "scaffold:自动补充的第|情绪结构样本|语句 5"
-      ],
-      "interpretationCount": 5,
-      "weakInterpretationCount": 2,
-      "uniqueInterpretationRatio": 1,
-      "bodyChars": 205,
-      "hasMvUrl": false,
-      "scaffoldHits": [
-        "自动补充的第",
-        "情绪结构样本",
-        "语句 5"
-      ]
-    },
-    {
-      "slug": "quan-xin-quan-yi",
-      "title": "全心全意",
-      "favoriteLevel": "low",
-      "moodTags": [
-        "回望"
-      ],
-      "themeTags": [
-        "关系变化"
-      ],
-      "summary": "《全心全意》的解读正在整理中。",
-      "tier": "scaffold",
-      "flags": [
-        "missing_mvUrl",
-        "some_interpretations_weak",
-        "scaffold:自动补充的第|情绪结构样本|语句 5"
-      ],
-      "interpretationCount": 5,
-      "weakInterpretationCount": 2,
-      "uniqueInterpretationRatio": 1,
-      "bodyChars": 205,
-      "hasMvUrl": false,
-      "scaffoldHits": [
-        "自动补充的第",
-        "情绪结构样本",
-        "语句 5"
-      ]
-    },
-    {
-      "slug": "radio",
-      "title": "Radio",
-      "favoriteLevel": "low",
-      "moodTags": [
-        "回望"
-      ],
-      "themeTags": [
-        "关系变化"
-      ],
-      "summary": "《Radio》的解读正在整理中。",
-      "tier": "scaffold",
-      "flags": [
-        "missing_mvUrl",
-        "some_interpretations_weak",
-        "scaffold:自动补充的第|情绪结构样本|语句 5"
-      ],
-      "interpretationCount": 5,
-      "weakInterpretationCount": 2,
-      "uniqueInterpretationRatio": 1,
-      "bodyChars": 206,
-      "hasMvUrl": false,
-      "scaffoldHits": [
-        "自动补充的第",
-        "情绪结构样本",
-        "语句 5"
-      ]
-    },
-    {
-      "slug": "ren-zhi",
-      "title": "人质",
-      "favoriteLevel": "low",
-      "moodTags": [
-        "回望"
-      ],
-      "themeTags": [
-        "关系变化"
-      ],
-      "summary": "《人质》的解读正在整理中。",
-      "tier": "scaffold",
-      "flags": [
-        "missing_mvUrl",
-        "some_interpretations_weak",
-        "scaffold:自动补充的第|情绪结构样本|语句 5"
-      ],
-      "interpretationCount": 5,
-      "weakInterpretationCount": 2,
-      "uniqueInterpretationRatio": 1,
-      "bodyChars": 207,
-      "hasMvUrl": false,
-      "scaffoldHits": [
-        "自动补充的第",
-        "情绪结构样本",
-        "语句 5"
-      ]
-    },
-    {
-      "slug": "rise",
-      "title": "Rise",
-      "favoriteLevel": "low",
-      "moodTags": [
-        "回望"
-      ],
-      "themeTags": [
-        "关系变化"
-      ],
-      "summary": "《Rise》的解读正在整理中。",
-      "tier": "scaffold",
-      "flags": [
-        "missing_mvUrl",
-        "some_interpretations_weak",
-        "scaffold:自动补充的第|情绪结构样本|语句 5"
-      ],
-      "interpretationCount": 5,
-      "weakInterpretationCount": 2,
-      "uniqueInterpretationRatio": 1,
-      "bodyChars": 209,
-      "hasMvUrl": false,
-      "scaffoldHits": [
-        "自动补充的第",
-        "情绪结构样本",
-        "语句 5"
-      ]
-    },
-    {
-      "slug": "shang-bu-liao",
-      "title": "上不了",
-      "favoriteLevel": "low",
-      "moodTags": [
-        "倔强",
-        "失衡"
-      ],
-      "themeTags": [
-        "关系变化",
-        "内心独白"
-      ],
-      "summary": "更靠近情绪爆发边缘的一首，适合补一篇关于早期张力的解读。",
-      "tier": "scaffold",
-      "flags": [
-        "missing_mvUrl",
-        "empty_lyricInterpretations",
-        "scaffold:开场句"
-      ],
-      "interpretationCount": 0,
-      "weakInterpretationCount": 0,
-      "uniqueInterpretationRatio": 0,
-      "bodyChars": 146,
-      "hasMvUrl": false,
-      "scaffoldHits": [
-        "开场句"
-      ]
-    },
-    {
-      "slug": "shi-guang-xiao-tou",
-      "title": "时光小偷",
-      "favoriteLevel": "low",
-      "moodTags": [
-        "回望"
-      ],
-      "themeTags": [
-        "关系变化"
-      ],
-      "summary": "《时光小偷》的解读正在整理中。",
-      "tier": "scaffold",
-      "flags": [
-        "missing_mvUrl",
-        "some_interpretations_weak",
-        "scaffold:自动补充的第|情绪结构样本|语句 5"
-      ],
-      "interpretationCount": 5,
-      "weakInterpretationCount": 2,
-      "uniqueInterpretationRatio": 1,
-      "bodyChars": 205,
-      "hasMvUrl": false,
-      "scaffoldHits": [
-        "自动补充的第",
-        "情绪结构样本",
-        "语句 5"
-      ]
-    },
-    {
-      "slug": "someone",
-      "title": "Someone",
-      "favoriteLevel": "low",
-      "moodTags": [
-        "回望"
-      ],
-      "themeTags": [
-        "关系变化"
-      ],
-      "summary": "《Someone》的解读正在整理中。",
-      "tier": "scaffold",
-      "flags": [
-        "missing_mvUrl",
-        "some_interpretations_weak",
-        "scaffold:自动补充的第|语句 5"
-      ],
-      "interpretationCount": 5,
-      "weakInterpretationCount": 1,
-      "uniqueInterpretationRatio": 1,
-      "bodyChars": 217,
-      "hasMvUrl": false,
-      "scaffoldHits": [
-        "自动补充的第",
-        "语句 5"
-      ]
-    },
-    {
-      "slug": "someone-start-concert",
-      "title": "Someone Start Concert",
-      "favoriteLevel": "low",
-      "moodTags": [
-        "回望"
-      ],
-      "themeTags": [
-        "关系变化"
-      ],
-      "summary": "《Someone Start Concert》的解读正在整理中。",
-      "tier": "scaffold",
-      "flags": [
-        "missing_mvUrl",
-        "some_interpretations_weak",
-        "scaffold:自动补充的第|语句 5"
-      ],
-      "interpretationCount": 5,
-      "weakInterpretationCount": 2,
-      "uniqueInterpretationRatio": 1,
-      "bodyChars": 227,
-      "hasMvUrl": false,
-      "scaffoldHits": [
-        "自动补充的第",
-        "语句 5"
-      ]
-    },
-    {
-      "slug": "sometimes-love-just-aint-enough",
-      "title": "Sometimes Love Just Ain't Enough",
-      "favoriteLevel": "low",
-      "moodTags": [
-        "回望"
-      ],
-      "themeTags": [
-        "关系变化"
-      ],
-      "summary": "《Sometimes Love Just Ain't Enough》的解读正在整理中。",
-      "tier": "scaffold",
-      "flags": [
-        "missing_mvUrl",
-        "some_interpretations_weak",
-        "scaffold:自动补充的第|语句 5"
-      ],
-      "interpretationCount": 5,
-      "weakInterpretationCount": 2,
-      "uniqueInterpretationRatio": 1,
-      "bodyChars": 238,
-      "hasMvUrl": false,
-      "scaffoldHits": [
-        "自动补充的第",
-        "语句 5"
-      ]
-    },
-    {
-      "slug": "sparking-diamonds",
-      "title": "Sparkling Diamonds",
-      "favoriteLevel": "low",
-      "moodTags": [
-        "回望"
-      ],
-      "themeTags": [
-        "关系变化"
-      ],
-      "summary": "《Sparkling Diamonds》的解读正在整理中。",
-      "tier": "scaffold",
-      "flags": [
-        "missing_mvUrl",
-        "some_interpretations_weak",
-        "scaffold:自动补充的第|语句 5"
-      ],
-      "interpretationCount": 5,
-      "weakInterpretationCount": 2,
-      "uniqueInterpretationRatio": 1,
-      "bodyChars": 228,
-      "hasMvUrl": false,
-      "scaffoldHits": [
-        "自动补充的第",
-        "语句 5"
-      ]
-    },
-    {
-      "slug": "sparkling-diamonds-start-concert",
-      "title": "Sparkling Diamonds Start Concert",
-      "favoriteLevel": "low",
-      "moodTags": [
-        "回望"
-      ],
-      "themeTags": [
-        "关系变化"
-      ],
-      "summary": "《Sparkling Diamonds Start Concert》的解读正在整理中。",
-      "tier": "scaffold",
-      "flags": [
-        "missing_mvUrl",
-        "some_interpretations_weak",
-        "scaffold:自动补充的第|语句 5"
-      ],
-      "interpretationCount": 5,
-      "weakInterpretationCount": 1,
-      "uniqueInterpretationRatio": 1,
-      "bodyChars": 242,
-      "hasMvUrl": false,
-      "scaffoldHits": [
-        "自动补充的第",
-        "语句 5"
-      ]
-    },
-    {
-      "slug": "stefanie",
-      "title": "Stefanie",
-      "favoriteLevel": "low",
-      "moodTags": [
-        "回望"
-      ],
-      "themeTags": [
-        "关系变化"
-      ],
-      "summary": "《Stefanie》的解读正在整理中。",
-      "tier": "scaffold",
-      "flags": [
-        "missing_mvUrl",
-        "some_interpretations_weak",
-        "scaffold:自动补充的第|语句 5"
-      ],
-      "interpretationCount": 5,
-      "weakInterpretationCount": 2,
-      "uniqueInterpretationRatio": 1,
-      "bodyChars": 220,
-      "hasMvUrl": false,
-      "scaffoldHits": [
-        "自动补充的第",
-        "语句 5"
-      ]
-    },
-    {
-      "slug": "sui-tang-ce-yan-start-concert",
-      "title": "随堂测验（Start演唱会）",
-      "favoriteLevel": "low",
-      "moodTags": [
-        "回望"
-      ],
-      "themeTags": [
-        "关系变化"
-      ],
-      "summary": "《随堂测验（Start演唱会）》的解读正在整理中。",
-      "tier": "scaffold",
-      "flags": [
-        "missing_mvUrl",
-        "some_interpretations_weak",
-        "scaffold:自动补充的第|语句 5"
-      ],
-      "interpretationCount": 5,
-      "weakInterpretationCount": 2,
-      "uniqueInterpretationRatio": 1,
-      "bodyChars": 224,
-      "hasMvUrl": false,
-      "scaffoldHits": [
-        "自动补充的第",
-        "语句 5"
-      ]
-    },
-    {
-      "slug": "sweet-child-o-mine",
-      "title": "Sweet Child O' Mine",
-      "favoriteLevel": "low",
-      "moodTags": [
-        "回望"
-      ],
-      "themeTags": [
-        "关系变化"
-      ],
-      "summary": "《Sweet Child O' Mine》的解读正在整理中。",
-      "tier": "scaffold",
-      "flags": [
-        "missing_mvUrl",
-        "some_interpretations_weak",
-        "scaffold:自动补充的第|语句 5"
-      ],
-      "interpretationCount": 5,
-      "weakInterpretationCount": 2,
-      "uniqueInterpretationRatio": 1,
-      "bodyChars": 229,
-      "hasMvUrl": false,
-      "scaffoldHits": [
-        "自动补充的第",
-        "语句 5"
-      ]
-    },
-    {
-      "slug": "sweet-child-o-mine-2",
-      "title": "Sweet Child O Mine 2",
-      "favoriteLevel": "low",
-      "moodTags": [
-        "回望"
-      ],
-      "themeTags": [
-        "关系变化"
-      ],
-      "summary": "《Sweet Child O Mine 2》的解读正在整理中。",
-      "tier": "scaffold",
-      "flags": [
-        "missing_mvUrl",
-        "some_interpretations_weak",
-        "scaffold:自动补充的第|语句 5"
-      ],
-      "interpretationCount": 5,
-      "weakInterpretationCount": 2,
-      "uniqueInterpretationRatio": 1,
-      "bodyChars": 232,
-      "hasMvUrl": false,
-      "scaffoldHits": [
-        "自动补充的第",
-        "语句 5"
-      ]
-    },
-    {
-      "slug": "ta-men-de-ge",
-      "title": "他们的歌",
-      "favoriteLevel": "low",
-      "moodTags": [
-        "回望"
-      ],
-      "themeTags": [
-        "关系变化"
-      ],
-      "summary": "《他们的歌》的解读正在整理中。",
-      "tier": "scaffold",
-      "flags": [
-        "missing_mvUrl",
-        "some_interpretations_weak",
-        "scaffold:自动补充的第|语句 5"
-      ],
-      "interpretationCount": 5,
-      "weakInterpretationCount": 2,
-      "uniqueInterpretationRatio": 1,
-      "bodyChars": 214,
-      "hasMvUrl": false,
-      "scaffoldHits": [
-        "自动补充的第",
-        "语句 5"
-      ]
-    },
-    {
-      "slug": "tai-yang-di-xia",
-      "title": "太阳底下",
-      "favoriteLevel": "low",
-      "moodTags": [
-        "回望"
-      ],
-      "themeTags": [
-        "关系变化"
-      ],
-      "summary": "《太阳底下》的解读正在整理中。",
-      "tier": "scaffold",
-      "flags": [
-        "missing_mvUrl",
-        "some_interpretations_weak",
-        "scaffold:自动补充的第|语句 5"
-      ],
-      "interpretationCount": 5,
-      "weakInterpretationCount": 2,
-      "uniqueInterpretationRatio": 1,
-      "bodyChars": 216,
-      "hasMvUrl": false,
-      "scaffoldHits": [
-        "自动补充的第",
-        "语句 5"
-      ]
-    },
-    {
-      "slug": "that-i-would-be-good",
-      "title": "That I Would Be Good",
-      "favoriteLevel": "low",
-      "moodTags": [
-        "回望"
-      ],
-      "themeTags": [
-        "关系变化"
-      ],
-      "summary": "《That I Would Be Good》的解读正在整理中。",
-      "tier": "scaffold",
-      "flags": [
-        "missing_mvUrl",
-        "some_interpretations_weak",
-        "scaffold:自动补充的第|语句 5"
-      ],
-      "interpretationCount": 5,
-      "weakInterpretationCount": 2,
-      "uniqueInterpretationRatio": 1,
-      "bodyChars": 232,
-      "hasMvUrl": false,
-      "scaffoldHits": [
-        "自动补充的第",
-        "语句 5"
-      ]
-    },
-    {
-      "slug": "tian-kong",
-      "title": "天空",
-      "favoriteLevel": "low",
-      "moodTags": [
-        "回望"
-      ],
-      "themeTags": [
-        "关系变化"
-      ],
-      "summary": "《天空》的解读正在整理中。",
-      "tier": "scaffold",
-      "flags": [
-        "missing_mvUrl",
-        "some_interpretations_weak",
-        "scaffold:自动补充的第|情绪结构样本|语句 5"
-      ],
-      "interpretationCount": 5,
-      "weakInterpretationCount": 2,
-      "uniqueInterpretationRatio": 1,
-      "bodyChars": 205,
-      "hasMvUrl": false,
-      "scaffoldHits": [
-        "自动补充的第",
-        "情绪结构样本",
-        "语句 5"
-      ]
-    },
-    {
-      "slug": "tian-yue-liang-ye-yue-hei",
-      "title": "天越亮，夜越黑",
-      "favoriteLevel": "low",
-      "moodTags": [
-        "回望"
-      ],
-      "themeTags": [
-        "关系变化"
-      ],
-      "summary": "《天越亮，夜越黑》的解读正在整理中。",
-      "tier": "scaffold",
-      "flags": [
-        "missing_mvUrl",
-        "some_interpretations_weak",
-        "scaffold:自动补充的第|情绪结构样本|语句 5"
-      ],
-      "interpretationCount": 5,
-      "weakInterpretationCount": 2,
-      "uniqueInterpretationRatio": 1,
-      "bodyChars": 208,
-      "hasMvUrl": false,
-      "scaffoldHits": [
-        "自动补充的第",
-        "情绪结构样本",
-        "语句 5"
-      ]
-    },
-    {
-      "slug": "tian-yue-liang-ye-yue-hei-2",
-      "title": "天越亮，夜越黑（版本二）",
-      "favoriteLevel": "low",
-      "moodTags": [
-        "回望"
-      ],
-      "themeTags": [
-        "关系变化"
-      ],
-      "summary": "《天越亮，夜越黑（版本二）》的解读正在整理中。",
-      "tier": "scaffold",
-      "flags": [
-        "missing_mvUrl",
-        "some_interpretations_weak",
-        "scaffold:自动补充的第|情绪结构样本|语句 5"
-      ],
-      "interpretationCount": 5,
-      "weakInterpretationCount": 2,
-      "uniqueInterpretationRatio": 1,
-      "bodyChars": 213,
-      "hasMvUrl": false,
-      "scaffoldHits": [
-        "自动补充的第",
-        "情绪结构样本",
-        "语句 5"
-      ]
-    },
-    {
-      "slug": "ting-jian",
-      "title": "听见",
-      "favoriteLevel": "low",
-      "moodTags": [
-        "回望"
-      ],
-      "themeTags": [
-        "关系变化"
-      ],
-      "summary": "《听见》的解读正在整理中。",
-      "tier": "scaffold",
-      "flags": [
-        "missing_mvUrl",
-        "some_interpretations_weak",
-        "scaffold:自动补充的第|情绪结构样本|语句 5"
-      ],
-      "interpretationCount": 5,
-      "weakInterpretationCount": 2,
-      "uniqueInterpretationRatio": 1,
-      "bodyChars": 207,
-      "hasMvUrl": false,
-      "scaffoldHits": [
-        "自动补充的第",
-        "情绪结构样本",
-        "语句 5"
-      ]
-    },
-    {
-      "slug": "tong-yao-1987",
-      "title": "童谣1987",
-      "favoriteLevel": "low",
-      "moodTags": [
-        "回望"
-      ],
-      "themeTags": [
-        "关系变化"
-      ],
-      "summary": "《童谣1987》的解读正在整理中。",
-      "tier": "scaffold",
-      "flags": [
-        "missing_mvUrl",
-        "some_interpretations_weak",
-        "scaffold:自动补充的第|情绪结构样本|语句 5"
-      ],
-      "interpretationCount": 5,
-      "weakInterpretationCount": 2,
-      "uniqueInterpretationRatio": 1,
-      "bodyChars": 207,
-      "hasMvUrl": false,
-      "scaffoldHits": [
-        "自动补充的第",
-        "情绪结构样本",
-        "语句 5"
-      ]
-    },
-    {
-      "slug": "up2u",
-      "title": "Up2u",
-      "favoriteLevel": "low",
-      "moodTags": [
-        "回望"
-      ],
-      "themeTags": [
-        "关系变化"
-      ],
-      "summary": "《Up2u》的解读正在整理中。",
-      "tier": "scaffold",
-      "flags": [
-        "missing_mvUrl",
-        "some_interpretations_weak",
-        "scaffold:自动补充的第|情绪结构样本|语句 5"
-      ],
-      "interpretationCount": 5,
-      "weakInterpretationCount": 2,
-      "uniqueInterpretationRatio": 1,
-      "bodyChars": 207,
-      "hasMvUrl": false,
-      "scaffoldHits": [
-        "自动补充的第",
-        "情绪结构样本",
-        "语句 5"
-      ]
-    },
-    {
-      "slug": "venus",
-      "title": "Venus",
-      "favoriteLevel": "low",
-      "moodTags": [
-        "回望"
-      ],
-      "themeTags": [
-        "关系变化"
-      ],
-      "summary": "《Venus》的解读正在整理中。",
-      "tier": "scaffold",
-      "flags": [
-        "missing_mvUrl",
-        "some_interpretations_weak",
-        "scaffold:自动补充的第|情绪结构样本|语句 5"
-      ],
-      "interpretationCount": 5,
-      "weakInterpretationCount": 2,
-      "uniqueInterpretationRatio": 1,
-      "bodyChars": 208,
-      "hasMvUrl": false,
-      "scaffoldHits": [
-        "自动补充的第",
-        "情绪结构样本",
-        "语句 5"
-      ]
-    },
-    {
-      "slug": "venus-start-concert",
-      "title": "Venus Start Concert",
-      "favoriteLevel": "low",
-      "moodTags": [
-        "回望"
-      ],
-      "themeTags": [
-        "关系变化"
-      ],
-      "summary": "《Venus Start Concert》的解读正在整理中。",
-      "tier": "scaffold",
-      "flags": [
-        "missing_mvUrl",
-        "some_interpretations_weak",
-        "scaffold:自动补充的第|情绪结构样本|语句 5"
-      ],
-      "interpretationCount": 5,
-      "weakInterpretationCount": 2,
-      "uniqueInterpretationRatio": 1,
-      "bodyChars": 224,
-      "hasMvUrl": false,
-      "scaffoldHits": [
-        "自动补充的第",
-        "情绪结构样本",
-        "语句 5"
-      ]
-    },
-    {
-      "slug": "we-will-get-there",
-      "title": "We Will Get There",
-      "favoriteLevel": "low",
-      "moodTags": [
-        "回望"
-      ],
-      "themeTags": [
-        "关系变化"
-      ],
-      "summary": "《We Will Get There》的解读正在整理中。",
-      "tier": "scaffold",
-      "flags": [
-        "missing_mvUrl",
-        "some_interpretations_weak",
-        "scaffold:自动补充的第|情绪结构样本|语句 5"
-      ],
-      "interpretationCount": 5,
-      "weakInterpretationCount": 2,
-      "uniqueInterpretationRatio": 1,
-      "bodyChars": 220,
-      "hasMvUrl": false,
-      "scaffoldHits": [
-        "自动补充的第",
-        "情绪结构样本",
-        "语句 5"
-      ]
-    },
-    {
-      "slug": "wei-rao",
-      "title": "围绕",
-      "favoriteLevel": "low",
-      "moodTags": [
-        "回望"
-      ],
-      "themeTags": [
-        "关系变化"
-      ],
-      "summary": "《围绕》的解读正在整理中。",
-      "tier": "scaffold",
-      "flags": [
-        "missing_mvUrl",
-        "some_interpretations_weak",
-        "scaffold:自动补充的第|情绪结构样本|语句 5"
-      ],
-      "interpretationCount": 5,
-      "weakInterpretationCount": 2,
-      "uniqueInterpretationRatio": 1,
-      "bodyChars": 205,
-      "hasMvUrl": false,
-      "scaffoldHits": [
-        "自动补充的第",
-        "情绪结构样本",
-        "语句 5"
-      ]
-    },
-    {
-      "slug": "wei-wan-cheng",
-      "title": "未完成",
-      "favoriteLevel": "low",
-      "moodTags": [
-        "回望"
-      ],
-      "themeTags": [
-        "关系变化"
-      ],
-      "summary": "《未完成》的解读正在整理中。",
-      "tier": "scaffold",
-      "flags": [
-        "missing_mvUrl",
-        "some_interpretations_weak",
-        "scaffold:自动补充的第|情绪结构样本|语句 5"
-      ],
-      "interpretationCount": 5,
-      "weakInterpretationCount": 2,
-      "uniqueInterpretationRatio": 1,
-      "bodyChars": 204,
-      "hasMvUrl": false,
-      "scaffoldHits": [
-        "自动补充的第",
-        "情绪结构样本",
-        "语句 5"
-      ]
-    },
-    {
-      "slug": "wei-zhi-de-jing-cai-2",
-      "title": "未知的精采（版本二）",
-      "favoriteLevel": "low",
-      "moodTags": [
-        "回望"
-      ],
-      "themeTags": [
-        "关系变化"
-      ],
-      "summary": "《未知的精采（版本二）》的解读正在整理中。",
-      "tier": "scaffold",
-      "flags": [
-        "missing_mvUrl",
-        "some_interpretations_weak",
-        "scaffold:自动补充的第|情绪结构样本|语句 5"
-      ],
-      "interpretationCount": 5,
-      "weakInterpretationCount": 2,
-      "uniqueInterpretationRatio": 1,
-      "bodyChars": 211,
-      "hasMvUrl": false,
-      "scaffoldHits": [
-        "自动补充的第",
-        "情绪结构样本",
-        "语句 5"
-      ]
-    },
-    {
-      "slug": "wen-rou-mayday-blue-20th",
-      "title": "温柔（五月天 BLUE 20th）",
-      "favoriteLevel": "low",
-      "moodTags": [
-        "回望"
-      ],
-      "themeTags": [
-        "关系变化"
-      ],
-      "summary": "《温柔（五月天 BLUE 20th）》的解读正在整理中。",
-      "tier": "scaffold",
-      "flags": [
-        "missing_mvUrl",
-        "some_interpretations_weak",
-        "scaffold:自动补充的第|情绪结构样本|语句 5"
-      ],
-      "interpretationCount": 5,
-      "weakInterpretationCount": 2,
-      "uniqueInterpretationRatio": 1,
-      "bodyChars": 218,
-      "hasMvUrl": false,
-      "scaffoldHits": [
-        "自动补充的第",
-        "情绪结构样本",
-        "语句 5"
-      ]
-    },
-    {
-      "slug": "wo-hen-wo-ai-ni",
-      "title": "我恨我爱你",
-      "favoriteLevel": "low",
-      "moodTags": [
-        "回望"
-      ],
-      "themeTags": [
-        "关系变化"
-      ],
-      "summary": "《我恨我爱你》的解读正在整理中。",
-      "tier": "scaffold",
-      "flags": [
-        "missing_mvUrl",
-        "some_interpretations_weak",
-        "scaffold:自动补充的第|情绪结构样本|语句 5"
-      ],
-      "interpretationCount": 5,
-      "weakInterpretationCount": 2,
-      "uniqueInterpretationRatio": 1,
-      "bodyChars": 208,
-      "hasMvUrl": false,
-      "scaffoldHits": [
-        "自动补充的第",
-        "情绪结构样本",
-        "语句 5"
-      ]
-    },
-    {
-      "slug": "wo-shi-wo",
-      "title": "我是我",
-      "favoriteLevel": "low",
-      "moodTags": [
-        "回望"
-      ],
-      "themeTags": [
-        "关系变化"
-      ],
-      "summary": "《我是我》的解读正在整理中。",
-      "tier": "scaffold",
-      "flags": [
-        "missing_mvUrl",
-        "some_interpretations_weak",
-        "scaffold:自动补充的第|情绪结构样本|语句 5"
-      ],
-      "interpretationCount": 5,
-      "weakInterpretationCount": 2,
-      "uniqueInterpretationRatio": 1,
-      "bodyChars": 208,
-      "hasMvUrl": false,
-      "scaffoldHits": [
-        "自动补充的第",
-        "情绪结构样本",
-        "语句 5"
-      ]
-    },
-    {
-      "slug": "wo-wei-shen-me-na-me-ai-ni",
-      "title": "我为什么那么爱你",
-      "favoriteLevel": "low",
-      "moodTags": [
-        "回望"
-      ],
-      "themeTags": [
-        "关系变化"
-      ],
-      "summary": "《我为什么那么爱你》的解读正在整理中。",
-      "tier": "scaffold",
-      "flags": [
-        "missing_mvUrl",
-        "some_interpretations_weak",
-        "scaffold:自动补充的第|情绪结构样本|语句 5"
-      ],
-      "interpretationCount": 5,
-      "weakInterpretationCount": 2,
-      "uniqueInterpretationRatio": 1,
-      "bodyChars": 211,
-      "hasMvUrl": false,
-      "scaffoldHits": [
-        "自动补充的第",
-        "情绪结构样本",
-        "语句 5"
-      ]
-    },
-    {
-      "slug": "wo-xiang",
-      "title": "我想",
-      "favoriteLevel": "low",
-      "moodTags": [
-        "回望"
-      ],
-      "themeTags": [
-        "关系变化"
-      ],
-      "summary": "《我想》的解读正在整理中。",
-      "tier": "scaffold",
-      "flags": [
-        "missing_mvUrl",
-        "some_interpretations_weak",
-        "scaffold:自动补充的第|情绪结构样本|语句 5"
-      ],
-      "interpretationCount": 5,
-      "weakInterpretationCount": 2,
-      "uniqueInterpretationRatio": 1,
-      "bodyChars": 203,
-      "hasMvUrl": false,
-      "scaffoldHits": [
-        "自动补充的第",
-        "情绪结构样本",
-        "语句 5"
-      ]
-    },
-    {
-      "slug": "wo-yao-de-xing-fu-start-concert",
-      "title": "我要的幸福（Start演唱会）",
-      "favoriteLevel": "low",
-      "moodTags": [
-        "回望"
-      ],
-      "themeTags": [
-        "关系变化"
-      ],
-      "summary": "《我要的幸福（Start演唱会）》的解读正在整理中。",
-      "tier": "scaffold",
-      "flags": [
-        "missing_mvUrl",
-        "some_interpretations_weak",
-        "scaffold:自动补充的第|情绪结构样本|语句 5"
-      ],
-      "interpretationCount": 5,
-      "weakInterpretationCount": 2,
-      "uniqueInterpretationRatio": 1,
-      "bodyChars": 216,
-      "hasMvUrl": false,
-      "scaffoldHits": [
-        "自动补充的第",
-        "情绪结构样本",
-        "语句 5"
-      ]
-    },
-    {
-      "slug": "wo-yao-kuai-le",
-      "title": "我要快乐",
-      "favoriteLevel": "low",
-      "moodTags": [
-        "回望"
-      ],
-      "themeTags": [
-        "关系变化"
-      ],
-      "summary": "《我要快乐》的解读正在整理中。",
-      "tier": "scaffold",
-      "flags": [
-        "missing_mvUrl",
-        "some_interpretations_weak",
-        "scaffold:自动补充的第|情绪结构样本|语句 5"
-      ],
-      "interpretationCount": 5,
-      "weakInterpretationCount": 2,
-      "uniqueInterpretationRatio": 1,
-      "bodyChars": 205,
-      "hasMvUrl": false,
-      "scaffoldHits": [
-        "自动补充的第",
-        "情绪结构样本",
-        "语句 5"
-      ]
-    },
-    {
-      "slug": "wu-xian-da",
-      "title": "无限大",
-      "favoriteLevel": "low",
-      "moodTags": [
-        "回望"
-      ],
-      "themeTags": [
-        "关系变化"
-      ],
-      "summary": "《无限大》的解读正在整理中。",
-      "tier": "scaffold",
-      "flags": [
-        "missing_mvUrl",
-        "some_interpretations_weak",
-        "scaffold:自动补充的第|情绪结构样本|语句 5"
-      ],
-      "interpretationCount": 5,
-      "weakInterpretationCount": 2,
-      "uniqueInterpretationRatio": 1,
-      "bodyChars": 204,
-      "hasMvUrl": false,
-      "scaffoldHits": [
-        "自动补充的第",
-        "情绪结构样本",
-        "语句 5"
-      ]
-    },
-    {
-      "slug": "xing-qi-yi-tian-qi-qing-wo-li-kai-ni",
-      "title": "星期一天气晴我离开你",
-      "favoriteLevel": "low",
-      "moodTags": [
-        "回望"
-      ],
-      "themeTags": [
-        "关系变化"
-      ],
-      "summary": "《星期一天气晴我离开你》的解读正在整理中。",
-      "tier": "scaffold",
-      "flags": [
-        "missing_mvUrl",
-        "some_interpretations_weak",
-        "scaffold:自动补充的第|情绪结构样本|语句 5"
-      ],
-      "interpretationCount": 5,
-      "weakInterpretationCount": 2,
-      "uniqueInterpretationRatio": 1,
-      "bodyChars": 213,
-      "hasMvUrl": false,
-      "scaffoldHits": [
-        "自动补充的第",
-        "情绪结构样本",
-        "语句 5"
-      ]
-    },
-    {
-      "slug": "xu-yao-ni",
-      "title": "需要你",
-      "favoriteLevel": "low",
-      "moodTags": [
-        "回望"
-      ],
-      "themeTags": [
-        "关系变化"
-      ],
-      "summary": "《需要你》的解读正在整理中。",
-      "tier": "scaffold",
-      "flags": [
-        "missing_mvUrl",
-        "some_interpretations_weak",
-        "scaffold:自动补充的第|情绪结构样本|语句 5"
-      ],
-      "interpretationCount": 5,
-      "weakInterpretationCount": 2,
-      "uniqueInterpretationRatio": 1,
-      "bodyChars": 206,
-      "hasMvUrl": false,
-      "scaffoldHits": [
-        "自动补充的第",
-        "情绪结构样本",
-        "语句 5"
-      ]
-    },
-    {
-      "slug": "xuan-wo",
-      "title": "漩涡",
-      "favoriteLevel": "low",
-      "moodTags": [
-        "回望"
-      ],
-      "themeTags": [
-        "关系变化"
-      ],
-      "summary": "《漩涡》的解读正在整理中。",
-      "tier": "scaffold",
-      "flags": [
-        "missing_mvUrl",
-        "some_interpretations_weak",
-        "scaffold:自动补充的第|情绪结构样本|语句 5"
-      ],
-      "interpretationCount": 5,
-      "weakInterpretationCount": 2,
-      "uniqueInterpretationRatio": 1,
-      "bodyChars": 205,
-      "hasMvUrl": false,
-      "scaffoldHits": [
-        "自动补充的第",
-        "情绪结构样本",
-        "语句 5"
-      ]
-    },
-    {
-      "slug": "xue-hui",
-      "title": "学会",
-      "favoriteLevel": "low",
-      "moodTags": [
-        "回望"
-      ],
-      "themeTags": [
-        "关系变化"
-      ],
-      "summary": "《学会》的解读正在整理中。",
-      "tier": "scaffold",
-      "flags": [
-        "missing_mvUrl",
-        "some_interpretations_weak",
-        "scaffold:自动补充的第|情绪结构样本|语句 5"
-      ],
-      "interpretationCount": 5,
-      "weakInterpretationCount": 2,
-      "uniqueInterpretationRatio": 1,
-      "bodyChars": 205,
-      "hasMvUrl": false,
-      "scaffoldHits": [
-        "自动补充的第",
-        "情绪结构样本",
-        "语句 5"
-      ]
-    },
-    {
-      "slug": "yan-shen",
-      "title": "眼神",
-      "favoriteLevel": "low",
-      "moodTags": [
-        "回望"
-      ],
-      "themeTags": [
-        "关系变化"
-      ],
-      "summary": "《眼神》的解读正在整理中。",
-      "tier": "scaffold",
-      "flags": [
-        "missing_mvUrl",
-        "some_interpretations_weak",
-        "scaffold:自动补充的第|情绪结构样本|语句 5"
-      ],
-      "interpretationCount": 5,
-      "weakInterpretationCount": 2,
-      "uniqueInterpretationRatio": 1,
-      "bodyChars": 203,
-      "hasMvUrl": false,
-      "scaffoldHits": [
-        "自动补充的第",
-        "情绪结构样本",
-        "语句 5"
-      ]
-    },
-    {
-      "slug": "yang-zi",
-      "title": "样子",
-      "favoriteLevel": "low",
-      "moodTags": [
-        "回望"
-      ],
-      "themeTags": [
-        "关系变化"
-      ],
-      "summary": "《样子》的解读正在整理中。",
-      "tier": "scaffold",
-      "flags": [
-        "missing_mvUrl",
-        "some_interpretations_weak",
-        "scaffold:自动补充的第|情绪结构样本|语句 5"
-      ],
-      "interpretationCount": 5,
-      "weakInterpretationCount": 2,
-      "uniqueInterpretationRatio": 1,
-      "bodyChars": 207,
-      "hasMvUrl": false,
-      "scaffoldHits": [
-        "自动补充的第",
-        "情绪结构样本",
-        "语句 5"
-      ]
-    },
-    {
-      "slug": "yi-qi-zou-dao",
-      "title": "一起走到",
-      "favoriteLevel": "low",
-      "moodTags": [
-        "回望"
-      ],
-      "themeTags": [
-        "关系变化"
-      ],
-      "summary": "《一起走到》的解读正在整理中。",
-      "tier": "scaffold",
-      "flags": [
-        "missing_mvUrl",
-        "some_interpretations_weak",
-        "scaffold:自动补充的第|情绪结构样本|语句 5"
-      ],
-      "interpretationCount": 5,
-      "weakInterpretationCount": 2,
-      "uniqueInterpretationRatio": 1,
-      "bodyChars": 207,
-      "hasMvUrl": false,
-      "scaffoldHits": [
-        "自动补充的第",
-        "情绪结构样本",
-        "语句 5"
-      ]
-    },
-    {
-      "slug": "yi-yang-de-xia-tian",
-      "title": "一样的夏天",
-      "favoriteLevel": "low",
-      "moodTags": [
-        "回望"
-      ],
-      "themeTags": [
-        "关系变化"
-      ],
-      "summary": "《一样的夏天》的解读正在整理中。",
-      "tier": "scaffold",
-      "flags": [
-        "missing_mvUrl",
-        "some_interpretations_weak",
-        "scaffold:自动补充的第|情绪结构样本|语句 5"
-      ],
-      "interpretationCount": 5,
-      "weakInterpretationCount": 2,
-      "uniqueInterpretationRatio": 1,
-      "bodyChars": 206,
-      "hasMvUrl": false,
-      "scaffoldHits": [
-        "自动补充的第",
-        "情绪结构样本",
-        "语句 5"
-      ]
-    },
-    {
-      "slug": "yong-gan",
-      "title": "勇敢",
-      "favoriteLevel": "low",
-      "moodTags": [
-        "回望"
-      ],
-      "themeTags": [
-        "关系变化"
-      ],
-      "summary": "《勇敢》的解读正在整理中。",
-      "tier": "scaffold",
-      "flags": [
-        "missing_mvUrl",
-        "some_interpretations_weak",
-        "scaffold:自动补充的第|情绪结构样本|语句 5"
-      ],
-      "interpretationCount": 5,
-      "weakInterpretationCount": 2,
-      "uniqueInterpretationRatio": 1,
-      "bodyChars": 203,
-      "hasMvUrl": false,
-      "scaffoldHits": [
-        "自动补充的第",
-        "情绪结构样本",
-        "语句 5"
-      ]
-    },
-    {
-      "slug": "yong-yuan",
-      "title": "永远",
-      "favoriteLevel": "low",
-      "moodTags": [
-        "回望"
-      ],
-      "themeTags": [
-        "关系变化"
-      ],
-      "summary": "《永远》的解读正在整理中。",
-      "tier": "scaffold",
-      "flags": [
-        "missing_mvUrl",
-        "some_interpretations_weak",
-        "scaffold:自动补充的第|情绪结构样本|语句 5"
-      ],
-      "interpretationCount": 5,
-      "weakInterpretationCount": 2,
-      "uniqueInterpretationRatio": 1,
-      "bodyChars": 203,
-      "hasMvUrl": false,
-      "scaffoldHits": [
-        "自动补充的第",
-        "情绪结构样本",
-        "语句 5"
-      ]
-    },
-    {
-      "slug": "zai-ye-bu-jian",
-      "title": "再也不见",
-      "favoriteLevel": "low",
-      "moodTags": [
-        "回望"
-      ],
-      "themeTags": [
-        "关系变化"
-      ],
-      "summary": "《再也不见》的解读正在整理中。",
-      "tier": "scaffold",
-      "flags": [
-        "missing_mvUrl",
-        "some_interpretations_weak",
-        "scaffold:自动补充的第|情绪结构样本|语句 5"
-      ],
-      "interpretationCount": 5,
-      "weakInterpretationCount": 2,
-      "uniqueInterpretationRatio": 1,
-      "bodyChars": 207,
-      "hasMvUrl": false,
-      "scaffoldHits": [
-        "自动补充的第",
-        "情绪结构样本",
-        "语句 5"
-      ]
-    },
-    {
-      "slug": "zhen-de-start-concert",
-      "title": "真的（Start演唱会）",
-      "favoriteLevel": "low",
-      "moodTags": [
-        "回望"
-      ],
-      "themeTags": [
-        "关系变化"
-      ],
-      "summary": "《真的（Start演唱会）》的解读正在整理中。",
-      "tier": "scaffold",
-      "flags": [
-        "missing_mvUrl",
-        "some_interpretations_weak",
-        "scaffold:自动补充的第|情绪结构样本|语句 5"
-      ],
-      "interpretationCount": 5,
-      "weakInterpretationCount": 2,
-      "uniqueInterpretationRatio": 1,
-      "bodyChars": 215,
-      "hasMvUrl": false,
-      "scaffoldHits": [
-        "自动补充的第",
-        "情绪结构样本",
-        "语句 5"
-      ]
-    },
-    {
-      "slug": "zhong-jian-di-dai",
-      "title": "中间地带",
-      "favoriteLevel": "low",
-      "moodTags": [
-        "回望"
-      ],
-      "themeTags": [
-        "关系变化"
-      ],
-      "summary": "《中间地带》的解读正在整理中。",
-      "tier": "scaffold",
-      "flags": [
-        "missing_mvUrl",
-        "some_interpretations_weak",
-        "scaffold:自动补充的第|情绪结构样本|语句 5"
-      ],
-      "interpretationCount": 5,
-      "weakInterpretationCount": 2,
-      "uniqueInterpretationRatio": 1,
-      "bodyChars": 205,
-      "hasMvUrl": false,
-      "scaffoldHits": [
-        "自动补充的第",
-        "情绪结构样本",
-        "语句 5"
-      ]
-    },
-    {
-      "slug": "zhong-yu",
-      "title": "终于",
-      "favoriteLevel": "low",
-      "moodTags": [
-        "回望"
-      ],
-      "themeTags": [
-        "关系变化"
-      ],
-      "summary": "《终于》的解读正在整理中。",
-      "tier": "scaffold",
-      "flags": [
-        "missing_mvUrl",
-        "some_interpretations_weak",
-        "scaffold:自动补充的第|情绪结构样本|语句 5"
-      ],
-      "interpretationCount": 5,
-      "weakInterpretationCount": 2,
-      "uniqueInterpretationRatio": 1,
-      "bodyChars": 203,
-      "hasMvUrl": false,
-      "scaffoldHits": [
-        "自动补充的第",
-        "情绪结构样本",
-        "语句 5"
-      ]
-    },
-    {
-      "slug": "zhong-yu-2",
-      "title": "终于（版本二）",
-      "favoriteLevel": "low",
-      "moodTags": [
-        "回望"
-      ],
-      "themeTags": [
-        "关系变化"
-      ],
-      "summary": "《终于（版本二）》的解读正在整理中。",
-      "tier": "scaffold",
-      "flags": [
-        "missing_mvUrl",
-        "some_interpretations_weak",
-        "scaffold:自动补充的第|情绪结构样本|语句 5"
-      ],
-      "interpretationCount": 5,
-      "weakInterpretationCount": 2,
-      "uniqueInterpretationRatio": 1,
-      "bodyChars": 208,
-      "hasMvUrl": false,
-      "scaffoldHits": [
-        "自动补充的第",
-        "情绪结构样本",
-        "语句 5"
-      ]
-    },
-    {
-      "slug": "zhui",
-      "title": "追",
-      "favoriteLevel": "low",
-      "moodTags": [
-        "回望"
-      ],
-      "themeTags": [
-        "关系变化"
-      ],
-      "summary": "《追》的解读正在整理中。",
-      "tier": "scaffold",
-      "flags": [
-        "missing_mvUrl",
-        "some_interpretations_weak",
-        "scaffold:自动补充的第|情绪结构样本|语句 5"
-      ],
-      "interpretationCount": 5,
-      "weakInterpretationCount": 2,
-      "uniqueInterpretationRatio": 1,
-      "bodyChars": 204,
-      "hasMvUrl": false,
-      "scaffoldHits": [
-        "自动补充的第",
-        "情绪结构样本",
-        "语句 5"
-      ]
-    },
-    {
-      "slug": "zuo-zhan",
-      "title": "作战",
-      "favoriteLevel": "low",
-      "moodTags": [
-        "回望"
-      ],
-      "themeTags": [
-        "关系变化"
-      ],
-      "summary": "《作战》的解读正在整理中。",
-      "tier": "scaffold",
-      "flags": [
-        "missing_mvUrl",
-        "some_interpretations_weak",
-        "scaffold:自动补充的第|情绪结构样本|语句 5"
-      ],
-      "interpretationCount": 5,
-      "weakInterpretationCount": 2,
-      "uniqueInterpretationRatio": 1,
-      "bodyChars": 205,
-      "hasMvUrl": false,
-      "scaffoldHits": [
-        "自动补充的第",
-        "情绪结构样本",
-        "语句 5"
-      ]
-    },
-    {
-      "slug": "fan-guo-lai-zou-zou",
-      "title": "反过来走走",
-      "favoriteLevel": "low",
-      "moodTags": [
-        "回望"
-      ],
-      "themeTags": [
-        "关系变化"
-      ],
-      "summary": "《反过来走走》的解读正在整理中。",
-      "tier": "passable",
-      "flags": [
-        "missing_mvUrl"
-      ],
-      "interpretationCount": 5,
-      "weakInterpretationCount": 0,
-      "uniqueInterpretationRatio": 0.2,
-      "bodyChars": 209,
-      "hasMvUrl": false,
-      "scaffoldHits": []
-    },
-    {
-      "slug": "feng-zheng-start-concert",
-      "title": "风筝（Start演唱会）",
-      "favoriteLevel": "low",
-      "moodTags": [
-        "回望"
-      ],
-      "themeTags": [
-        "关系变化"
-      ],
-      "summary": "《风筝（Start演唱会）》的解读正在整理中。",
-      "tier": "passable",
-      "flags": [
-        "missing_mvUrl"
-      ],
-      "interpretationCount": 5,
-      "weakInterpretationCount": 0,
-      "uniqueInterpretationRatio": 0.2,
-      "bodyChars": 216,
-      "hasMvUrl": false,
-      "scaffoldHits": []
-    },
-    {
-      "slug": "guan-yu",
-      "title": "关于",
-      "favoriteLevel": "low",
-      "moodTags": [
-        "回望"
-      ],
-      "themeTags": [
-        "关系变化"
-      ],
-      "summary": "《关于》的解读正在整理中。",
-      "tier": "passable",
-      "flags": [
-        "missing_mvUrl"
-      ],
-      "interpretationCount": 5,
-      "weakInterpretationCount": 0,
-      "uniqueInterpretationRatio": 0.2,
-      "bodyChars": 206,
-      "hasMvUrl": false,
-      "scaffoldHits": []
-    },
-    {
-      "slug": "hai-pa-start-concert",
-      "title": "害怕（Start演唱会）",
-      "favoriteLevel": "low",
-      "moodTags": [
-        "回望"
-      ],
-      "themeTags": [
-        "关系变化"
-      ],
-      "summary": "《害怕（Start演唱会）》的解读正在整理中。",
-      "tier": "passable",
-      "flags": [
-        "missing_mvUrl"
-      ],
-      "interpretationCount": 5,
-      "weakInterpretationCount": 0,
-      "uniqueInterpretationRatio": 0.2,
-      "bodyChars": 216,
-      "hasMvUrl": false,
-      "scaffoldHits": []
-    },
-    {
-      "slug": "he-ping",
-      "title": "和平",
-      "favoriteLevel": "low",
-      "moodTags": [
-        "回望"
-      ],
-      "themeTags": [
-        "关系变化"
-      ],
-      "summary": "《和平》的解读正在整理中。",
-      "tier": "passable",
-      "flags": [
-        "missing_mvUrl"
-      ],
-      "interpretationCount": 5,
-      "weakInterpretationCount": 0,
-      "uniqueInterpretationRatio": 0.2,
-      "bodyChars": 206,
-      "hasMvUrl": false,
-      "scaffoldHits": []
-    },
-    {
-      "slug": "hen-hao-start-concert",
-      "title": "很好（Start演唱会）",
-      "favoriteLevel": "low",
-      "moodTags": [
-        "回望"
-      ],
-      "themeTags": [
-        "关系变化"
-      ],
-      "summary": "《很好（Start演唱会）》的解读正在整理中。",
-      "tier": "passable",
-      "flags": [
-        "missing_mvUrl"
-      ],
-      "interpretationCount": 5,
-      "weakInterpretationCount": 0,
-      "uniqueInterpretationRatio": 0.2,
-      "bodyChars": 216,
-      "hasMvUrl": false,
-      "scaffoldHits": []
-    },
-    {
-      "slug": "hey-jude",
-      "title": "Hey Jude",
-      "favoriteLevel": "low",
-      "moodTags": [
-        "回望"
-      ],
-      "themeTags": [
-        "关系变化"
-      ],
-      "summary": "《Hey Jude》的解读正在整理中。",
-      "tier": "passable",
-      "flags": [
-        "missing_mvUrl"
-      ],
-      "interpretationCount": 5,
-      "weakInterpretationCount": 0,
-      "uniqueInterpretationRatio": 0.2,
-      "bodyChars": 212,
-      "hasMvUrl": false,
-      "scaffoldHits": []
-    },
-    {
-      "slug": "hey-jude-start-concert",
-      "title": "Hey Jude Start Concert",
-      "favoriteLevel": "low",
-      "moodTags": [
-        "回望"
-      ],
-      "themeTags": [
-        "关系变化"
-      ],
-      "summary": "《Hey Jude Start Concert》的解读正在整理中。",
-      "tier": "passable",
-      "flags": [
-        "missing_mvUrl"
-      ],
-      "interpretationCount": 5,
-      "weakInterpretationCount": 0,
-      "uniqueInterpretationRatio": 0.2,
-      "bodyChars": 226,
-      "hasMvUrl": false,
-      "scaffoldHits": []
-    },
-    {
-      "slug": "jiu-shi-zhe-yang",
-      "title": "就是这样",
-      "favoriteLevel": "low",
-      "moodTags": [
-        "回望"
-      ],
-      "themeTags": [
-        "关系变化"
-      ],
-      "summary": "《就是这样》的解读正在整理中。",
-      "tier": "passable",
-      "flags": [
-        "missing_mvUrl"
-      ],
-      "interpretationCount": 5,
-      "weakInterpretationCount": 0,
-      "uniqueInterpretationRatio": 0.2,
-      "bodyChars": 208,
-      "hasMvUrl": false,
-      "scaffoldHits": []
-    },
-    {
-      "slug": "ke",
-      "title": "渴",
-      "favoriteLevel": "low",
-      "moodTags": [
-        "回望"
-      ],
-      "themeTags": [
-        "关系变化"
-      ],
-      "summary": "《渴》的解读正在整理中。",
-      "tier": "passable",
-      "flags": [
-        "missing_mvUrl"
-      ],
-      "interpretationCount": 5,
-      "weakInterpretationCount": 0,
-      "uniqueInterpretationRatio": 0.2,
-      "bodyChars": 205,
-      "hasMvUrl": false,
-      "scaffoldHits": []
-    },
-    {
-      "slug": "lan-de-qu-guan",
-      "title": "懒得去管",
-      "favoriteLevel": "low",
-      "moodTags": [
-        "回望"
-      ],
-      "themeTags": [
-        "关系变化"
-      ],
-      "summary": "《懒得去管》的解读正在整理中。",
-      "tier": "passable",
-      "flags": [
-        "missing_mvUrl"
-      ],
-      "interpretationCount": 5,
-      "weakInterpretationCount": 0,
-      "uniqueInterpretationRatio": 0.2,
-      "bodyChars": 208,
-      "hasMvUrl": false,
-      "scaffoldHits": []
-    },
-    {
-      "slug": "leave-me-alone-start-concert",
-      "title": "Leave Me Alone Start Concert",
-      "favoriteLevel": "low",
-      "moodTags": [
-        "回望"
-      ],
-      "themeTags": [
-        "关系变化"
-      ],
-      "summary": "《Leave Me Alone Start Concert》的解读正在整理中。",
-      "tier": "passable",
-      "flags": [
-        "missing_mvUrl"
-      ],
-      "interpretationCount": 5,
-      "weakInterpretationCount": 0,
-      "uniqueInterpretationRatio": 0.2,
-      "bodyChars": 232,
-      "hasMvUrl": false,
-      "scaffoldHits": []
-    },
-    {
-      "slug": "lei-zhui",
-      "title": "泪坠",
-      "favoriteLevel": "low",
-      "moodTags": [
-        "回望"
-      ],
-      "themeTags": [
-        "关系变化"
-      ],
-      "summary": "《泪坠》的解读正在整理中。",
-      "tier": "passable",
-      "flags": [
-        "missing_mvUrl"
-      ],
-      "interpretationCount": 5,
-      "weakInterpretationCount": 0,
-      "uniqueInterpretationRatio": 0.2,
-      "bodyChars": 206,
-      "hasMvUrl": false,
-      "scaffoldHits": []
-    },
-    {
       "slug": "180-du",
       "title": "180度",
       "favoriteLevel": "low",
@@ -4233,6 +2139,330 @@
       "scaffoldHits": []
     },
     {
+      "slug": "fan-guo-lai-zou-zou",
+      "title": "反过来走走",
+      "favoriteLevel": "low",
+      "moodTags": [
+        "松绑",
+        "自嘲"
+      ],
+      "themeTags": [
+        "自救",
+        "关系疏离"
+      ],
+      "summary": "放自己一天假换一口纯氧，换左手重练生活；反过来走走不握紧而放松，散场鼓掌谢谢 bye bye。",
+      "tier": "editorial",
+      "flags": [
+        "missing_mvUrl"
+      ],
+      "interpretationCount": 5,
+      "weakInterpretationCount": 0,
+      "uniqueInterpretationRatio": 1,
+      "bodyChars": 226,
+      "hasMvUrl": false,
+      "scaffoldHits": []
+    },
+    {
+      "slug": "feng-zheng-start-concert",
+      "title": "风筝（Start演唱会）",
+      "favoriteLevel": "low",
+      "moodTags": [
+        "释怀",
+        "祝福"
+      ],
+      "themeTags": [
+        "成全",
+        "距离"
+      ],
+      "summary": "Start 现场《风筝》：松手、断线问句与山上呼喊，把成全唱成目送与“我很好”的祝福。",
+      "tier": "editorial",
+      "flags": [
+        "missing_mvUrl"
+      ],
+      "interpretationCount": 5,
+      "weakInterpretationCount": 0,
+      "uniqueInterpretationRatio": 1,
+      "bodyChars": 281,
+      "hasMvUrl": false,
+      "scaffoldHits": []
+    },
+    {
+      "slug": "guan-yu",
+      "title": "关于",
+      "favoriteLevel": "low",
+      "moodTags": [
+        "抽离",
+        "冷静"
+      ],
+      "themeTags": [
+        "自我边界",
+        "创伤"
+      ],
+      "summary": "《逆光》清单体：关于私语与选择题，答案在风里；创伤后的免疫是冷淡的壳。",
+      "tier": "editorial",
+      "flags": [
+        "missing_mvUrl"
+      ],
+      "interpretationCount": 5,
+      "weakInterpretationCount": 0,
+      "uniqueInterpretationRatio": 1,
+      "bodyChars": 292,
+      "hasMvUrl": false,
+      "scaffoldHits": []
+    },
+    {
+      "slug": "hai-pa-start-concert",
+      "title": "害怕（Start演唱会）",
+      "favoriteLevel": "low",
+      "moodTags": [
+        "不安",
+        "克制"
+      ],
+      "themeTags": [
+        "分离",
+        "勇气"
+      ],
+      "summary": "Start 现场《害怕》：忘想对仗与双怕副歌，承认在乎后的恐惧，仍选择走下去。",
+      "tier": "editorial",
+      "flags": [
+        "missing_mvUrl"
+      ],
+      "interpretationCount": 5,
+      "weakInterpretationCount": 0,
+      "uniqueInterpretationRatio": 1,
+      "bodyChars": 264,
+      "hasMvUrl": false,
+      "scaffoldHits": []
+    },
+    {
+      "slug": "he-ping",
+      "title": "和平",
+      "favoriteLevel": "low",
+      "moodTags": [
+        "温和",
+        "坚定"
+      ],
+      "themeTags": [
+        "和解",
+        "信任"
+      ],
+      "summary": "在兵慌马乱里固执地要求和平对待你：微笑是信号，相信是重启。",
+      "tier": "editorial",
+      "flags": [
+        "missing_mvUrl"
+      ],
+      "interpretationCount": 5,
+      "weakInterpretationCount": 0,
+      "uniqueInterpretationRatio": 1,
+      "bodyChars": 244,
+      "hasMvUrl": false,
+      "scaffoldHits": []
+    },
+    {
+      "slug": "hen-hao-start-concert",
+      "title": "很好（Start演唱会）",
+      "favoriteLevel": "low",
+      "moodTags": [
+        "温暖",
+        "安心"
+      ],
+      "themeTags": [
+        "陪伴",
+        "两人世界"
+      ],
+      "summary": "Start 现场《很好》：雨迷路中相依，城堡副歌写互相依靠与请勿打扰。",
+      "tier": "editorial",
+      "flags": [
+        "missing_mvUrl"
+      ],
+      "interpretationCount": 5,
+      "weakInterpretationCount": 0,
+      "uniqueInterpretationRatio": 1,
+      "bodyChars": 287,
+      "hasMvUrl": false,
+      "scaffoldHits": []
+    },
+    {
+      "slug": "hey-jude",
+      "title": "Hey Jude",
+      "favoriteLevel": "low",
+      "moodTags": [
+        "鼓励",
+        "释放"
+      ],
+      "themeTags": [
+        "翻唱",
+        "自我开始"
+      ],
+      "summary": "双语《Hey Jude》：把哀歌唱好、别扛世界，Na na 长尾留给集体释放。",
+      "tier": "editorial",
+      "flags": [
+        "missing_mvUrl"
+      ],
+      "interpretationCount": 5,
+      "weakInterpretationCount": 0,
+      "uniqueInterpretationRatio": 1,
+      "bodyChars": 404,
+      "hasMvUrl": false,
+      "scaffoldHits": []
+    },
+    {
+      "slug": "hey-jude-start-concert",
+      "title": "Hey Jude Start Concert",
+      "favoriteLevel": "low",
+      "moodTags": [
+        "鼓励",
+        "合唱",
+        "释然"
+      ],
+      "themeTags": [
+        "封面曲",
+        "现场",
+        "自我确认"
+      ],
+      "summary": "Start 演唱会版披头士金曲：别怕、去行动、别扛全世界，尾段 better 齐唱把劝慰做成公共鼓励。",
+      "tier": "editorial",
+      "flags": [
+        "missing_mvUrl"
+      ],
+      "interpretationCount": 5,
+      "weakInterpretationCount": 0,
+      "uniqueInterpretationRatio": 1,
+      "bodyChars": 377,
+      "hasMvUrl": false,
+      "scaffoldHits": []
+    },
+    {
+      "slug": "jiu-shi-zhe-yang",
+      "title": "就是这样",
+      "favoriteLevel": "low",
+      "moodTags": [
+        "轻快",
+        "冲劲",
+        "自由"
+      ],
+      "themeTags": [
+        "开始",
+        "行动",
+        "青春宣言"
+      ],
+      "summary": "《Start》行动颂：赤脚求真感、世纪梦说去就去，副歌用「就是这样」连环宣布摇滚与破界。",
+      "tier": "editorial",
+      "flags": [
+        "missing_mvUrl"
+      ],
+      "interpretationCount": 5,
+      "weakInterpretationCount": 0,
+      "uniqueInterpretationRatio": 1,
+      "bodyChars": 326,
+      "hasMvUrl": false,
+      "scaffoldHits": []
+    },
+    {
+      "slug": "ke",
+      "title": "渴",
+      "favoriteLevel": "low",
+      "moodTags": [
+        "沉静",
+        "顿悟",
+        "淡然"
+      ],
+      "themeTags": [
+        "时间",
+        "慢下来",
+        "松手"
+      ],
+      "summary": "在追逐里才懂漫步的渴，在孤独里才懂安静的渴；卸下颜色反而璀璨，爱不必再被计算。",
+      "tier": "editorial",
+      "flags": [
+        "missing_mvUrl"
+      ],
+      "interpretationCount": 5,
+      "weakInterpretationCount": 0,
+      "uniqueInterpretationRatio": 1,
+      "bodyChars": 277,
+      "hasMvUrl": false,
+      "scaffoldHits": []
+    },
+    {
+      "slug": "lan-de-qu-guan",
+      "title": "懒得去管",
+      "favoriteLevel": "low",
+      "moodTags": [
+        "松弛",
+        "自嘲",
+        "轻快"
+      ],
+      "themeTags": [
+        "日常",
+        "顺其自然",
+        "新加坡生活"
+      ],
+      "summary": "下午两点半与新币三块半的生活喜剧：窘迫细节之后，一声「懒得去管」把烦恼轻轻放下。",
+      "tier": "editorial",
+      "flags": [
+        "missing_mvUrl"
+      ],
+      "interpretationCount": 5,
+      "weakInterpretationCount": 0,
+      "uniqueInterpretationRatio": 1,
+      "bodyChars": 306,
+      "hasMvUrl": false,
+      "scaffoldHits": []
+    },
+    {
+      "slug": "leave-me-alone-start-concert",
+      "title": "Leave Me Alone Start Concert",
+      "favoriteLevel": "low",
+      "moodTags": [
+        "决绝",
+        "释放",
+        "边界"
+      ],
+      "themeTags": [
+        "拒绝",
+        "现场",
+        "自我保护"
+      ],
+      "summary": "Start 现场加强版边界曲：NaNa 墙与 leave me alone 合唱，中文写背后告别与快乐悖论，请对方放手。",
+      "tier": "editorial",
+      "flags": [
+        "missing_mvUrl"
+      ],
+      "interpretationCount": 5,
+      "weakInterpretationCount": 0,
+      "uniqueInterpretationRatio": 1,
+      "bodyChars": 367,
+      "hasMvUrl": false,
+      "scaffoldHits": []
+    },
+    {
+      "slug": "lei-zhui",
+      "title": "泪坠",
+      "favoriteLevel": "low",
+      "moodTags": [
+        "决绝",
+        "酸楚",
+        "清醒"
+      ],
+      "themeTags": [
+        "止损",
+        "分手",
+        "自尊"
+      ],
+      "summary": "止损式分手：不再将错就错，痛恨予取予求的挥霍，宁可知难而退，也不当谁花心的累赘。",
+      "tier": "editorial",
+      "flags": [
+        "missing_mvUrl"
+      ],
+      "interpretationCount": 5,
+      "weakInterpretationCount": 0,
+      "uniqueInterpretationRatio": 1,
+      "bodyChars": 278,
+      "hasMvUrl": false,
+      "scaffoldHits": []
+    },
+    {
       "slug": "lets-vino",
       "title": "Let's Vino",
       "favoriteLevel": "low",
@@ -4507,6 +2737,390 @@
       "scaffoldHits": []
     },
     {
+      "slug": "nan-de-yi-jian-start-concert",
+      "title": "难得一见（Start演唱会）",
+      "favoriteLevel": "low",
+      "moodTags": [
+        "轻快",
+        "果断"
+      ],
+      "themeTags": [
+        "把握当下",
+        "现场能量"
+      ],
+      "summary": "Start 演唱会版把「难得一见」唱成当场行动：说了就做、浪费要被罚，稀缺感变成抓紧。",
+      "tier": "editorial",
+      "flags": [
+        "missing_mvUrl"
+      ],
+      "interpretationCount": 5,
+      "weakInterpretationCount": 0,
+      "uniqueInterpretationRatio": 1,
+      "bodyChars": 290,
+      "hasMvUrl": false,
+      "scaffoldHits": []
+    },
+    {
+      "slug": "ni-hao-bu-hao",
+      "title": "你好不好",
+      "favoriteLevel": "low",
+      "moodTags": [
+        "克制",
+        "心痛"
+      ],
+      "themeTags": [
+        "分手",
+        "放手"
+      ],
+      "summary": "一句「你好不好」读懂分手选择；体面还自由，转身后眼泪与隐痛才说真话。",
+      "tier": "editorial",
+      "flags": [
+        "missing_mvUrl"
+      ],
+      "interpretationCount": 5,
+      "weakInterpretationCount": 0,
+      "uniqueInterpretationRatio": 1,
+      "bodyChars": 312,
+      "hasMvUrl": false,
+      "scaffoldHits": []
+    },
+    {
+      "slug": "ni-ming-wan-sui",
+      "title": "匿名万岁",
+      "favoriteLevel": "low",
+      "moodTags": [
+        "冷讽",
+        "清醒"
+      ],
+      "themeTags": [
+        "网络匿名",
+        "面具"
+      ],
+      "summary": "反讽网络匿名：切换身份、影子圣贤出征、眼泪被围观；承认我们也是其中一员。",
+      "tier": "editorial",
+      "flags": [
+        "missing_mvUrl"
+      ],
+      "interpretationCount": 6,
+      "weakInterpretationCount": 0,
+      "uniqueInterpretationRatio": 1,
+      "bodyChars": 270,
+      "hasMvUrl": false,
+      "scaffoldHits": []
+    },
+    {
+      "slug": "nian-qing-wu-xian",
+      "title": "年轻无限",
+      "favoriteLevel": "low",
+      "moodTags": [
+        "跃动",
+        "自省"
+      ],
+      "themeTags": [
+        "青春",
+        "成长"
+      ],
+      "summary": "二十五岁学做大人、努力也犯错；副歌起飞，却用「不一定往前追」保留停住这一分钟的体会。",
+      "tier": "editorial",
+      "flags": [
+        "missing_mvUrl"
+      ],
+      "interpretationCount": 5,
+      "weakInterpretationCount": 0,
+      "uniqueInterpretationRatio": 1,
+      "bodyChars": 296,
+      "hasMvUrl": false,
+      "scaffoldHits": []
+    },
+    {
+      "slug": "nong-mei-mao",
+      "title": "浓眉毛",
+      "favoriteLevel": "low",
+      "moodTags": [
+        "俏皮",
+        "甜蜜"
+      ],
+      "themeTags": [
+        "恋爱细节",
+        "迷恋"
+      ],
+      "summary": "眉毛是骄傲的鸟与惊叹号，恋爱建成弹珠旋转的游乐园；俏皮里夹着私藏与到老。",
+      "tier": "editorial",
+      "flags": [
+        "missing_mvUrl"
+      ],
+      "interpretationCount": 5,
+      "weakInterpretationCount": 0,
+      "uniqueInterpretationRatio": 1,
+      "bodyChars": 282,
+      "hasMvUrl": false,
+      "scaffoldHits": []
+    },
+    {
+      "slug": "on-the-road",
+      "title": "On The Road",
+      "favoriteLevel": "low",
+      "moodTags": [
+        "漂泊",
+        "疲倦"
+      ],
+      "themeTags": [
+        "巡回",
+        "自我诚实"
+      ],
+      "summary": "英文巡回路上自白：想家、房屋都一样；对外 alright，对内 already not the same，并伸手求援。",
+      "tier": "editorial",
+      "flags": [
+        "missing_mvUrl"
+      ],
+      "interpretationCount": 6,
+      "weakInterpretationCount": 0,
+      "uniqueInterpretationRatio": 1,
+      "bodyChars": 395,
+      "hasMvUrl": false,
+      "scaffoldHits": []
+    },
+    {
+      "slug": "one-united-people",
+      "title": "One United People",
+      "favoriteLevel": "low",
+      "moodTags": [
+        "振奋",
+        "庄重"
+      ],
+      "themeTags": [
+        "家园",
+        "团结"
+      ],
+      "summary": "双语国庆合唱：千色彩虹与千声和声写多元团结，岛屿心跳收束为家园归属。",
+      "tier": "editorial",
+      "flags": [
+        "missing_mvUrl"
+      ],
+      "interpretationCount": 5,
+      "weakInterpretationCount": 0,
+      "uniqueInterpretationRatio": 1,
+      "bodyChars": 448,
+      "hasMvUrl": false,
+      "scaffoldHits": []
+    },
+    {
+      "slug": "opening",
+      "title": "Opening",
+      "favoriteLevel": "low",
+      "moodTags": [
+        "决意",
+        "清醒"
+      ],
+      "themeTags": [
+        "边界",
+        "自我"
+      ],
+      "summary": "极短英文开场宣言：拒绝类型格子，在 you and I 之间越线，与边界角力。",
+      "tier": "editorial",
+      "flags": [
+        "missing_mvUrl"
+      ],
+      "interpretationCount": 5,
+      "weakInterpretationCount": 0,
+      "uniqueInterpretationRatio": 1,
+      "bodyChars": 469,
+      "hasMvUrl": false,
+      "scaffoldHits": []
+    },
+    {
+      "slug": "ping-ri-kuai-le",
+      "title": "平日快乐",
+      "favoriteLevel": "low",
+      "moodTags": [
+        "温厚",
+        "释然"
+      ],
+      "themeTags": [
+        "日常",
+        "平凡"
+      ],
+      "summary": "从坐等与自我优化焦虑写到隙缝求生，举杯祝平日快乐、做平凡的人。",
+      "tier": "editorial",
+      "flags": [
+        "missing_mvUrl"
+      ],
+      "interpretationCount": 5,
+      "weakInterpretationCount": 0,
+      "uniqueInterpretationRatio": 1,
+      "bodyChars": 343,
+      "hasMvUrl": false,
+      "scaffoldHits": []
+    },
+    {
+      "slug": "qin-guang",
+      "title": "擒光",
+      "favoriteLevel": "low",
+      "moodTags": [
+        "热血",
+        "坚定"
+      ],
+      "themeTags": [
+        "勇气",
+        "同伴"
+      ],
+      "summary": "高燃远征体：峡谷守一线光、不哭不退不服，泪点光辉与掌心绿芽纪念存在。",
+      "tier": "editorial",
+      "flags": [
+        "missing_mvUrl"
+      ],
+      "interpretationCount": 5,
+      "weakInterpretationCount": 0,
+      "uniqueInterpretationRatio": 1,
+      "bodyChars": 311,
+      "hasMvUrl": false,
+      "scaffoldHits": []
+    },
+    {
+      "slug": "quan-xin-quan-yi",
+      "title": "全心全意",
+      "favoriteLevel": "low",
+      "moodTags": [
+        "振奋",
+        "温暖"
+      ],
+      "themeTags": [
+        "家园",
+        "团结"
+      ],
+      "summary": "岛屿家园合唱：不同声音唱同曲，肩并肩向明天全心全意奔去。",
+      "tier": "editorial",
+      "flags": [
+        "missing_mvUrl"
+      ],
+      "interpretationCount": 5,
+      "weakInterpretationCount": 0,
+      "uniqueInterpretationRatio": 1,
+      "bodyChars": 378,
+      "hasMvUrl": false,
+      "scaffoldHits": []
+    },
+    {
+      "slug": "radio",
+      "title": "Radio",
+      "favoriteLevel": "low",
+      "moodTags": [
+        "怀念",
+        "怅然"
+      ],
+      "themeTags": [
+        "离别",
+        "记忆"
+      ],
+      "summary": "车内拨开离别，以赫兹分贝回放快乐两人游；笑与刺痛同在一个频道。",
+      "tier": "editorial",
+      "flags": [
+        "missing_mvUrl"
+      ],
+      "interpretationCount": 5,
+      "weakInterpretationCount": 0,
+      "uniqueInterpretationRatio": 1,
+      "bodyChars": 340,
+      "hasMvUrl": false,
+      "scaffoldHits": []
+    },
+    {
+      "slug": "ren-zhi",
+      "title": "人质",
+      "favoriteLevel": "low",
+      "moodTags": [
+        "决绝",
+        "窒息"
+      ],
+      "themeTags": [
+        "关系变化",
+        "控制与依附"
+      ],
+      "summary": "冷调关系叙事：彼此挟持、猜忌游戏与心上开一枪的归零，人质式亲密最终以释放与「都别说谎」收束。",
+      "tier": "editorial",
+      "flags": [
+        "missing_mvUrl"
+      ],
+      "interpretationCount": 4,
+      "weakInterpretationCount": 0,
+      "uniqueInterpretationRatio": 1,
+      "bodyChars": 326,
+      "hasMvUrl": false,
+      "scaffoldHits": []
+    },
+    {
+      "slug": "rise",
+      "title": "Rise",
+      "favoriteLevel": "low",
+      "moodTags": [
+        "开阔",
+        "召唤"
+      ],
+      "themeTags": [
+        "集体认同",
+        "区域连结"
+      ],
+      "summary": "面向东盟共同体的英文主题向作品：十国同岸、齐唱一首歌，Children unite / People of asean / Rise。",
+      "tier": "editorial",
+      "flags": [
+        "missing_mvUrl"
+      ],
+      "interpretationCount": 4,
+      "weakInterpretationCount": 0,
+      "uniqueInterpretationRatio": 1,
+      "bodyChars": 464,
+      "hasMvUrl": false,
+      "scaffoldHits": []
+    },
+    {
+      "slug": "shang-bu-liao",
+      "title": "上不了",
+      "favoriteLevel": "low",
+      "moodTags": [
+        "倔强",
+        "失衡"
+      ],
+      "themeTags": [
+        "关系变化",
+        "内心独白"
+      ],
+      "summary": "出道专《燕姿》中的早期张力曲：曲名指向未遂与阻滞，卡片气质为倔强、失衡与拉扯；完整歌词核验后可再补逐句细读。",
+      "tier": "editorial",
+      "flags": [
+        "missing_mvUrl"
+      ],
+      "interpretationCount": 4,
+      "weakInterpretationCount": 0,
+      "uniqueInterpretationRatio": 1,
+      "bodyChars": 360,
+      "hasMvUrl": false,
+      "scaffoldHits": []
+    },
+    {
+      "slug": "shi-guang-xiao-tou",
+      "title": "时光小偷",
+      "favoriteLevel": "low",
+      "moodTags": [
+        "清淡",
+        "回望"
+      ],
+      "themeTags": [
+        "时间",
+        "成长"
+      ],
+      "summary": "都市时间笔记：过去如汗蒸发，时光偷走眼泪却滴在琴上成歌；回忆很美、未来很慢，故事写到一半。",
+      "tier": "editorial",
+      "flags": [
+        "missing_mvUrl"
+      ],
+      "interpretationCount": 4,
+      "weakInterpretationCount": 0,
+      "uniqueInterpretationRatio": 1,
+      "bodyChars": 335,
+      "hasMvUrl": false,
+      "scaffoldHits": []
+    },
+    {
       "slug": "silent-all-these-years",
       "title": "Silent All These Years",
       "favoriteLevel": "low",
@@ -4524,6 +3138,297 @@
       "uniqueInterpretationRatio": 1,
       "bodyChars": 249,
       "hasMvUrl": true,
+      "scaffoldHits": []
+    },
+    {
+      "slug": "someone",
+      "title": "Someone",
+      "favoriteLevel": "low",
+      "moodTags": [
+        "倔强",
+        "清醒"
+      ],
+      "themeTags": [
+        "身份认同",
+        "外部评价"
+      ],
+      "summary": "被改造发型后镜中只剩 freak，仍想成为对自己负责的 Someone；副歌列理想人格，床边空花瓶堆满灰尘。",
+      "tier": "editorial",
+      "flags": [
+        "missing_mvUrl"
+      ],
+      "interpretationCount": 4,
+      "weakInterpretationCount": 0,
+      "uniqueInterpretationRatio": 1,
+      "bodyChars": 405,
+      "hasMvUrl": false,
+      "scaffoldHits": []
+    },
+    {
+      "slug": "someone-start-concert",
+      "title": "Someone Start Concert",
+      "favoriteLevel": "low",
+      "moodTags": [
+        "现场",
+        "宣告"
+      ],
+      "themeTags": [
+        "身份认同",
+        "舞台凝视"
+      ],
+      "summary": "Start 演唱会版 Someone：镜中 freak 变成公开凝视，副歌适合合唱确认，空花瓶段落把私密背叛感带回舞台。",
+      "tier": "editorial",
+      "flags": [
+        "missing_mvUrl"
+      ],
+      "interpretationCount": 4,
+      "weakInterpretationCount": 0,
+      "uniqueInterpretationRatio": 1,
+      "bodyChars": 482,
+      "hasMvUrl": false,
+      "scaffoldHits": []
+    },
+    {
+      "slug": "sometimes-love-just-aint-enough",
+      "title": "Sometimes Love Just Ain't Enough",
+      "favoriteLevel": "low",
+      "moodTags": [
+        "清醒",
+        "无奈"
+      ],
+      "themeTags": [
+        "关系极限",
+        "爱有时不够"
+      ],
+      "summary": "英文翻唱的成人清醒：还爱着却不愿利用对方，副歌承认有时爱本身不够支付整段关系。",
+      "tier": "editorial",
+      "flags": [
+        "missing_mvUrl"
+      ],
+      "interpretationCount": 5,
+      "weakInterpretationCount": 0,
+      "uniqueInterpretationRatio": 1,
+      "bodyChars": 450,
+      "hasMvUrl": false,
+      "scaffoldHits": []
+    },
+    {
+      "slug": "sparking-diamonds",
+      "title": "Sparkling Diamonds",
+      "favoriteLevel": "low",
+      "moodTags": [
+        "俏皮",
+        "戏谑"
+      ],
+      "themeTags": [
+        "物质自保",
+        "角色表演"
+      ],
+      "summary": "百老汇式物质宣言的中英演绎：吻手礼付不起租金，魅力会折旧，钻石与品牌才是「最好的朋友」。",
+      "tier": "editorial",
+      "flags": [
+        "missing_mvUrl"
+      ],
+      "interpretationCount": 5,
+      "weakInterpretationCount": 0,
+      "uniqueInterpretationRatio": 1,
+      "bodyChars": 370,
+      "hasMvUrl": false,
+      "scaffoldHits": []
+    },
+    {
+      "slug": "sparkling-diamonds-start-concert",
+      "title": "Sparkling Diamonds Start Concert",
+      "favoriteLevel": "low",
+      "moodTags": [
+        "舞台",
+        "俏皮"
+      ],
+      "themeTags": [
+        "现场角色",
+        "物质宣言"
+      ],
+      "summary": "Start 演唱会英文角色段：钻石口号、material girl 与对 boys 的挑衅，用欢闹外壳钉住关系现实主义警告。",
+      "tier": "editorial",
+      "flags": [
+        "missing_mvUrl"
+      ],
+      "interpretationCount": 5,
+      "weakInterpretationCount": 0,
+      "uniqueInterpretationRatio": 1,
+      "bodyChars": 449,
+      "hasMvUrl": false,
+      "scaffoldHits": []
+    },
+    {
+      "slug": "stefanie",
+      "title": "Stefanie",
+      "favoriteLevel": "low",
+      "moodTags": [
+        "高压",
+        "扶持"
+      ],
+      "themeTags": [
+        "顶峰孤独",
+        "恐惧与并肩"
+      ],
+      "summary": "同名身份下的高位失重：顶端失光、恐惧有时压过坚强，靠「有你」止住难熬与寻找。",
+      "tier": "editorial",
+      "flags": [
+        "missing_mvUrl"
+      ],
+      "interpretationCount": 5,
+      "weakInterpretationCount": 0,
+      "uniqueInterpretationRatio": 1,
+      "bodyChars": 356,
+      "hasMvUrl": false,
+      "scaffoldHits": []
+    },
+    {
+      "slug": "sui-tang-ce-yan-start-concert",
+      "title": "随堂测验（Start演唱会）",
+      "favoriteLevel": "low",
+      "moodTags": [
+        "俏皮",
+        "现场"
+      ],
+      "themeTags": [
+        "了解与爱",
+        "联唱变装"
+      ],
+      "summary": "Start 版随堂测验：泡面与导演开考，钉死爱情与了解不一定关联，末段硬切 Venus 英文宣言换挡。",
+      "tier": "editorial",
+      "flags": [
+        "missing_mvUrl"
+      ],
+      "interpretationCount": 5,
+      "weakInterpretationCount": 0,
+      "uniqueInterpretationRatio": 1,
+      "bodyChars": 405,
+      "hasMvUrl": false,
+      "scaffoldHits": []
+    },
+    {
+      "slug": "sweet-child-o-mine",
+      "title": "Sweet Child O' Mine",
+      "favoriteLevel": "low",
+      "moodTags": [
+        "怀旧",
+        "温柔"
+      ],
+      "themeTags": [
+        "记忆投射",
+        "经典翻唱"
+      ],
+      "summary": "GNR 经典的开场凝视样本：以微笑与 seems to me 启动主观记忆；站内词库残缺，深读聚焦互文入口。",
+      "tier": "editorial",
+      "flags": [
+        "missing_mvUrl"
+      ],
+      "interpretationCount": 5,
+      "weakInterpretationCount": 0,
+      "uniqueInterpretationRatio": 1,
+      "bodyChars": 368,
+      "hasMvUrl": false,
+      "scaffoldHits": []
+    },
+    {
+      "slug": "sweet-child-o-mine-2",
+      "title": "Sweet Child O Mine 2",
+      "favoriteLevel": "low",
+      "moodTags": [
+        "温柔",
+        "脆弱"
+      ],
+      "themeTags": [
+        "童年",
+        "理想化",
+        "依赖"
+      ],
+      "summary": "英文翻唱把对方写成童年滤镜下的凝视：笑容唤起蓝天记忆，头发是躲雷的避难所，尾声只剩 Where do we go now。",
+      "tier": "editorial",
+      "flags": [
+        "missing_mvUrl"
+      ],
+      "interpretationCount": 5,
+      "weakInterpretationCount": 0,
+      "uniqueInterpretationRatio": 1,
+      "bodyChars": 364,
+      "hasMvUrl": false,
+      "scaffoldHits": []
+    },
+    {
+      "slug": "ta-men-de-ge",
+      "title": "他们的歌",
+      "favoriteLevel": "low",
+      "moodTags": [
+        "清醒",
+        "决断"
+      ],
+      "themeTags": [
+        "关系变化",
+        "分岔",
+        "自我确认"
+      ],
+      "summary": "从爱的号码牌、眼中不同天空、错位的翅膀，走到成人残缺与自我决定——一条关系分岔后的自我转向路径。",
+      "tier": "editorial",
+      "flags": [
+        "missing_mvUrl"
+      ],
+      "interpretationCount": 5,
+      "weakInterpretationCount": 0,
+      "uniqueInterpretationRatio": 1,
+      "bodyChars": 276,
+      "hasMvUrl": false,
+      "scaffoldHits": []
+    },
+    {
+      "slug": "tai-yang-di-xia",
+      "title": "太阳底下",
+      "favoriteLevel": "low",
+      "moodTags": [
+        "振奋",
+        "行动"
+      ],
+      "themeTags": [
+        "成长",
+        "集体",
+        "行动"
+      ],
+      "summary": "2003太阳计划主题曲：从今天比昨天多什么，推到站起来被照射发光，收在同一个家与心中最近的角落。",
+      "tier": "editorial",
+      "flags": [
+        "missing_mvUrl"
+      ],
+      "interpretationCount": 5,
+      "weakInterpretationCount": 0,
+      "uniqueInterpretationRatio": 1,
+      "bodyChars": 281,
+      "hasMvUrl": false,
+      "scaffoldHits": []
+    },
+    {
+      "slug": "that-i-would-be-good",
+      "title": "That I Would Be Good",
+      "favoriteLevel": "low",
+      "moodTags": [
+        "平静",
+        "自持"
+      ],
+      "themeTags": [
+        "自我接纳",
+        "去条件化"
+      ],
+      "summary": "用 even if 清单卸掉成就、外貌与权力条件，中英交替练习：即便如此，我仍 good，仍可被爱。",
+      "tier": "editorial",
+      "flags": [
+        "missing_mvUrl"
+      ],
+      "interpretationCount": 5,
+      "weakInterpretationCount": 0,
+      "uniqueInterpretationRatio": 1,
+      "bodyChars": 312,
+      "hasMvUrl": false,
       "scaffoldHits": []
     },
     {
@@ -4547,6 +3452,326 @@
       "scaffoldHits": []
     },
     {
+      "slug": "tian-kong",
+      "title": "天空",
+      "favoriteLevel": "low",
+      "moodTags": [
+        "思念",
+        "克制"
+      ],
+      "themeTags": [
+        "分隔",
+        "天空",
+        "祈愿"
+      ],
+      "summary": "我的、你的、我们的天空层层对照：湿泪灰脸、想的雨冷的月，盼相连，尾声但愿不再涂灰。",
+      "tier": "editorial",
+      "flags": [
+        "missing_mvUrl"
+      ],
+      "interpretationCount": 5,
+      "weakInterpretationCount": 0,
+      "uniqueInterpretationRatio": 1,
+      "bodyChars": 251,
+      "hasMvUrl": false,
+      "scaffoldHits": []
+    },
+    {
+      "slug": "tian-yue-liang-ye-yue-hei",
+      "title": "天越亮，夜越黑",
+      "favoriteLevel": "low",
+      "moodTags": [
+        "执着",
+        "昂扬"
+      ],
+      "themeTags": [
+        "成长",
+        "意志",
+        "明暗"
+      ],
+      "summary": "明暗交替里写意志：天越亮执着越强，夜越黑坚定更绝对；脆弱与不安仍要蠢蠢欲追。",
+      "tier": "editorial",
+      "flags": [
+        "missing_mvUrl"
+      ],
+      "interpretationCount": 5,
+      "weakInterpretationCount": 0,
+      "uniqueInterpretationRatio": 1,
+      "bodyChars": 266,
+      "hasMvUrl": false,
+      "scaffoldHits": []
+    },
+    {
+      "slug": "tian-yue-liang-ye-yue-hei-2",
+      "title": "天越亮，夜越黑（版本二）",
+      "favoriteLevel": "low",
+      "moodTags": [
+        "执着",
+        "紧绷"
+      ],
+      "themeTags": [
+        "明暗对照",
+        "逆境前行",
+        "自我提问"
+      ],
+      "summary": "《天越亮，夜越黑（版本二）》把亮与黑写成同一种驱动力：越亮越执着，越黑越绝对；脆弱仍在，却蠢蠢欲追。",
+      "tier": "editorial",
+      "flags": [
+        "missing_mvUrl"
+      ],
+      "interpretationCount": 5,
+      "weakInterpretationCount": 0,
+      "uniqueInterpretationRatio": 1,
+      "bodyChars": 261,
+      "hasMvUrl": false,
+      "scaffoldHits": []
+    },
+    {
+      "slug": "ting-jian",
+      "title": "听见",
+      "favoriteLevel": "low",
+      "moodTags": [
+        "思念",
+        "细腻"
+      ],
+      "themeTags": [
+        "听觉记忆",
+        "牵挂",
+        "关系余波"
+      ],
+      "summary": "《听见》用耳朵做关系镜头：从旁人声响扫到重叠的声线，思念让人穿越风雨，诺言也会不经意被听见。",
+      "tier": "editorial",
+      "flags": [
+        "missing_mvUrl"
+      ],
+      "interpretationCount": 5,
+      "weakInterpretationCount": 0,
+      "uniqueInterpretationRatio": 1,
+      "bodyChars": 276,
+      "hasMvUrl": false,
+      "scaffoldHits": []
+    },
+    {
+      "slug": "tong-yao-1987",
+      "title": "童谣1987",
+      "favoriteLevel": "low",
+      "moodTags": [
+        "清亮",
+        "倔强"
+      ],
+      "themeTags": [
+        "成长主权",
+        "反标准化",
+        "童年请愿"
+      ],
+      "summary": "《童谣1987》以孩子口吻向爸爸妈妈老师世界请愿：要窗口、哭闹时间与自己的黑板，拒绝过早的标准笑脸。",
+      "tier": "editorial",
+      "flags": [
+        "missing_mvUrl"
+      ],
+      "interpretationCount": 5,
+      "weakInterpretationCount": 0,
+      "uniqueInterpretationRatio": 1,
+      "bodyChars": 285,
+      "hasMvUrl": false,
+      "scaffoldHits": []
+    },
+    {
+      "slug": "up2u",
+      "title": "Up2u",
+      "favoriteLevel": "low",
+      "moodTags": [
+        "明亮",
+        "轻快"
+      ],
+      "themeTags": [
+        "自主选择",
+        "青春动能",
+        "自我许可"
+      ],
+      "summary": "《Up2u》把选择权塞回你手里：换规则、变色彩，要多美都由你作主；想飞就飞，一眨眼看见另一个我。",
+      "tier": "editorial",
+      "flags": [
+        "missing_mvUrl"
+      ],
+      "interpretationCount": 5,
+      "weakInterpretationCount": 0,
+      "uniqueInterpretationRatio": 1,
+      "bodyChars": 256,
+      "hasMvUrl": false,
+      "scaffoldHits": []
+    },
+    {
+      "slug": "venus",
+      "title": "Venus",
+      "favoriteLevel": "low",
+      "moodTags": [
+        "自信",
+        "华丽"
+      ],
+      "themeTags": [
+        "角色扮演",
+        "翻唱",
+        "魅力宣言"
+      ],
+      "summary": "《Venus》是录音室里的女神造像：山巅银焰命名维纳斯，再以 I'm your fire 把神话拉进可放电的舞台人格。",
+      "tier": "editorial",
+      "flags": [
+        "missing_mvUrl"
+      ],
+      "interpretationCount": 5,
+      "weakInterpretationCount": 0,
+      "uniqueInterpretationRatio": 1,
+      "bodyChars": 360,
+      "hasMvUrl": false,
+      "scaffoldHits": []
+    },
+    {
+      "slug": "venus-start-concert",
+      "title": "Venus Start Concert",
+      "favoriteLevel": "low",
+      "moodTags": [
+        "高能",
+        "现场"
+      ],
+      "themeTags": [
+        "演唱会",
+        "翻唱",
+        "舞台亮相"
+      ],
+      "summary": "《Venus Start Concert》是同一神话的现场开关：英文直给、she's got it 起哄、Venus/fire/desire 三联把场地点燃。",
+      "tier": "editorial",
+      "flags": [
+        "missing_mvUrl"
+      ],
+      "interpretationCount": 5,
+      "weakInterpretationCount": 0,
+      "uniqueInterpretationRatio": 1,
+      "bodyChars": 385,
+      "hasMvUrl": false,
+      "scaffoldHits": []
+    },
+    {
+      "slug": "we-will-get-there",
+      "title": "We Will Get There",
+      "favoriteLevel": "low",
+      "moodTags": [
+        "希望",
+        "坚定"
+      ],
+      "themeTags": [
+        "共同前行",
+        "重建"
+      ],
+      "summary": "双语公共颂歌：回望被改写的日子与风暴中的并肩，以家人朋友牵手与 We will get there 把抵达写成仍在进行的集体承诺。",
+      "tier": "editorial",
+      "flags": [
+        "missing_mvUrl"
+      ],
+      "interpretationCount": 5,
+      "weakInterpretationCount": 0,
+      "uniqueInterpretationRatio": 1,
+      "bodyChars": 438,
+      "hasMvUrl": false,
+      "scaffoldHits": []
+    },
+    {
+      "slug": "wei-rao",
+      "title": "围绕",
+      "favoriteLevel": "low",
+      "moodTags": [
+        "犹疑",
+        "自省"
+      ],
+      "themeTags": [
+        "自我定位",
+        "关系距离"
+      ],
+      "summary": "用空位、平行交叉与“围绕自己的线”写自我定位：道别又折返、对了没到了没，最终停在“围绕谁”的眼前一问。",
+      "tier": "editorial",
+      "flags": [
+        "missing_mvUrl"
+      ],
+      "interpretationCount": 5,
+      "weakInterpretationCount": 0,
+      "uniqueInterpretationRatio": 1,
+      "bodyChars": 252,
+      "hasMvUrl": false,
+      "scaffoldHits": []
+    },
+    {
+      "slug": "wei-wan-cheng",
+      "title": "未完成",
+      "favoriteLevel": "low",
+      "moodTags": [
+        "成长中",
+        "轻松"
+      ],
+      "themeTags": [
+        "成长",
+        "未完成"
+      ],
+      "summary": "绕路与拐弯说话里被迫长大：未完成的我一出场就要表现，却把未完成改写成永远做不完的期待。",
+      "tier": "editorial",
+      "flags": [
+        "missing_mvUrl"
+      ],
+      "interpretationCount": 5,
+      "weakInterpretationCount": 0,
+      "uniqueInterpretationRatio": 1,
+      "bodyChars": 277,
+      "hasMvUrl": false,
+      "scaffoldHits": []
+    },
+    {
+      "slug": "wei-zhi-de-jing-cai-2",
+      "title": "未知的精采（版本二）",
+      "favoriteLevel": "low",
+      "moodTags": [
+        "自信",
+        "开朗"
+      ],
+      "themeTags": [
+        "自我主宰",
+        "未知"
+      ],
+      "summary": "版本二以动脉直觉当路牌：未知未来不要谁来编排，期待如色彩可涂改，多姿多彩由自己主宰。",
+      "tier": "editorial",
+      "flags": [
+        "missing_mvUrl"
+      ],
+      "interpretationCount": 5,
+      "weakInterpretationCount": 0,
+      "uniqueInterpretationRatio": 1,
+      "bodyChars": 262,
+      "hasMvUrl": false,
+      "scaffoldHits": []
+    },
+    {
+      "slug": "wen-rou-mayday-blue-20th",
+      "title": "温柔（五月天 BLUE 20th）",
+      "favoriteLevel": "low",
+      "moodTags": [
+        "温柔",
+        "心酸"
+      ],
+      "themeTags": [
+        "放手",
+        "成全"
+      ],
+      "summary": "五月天《温柔》关联版本：气候式温柔反衬变心，“不打扰是我的温柔”，想靠近却孤单到黎明，终以让你自由收束。",
+      "tier": "editorial",
+      "flags": [
+        "missing_mvUrl"
+      ],
+      "interpretationCount": 5,
+      "weakInterpretationCount": 0,
+      "uniqueInterpretationRatio": 1,
+      "bodyChars": 277,
+      "hasMvUrl": false,
+      "scaffoldHits": []
+    },
+    {
       "slug": "wo-bu-ai",
       "title": "我不爱",
       "favoriteLevel": "low",
@@ -4564,6 +3789,588 @@
       "uniqueInterpretationRatio": 1,
       "bodyChars": 191,
       "hasMvUrl": true,
+      "scaffoldHits": []
+    },
+    {
+      "slug": "wo-hen-wo-ai-ni",
+      "title": "我恨我爱你",
+      "favoriteLevel": "low",
+      "moodTags": [
+        "决裂",
+        "拉扯"
+      ],
+      "themeTags": [
+        "爱恨交织",
+        "分手"
+      ],
+      "summary": "分手后的爱恨同框：微笑离场与一点小伤的淡化之后，副歌把恨与爱焊死，终被“我爱你”一句打穿。",
+      "tier": "editorial",
+      "flags": [
+        "missing_mvUrl"
+      ],
+      "interpretationCount": 5,
+      "weakInterpretationCount": 0,
+      "uniqueInterpretationRatio": 1,
+      "bodyChars": 278,
+      "hasMvUrl": false,
+      "scaffoldHits": []
+    },
+    {
+      "slug": "wo-shi-wo",
+      "title": "我是我",
+      "favoriteLevel": "low",
+      "moodTags": [
+        "轻快",
+        "自由"
+      ],
+      "themeTags": [
+        "自我",
+        "边界"
+      ],
+      "summary": "拒绝算命、伪自由与紧张生活，用「一分钟的自由」和「我是我」夺回自我命名权。",
+      "tier": "editorial",
+      "flags": [
+        "missing_mvUrl"
+      ],
+      "interpretationCount": 5,
+      "weakInterpretationCount": 0,
+      "uniqueInterpretationRatio": 1,
+      "bodyChars": 318,
+      "hasMvUrl": false,
+      "scaffoldHits": []
+    },
+    {
+      "slug": "wo-wei-shen-me-na-me-ai-ni",
+      "title": "我为什么那么爱你",
+      "favoriteLevel": "low",
+      "moodTags": [
+        "压抑",
+        "克制"
+      ],
+      "themeTags": [
+        "分手",
+        "爱与原谅"
+      ],
+      "summary": "日落烟头的静止告别里，追问为何爱到原则失守，用尽全力却从头到尾不哭。",
+      "tier": "editorial",
+      "flags": [
+        "missing_mvUrl"
+      ],
+      "interpretationCount": 5,
+      "weakInterpretationCount": 0,
+      "uniqueInterpretationRatio": 1,
+      "bodyChars": 317,
+      "hasMvUrl": false,
+      "scaffoldHits": []
+    },
+    {
+      "slug": "wo-xiang",
+      "title": "我想",
+      "favoriteLevel": "low",
+      "moodTags": [
+        "迷茫",
+        "决断"
+      ],
+      "themeTags": [
+        "关系困局",
+        "自我蜕变"
+      ],
+      "summary": "失效的快乐地图与吹不散的雾中，确认没有后路，以不再装傻完成蜕变。",
+      "tier": "editorial",
+      "flags": [
+        "missing_mvUrl"
+      ],
+      "interpretationCount": 5,
+      "weakInterpretationCount": 0,
+      "uniqueInterpretationRatio": 1,
+      "bodyChars": 318,
+      "hasMvUrl": false,
+      "scaffoldHits": []
+    },
+    {
+      "slug": "wo-yao-de-xing-fu-start-concert",
+      "title": "我要的幸福（Start演唱会）",
+      "favoriteLevel": "low",
+      "moodTags": [
+        "明亮",
+        "坚定"
+      ],
+      "themeTags": [
+        "成长",
+        "幸福定义"
+      ],
+      "summary": "Start 现场版：从辛苦清单与问路不装酷，到黏土式塑形，确认幸福无束缚、在不远处。",
+      "tier": "editorial",
+      "flags": [
+        "missing_mvUrl"
+      ],
+      "interpretationCount": 5,
+      "weakInterpretationCount": 0,
+      "uniqueInterpretationRatio": 1,
+      "bodyChars": 345,
+      "hasMvUrl": false,
+      "scaffoldHits": []
+    },
+    {
+      "slug": "wo-yao-kuai-le",
+      "title": "我要快乐",
+      "favoriteLevel": "low",
+      "moodTags": [
+        "决绝",
+        "自愈"
+      ],
+      "themeTags": [
+        "止损",
+        "自我授权"
+      ],
+      "summary": "又被爱伤之后，要能睡的安稳：有些人不抱了才温暖，眼泪为真，决定是对的。",
+      "tier": "editorial",
+      "flags": [
+        "missing_mvUrl"
+      ],
+      "interpretationCount": 5,
+      "weakInterpretationCount": 0,
+      "uniqueInterpretationRatio": 1,
+      "bodyChars": 325,
+      "hasMvUrl": false,
+      "scaffoldHits": []
+    },
+    {
+      "slug": "wu-xian-da",
+      "title": "无限大",
+      "favoriteLevel": "low",
+      "moodTags": [
+        "豁达",
+        "回望"
+      ],
+      "themeTags": [
+        "成长",
+        "时间"
+      ],
+      "summary": "从膝盖伤疤到近永恒的毁灭，用「某个以后/转角」把以后留成可容的无限大。",
+      "tier": "editorial",
+      "flags": [
+        "missing_mvUrl"
+      ],
+      "interpretationCount": 5,
+      "weakInterpretationCount": 0,
+      "uniqueInterpretationRatio": 1,
+      "bodyChars": 333,
+      "hasMvUrl": false,
+      "scaffoldHits": []
+    },
+    {
+      "slug": "xing-qi-yi-tian-qi-qing-wo-li-kai-ni",
+      "title": "星期一天气晴我离开你",
+      "favoriteLevel": "low",
+      "moodTags": [
+        "克制",
+        "释然"
+      ],
+      "themeTags": [
+        "分手",
+        "日记",
+        "自我抽离"
+      ],
+      "summary": "晴朗星期一轻装离开：不恨、暂时不爱，只带一本放逐日记与日历上的星星。",
+      "tier": "editorial",
+      "flags": [
+        "missing_mvUrl"
+      ],
+      "interpretationCount": 5,
+      "weakInterpretationCount": 0,
+      "uniqueInterpretationRatio": 1,
+      "bodyChars": 299,
+      "hasMvUrl": false,
+      "scaffoldHits": []
+    },
+    {
+      "slug": "xu-yao-ni",
+      "title": "需要你",
+      "favoriteLevel": "low",
+      "moodTags": [
+        "寂寞",
+        "犹豫"
+      ],
+      "themeTags": [
+        "需要",
+        "缺席",
+        "自我承认"
+      ],
+      "summary": "夜望海洋想清楚不安与寂寞；明明不在却学会忍耐，明明需要你却仍犹豫不定。",
+      "tier": "editorial",
+      "flags": [
+        "missing_mvUrl"
+      ],
+      "interpretationCount": 5,
+      "weakInterpretationCount": 0,
+      "uniqueInterpretationRatio": 1,
+      "bodyChars": 253,
+      "hasMvUrl": false,
+      "scaffoldHits": []
+    },
+    {
+      "slug": "xuan-wo",
+      "title": "漩涡",
+      "favoriteLevel": "low",
+      "moodTags": [
+        "悔恨",
+        "脆弱"
+      ],
+      "themeTags": [
+        "自责",
+        "未言说",
+        "后悔"
+      ],
+      "summary": "假把握锁心逼走对方后的自我吞噬：从不说我爱你那么多，悔恨如黑色漩涡吞没。",
+      "tier": "editorial",
+      "flags": [
+        "missing_mvUrl"
+      ],
+      "interpretationCount": 5,
+      "weakInterpretationCount": 0,
+      "uniqueInterpretationRatio": 1,
+      "bodyChars": 272,
+      "hasMvUrl": false,
+      "scaffoldHits": []
+    },
+    {
+      "slug": "xue-hui",
+      "title": "学会",
+      "favoriteLevel": "low",
+      "moodTags": [
+        "成长",
+        "释然"
+      ],
+      "themeTags": [
+        "离别",
+        "学习",
+        "向前"
+      ],
+      "summary": "从流泪、怕黑到离别后悔谅解：爱过才学会，逆着风起飞，让自己成为每个起点。",
+      "tier": "editorial",
+      "flags": [
+        "missing_mvUrl"
+      ],
+      "interpretationCount": 5,
+      "weakInterpretationCount": 0,
+      "uniqueInterpretationRatio": 1,
+      "bodyChars": 268,
+      "hasMvUrl": false,
+      "scaffoldHits": []
+    },
+    {
+      "slug": "yan-shen",
+      "title": "眼神",
+      "favoriteLevel": "low",
+      "moodTags": [
+        "温暖",
+        "信任"
+      ],
+      "themeTags": [
+        "陪伴",
+        "梦想",
+        "支持"
+      ],
+      "summary": "现实推挤中，爱有时是一种眼神：赶走苦闷、不需保证，逆风时牵手同行并保持恒温。",
+      "tier": "editorial",
+      "flags": [
+        "missing_mvUrl"
+      ],
+      "interpretationCount": 5,
+      "weakInterpretationCount": 0,
+      "uniqueInterpretationRatio": 1,
+      "bodyChars": 249,
+      "hasMvUrl": false,
+      "scaffoldHits": []
+    },
+    {
+      "slug": "yang-zi",
+      "title": "样子",
+      "favoriteLevel": "low",
+      "moodTags": [
+        "回望",
+        "温柔"
+      ],
+      "themeTags": [
+        "青春",
+        "记忆",
+        "时间"
+      ],
+      "summary": "在沙漏般流失的名字里收藏青春的样子：思念是唯一地址，星河人海里你仍有位置。",
+      "tier": "editorial",
+      "flags": [
+        "missing_mvUrl"
+      ],
+      "interpretationCount": 5,
+      "weakInterpretationCount": 0,
+      "uniqueInterpretationRatio": 1,
+      "bodyChars": 296,
+      "hasMvUrl": false,
+      "scaffoldHits": []
+    },
+    {
+      "slug": "yi-qi-zou-dao",
+      "title": "一起走到",
+      "favoriteLevel": "low",
+      "moodTags": [
+        "励志",
+        "温暖"
+      ],
+      "themeTags": [
+        "同行",
+        "信念"
+      ],
+      "summary": "动员式合唱曲：从蓝天记忆与黑雾危机切入，用肩并肩、永恒长跑与手牵手把个人勇气扩成集体耐力。",
+      "tier": "editorial",
+      "flags": [
+        "missing_mvUrl"
+      ],
+      "interpretationCount": 5,
+      "weakInterpretationCount": 0,
+      "uniqueInterpretationRatio": 1,
+      "bodyChars": 338,
+      "hasMvUrl": false,
+      "scaffoldHits": []
+    },
+    {
+      "slug": "yi-yang-de-xia-tian",
+      "title": "一样的夏天",
+      "favoriteLevel": "low",
+      "moodTags": [
+        "淡然",
+        "回望"
+      ],
+      "themeTags": [
+        "告别",
+        "平静"
+      ],
+      "summary": "午睡式回望：雨停梦影与那年夏天最后一天；没想起不是忘记而是平静，人退场季节留下。",
+      "tier": "editorial",
+      "flags": [
+        "missing_mvUrl"
+      ],
+      "interpretationCount": 5,
+      "weakInterpretationCount": 0,
+      "uniqueInterpretationRatio": 1,
+      "bodyChars": 350,
+      "hasMvUrl": false,
+      "scaffoldHits": []
+    },
+    {
+      "slug": "yong-gan",
+      "title": "勇敢",
+      "favoriteLevel": "low",
+      "moodTags": [
+        "压抑",
+        "清醒"
+      ],
+      "themeTags": [
+        "单向付出",
+        "寂寞"
+      ],
+      "summary": "反励志情歌：勇敢太久、为你一人而活，城市短暂烟火照出沉默；终句验算——爱原来寂寞。",
+      "tier": "editorial",
+      "flags": [
+        "missing_mvUrl"
+      ],
+      "interpretationCount": 5,
+      "weakInterpretationCount": 0,
+      "uniqueInterpretationRatio": 1,
+      "bodyChars": 297,
+      "hasMvUrl": false,
+      "scaffoldHits": []
+    },
+    {
+      "slug": "yong-yuan",
+      "title": "永远",
+      "favoriteLevel": "low",
+      "moodTags": [
+        "疏离",
+        "失落"
+      ],
+      "themeTags": [
+        "承诺消散",
+        "出局"
+      ],
+      "summary": "夜色人潮里的失焦：永远曾像实现过，又在那一天走远；剧情在你手心，誓言只埋在单方心里。",
+      "tier": "editorial",
+      "flags": [
+        "missing_mvUrl"
+      ],
+      "interpretationCount": 5,
+      "weakInterpretationCount": 0,
+      "uniqueInterpretationRatio": 1,
+      "bodyChars": 278,
+      "hasMvUrl": false,
+      "scaffoldHits": []
+    },
+    {
+      "slug": "zai-ye-bu-jian",
+      "title": "再也不见",
+      "favoriteLevel": "low",
+      "moodTags": [
+        "决绝",
+        "冷硬"
+      ],
+      "themeTags": [
+        "永别",
+        "告别仪式"
+      ],
+      "summary": "把社交再见翻译成永别：痛可更熟练，不敢面对面，计量见多少次也无解——原来再见就是再也不见。",
+      "tier": "editorial",
+      "flags": [
+        "missing_mvUrl"
+      ],
+      "interpretationCount": 5,
+      "weakInterpretationCount": 0,
+      "uniqueInterpretationRatio": 1,
+      "bodyChars": 312,
+      "hasMvUrl": false,
+      "scaffoldHits": []
+    },
+    {
+      "slug": "zhen-de-start-concert",
+      "title": "真的（Start演唱会）",
+      "favoriteLevel": "low",
+      "moodTags": [
+        "坚定",
+        "温柔"
+      ],
+      "themeTags": [
+        "表白",
+        "现场"
+      ],
+      "summary": "Start 演唱会版：爱得不问明天也曾被风径折；副歌反复真的愿意，终以心疼定义爱是真的。",
+      "tier": "editorial",
+      "flags": [
+        "missing_mvUrl"
+      ],
+      "interpretationCount": 5,
+      "weakInterpretationCount": 0,
+      "uniqueInterpretationRatio": 1,
+      "bodyChars": 307,
+      "hasMvUrl": false,
+      "scaffoldHits": []
+    },
+    {
+      "slug": "zhong-jian-di-dai",
+      "title": "中间地带",
+      "favoriteLevel": "low",
+      "moodTags": [
+        "冷静",
+        "坚守"
+      ],
+      "themeTags": [
+        "暧昧",
+        "自我边界"
+      ],
+      "summary": "质疑地表画线与二元对立，以寄居蟹式趋近与左右消息写暧昧错位，坚持站在中间地带守住完整一片。",
+      "tier": "editorial",
+      "flags": [
+        "missing_mvUrl"
+      ],
+      "interpretationCount": 5,
+      "weakInterpretationCount": 0,
+      "uniqueInterpretationRatio": 1,
+      "bodyChars": 174,
+      "hasMvUrl": false,
+      "scaffoldHits": []
+    },
+    {
+      "slug": "zhong-yu",
+      "title": "终于",
+      "favoriteLevel": "low",
+      "moodTags": [
+        "等待",
+        "温柔"
+      ],
+      "themeTags": [
+        "暗恋",
+        "被听见"
+      ],
+      "summary": "从偷偷待在你世界里的隐形等待，到三连终于被看见、被听见；夜里又爱听又怕听，承诺做永远收信的人。",
+      "tier": "editorial",
+      "flags": [
+        "missing_mvUrl"
+      ],
+      "interpretationCount": 4,
+      "weakInterpretationCount": 0,
+      "uniqueInterpretationRatio": 1,
+      "bodyChars": 166,
+      "hasMvUrl": false,
+      "scaffoldHits": []
+    },
+    {
+      "slug": "zhong-yu-2",
+      "title": "终于（版本二）",
+      "favoriteLevel": "low",
+      "moodTags": [
+        "等待",
+        "释然"
+      ],
+      "themeTags": [
+        "暗恋",
+        "版本差异"
+      ],
+      "summary": "与《终于》同词骨架，版本二以更疏断句突出小心试探与副歌逐字兑现，收在终于 Oh 的余韵。",
+      "tier": "editorial",
+      "flags": [
+        "missing_mvUrl"
+      ],
+      "interpretationCount": 5,
+      "weakInterpretationCount": 0,
+      "uniqueInterpretationRatio": 1,
+      "bodyChars": 180,
+      "hasMvUrl": false,
+      "scaffoldHits": []
+    },
+    {
+      "slug": "zhui",
+      "title": "追",
+      "favoriteLevel": "low",
+      "moodTags": [
+        "前行",
+        "热血"
+      ],
+      "themeTags": [
+        "并肩",
+        "探险"
+      ],
+      "summary": "地平线藏起终点，幸运不能安排；现在就起飞去追，累也无所谓只要你在周围，不知所在也方向不许改。",
+      "tier": "editorial",
+      "flags": [
+        "missing_mvUrl"
+      ],
+      "interpretationCount": 5,
+      "weakInterpretationCount": 0,
+      "uniqueInterpretationRatio": 1,
+      "bodyChars": 163,
+      "hasMvUrl": false,
+      "scaffoldHits": []
+    },
+    {
+      "slug": "zuo-zhan",
+      "title": "作战",
+      "favoriteLevel": "low",
+      "moodTags": [
+        "振奋",
+        "自嘲"
+      ],
+      "themeTags": [
+        "自我成长",
+        "并肩"
+      ],
+      "summary": "Its my life，跟自己开心的作战战到白头；承认孤单只是想像，跳过心的障碍，大声点用力些一起作战。",
+      "tier": "editorial",
+      "flags": [
+        "missing_mvUrl"
+      ],
+      "interpretationCount": 5,
+      "weakInterpretationCount": 0,
+      "uniqueInterpretationRatio": 1,
+      "bodyChars": 183,
+      "hasMvUrl": false,
       "scaffoldHits": []
     }
   ]

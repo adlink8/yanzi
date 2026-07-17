@@ -10,12 +10,12 @@
 Read and obey: `docs/DEEPREAD-EDITORIAL-SPEC.md`
 
 ## Songs in this batch ONLY
-1. `shen-qi` — 神奇 (favorite=medium, was scaffold)
-2. `shi-jie-zhong-jie-qian-yi-tian` — 世界终结前一天 (favorite=medium, was scaffold)
-3. `shou-hu-yong-heng-de-ai` — 守护永恒的爱 (favorite=medium, was scaffold)
-4. `sui-tang-ce-yan` — 随堂测验 (favorite=medium, was scaffold)
-5. `tao-wang` — 逃亡 (favorite=medium, was scaffold)
-6. `tian-tian-nian-nian` — 天天年年 (favorite=medium, was scaffold)
+1. `one-united-people` — One United People (favorite=low, was scaffold)
+2. `opening` — Opening (favorite=low, was scaffold)
+3. `ping-ri-kuai-le` — 平日快乐 (favorite=low, was scaffold)
+4. `qin-guang` — 擒光 (favorite=low, was scaffold)
+5. `quan-xin-quan-yi` — 全心全意 (favorite=low, was scaffold)
+6. `radio` — Radio (favorite=low, was scaffold)
 
 Do **not** edit songs outside this list.
 

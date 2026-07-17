@@ -2,7 +2,7 @@
 slug: someone-start-concert
 title: Someone Start Concert
 status: ready
-updatedAt: '2026-04-08'
+updatedAt: '2026-07-17'
 lyricBlocks:
   - |-
     My hair was long and shining
@@ -14,12 +14,14 @@ lyricBlocks:
     I took your word and did
     Looked in my mirror
     Who's that freak
+  - |-
     Why does the world deceive
     Why do i make believe
     Took my heel and made
     Achilles out of me
     Still i won't wanna be
     Someone who's answer to me
+  - |-
     Someone who sees like a child
     Gives like a saint
     Feels like an angel
@@ -28,78 +30,70 @@ lyricBlocks:
     Cries like the rain
     Shines like the star
     As long as the fire remains
+  - |-
     The vase beside my bed
     It's empty almost dead
     It's for all the flowers i'm gonna give you he said
     And now it's collecting dust instead
-    Why does the world deceive
-    Why do i make believe
-    Took my heel made
-    Achilles out of me
-    Still i won't wanna be
-    Someone who's answer to me
-    Someone who sees like a child
-    Gives like a saint
-    Feels like an angel
-    Never mind the broken wings
-    And speaks like a picture
-    Cries like the rain
-    Shines like the star
-    As long as the fire remains
-    Sees like a child
-    Gives like a saint
-    Feels like an angel
-    Never mind the broken wings
-    And speaks like a picture
-    Cries like the rain
-    Shines like the star
-    As long as the fire remains
 lyricInterpretations:
-  - id: opening-frame
-    section: 开场设定
-    reference: My hair was long and shining
-    lyricText: My hair was long and shining
-    interpretation: 开场先把这首歌的核心气质立住：舞台化自我确认。现场版本把“被凝视”与“自我定义”拉得更直接。
-    whyItMatters: 开场是否立得住，决定听众后面会把它当作情绪记录，还是当作可反复进入的作品。
-  - id: middle-shift
-    section: 中段推进
-    reference: Gives like a saint
-    lyricText: Gives like a saint
-    interpretation: 到中段时，表达重心开始从“描述状态”转向“处理状态”。前段是外界标准的压迫，中段转成自我重组，后段回到“someone”的肯定。
-    whyItMatters: 这一段通常是全歌的结构转轴，会把听感从单一情绪推进到更复杂的心理层次。
-  - id: turning-point
-    section: 转折点
-    reference: Someone who's answer to me
-    lyricText: Someone who's answer to me
-    interpretation: 这一句附近的写法不靠大起大落，而是通过语气、重复或意象变化把立场慢慢推出来，因而更耐听。
-    whyItMatters: 它让歌曲不只停在“我有情绪”，而是进一步走到“我怎么理解这段经历”。
-  - id: ending-aftertaste
-    section: 收束余味
-    reference: As long as the fire remains
+  - id: part-01
+    section: 舞台上的照镜
+    reference: Who's that freak
+    lyricText: Who's that freak
+    interpretation: >-
+      Start 演唱会版本把同一段自我异化物料放到万人场：镜中 freak 不再只是卧室独白，
+      而成为与观众共享的「被凝视」瞬间。长发、出门、改造令在现场更像公开叙事——
+      歌者一边唱被改写，一边被灯光与镜头再次改写，形成双层观看。
+    whyItMatters: 现场语境放大「谁有权定义我」的主题，区别于录音室私密版。
+  - id: part-02
+    section: 现场咬字与 won't
+    reference: Achilles
+    lyricText: Achilles out of me
+    interpretation: >-
+      现场记录稿里出现 Still i won't wanna be 与 studio 常见 would 的细微差别，
+      听感上更像当场咬定的拒绝：不是「仍想成为」，而是「偏不要成为（别人指定的那种）」。
+      Achilles 在体育馆声学里被拉长、拆行，弱点神话变成可合唱的戏剧停顿。
+      解读以现场文本为准，不把差异强行说成官方改词史。
+    whyItMatters: 同一首歌在 Start 场次的语气可能更硬，主体性从渴望偏向否决。
+  - id: part-03
+    section: 合唱式 Someone
+    reference: fire remains
     lyricText: As long as the fire remains
-    interpretation: 尾段的处理很关键：尾段像宣言：不再证明给所有人看，而是承认自己是谁。
-    whyItMatters: 好的收束不会把答案说死，而是留一个可回听、可反刍的情绪空间。
-  - id: auto-5
-    section: 自动补充段 5
-    reference: 《Someone Start Concert》 第 5 段
-    lyricText: 《Someone Start Concert》 语句 5
-    interpretation: 这是《Someone Start Concert》自动补充的第 5 段解读，主要呼应整体主题。
-    whyItMatters: 这段让《Someone Start Concert》的情绪继续向前，是理解整首歌的补白。
+    interpretation: >-
+      副歌品质清单在演唱会上天然适合分层：短句、意象清晰，观众能接 sees / gives / feels。
+      broken wings 与 fire remains 形成现场情绪阀门——先承认破损，再允许火还在。
+      相对录音室，live 更依赖重复与气口，把私密理想自我唱成集体确认仪式。
+    whyItMatters: Start 版的功能不只是还原专辑曲，而是把身份宣言变成场内共同呼吸。
+  - id: part-04
+    section: 空瓶在场馆回声
+    reference: collecting dust
+    lyricText: And now it's collecting dust instead
+    interpretation: >-
+      床边花瓶段落在巨大空间里反而更刺：越是私密道具，越与舞台灯形成反差。
+      「本要给你的花」变成灰尘，唱给在场所有人听时，背叛感从一对一扩成对「被许诺的未来」
+      的集体记忆。它提醒听众：Start 现场的 Someone 仍保留室内静物，不只是嗨点副歌。
+    whyItMatters: 防止现场版被听成纯励志合唱，保留歌曲里的空与冷。
 songDesign:
-  summary: 这首歌可理解为“舞台化自我确认”的结构化表达。它通过前段定调、中段推进、后段收束，把单点感受扩展成完整听感路径。
+  summary: >-
+    《Someone》（Start 演唱会版）把自我被改造、Achilles 弱点与 Someone 理想人格放进现场声学：
+    镜中 freak 成为公开凝视，副歌适合合唱确认，空花瓶段落以私密道具对抗舞台热闹。
   structure:
-    - 开头用核心意象或口气快速定调，先把角色位置讲清楚。
-    - 中段引入关系变化或心理位移，让叙述从静态走向动态。
-    - 后段通过重复句或结论句回收主题，并保留回响空间。
+    - 开场叙事：发型指令与 mirror freak，面向全场。
+    - 中段 Achilles 与 won't/wanna 的主体语气。
+    - 副歌品质清单，live 可分层接唱。
+    - 花瓶灰尘段回收私密背叛感。
   emotionCurve:
-    - 前段：先建立识别度，情绪相对集中。
-    - 中段：进入拉扯或扩张，张力上升。
-    - 尾段：不做过度宣泄，落在更稳定但更有后劲的状态。
+    - 公开化的不适与笑声式压力。
+    - 弱点被点名时的戏剧停顿。
+    - 副歌集体抬升与 fire 的坚持。
+    - 静物段的冷回落，避免假高潮。
   craftNotes:
-    - 主题关键词可概括为：舞台化自我确认。
-    - 写法上重视句式重复与语气变化，而不是堆砌复杂修辞。
-    - 与《天黑黑》类似，价值不在“说多重”，而在“说得准、留得住”。
+    - 文本依据 start-live 记录的英文行，与单曲/录音室 bilingual 文本分流处理。
+    - 现场差异（换行、won't 等）只作听感讨论，不虚构改词动机访谈。
+    - 与 studio《Someone》对读时，强调「私密镜」与「舞台镜」的语境差。
 ---
-Someone Start Concert 在站内作品线里很适合作为“舞台化自我确认”样本来听。它的可贵之处不是情绪有多夸张，而是能把看似分散的经验收拢成一个清晰的内部逻辑：先承认处境，再辨认关系，最后给出一个可继续生活下去的姿态。
+Start 演唱会里的《Someone》，物料与录音室版同源，功能却换成「在被观看时唱被观看」。长发、改造令、镜中 freak 一出口，场内灯光立刻给第二面镜子：你不只是歌里的被改造者，也是台上的被凝视者。
 
-如果把它和《天黑黑》放在同一条线上看，会发现两者都不靠戏剧性转折取胜，而是通过细节推进把听众带进更深的心理现场。前者更偏舞台化自我确认，后者更偏成长回望，但共同点是都把“情绪”写成“过程”，这也是它值得反复回听的原因。
+中段 Achilles 在现场常被拆行、拉长；记录稿中的 Still i won't wanna be 听起来比部分录音室「would」更像当场否决——偏不要成为别人指定的样子。副歌 sees like a child / gives like a saint / feels like an angel 短而亮，适合分层接唱，broken wings 与 fire remains 则把破损与心火同时交给全场。真正防止它变成纯励志的，是床边空花瓶：越是体育馆，这句 collecting dust 越冷，把承诺落空的室内静物塞回狂欢节奏里。
+
+对读站内 studio《Someone》时，不必争哪版「更正确」：一个贴着卧室与中文对译的私密细读，一个贴着 Start 场次的公开呼吸。现场版的深读重点，是身份宣言如何在舞台声学里既被放大，又不丢掉那瓶灰。

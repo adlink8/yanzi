@@ -1,8 +1,8 @@
 # Deep-read editorial batches
 
-Generated: 2026-07-17T01:19:47.870Z
+Generated: 2026-07-17T01:24:35.950Z
 
-Candidates: **48** · Batches: **8** · size=6
+Candidates: **78** · Batches: **13** · size=6
 
 Filters: `tiers=scaffold,passable` favorite=`all`
 
@@ -18,6 +18,11 @@ Spec: `docs/DEEPREAD-EDITORIAL-SPEC.md`
 | BATCH-006 | 6 | [`docs/deepread-batches/BATCH-006.md`](./BATCH-006.md) |
 | BATCH-007 | 6 | [`docs/deepread-batches/BATCH-007.md`](./BATCH-007.md) |
 | BATCH-008 | 6 | [`docs/deepread-batches/BATCH-008.md`](./BATCH-008.md) |
+| BATCH-009 | 6 | [`docs/deepread-batches/BATCH-009.md`](./BATCH-009.md) |
+| BATCH-010 | 6 | [`docs/deepread-batches/BATCH-010.md`](./BATCH-010.md) |
+| BATCH-011 | 6 | [`docs/deepread-batches/BATCH-011.md`](./BATCH-011.md) |
+| BATCH-012 | 6 | [`docs/deepread-batches/BATCH-012.md`](./BATCH-012.md) |
+| BATCH-013 | 6 | [`docs/deepread-batches/BATCH-013.md`](./BATCH-013.md) |
 
 ## Dispatch
 

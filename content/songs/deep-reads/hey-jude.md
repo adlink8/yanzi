@@ -2,7 +2,7 @@
 slug: hey-jude
 title: Hey Jude
 status: ready
-updatedAt: '2026-04-08'
+updatedAt: '2026-07-17'
 lyricBlocks:
   - |-
     Hey Jude don't make it bad
@@ -82,63 +82,51 @@ lyricBlocks:
     嘿Jude
     Na na na na na na na na na na na
 lyricInterpretations:
-  - id: part-01
-    section: 开场定位
-    reference: Hey Jude don't make it bad
-    lyricText: Hey Jude don't make it bad
-    interpretation: >-
-      这一段把《Hey
-      Jude》的情绪重心往前推进：不是只描述事件，而是在不断强调说话者的立场与感受变化。从语气和意象看，它更像在把内在冲突说透，让后续段落有了明确方向。
-    whyItMatters: 它的重要性在于建立了全曲的叙事支点：听众会在这里抓住主题，并据此理解后面的情绪加压与回收。
-  - id: part-02
-    section: 关系张力
-    reference: 嘿Jude！别沮丧
-    lyricText: 嘿Jude！别沮丧
-    interpretation: >-
-      这一段把《Hey
-      Jude》的情绪重心往前推进：不是只描述事件，而是在不断强调说话者的立场与感受变化。从语气和意象看，它更像在把内在冲突说透，让后续段落有了明确方向。
-    whyItMatters: 它的重要性在于建立了全曲的叙事支点：听众会在这里抓住主题，并据此理解后面的情绪加压与回收。
-  - id: part-03
-    section: 情绪转折
-    reference: Take a sad song and make it better
-    lyricText: Take a sad song and make it better
-    interpretation: >-
-      这一段把《Hey
-      Jude》的情绪重心往前推进：不是只描述事件，而是在不断强调说话者的立场与感受变化。从语气和意象看，它更像在把内在冲突说透，让后续段落有了明确方向。
-    whyItMatters: 它的重要性在于建立了全曲的叙事支点：听众会在这里抓住主题，并据此理解后面的情绪加压与回收。
-  - id: part-04
-    section: 核心命题
-    reference: 找一首哀伤的歌，把它唱得更快乐
-    lyricText: 找一首哀伤的歌，把它唱得更快乐
-    interpretation: >-
-      这一段把《Hey
-      Jude》的情绪重心往前推进：不是只描述事件，而是在不断强调说话者的立场与感受变化。从语气和意象看，它更像在把内在冲突说透，让后续段落有了明确方向。
-    whyItMatters: 它的重要性在于建立了全曲的叙事支点：听众会在这里抓住主题，并据此理解后面的情绪加压与回收。
-  - id: part-05
-    section: 尾段余味
-    reference: Remember to let her into your heart
-    lyricText: Remember to let her into your heart
-    interpretation: >-
-      这一段把《Hey
-      Jude》的情绪重心往前推进：不是只描述事件，而是在不断强调说话者的立场与感受变化。从语气和意象看，它更像在把内在冲突说透，让后续段落有了明确方向。
-    whyItMatters: 它的重要性在于建立了全曲的叙事支点：听众会在这里抓住主题，并据此理解后面的情绪加压与回收。
+  - id: unit-01
+    section: 把哀歌唱好
+    reference: 开场劝告
+    lyricText: Hey Jude don't make it bad Take a sad song and make it better
+    interpretation: 本轨 raw 以中英并置保留披头士经典开场：别把事情搞糟，拿一首哀伤的歌把它唱得更好。燕姿版本的文献价值在于双语对照——英文承担原曲肌肉记忆，中文把“sad song → better”翻译成可理解的自我疗法。
+    whyItMatters: 点题方法论：用歌唱转化悲伤，而非否认悲伤。
+  - id: unit-02
+    section: 放进心里
+    reference: let her into your heart
+    lyricText: Remember to let her into your heart Then you can start to make it better
+    interpretation: “让她／它进入心田”在中英层都指向开放：可以是爱人，也可以是那首 sad song。好转的条件不是胜利，是允许进入。收录于官方单曲合辑脉络时，这句像对听众的通用鼓励口令。
+    whyItMatters: 把 better 从结果改成开放之后的过程。
+  - id: unit-03
+    section: 别扛全世界
+    reference: 肩膀与装酷
+    lyricText: Don't carry the world upon your shoulders Who plays it cool By making his world a little colder
+    interpretation: 劝 Jude 别把世界扛在肩上，并讽刺装酷者把世界弄得更冷。中文层把 fool／plays it cool 译成“愚蠢的人总是装做不在乎”，对华语听众特别直白：假酷=降温。燕姿清亮音色唱这句，像温柔拆穿防御。
+    whyItMatters: 核心心理：拒绝用冷漠自救。
+  - id: unit-04
+    section: 同台的人是你
+    reference: perform with
+    lyricText: You're waiting for someone to perform with And don't you know that it's just you Hey Jude you'll do
+    interpretation: 等一个同台者，却发现那人是自己——这是本词最锋利的自我授权。中文“下一步全看你自己”把 action 落在肩头。对翻唱者而言，这句也像元叙述：台上只有你要把这首歌完成。
+    whyItMatters: 从劝人去爱，转向劝人开始行动。
+  - id: unit-05
+    section: Na na 长尾
+    reference: 合唱释放
+    lyricText: Na na na na na na na na na na na Hey Jude Better better better better better better oh
+    interpretation: 长段 Na na 与 better 叠唱几乎掏空语义，只留音节与情绪爬升——流行史里最著名的集体释放装置之一。本 raw 完整保留该尾潮，说明此版本价值也包括“可跟唱的尾奏文献”，而不只是前半劝告词。
+    whyItMatters: 解释为何翻唱仍要撑住超长结尾：功能在共鸣而非叙事收束。
 songDesign:
-  summary: 《Hey Jude》的写法重点在于“语气先行、情绪递进、尾段留白”。它通过段落推进而不是情节堆砌来建立记忆点。
+  summary: 官方单曲合辑脉络的《Hey Jude》双语文本：保留披头士劝告—开放—去扛—自我开始结构，并以 Na na／better 长尾服务合唱释放；解读只锚定本 slug raw。
   structure:
-    - 开头先给出立场或画面，迅速完成情绪定调。
-    - 中段通过重复与变奏把冲突感持续抬高。
-    - 尾段不完全解释，保留余味让主题停在听众心里。
+    - 开场 don't make it bad／sad song better。
+    - 中段 don't be afraid、肩头重担与装酷讽刺。
+    - 后段 perform with 自我授权 + Na na／better 尾潮。
   emotionCurve:
-    - 前段：克制进入，先把气氛搭起来。
-    - 中段：情绪加压，矛盾感与表达欲同时上升。
-    - 后段：不爆裂收束，以清晰但不封闭的方式落地。
+    - 劝慰：别沮丧，把哀歌唱好。
+    - 松绑：别扛世界，别装酷制冷。
+    - 释放：开始吧 + 无词合唱。
   craftNotes:
-    - 关键词和句式回环是主要记忆钩子。
-    - 视角保持稳定，保证主题集中不跑偏。
-    - 尾句通常承担“回看全歌”的功能，增强复听价值。
+    - 与 hey-jude-start-concert 分轨；本篇只用 hey-jude.txt。
+    - 中英对照是文本特征，勿删一侧去“净化”歌词。
+    - 不编造专属 MV；此为翻唱文献位。
 ---
-《Hey Jude》这首歌的动人之处，不在于把故事讲得多复杂，而在于它把一种明确的情绪立场讲得很稳。你能听见说话者在关系、处境或自我判断上的选择，这让整首歌有很清楚的方向感。
+《Hey Jude》在本站以官方单曲合辑条目出现，raw-lyrics 是中英并置的完整劝告长诗：Hey Jude, don't make it bad——别沮丧；拿一首哀伤的歌，把它唱得更快乐。好转从“let her into your heart／唱入心田”开始，也从“don't be afraid”与“别把世界扛在肩上”开始；装酷把世界弄冷，被明确写成傻瓜策略。中段“你期待有人同台，那人其实是你”把安慰拧成行动授权：Hey Jude, you'll do。
 
-从段落推进看，它先定调，再加压，最后留一点不说满的空间。这种写法会让歌曲在第一次听时就有情绪抓手，在反复回听时又能听到更细的心理层次。
-
-如果把它放进同阶段作品里看，它承担的是“把某种情绪说透”的功能：既保留旋律可听性，也保留表达上的锋利和诚实。
+尾部长段 Na na 与 better 叠唱几乎放弃叙事，专供集体跟唱与情绪泄洪——这也是翻唱必须诚实保留的部分。听燕姿这一轨，重点不是重写披头士掌故，而是看双语文本如何把一首世界级劝慰歌，收进她的外语／经典翻唱谱系：温柔、清楚、让人跟着 na 下去。勿与 Start 演唱会另一 slug 混读；本篇只跟 hey-jude 的 raw。

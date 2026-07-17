@@ -1,0 +1,104 @@
+{
+  "id": "BATCH-011",
+  "number": 11,
+  "size": 6,
+  "songs": [
+    {
+      "slug": "zhong-jian-di-dai",
+      "title": "中间地带",
+      "favoriteLevel": "low",
+      "tier": "scaffold",
+      "albumSlug": "official-singles-collection",
+      "moodTags": [
+        "回望"
+      ],
+      "themeTags": [
+        "关系变化"
+      ],
+      "summary": "《中间地带》的解读正在整理中。",
+      "deepReadPath": "content/songs/deep-reads/zhong-jian-di-dai.md",
+      "rawLyricsPath": "content/songs/raw-lyrics/zhong-jian-di-dai.txt"
+    },
+    {
+      "slug": "zhong-yu",
+      "title": "终于",
+      "favoriteLevel": "low",
+      "tier": "scaffold",
+      "albumSlug": "official-singles-collection",
+      "moodTags": [
+        "回望"
+      ],
+      "themeTags": [
+        "关系变化"
+      ],
+      "summary": "《终于》的解读正在整理中。",
+      "deepReadPath": "content/songs/deep-reads/zhong-yu.md",
+      "rawLyricsPath": "content/songs/raw-lyrics/zhong-yu.txt"
+    },
+    {
+      "slug": "zhong-yu-2",
+      "title": "终于（版本二）",
+      "favoriteLevel": "low",
+      "tier": "scaffold",
+      "albumSlug": "official-singles-collection",
+      "moodTags": [
+        "回望"
+      ],
+      "themeTags": [
+        "关系变化"
+      ],
+      "summary": "《终于（版本二）》的解读正在整理中。",
+      "deepReadPath": "content/songs/deep-reads/zhong-yu-2.md",
+      "rawLyricsPath": "content/songs/raw-lyrics/zhong-yu-2.txt"
+    },
+    {
+      "slug": "zhui",
+      "title": "追",
+      "favoriteLevel": "low",
+      "tier": "scaffold",
+      "albumSlug": "official-singles-collection",
+      "moodTags": [
+        "回望"
+      ],
+      "themeTags": [
+        "关系变化"
+      ],
+      "summary": "《追》的解读正在整理中。",
+      "deepReadPath": "content/songs/deep-reads/zhui.md",
+      "rawLyricsPath": "content/songs/raw-lyrics/zhui.txt"
+    },
+    {
+      "slug": "zuo-zhan",
+      "title": "作战",
+      "favoriteLevel": "low",
+      "tier": "scaffold",
+      "albumSlug": "official-singles-collection",
+      "moodTags": [
+        "回望"
+      ],
+      "themeTags": [
+        "关系变化"
+      ],
+      "summary": "《作战》的解读正在整理中。",
+      "deepReadPath": "content/songs/deep-reads/zuo-zhan.md",
+      "rawLyricsPath": "content/songs/raw-lyrics/zuo-zhan.txt"
+    },
+    {
+      "slug": "fan-guo-lai-zou-zou",
+      "title": "反过来走走",
+      "favoriteLevel": "low",
+      "tier": "passable",
+      "albumSlug": "stefanie-self-titled",
+      "moodTags": [
+        "回望"
+      ],
+      "themeTags": [
+        "关系变化"
+      ],
+      "summary": "《反过来走走》的解读正在整理中。",
+      "deepReadPath": "content/songs/deep-reads/fan-guo-lai-zou-zou.md",
+      "rawLyricsPath": "content/songs/raw-lyrics/fan-guo-lai-zou-zou.txt"
+    }
+  ],
+  "createdAt": "2026-07-17T01:24:35.948Z"
+}

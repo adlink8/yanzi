@@ -2,7 +2,7 @@
 slug: venus
 title: Venus
 status: ready
-updatedAt: '2026-04-08'
+updatedAt: '2026-07-17'
 lyricBlocks:
   - |-
     Goddess On The Mountain Top
@@ -46,102 +46,52 @@ lyricBlocks:
     我能点燃你的爱火
     At Your Desire
     满足你的无限渴望
-    Well I'm Your Venus
-    我就是你的维纳斯
-    I'm Your Fire
-    我能点燃你的爱火
-    At Your Desire
-    满足你的无限渴望
-    She's Got It
-    她拥有迷人的魅力
-    Yeah Baby She's Got It
-    宝贝 她拥有迷人的魅力
-    I'm Your Venus
-    我就是你的维纳斯
-    I'm Your Fire
-    我能点燃你的爱火
-    At Your Desire
-    满足你的无限渴望
-    Well I'm Your Venus
-    我就是你的维纳斯
-    I'm Your Fire
-    我能点燃你的爱火
-    At Your Desire
-    满足你的无限渴望
-    Goddess On The Mountain Top
-    女神立于山巅
-    Burning Like a Silver Flame
-    犹如银色火焰
-    The Summit Of Beauty And Love
-    爱与美的极致
-    And Venus Was Her Name
-    维纳斯就是她的名字
-    She's Got It
-    她拥有迷人的魅力
-    Yeah Baby She's Got It
-    宝贝 她拥有迷人的魅力
-    I'm Your Venus
-    我就是你的维纳斯
-    I'm Your Fire
-    我能点燃你的爱火
-    At Your Desire
-    满足你的无限渴望
-    Well I'm Your Venus
-    我就是你的维纳斯
-    I'm Your Fire
-    我能点燃你的爱火
-    At Your Desire
-    满足你的无限渴望
-    Yeah Baby She's Got It
-    宝贝 她拥有迷人的魅力
-    Yeah Baby She's Got It
-    宝贝 她拥有迷人的魅力
 lyricInterpretations:
   - id: unit-01
-    section: 开场锚点
-    reference: 开场第一组歌词把语气先定住
-    lyricText: Goddess On The Mountain Top
-    interpretation: 这一句的价值在于“先立气质”。它不急着解释全部故事，而是先把 关系变化 的底色摆出来，让听者立刻进入这首歌的情绪空间。
-    whyItMatters: 它决定了这首歌的第一印象和情绪方向。
+    section: 山巅登场
+    reference: 女神与银色火焰
+    lyricText: Goddess On The Mountain Top Burning Like a Silver Flame
+    interpretation: 开场把角色直接放到山巅，用银色火焰而不是红热俗套来写燃烧——冷光、高位、可见。这是神话式的立人，而不是情歌式的求爱。录音室版本的双语呈现，更像同时给画面打英文字幕与中文旁白，强化“雕像被点亮”的仪式感。
+    whyItMatters: 先完成女神造像，后文“I'm your Venus”才有可佩戴的身份。
   - id: unit-02
-    section: 中段推进
-    reference: 中段开始把情绪和关系并行推进
-    lyricText: 无人能与她媲美
-    interpretation: 到这一段时，歌曲开始把 孤独 的层次推出来。你会听到情绪不是单向上升，而是边靠近边犹疑，这种拉扯让中段特别耐听。
-    whyItMatters: 它让歌曲从“有感觉”进入“有层次”。
+    section: 命名确认
+    reference: 美与爱的极致落名
+    lyricText: The Summit Of Beauty And Love And Venus Was Her Name
+    interpretation: summit 把美与爱写成可攀的顶点，紧接着名字落地：Venus。命名句像揭幕——前面还是“她”，这里给出专名。对翻唱曲而言，这句也是向原曲神格致敬的招牌句，燕姿需要用音色而不是歌词创新来完成占有。
+    whyItMatters: 专名一出，角色从描写进入可召唤状态。
   - id: unit-03
-    section: 转折时刻
-    reference: 转折句让内在冲突变得更清楚
-    lyricText: 我能点燃你的爱火
-    interpretation: 这一句像转轴，把前面的铺垫和后面的收束接起来。它不是爆发式宣告，而是让内心判断变得更具体，所以转折感会非常清晰。
-    whyItMatters: 它是整首歌叙事与情绪的关键连接点。
+    section: 第一人称接管
+    reference: 我是你的维纳斯与火
+    lyricText: I'm Your Venus I'm Your Fire At Your Desire
+    interpretation: 叙述从第三人称女神切到“我就是……”。火与 desire 把高冷山巅拉回情欲距离：她仍是神，但愿意成为“你的”。这是翻唱流行化的关键扭矩——神话可被亲密调用，舞台魅力被写成可对听者放电的开关。
+    whyItMatters: 完成从雕像到对唱对象的人称翻转。
   - id: unit-04
-    section: 收束余味
-    reference: 结尾把情绪落在留白和回响里
-    lyricText: 宝贝 她拥有迷人的魅力
-    interpretation: 结尾这句的处理方式很克制：不把情绪讲满，而是留一点空白。也因为有这层留白，整首歌听完之后的余味会更长。
-    whyItMatters: 它决定听者最终记住的是哪一种情绪。
-  - id: auto-5
-    section: 自动补充段 5
-    reference: 《Venus》 第 5 段
-    lyricText: 《Venus》 语句 5
-    interpretation: 这是《Venus》自动补充的第 5 段解读，主要呼应整体主题。
-    whyItMatters: 这段让《Venus》的情绪继续向前，是理解整首歌的补白。
+    section: 武器与黑夜
+    reference: 水晶眼与暗夜肤色意象
+    lyricText: Her Weapons Were Her Crystal Eyes Black As The Dark Night She Was
+    interpretation: 眼睛被称作 weapons，魅力带攻击性；black as the dark night 则把美写成深色的不可比。中文旁白“无人能与她媲美”把竞争意味说白。中段因此不是软绵赞美，而是带一点危险与独占的女神学。
+    whyItMatters: 给甜美副歌补上锋利侧写，避免只有口号式 she's got it。
+  - id: unit-05
+    section: 口头禅钩子
+    reference: She's got it 的反复确认
+    lyricText: She's Got It Yeah Baby She's Got It
+    interpretation: 口语化短句像观众席起哄，也像歌曲自我打钩。studio 版在中英之间来回时，这句往往成为最容易跟着喊的层。它不负责叙事推进，只负责把魅力判决一次次盖章——流行歌允许、也需要这种高效重复。
+    whyItMatters: 提供合唱记忆点，把神话歌词接回舞池逻辑。
 songDesign:
-  summary: 这首歌的设计重点是把 关系变化 与 孤独 通过“铺垫-推进-转折-收束”连成完整体验，结构清楚，情绪后劲明显。
+  summary: 经典 Venus 翻唱的录音室呈现：第三人称造神→第一人称认领→武器化眉眼的中段；中英并置加强造像，副歌短句负责舞池钩子。
   structure:
-    - 前段先给出核心语气，建立情绪入口。
-    - 中段扩大信息密度，推动情绪纵深。
-    - 后段通过转折与留白完成收束。
+    - 主歌神话立人（山巅、银焰、summit、命名）。
+    - 副歌 I'm your Venus／Fire／Desire 亲密认领并循环。
+    - 中段 crystal eyes 与 dark night 侧写锋利，再回副歌与 she's got it。
   emotionCurve:
-    - 开头偏克制，先建立氛围。
-    - 中段逐步抬高，形成内在拉扯。
-    - 结尾回落但不断电，保留余味。
+    - 仰视：女神被放置在高处燃烧。
+    - 靠近：我成为你的 Venus 与 fire。
+    - 盖章：she's got it 反复确认魅力判决。
   craftNotes:
-    - 关键词与意象反复出现，帮助情绪聚焦。
-    - 转折句承担结构功能，不只是字面意义变化。
-    - 结尾不强行解释，提升回听价值。
+    - 原曲基因是 60 年代迷幻流行，燕姿版重点在声线的清亮攻击与舞台感，而非改词。
+    - 中文行多为对译辅助，解读锚点仍以英文原句更稳。
+    - 与 Start 演唱会 live 版对照时，本版更偏“完整造像与双语文本”，live 更偏现场动能。
 ---
-《Venus》最值得反复听的地方，在于它没有用夸张的叙事去推动情绪，而是把 关系变化 和 孤独 放在同一条线里慢慢展开。听感上会先被一句很具体的画面抓住，再被更深一层的情绪拉进去，最后落到一种“说得不重但后劲很强”的状态。
+《Venus》在孙燕姿曲目里是一条明显的“角色扮演”轨道：她不是在倾诉一段感情故事，而是登上山巅，把自己唱成银焰中的女神。Beauty and love 的 summit 被命名为 Venus 之后，人称一转——I'm your Venus, I'm your fire——神格忽然可以被你召唤，desire 成为合情合理的舞台契约。
 
-把这首歌放进整站的作品脉络看，它更像一个“情绪结构样本”：前段先定语气，中段把关系或自我拉扯推高，尾段不急着给答案，而是留出回味空间。这种克制但清楚的写法，也正是很多歌会让人想要回听的原因。
+中段 crystal eyes 当武器、dark night 般的不可比，让赞美带一点危险；she's got it 则像观众一起盖章。录音室文本里中英并置，听感上像歌词本与影像旁白同时打开。它适合用来理解燕姿如何处理外语翻唱：不靠改词炫技，而靠声线把神话唱成可放电的现场人格。若你要的是完整造像与文本对照，听这一版；若你要的是开场嘶吼与舞台热度，再去听 Start 的 live。

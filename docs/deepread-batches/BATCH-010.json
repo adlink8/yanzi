@@ -1,0 +1,104 @@
+{
+  "id": "BATCH-010",
+  "number": 10,
+  "size": 6,
+  "songs": [
+    {
+      "slug": "yi-qi-zou-dao",
+      "title": "一起走到",
+      "favoriteLevel": "low",
+      "tier": "scaffold",
+      "albumSlug": "official-singles-collection",
+      "moodTags": [
+        "回望"
+      ],
+      "themeTags": [
+        "关系变化"
+      ],
+      "summary": "《一起走到》的解读正在整理中。",
+      "deepReadPath": "content/songs/deep-reads/yi-qi-zou-dao.md",
+      "rawLyricsPath": "content/songs/raw-lyrics/yi-qi-zou-dao.txt"
+    },
+    {
+      "slug": "yi-yang-de-xia-tian",
+      "title": "一样的夏天",
+      "favoriteLevel": "low",
+      "tier": "scaffold",
+      "albumSlug": "official-singles-collection",
+      "moodTags": [
+        "回望"
+      ],
+      "themeTags": [
+        "关系变化"
+      ],
+      "summary": "《一样的夏天》的解读正在整理中。",
+      "deepReadPath": "content/songs/deep-reads/yi-yang-de-xia-tian.md",
+      "rawLyricsPath": "content/songs/raw-lyrics/yi-yang-de-xia-tian.txt"
+    },
+    {
+      "slug": "yong-gan",
+      "title": "勇敢",
+      "favoriteLevel": "low",
+      "tier": "scaffold",
+      "albumSlug": "official-singles-collection",
+      "moodTags": [
+        "回望"
+      ],
+      "themeTags": [
+        "关系变化"
+      ],
+      "summary": "《勇敢》的解读正在整理中。",
+      "deepReadPath": "content/songs/deep-reads/yong-gan.md",
+      "rawLyricsPath": "content/songs/raw-lyrics/yong-gan.txt"
+    },
+    {
+      "slug": "yong-yuan",
+      "title": "永远",
+      "favoriteLevel": "low",
+      "tier": "scaffold",
+      "albumSlug": "official-singles-collection",
+      "moodTags": [
+        "回望"
+      ],
+      "themeTags": [
+        "关系变化"
+      ],
+      "summary": "《永远》的解读正在整理中。",
+      "deepReadPath": "content/songs/deep-reads/yong-yuan.md",
+      "rawLyricsPath": "content/songs/raw-lyrics/yong-yuan.txt"
+    },
+    {
+      "slug": "zai-ye-bu-jian",
+      "title": "再也不见",
+      "favoriteLevel": "low",
+      "tier": "scaffold",
+      "albumSlug": "official-singles-collection",
+      "moodTags": [
+        "回望"
+      ],
+      "themeTags": [
+        "关系变化"
+      ],
+      "summary": "《再也不见》的解读正在整理中。",
+      "deepReadPath": "content/songs/deep-reads/zai-ye-bu-jian.md",
+      "rawLyricsPath": "content/songs/raw-lyrics/zai-ye-bu-jian.txt"
+    },
+    {
+      "slug": "zhen-de-start-concert",
+      "title": "真的（Start演唱会）",
+      "favoriteLevel": "low",
+      "tier": "scaffold",
+      "albumSlug": "start-live",
+      "moodTags": [
+        "回望"
+      ],
+      "themeTags": [
+        "关系变化"
+      ],
+      "summary": "《真的（Start演唱会）》的解读正在整理中。",
+      "deepReadPath": "content/songs/deep-reads/zhen-de-start-concert.md",
+      "rawLyricsPath": "content/songs/raw-lyrics/zhen-de-start-concert.txt"
+    }
+  ],
+  "createdAt": "2026-07-17T01:24:35.948Z"
+}

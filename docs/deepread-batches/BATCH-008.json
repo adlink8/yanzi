@@ -4,88 +4,8 @@
   "size": 6,
   "songs": [
     {
-      "slug": "mei-shi-jian",
-      "title": "没时间",
-      "favoriteLevel": "low",
-      "tier": "scaffold",
-      "albumSlug": "start",
-      "moodTags": [
-        "回望"
-      ],
-      "themeTags": [
-        "关系变化"
-      ],
-      "summary": "《没时间》的解读正在整理中。",
-      "deepReadPath": "content/songs/deep-reads/mei-shi-jian.md",
-      "rawLyricsPath": "content/songs/raw-lyrics/mei-shi-jian.txt"
-    },
-    {
-      "slug": "meng-bu-luo",
-      "title": "梦不落",
-      "favoriteLevel": "low",
-      "tier": "scaffold",
-      "albumSlug": "wan-mei-de-yi-tian",
-      "moodTags": [
-        "回望"
-      ],
-      "themeTags": [
-        "关系变化"
-      ],
-      "summary": "《梦不落》的解读正在整理中。",
-      "deepReadPath": "content/songs/deep-reads/meng-bu-luo.md",
-      "rawLyricsPath": "content/songs/raw-lyrics/meng-bu-luo.txt"
-    },
-    {
-      "slug": "meng-xiang-tian-kong",
-      "title": "梦想天空",
-      "favoriteLevel": "low",
-      "tier": "scaffold",
-      "albumSlug": "my-story",
-      "moodTags": [
-        "回望"
-      ],
-      "themeTags": [
-        "关系变化"
-      ],
-      "summary": "《梦想天空》的解读正在整理中。",
-      "deepReadPath": "content/songs/deep-reads/meng-xiang-tian-kong.md",
-      "rawLyricsPath": "content/songs/raw-lyrics/meng-xiang-tian-kong.txt"
-    },
-    {
-      "slug": "ming-tian-de-ji-yi",
-      "title": "明天的记忆",
-      "favoriteLevel": "low",
-      "tier": "scaffold",
-      "albumSlug": "shi-shi-hou",
-      "moodTags": [
-        "回望"
-      ],
-      "themeTags": [
-        "关系变化"
-      ],
-      "summary": "《明天的记忆》的解读正在整理中。",
-      "deepReadPath": "content/songs/deep-reads/ming-tian-de-ji-yi.md",
-      "rawLyricsPath": "content/songs/raw-lyrics/ming-tian-de-ji-yi.txt"
-    },
-    {
-      "slug": "ming-tian-qing-tian",
-      "title": "明天晴天",
-      "favoriteLevel": "low",
-      "tier": "scaffold",
-      "albumSlug": "wan-mei-de-yi-tian",
-      "moodTags": [
-        "回望"
-      ],
-      "themeTags": [
-        "关系变化"
-      ],
-      "summary": "《明天晴天》的解读正在整理中。",
-      "deepReadPath": "content/songs/deep-reads/ming-tian-qing-tian.md",
-      "rawLyricsPath": "content/songs/raw-lyrics/ming-tian-qing-tian.txt"
-    },
-    {
-      "slug": "my-story-your-song",
-      "title": "My Story, Your Song",
+      "slug": "wo-shi-wo",
+      "title": "我是我",
       "favoriteLevel": "low",
       "tier": "scaffold",
       "albumSlug": "official-singles-collection",
@@ -95,10 +15,90 @@
       "themeTags": [
         "关系变化"
       ],
-      "summary": "《My Story, Your Song》的解读正在整理中。",
-      "deepReadPath": "content/songs/deep-reads/my-story-your-song.md",
-      "rawLyricsPath": "content/songs/raw-lyrics/my-story-your-song.txt"
+      "summary": "《我是我》的解读正在整理中。",
+      "deepReadPath": "content/songs/deep-reads/wo-shi-wo.md",
+      "rawLyricsPath": "content/songs/raw-lyrics/wo-shi-wo.txt"
+    },
+    {
+      "slug": "wo-wei-shen-me-na-me-ai-ni",
+      "title": "我为什么那么爱你",
+      "favoriteLevel": "low",
+      "tier": "scaffold",
+      "albumSlug": "official-singles-collection",
+      "moodTags": [
+        "回望"
+      ],
+      "themeTags": [
+        "关系变化"
+      ],
+      "summary": "《我为什么那么爱你》的解读正在整理中。",
+      "deepReadPath": "content/songs/deep-reads/wo-wei-shen-me-na-me-ai-ni.md",
+      "rawLyricsPath": "content/songs/raw-lyrics/wo-wei-shen-me-na-me-ai-ni.txt"
+    },
+    {
+      "slug": "wo-xiang",
+      "title": "我想",
+      "favoriteLevel": "low",
+      "tier": "scaffold",
+      "albumSlug": "official-singles-collection",
+      "moodTags": [
+        "回望"
+      ],
+      "themeTags": [
+        "关系变化"
+      ],
+      "summary": "《我想》的解读正在整理中。",
+      "deepReadPath": "content/songs/deep-reads/wo-xiang.md",
+      "rawLyricsPath": "content/songs/raw-lyrics/wo-xiang.txt"
+    },
+    {
+      "slug": "wo-yao-de-xing-fu-start-concert",
+      "title": "我要的幸福（Start演唱会）",
+      "favoriteLevel": "low",
+      "tier": "scaffold",
+      "albumSlug": "start-live",
+      "moodTags": [
+        "回望"
+      ],
+      "themeTags": [
+        "关系变化"
+      ],
+      "summary": "《我要的幸福（Start演唱会）》的解读正在整理中。",
+      "deepReadPath": "content/songs/deep-reads/wo-yao-de-xing-fu-start-concert.md",
+      "rawLyricsPath": "content/songs/raw-lyrics/wo-yao-de-xing-fu-start-concert.txt"
+    },
+    {
+      "slug": "wo-yao-kuai-le",
+      "title": "我要快乐",
+      "favoriteLevel": "low",
+      "tier": "scaffold",
+      "albumSlug": "official-singles-collection",
+      "moodTags": [
+        "回望"
+      ],
+      "themeTags": [
+        "关系变化"
+      ],
+      "summary": "《我要快乐》的解读正在整理中。",
+      "deepReadPath": "content/songs/deep-reads/wo-yao-kuai-le.md",
+      "rawLyricsPath": "content/songs/raw-lyrics/wo-yao-kuai-le.txt"
+    },
+    {
+      "slug": "wu-xian-da",
+      "title": "无限大",
+      "favoriteLevel": "low",
+      "tier": "scaffold",
+      "albumSlug": "official-singles-collection",
+      "moodTags": [
+        "回望"
+      ],
+      "themeTags": [
+        "关系变化"
+      ],
+      "summary": "《无限大》的解读正在整理中。",
+      "deepReadPath": "content/songs/deep-reads/wu-xian-da.md",
+      "rawLyricsPath": "content/songs/raw-lyrics/wu-xian-da.txt"
     }
   ],
-  "createdAt": "2026-07-17T01:19:47.870Z"
+  "createdAt": "2026-07-17T01:24:35.947Z"
 }

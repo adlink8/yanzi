@@ -2,7 +2,9 @@
 slug: opening
 title: Opening
 status: ready
-updatedAt: '2026-04-08'
+updatedAt: '2026-07-17'
+mvUrl: ''
+mvTitle: ''
 lyricBlocks:
   - |-
     I don't wanna cross over
@@ -16,50 +18,70 @@ lyricBlocks:
     Together you and I, we can wrestle borders
 lyricInterpretations:
   - id: unit-01
-    section: 开场锚点
-    reference: 开场第一组歌词把语气先定住
+    section: 否定起势
+    reference: I don't wanna cross over
     lyricText: I don't wanna cross over
-    interpretation: 这一句的价值在于“先立气质”。它不急着解释全部故事，而是先把 情绪推进 的底色摆出来，让听者立刻进入这首歌的情绪空间。
-    whyItMatters: 它决定了这首歌的第一印象和情绪方向。
+    interpretation: >-
+      第一句用否定开场：不是热情冲线，而是先划清“我不想被哪一种跨越绑架”。
+      重复两遍像自我确认，也像对外部标签的拒绝——开场曲往往宣布立场，
+      这里宣布的是对分类逻辑的犹豫。
+    whyItMatters: 以拒绝分类建立艺人/创作者姿态。
   - id: unit-02
-    section: 中段推进
-    reference: 中段开始把情绪和关系并行推进
-    lyricText: 'Between this genre, that genre,'
-    interpretation: 到这一段时，歌曲开始把 关系表达 的层次推出来。你会听到情绪不是单向上升，而是边靠近边犹疑，这种拉扯让中段特别耐听。
-    whyItMatters: 它让歌曲从“有感觉”进入“有层次”。
+    section: 类型之间
+    reference: this genre, that genre
+    lyricText: Between this genre, that genre
+    interpretation: >-
+      genre 一词把“跨越”从人际关系推到音乐工业语言：流行、另类、东西语系
+      的格子。between 既是夹缝，也是行动场地——身份不是站在某一格里，
+      而是在格子之间移动。
+    whyItMatters: 点明这是关于风格边界的开场宣言。
   - id: unit-03
-    section: 转折时刻
-    reference: 转折句让内在冲突变得更清楚
-    lyricText: Cross the line
-    interpretation: 这一句像转轴，把前面的铺垫和后面的收束接起来。它不是爆发式宣告，而是让内心判断变得更具体，所以转折感会非常清晰。
-    whyItMatters: 它是整首歌叙事与情绪的关键连接点。
+    section: 想跨越之处
+    reference: Between you and I
+    lyricText: Between you and I / Is where I wanna cross over
+    interpretation: >-
+      矛盾写得很清楚：前面说 don't wanna cross over，这里又说 between you and I
+      才是想跨的地方。拒绝的是被归类，渴望的是人际与表达的真实接触；
+      cross over 一词被重新定义。
+    whyItMatters: 把工业词汇改写成关系与自我选择。
   - id: unit-04
-    section: 收束余味
-    reference: 结尾把情绪落在留白和回响里
-    lyricText: 'Together you and I, we can wrestle borders'
-    interpretation: 结尾这句的处理方式很克制：不把情绪讲满，而是留一点空白。也因为有这层留白，整首歌听完之后的余味会更长。
-    whyItMatters: 它决定听者最终记住的是哪一种情绪。
-  - id: auto-5
-    section: 自动补充段 5
-    reference: 《Opening》 第 5 段
-    lyricText: 《Opening》 语句 5
-    interpretation: 这是《Opening》自动补充的第 5 段解读，主要呼应整体主题。
-    whyItMatters: 这段让《Opening》的情绪继续向前，是理解整首歌的补白。
+    section: 越线
+    reference: Cross the line
+    lyricText: Cross the line
+    interpretation: >-
+      短句如口令：线可以是类型、国界、安全区。比 cross over 更硬，带一点
+      犯规意味——开场曲用它提示：后面的作品序列允许越界。
+    whyItMatters: 把犹豫收成行动指令。
+  - id: unit-05
+    section: 摔跤边境
+    reference: wrestle borders
+    lyricText: Together you and I, we can wrestle borders
+    interpretation: >-
+      wrestle 是扭打、角力，不是轻松“跨越”。border 需要被摔跤般反复较劲，
+      grow wiser 承认过程会磨人。结尾把 you and I 拉成同盟，边界不再只是
+      个人问题，而是可一起对抗的对象。
+    whyItMatters: 收束为共同成长与共同拆墙的邀约。
 songDesign:
-  summary: 这首歌的设计重点是把 情绪推进 与 关系表达 通过“铺垫-推进-转折-收束”连成完整体验，结构清楚，情绪后劲明显。
+  summary: >-
+    极短英文开场曲：以 don't wanna / wanna cross over 的自相矛盾，把类型工业标签
+    与人际、边境角力叠在一起，像一场作品序列的声明。
   structure:
-    - 前段先给出核心语气，建立情绪入口。
-    - 中段扩大信息密度，推动情绪纵深。
-    - 后段通过转折与留白完成收束。
+    - 否定重复立拒绝姿态。
+    - genre / you and I 双 between 展开。
+    - Cross the line 短促加压。
+    - wrestle borders 与 grow wiser 收束。
   emotionCurve:
-    - 开头偏克制，先建立氛围。
-    - 中段逐步抬高，形成内在拉扯。
-    - 结尾回落但不断电，保留余味。
+    - 警惕与拒绝
+    - 辨认夹缝
+    - 决意越线
+    - 同盟角力
   craftNotes:
-    - 关键词与意象反复出现，帮助情绪聚焦。
-    - 转折句承担结构功能，不只是字面意义变化。
-    - 结尾不强行解释，提升回听价值。
+    - 全文极短，每句承担概念，不宜再加故事情节。
+    - cross over / cross the line / borders 三层“越界”词族回环。
+    - 适合作为演唱会或企划的序章位置理解。
 ---
-《Opening》最值得反复听的地方，在于它没有用夸张的叙事去推动情绪，而是把 情绪推进 和 关系表达 放在同一条线里慢慢展开。听感上会先被一句很具体的画面抓住，再被更深一层的情绪拉进去，最后落到一种“说得不重但后劲很强”的状态。
+《Opening》像一张极短的声明卡，而不是完整情歌。九行英文几乎全在处理一个动词家族：cross over、cross the line、wrestle borders。它谈的不是分手，而是边界——音乐类型的格子、你我之间的缝、这里与那里的距离。
 
-把这首歌放进整站的作品脉络看，它更像一个“情绪结构样本”：前段先定语气，中段把关系或自我拉扯推高，尾段不急着给答案，而是留出回味空间。这种克制但清楚的写法，也正是很多歌会让人想要回听的原因。
+开场连续两句 I don't wanna cross over，像先挡住被归类的命运；立刻又用 Between this genre, that genre 点出工业语言，再翻转成 Between you and I is where I wanna cross over：真正想跨的，不是市场标签，而是人与表达之间的真实地带。Cross the line 把犹豫收成口令；结尾 together you and I, we can wrestle borders，承认边界要摔跤般较劲，并邀请一起变聪明。
+
+听感上它更像序曲或态度片：燕姿用英文短句把“开场”本身主题化——先声明可以越界，后面的歌才有空间。不要按叙事情歌去找剧情，要按概念钩子去听它如何重新定义 cross over。

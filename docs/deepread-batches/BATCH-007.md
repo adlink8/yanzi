@@ -10,12 +10,12 @@
 Read and obey: `docs/DEEPREAD-EDITORIAL-SPEC.md`
 
 ## Songs in this batch ONLY
-1. `e-lover-2` — E Lover 2 (favorite=low, was scaffold)
-2. `lets-vino` — Let's Vino (favorite=low, was scaffold)
-3. `lian-xi` — 练习 (favorite=low, was scaffold)
-4. `ling-que-dian-start-concert` — 零缺点（Start演唱会） (favorite=low, was scaffold)
-5. `liu-lang-di-tu` — 流浪地图 (favorite=low, was scaffold)
-6. `lu-guang-start-concert` — 绿光（Start演唱会） (favorite=low, was scaffold)
+1. `we-will-get-there` — We Will Get There (favorite=low, was scaffold)
+2. `wei-rao` — 围绕 (favorite=low, was scaffold)
+3. `wei-wan-cheng` — 未完成 (favorite=low, was scaffold)
+4. `wei-zhi-de-jing-cai-2` — 未知的精采（版本二） (favorite=low, was scaffold)
+5. `wen-rou-mayday-blue-20th` — 温柔（五月天 BLUE 20th） (favorite=low, was scaffold)
+6. `wo-hen-wo-ai-ni` — 我恨我爱你 (favorite=low, was scaffold)
 
 Do **not** edit songs outside this list.
 

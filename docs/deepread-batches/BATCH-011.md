@@ -1,4 +1,4 @@
-# Deep-read editorial batch BATCH-008
+# Deep-read editorial batch BATCH-011
 
 ## Role
 你是内容执行子代理。把下列歌曲的 deep-read 从模板改为 **按曲定制** 解读。
@@ -10,12 +10,12 @@
 Read and obey: `docs/DEEPREAD-EDITORIAL-SPEC.md`
 
 ## Songs in this batch ONLY
-1. `wo-shi-wo` — 我是我 (favorite=low, was scaffold)
-2. `wo-wei-shen-me-na-me-ai-ni` — 我为什么那么爱你 (favorite=low, was scaffold)
-3. `wo-xiang` — 我想 (favorite=low, was scaffold)
-4. `wo-yao-de-xing-fu-start-concert` — 我要的幸福（Start演唱会） (favorite=low, was scaffold)
-5. `wo-yao-kuai-le` — 我要快乐 (favorite=low, was scaffold)
-6. `wu-xian-da` — 无限大 (favorite=low, was scaffold)
+1. `zhong-jian-di-dai` — 中间地带 (favorite=low, was scaffold)
+2. `zhong-yu` — 终于 (favorite=low, was scaffold)
+3. `zhong-yu-2` — 终于（版本二） (favorite=low, was scaffold)
+4. `zhui` — 追 (favorite=low, was scaffold)
+5. `zuo-zhan` — 作战 (favorite=low, was scaffold)
+6. `fan-guo-lai-zou-zou` — 反过来走走 (favorite=low, was passable)
 
 Do **not** edit songs outside this list.
 
@@ -39,13 +39,13 @@ For each slug:
 
 ## Verify before finish
 ```bash
-npm run verify:deepread-batch -- --batch 8
+npm run verify:deepread-batch -- --batch 11
 npm run report:deepread-quality
 ```
 All songs in this batch must be `editorial`.
 
 ## Return (confirmation only)
-## Batch BATCH-008 Complete
+## Batch BATCH-011 Complete
 - slugs upgraded: ...
 - verify: pass/fail
 - notes: ...

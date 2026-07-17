@@ -2,133 +2,94 @@
 slug: someone
 title: Someone
 status: ready
-updatedAt: '2026-04-08'
+updatedAt: '2026-07-17'
 lyricBlocks:
   - |-
     My hair was long & shining
-    我的头发曾又长又闪亮
     You said you can't believe
-    你说你无法相信
     How could I walk out that door
-    我怎样才能走出那扇门
     Or walk along the streets
-    或独自走在街道上
     You told me I should 'you know do some bing bang curly wurly afro thing'
-    你告诉我 我应该去搞些什么花样才对
     I took your word & did
-    我听了你的话
     Looked in my mirror' who's that freak'
-    看着镜中的自己 不禁纳闷 这个怪物是谁
+  - |-
     Why does the world deceive
-    为什么这个世界要欺骗
     Why do I make believe
-    为什么我还要去相信
     Took my heel & made achilles out of me
-    抓住我的致命弱点 让我成为阿基里斯那样的英雄
     Still I would wanna be
-    我仍想成为
     Someone who'd answer to me
-    一个能解答困惑的人
+  - |-
     Someone who sees like a child
-    一个看起来像小孩子般纯真的人
     Gives like a saint feels like an angel
-    一个像圣人般慷慨给予 像天使般纯洁的人
     Never mind the broken wings and
-    从不介意破碎的羽翼
     Speaks like a picture cries like the
-    像一幅画般表达 像下雨一样哭泣
     Rain shines like the star
-    像星星一样闪耀
     As long as the fire remains
-    只要心中的狂热犹在
+  - |-
     The vase beside my bed
-    床边的那个花瓶
     It's empty almost dead
-    一空无一物
     'It's for all the flowers I'm gonna give you'he said
-    你曾说 这个花瓶将会装满以后我送给你的花
     And now it's collecting dust instead
-    而现在 它堆满的却是灰尘
-    Why does the world deceive
-    为什么这个世界要欺骗
-    Why do I make believe
-    为什么我还要去相信
-    Took my heel & made achilles out of me
-    抓住我的致命弱点 让我成为阿基里斯那样的英雄
-    Still I would wanna be
-    我仍想成为
-    Someone who'd answer to me
-    一个能解答困惑的人
-    Someone who sees like a child
-    一个看起来像小孩子般纯真的人
-    Gives like a saint feels like an angel
-    一个像圣人般慷慨给予 像天使般纯洁的人
-    Never mind the broken wings and
-    从不介意破碎的羽翼
-    Speaks like a picture cries like the
-    像一幅画般表达 像下雨一样哭泣
-    Rain shines like the star
-    像星星一样闪耀
-    As long as the fire remains
-    只要心中的狂热犹在
-    Sees like a child
-    看起来像小孩子般纯真
-    Gives like a saint feels like an angel
-    像圣人般慷慨给予 像天使般纯洁
-    Never mind the broken wings and
-    从不介意破碎的羽翼
-    Speaks like a picture cries like the
-    像一幅画般表达 像下雨一样哭泣
-    Rain shines like the star
-    像星星一样闪耀
-    As long as the fire remains
-    只要心中的狂热犹在
 lyricInterpretations:
-  - id: opening-frame
-    section: 开场设定
-    reference: My hair was long & shining
+  - id: part-01
+    section: 被改写的外表
+    reference: curly wurly
     lyricText: My hair was long & shining
-    interpretation: 开场先把这首歌的核心气质立住：外部评价与身份认同。它写的不是恋爱，而是“我是谁”在他人眼光里被不断改写。
-    whyItMatters: 开场是否立得住，决定听众后面会把它当作情绪记录，还是当作可反复进入的作品。
-  - id: middle-shift
-    section: 中段推进
-    reference: 一个看起来像小孩子般纯真的人
-    lyricText: 一个看起来像小孩子般纯真的人
-    interpretation: 到中段时，表达重心开始从“描述状态”转向“处理状态”。从被要求改变到主动辨认自我，情绪从困惑走向稳定。
-    whyItMatters: 这一段通常是全歌的结构转轴，会把听感从单一情绪推进到更复杂的心理层次。
-  - id: turning-point
-    section: 转折点
-    reference: 我仍想成为
-    lyricText: 我仍想成为
-    interpretation: 这一句附近的写法不靠大起大落，而是通过语气、重复或意象变化把立场慢慢推出来，因而更耐听。
-    whyItMatters: 它让歌曲不只停在“我有情绪”，而是进一步走到“我怎么理解这段经历”。
-  - id: ending-aftertaste
-    section: 收束余味
-    reference: 只要心中的狂热犹在
-    lyricText: 只要心中的狂热犹在
-    interpretation: 尾段的处理很关键：收束在“someone”这个词上，意思是我不用完美，也可以被看见。
-    whyItMatters: 好的收束不会把答案说死，而是留一个可回听、可反刍的情绪空间。
-  - id: auto-5
-    section: 自动补充段 5
-    reference: 《Someone》 第 5 段
-    lyricText: 《Someone》 语句 5
-    interpretation: 这是《Someone》自动补充的第 5 段解读，主要呼应整体主题。
-    whyItMatters: 这段让《Someone》的情绪继续向前，是理解整首歌的补白。
+    interpretation: >-
+      开场从头发的「long & shining」被他者质疑写起：你怎么能就这样出门、走街？
+      对方用玩笑式的 bing bang curly wurly afro thing 下达改造指令，口语碎、轻佻，
+      压力却真实。叙事者照做后照镜，只看见 freak——身份被外力涂改后，自己先认不出自己。
+    whyItMatters: 全曲「Someone」的渴望，来自被他人审美劫持后的自我剥离。
+  - id: part-02
+    section: 阿基里斯之踵
+    reference: Achilles
+    lyricText: Someone who'd answer to me
+    interpretation: >-
+      「world deceive / make believe」把欺骗与自我欺骗并置：世界骗我，我也配合假装。
+      抓住脚跟做成 Achilles，是把脆弱点武器化又英雄化——你用我的弱点定义我。
+      但转折在 Still I would wanna be：仍想成为「someone who'd answer to me」——
+      对自我提问负责的人，而不是对外界评分交卷的人。
+    whyItMatters: 从被改造推进到主体性宣言，副歌「Someone」才有伦理重量。
+  - id: part-03
+    section: 理想人格清单
+    reference: broken wings
+    lyricText: Never mind the broken wings and
+    interpretation: >-
+      副歌用一连串比喻罗列理想自我：童真地看、圣徒般给、天使般感觉，
+      却「从不介意破碎的羽翼」——完美人格清单里故意留下伤口。说话像画、哭像雨、
+      亮像星，条件只有 as long as the fire remains：心火还在，破损可以并存。
+      这不是变回别人喜欢的发型，而是重建可居住的内在形象。
+    whyItMatters: Someone 被具体化为可感知的品质，而非空洞励志标签。
+  - id: part-04
+    section: 床边空花瓶
+    reference: collecting dust
+    lyricText: And now it's collecting dust instead
+    interpretation: >-
+      中段物件叙事极狠：床边花瓶几乎空死，他曾说要为你装满将送的花，现在只堆灰尘。
+      承诺退成室内静物，比直接骂人更冷。花瓶场景把「被许诺的未来」物质化，
+      再与前面的照镜 freak 对照——外在被改、内在被空置，都是同一种被定义。
+    whyItMatters: 用日常道具完成背叛的可视化，避免副歌理想人格流于悬浮。
 songDesign:
-  summary: 这首歌可理解为“外部评价与身份认同”的结构化表达。它通过前段定调、中段推进、后段收束，把单点感受扩展成完整听感路径。
+  summary: >-
+    《Someone》以发型改造与照镜 freak 起笔，经 Achilles 式弱点操控，转向「成为对自己负责的 someone」，
+    副歌用童真/圣徒/破翼等意象列理想自我，并以床边空花瓶的灰尘收束承诺的落空。
   structure:
-    - 开头用核心意象或口气快速定调，先把角色位置讲清楚。
-    - 中段引入关系变化或心理位移，让叙述从静态走向动态。
-    - 后段通过重复句或结论句回收主题，并保留回响空间。
+    - 前段：外表指令、照镜异化。
+    - 质问段：世界欺骗与自我假装、Achilles 隐喻。
+    - 副歌：Someone 品质清单与 fire remains。
+    - 物件段：空花瓶与灰尘，承诺物质化落空。
   emotionCurve:
-    - 前段：先建立识别度，情绪相对集中。
-    - 中段：进入拉扯或扩张，张力上升。
-    - 尾段：不做过度宣泄，落在更稳定但更有后劲的状态。
+    - 轻佻压力下的顺从与震惊。
+    - 脆弱被点名后的自我追问。
+    - 理想自我的高扬列举。
+    - 静物式失望与余火仍在。
   craftNotes:
-    - 主题关键词可概括为：外部评价与身份认同。
-    - 写法上重视句式重复与语气变化，而不是堆砌复杂修辞。
-    - 与《天黑黑》类似，价值不在“说多重”，而在“说得准、留得住”。
+    - 英词口语与神话典故混用，形成轻与重的落差。
+    - 站内版本夹中文对译行，便于细读但演唱以英文声线为主。
+    - 与现场版相比，录音室语境更贴「室内物件 + 镜中自我」的私密感。
 ---
-Someone 在站内作品线里很适合作为“外部评价与身份认同”样本来听。它的可贵之处不是情绪有多夸张，而是能把看似分散的经验收拢成一个清晰的内部逻辑：先承认处境，再辨认关系，最后给出一个可继续生活下去的姿态。
+《Someone》不是一首在求复合的情歌，而是在问：被别人改完发型、改完走路方式之后，我还能不能成为对自己负责的那个人。开场的 long & shining 头发遭遇玩笑式改造令，叙事者照做，镜中只剩 freak——世界在骗，自己也 make believe。
 
-如果把它和《天黑黑》放在同一条线上看，会发现两者都不靠戏剧性转折取胜，而是通过细节推进把听众带进更深的心理现场。前者更偏外部评价与身份认同，后者更偏成长回望，但共同点是都把“情绪”写成“过程”，这也是它值得反复回听的原因。
+Achilles 一句把弱点写成被他人征用的英雄叙事：抓住脚跟，定义你是谁。转折却不靠怒吼，而靠 Still I would wanna be someone who'd answer to me。副歌把 Someone 展开成看如孩童、给如圣徒、感觉如天使，并允许 broken wings——只要 fire remains。床边空花瓶则把诺言做成静物：本该装满花，现在只收集灰尘。
+
+在站内英文作品线里，《Someone》的锋利处是私密物件与公共凝视并置：街与门、镜与瓶、神话脚跟与童真眼神。它要的不是更时髦的造型，而是一个仍能回答自己的人。

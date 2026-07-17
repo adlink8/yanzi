@@ -2,7 +2,7 @@
 slug: sparkling-diamonds-start-concert
 title: Sparkling Diamonds Start Concert
 status: ready
-updatedAt: '2026-04-08'
+updatedAt: '2026-07-17'
 lyricBlocks:
   - |-
     A kiss on the hand may be quite continental
@@ -20,71 +20,62 @@ lyricBlocks:
     Cause we are living in a material world
     and I am a material girl
     Come and get me boys
-    There are may come a time
-    when a lass needs a lawyer
-    But diamonds are a girl's best friends
-    There may come a time
-    Awful nice
     But get that ice or else on dice
     He's your guy when fights are high
     so beware when they start to say
     Cause that's when those louses
     go back to their spouses
-    Diamonds are a girl's best
-    Diamonds are a girl's best
-    Diamonds are a girl's best friends
-    Cause that's when those louses
-    go back to their spouses
-    Diamonds are a girl's best
-    Diamonds are a girl's best
-    Diamonds are a girl's best
     Diamonds are a girl's best friends
 lyricInterpretations:
-  - id: opening-frame
-    section: 开场设定
-    reference: A kiss on the hand may be quite continental
-    lyricText: A kiss on the hand may be quite continental
-    interpretation: 开场先把这首歌的核心气质立住：现场戏谑与角色张力。演唱会版更强调表演感，像把角色意识推到前台。
-    whyItMatters: 开场是否立得住，决定听众后面会把它当作情绪记录，还是当作可反复进入的作品。
-  - id: middle-shift
-    section: 中段推进
-    reference: Cartiers
-    lyricText: Cartiers
-    interpretation: 到中段时，表达重心开始从“描述状态”转向“处理状态”。开头以高调语气夺取注意力，中段用重复与节奏制造戏剧推进。
-    whyItMatters: 这一段通常是全歌的结构转轴，会把听感从单一情绪推进到更复杂的心理层次。
-  - id: turning-point
-    section: 转折点
-    reference: so beware when they start to say
-    lyricText: so beware when they start to say
-    interpretation: 这一句附近的写法不靠大起大落，而是通过语气、重复或意象变化把立场慢慢推出来，因而更耐听。
-    whyItMatters: 它让歌曲不只停在“我有情绪”，而是进一步走到“我怎么理解这段经历”。
-  - id: ending-aftertaste
-    section: 收束余味
-    reference: Diamonds are a girl's best friends
-    lyricText: Diamonds are a girl's best friends
-    interpretation: 尾段的处理很关键：结尾反复句像一次舞台盖章，强调“我知道我在演，也知道我在说什么”。
-    whyItMatters: 好的收束不会把答案说死，而是留一个可回听、可反刍的情绪空间。
-  - id: auto-5
-    section: 自动补充段 5
-    reference: 《Sparkling Diamonds Start Concert》 第 5 段
-    lyricText: 《Sparkling Diamonds Start Concert》 语句 5
-    interpretation: 这是《Sparkling Diamonds Start Concert》自动补充的第 5 段解读，主要呼应整体主题。
-    whyItMatters: 这段让《Sparkling Diamonds Start Concert》的情绪继续向前，是理解整首歌的补白。
+  - id: unit-01
+    section: 现场入戏
+    reference: 吻手礼开场
+    lyricText: A kiss on the hand may be quite continental / But diamonds are a girl's best friends
+    interpretation: Start 演唱会版几乎一开口就要「进角色」：吻手礼的欧式客套被 but 一把掀掉，钻石成为台上的口号。现场少了字幕式中文缓冲，英文节奏更密，观众先收到的是舞台姿态——亮、俏、带点攻击性——而不是录音室里可以慢慢对读的双语文本。
+    whyItMatters: 标明这是演出单位：功能是点燃场子与展示角色切换，而非私密翻唱。
+  - id: unit-02
+    section: 账单式笑点
+    reference: 租金与猫
+    lyricText: it won't pay the rental on your humble flat / Or help you feed your helpless cat
+    interpretation: 大场地里唱 humble flat 与 helpless cat，笑点会被扩音放大：越具体的生活词，越像演员对观众使眼色。燕姿若把字咬得轻快，整段就像在综艺里报幕一段「清醒情商」段子，和前后中文情歌形成情绪换气。
+    whyItMatters: 用日常物制造现场共鸣，让英文歌不只是炫技。
+  - id: unit-03
+    section: 时间与切工
+    reference: 魅力尽、石不变形
+    lyricText: And we all lose our charms in the end / these rocks don't fluid their shape
+    interpretation: 合唱式的「我们最终都会失去魅力」在万人场里有集体黑色幽默：每个人都知道时间账，却一起跟着节奏点头。rocks 的不变形成对照，像把保险柜逻辑唱成副歌钩子。现场重复 Diamonds are a girl's best friends 时，更像口号墙，而不是细嚼句子。
+    whyItMatters: 把曲中最锋利的时间焦虑，转成可合唱的盖章句。
+  - id: unit-04
+    section: 物质女孩登场
+    reference: 品牌与宣言
+    lyricText: Tiffanies / Cartiers / and I am a material girl / Come and get me boys
+    interpretation: 品牌点名后直接 material girl，再喊 Come and get me boys——这是整轨最具「开场或中场提神」功能的几秒：挑衅、邀请、自嘲同时发生。Start 时期演唱会需要这类高饱和英文段来拉开层次，燕姿在此更像主持人兼角色扮演者。
+    whyItMatters: 定义演唱会版的存在理由：角色张力与互动钩子优先于歌词细读。
+  - id: unit-05
+    section: 热度退潮警告
+    reference: 回配偶与钻石反复
+    lyricText: so beware when they start to say / those louses go back to their spouses
+    interpretation: beware 把俏皮拧紧半圈：热火朝天时他是你的人，话锋一转就会回配偶身边。现场反复 Diamonds are a girl's best 像敲章收工——娱乐外壳下仍丢给观众一句关系现实主义。与录音双语版相比，这里更依赖节奏与群感，少依赖中文释义。
+    whyItMatters: 防止段落停在纯欢闹，给英文段留下一点点刺。
 songDesign:
-  summary: 这首歌可理解为“现场戏谑与角色张力”的结构化表达。它通过前段定调、中段推进、后段收束，把单点感受扩展成完整听感路径。
+  summary: Start 演唱会版《Sparkling Diamonds》以英文舞台角色为主：吻手礼拆穿后钻石口号、租金与猫的笑点、魅力尽与石头不走样、material girl 互动，终以男人回配偶的警告与钻石反复收束。
   structure:
-    - 开头用核心意象或口气快速定调，先把角色位置讲清楚。
-    - 中段引入关系变化或心理位移，让叙述从静态走向动态。
-    - 后段通过重复句或结论句回收主题，并保留回响空间。
+    - 欧式吻 → 钻石优先，快速入戏。
+    - 租金／喂猫等具体笑点，贴近观众生活。
+    - 时间与切工对照，副歌口号化。
+    - Tiffany/Cartier + material girl + come and get me 拉高互动。
+    - beware／spouses 警告后，钻石句多重盖章。
   emotionCurve:
-    - 前段：先建立识别度，情绪相对集中。
-    - 中段：进入拉扯或扩张，张力上升。
-    - 尾段：不做过度宣泄，落在更稳定但更有后劲的状态。
+    - 亮相俏皮。
+    - 笑点务实。
+    - 集体黑色幽默。
+    - 高调挑衅。
+    - 尖刺后欢闹收工。
   craftNotes:
-    - 主题关键词可概括为：现场戏谑与角色张力。
-    - 写法上重视句式重复与语气变化，而不是堆砌复杂修辞。
-    - 与《天黑黑》类似，价值不在“说多重”，而在“说得准、留得住”。
+    - 相对合集双语版，此轨文本几乎纯英文，更贴现场听感与舞步卡点。
+    - 在 Start Live 套曲中承担「角色／西文／提神」功能，宜与前后中文情歌对照听完整气口。
+    - 解读重点应落在表演与结构位置，而非当作燕姿私密自白。
 ---
-Sparkling Diamonds Start Concert 在站内作品线里很适合作为“现场戏谑与角色张力”样本来听。它的可贵之处不是情绪有多夸张，而是能把看似分散的经验收拢成一个清晰的内部逻辑：先承认处境，再辨认关系，最后给出一个可继续生活下去的姿态。
+Start 演唱会里的《Sparkling Diamonds》，首先是一段舞台事件：英文咬字密、中文缓冲少，吻手礼刚出现就被钻石口号顶掉，全场很快进入「她在演一个物质聪明的角色」的共识。humble flat、helpless cat 这类词在扩音下像故意抛给观众的笑料；we all lose our charms 则变成可以一起点头的黑色幽默。
 
-如果把它和《天黑黑》放在同一条线上看，会发现两者都不靠戏剧性转折取胜，而是通过细节推进把听众带进更深的心理现场。前者更偏现场戏谑与角色张力，后者更偏成长回望，但共同点是都把“情绪”写成“过程”，这也是它值得反复回听的原因。
+真正让这段能嵌进演唱会叙事的，是 Tiffanies、Cartiers、material girl 与 Come and get me boys 的连续高饱和——它负责换气、提神、展示角色切换能力。beware 与 louses go back to their spouses 又在欢闹里钉一颗刺：热度会退，别只信表演。较之录音室／合集上的双语《Sparkling Diamonds》，Start 版更短促、更口号、更服务现场结构；听它时，与其深挖每一句道德立场，不如把它当作 2002 前后舞台上的一枚亮片：闪一下，提醒你燕姿也能很会「演」。

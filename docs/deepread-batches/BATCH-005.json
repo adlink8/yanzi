@@ -4,102 +4,101 @@
   "size": 6,
   "songs": [
     {
-      "slug": "zui-hou-zhi-hou",
-      "title": "最后之后",
-      "favoriteLevel": "medium",
+      "slug": "sweet-child-o-mine-2",
+      "title": "Sweet Child O Mine 2",
+      "favoriteLevel": "low",
       "tier": "scaffold",
       "albumSlug": "official-singles-collection",
       "moodTags": [
         "回望"
       ],
       "themeTags": [
-        "近期单曲",
-        "余波"
+        "关系变化"
       ],
-      "summary": "《最后之后》最有后劲的地方，是它没有把故事停在终点，而是继续问：终点之后怎么办？很多真正的难题，其实就是从这里才开始。",
-      "deepReadPath": "content/songs/deep-reads/zui-hou-zhi-hou.md",
-      "rawLyricsPath": "content/songs/raw-lyrics/zui-hou-zhi-hou.txt"
+      "summary": "《Sweet Child O Mine 2》的解读正在整理中。",
+      "deepReadPath": "content/songs/deep-reads/sweet-child-o-mine-2.md",
+      "rawLyricsPath": "content/songs/raw-lyrics/sweet-child-o-mine-2.txt"
     },
     {
-      "slug": "180-du",
-      "title": "180度",
+      "slug": "ta-men-de-ge",
+      "title": "他们的歌",
       "favoriteLevel": "low",
       "tier": "scaffold",
-      "albumSlug": "shi-shi-hou",
+      "albumSlug": "official-singles-collection",
       "moodTags": [
         "回望"
       ],
       "themeTags": [
         "关系变化"
       ],
-      "summary": "《180度》的解读正在整理中。",
-      "deepReadPath": "content/songs/deep-reads/180-du.md",
-      "rawLyricsPath": "content/songs/raw-lyrics/180-du.txt"
+      "summary": "《他们的歌》的解读正在整理中。",
+      "deepReadPath": "content/songs/deep-reads/ta-men-de-ge.md",
+      "rawLyricsPath": "content/songs/raw-lyrics/ta-men-de-ge.txt"
     },
     {
-      "slug": "ai-cong-ling-kai-shi",
-      "title": "爱从零开始",
+      "slug": "tai-yang-di-xia",
+      "title": "太阳底下",
       "favoriteLevel": "low",
       "tier": "scaffold",
-      "albumSlug": "leave",
+      "albumSlug": "official-singles-collection",
       "moodTags": [
         "回望"
       ],
       "themeTags": [
         "关系变化"
       ],
-      "summary": "《爱从零开始》的解读正在整理中。",
-      "deepReadPath": "content/songs/deep-reads/ai-cong-ling-kai-shi.md",
-      "rawLyricsPath": "content/songs/raw-lyrics/ai-cong-ling-kai-shi.txt"
+      "summary": "《太阳底下》的解读正在整理中。",
+      "deepReadPath": "content/songs/deep-reads/tai-yang-di-xia.md",
+      "rawLyricsPath": "content/songs/raw-lyrics/tai-yang-di-xia.txt"
     },
     {
-      "slug": "ai-qing-zheng-shu-start-concert",
-      "title": "爱情证书（Start演唱会）",
+      "slug": "that-i-would-be-good",
+      "title": "That I Would Be Good",
       "favoriteLevel": "low",
       "tier": "scaffold",
-      "albumSlug": "start-live",
+      "albumSlug": "official-singles-collection",
       "moodTags": [
         "回望"
       ],
       "themeTags": [
         "关系变化"
       ],
-      "summary": "《爱情证书（Start演唱会）》的解读正在整理中。",
-      "deepReadPath": "content/songs/deep-reads/ai-qing-zheng-shu-start-concert.md",
-      "rawLyricsPath": "content/songs/raw-lyrics/ai-qing-zheng-shu-start-concert.txt"
+      "summary": "《That I Would Be Good》的解读正在整理中。",
+      "deepReadPath": "content/songs/deep-reads/that-i-would-be-good.md",
+      "rawLyricsPath": "content/songs/raw-lyrics/that-i-would-be-good.txt"
     },
     {
-      "slug": "ai-qing-zi-dian-start-concert",
-      "title": "爱情字典（Start演唱会）",
+      "slug": "tian-kong",
+      "title": "天空",
       "favoriteLevel": "low",
       "tier": "scaffold",
-      "albumSlug": "start-live",
+      "albumSlug": "official-singles-collection",
       "moodTags": [
         "回望"
       ],
       "themeTags": [
         "关系变化"
       ],
-      "summary": "《爱情字典（Start演唱会）》的解读正在整理中。",
-      "deepReadPath": "content/songs/deep-reads/ai-qing-zi-dian-start-concert.md",
-      "rawLyricsPath": "content/songs/raw-lyrics/ai-qing-zi-dian-start-concert.txt"
+      "summary": "《天空》的解读正在整理中。",
+      "deepReadPath": "content/songs/deep-reads/tian-kong.md",
+      "rawLyricsPath": "content/songs/raw-lyrics/tian-kong.txt"
     },
     {
-      "slug": "bu-neng-he-ni-yi-qi",
-      "title": "不能和你一起",
+      "slug": "tian-yue-liang-ye-yue-hei",
+      "title": "天越亮，夜越黑",
       "favoriteLevel": "low",
       "tier": "scaffold",
-      "albumSlug": "the-moment",
+      "albumSlug": "official-singles-collection",
       "moodTags": [
         "回望"
       ],
       "themeTags": [
         "关系变化"
       ],
-      "summary": "《不能和你一起》的解读正在整理中。",
-      "deepReadPath": "content/songs/deep-reads/bu-neng-he-ni-yi-qi.md",
-      "rawLyricsPath": "content/songs/raw-lyrics/bu-neng-he-ni-yi-qi.txt"
+      "summary": "《天越亮，夜越黑》的解读正在整理中。",
+      "deepReadPath": "content/songs/deep-reads/tian-yue-liang-ye-yue-hei.md",
+      "rawLyricsPath": "content/songs/raw-lyrics/tian-yue-liang-ye-yue-hei.txt"
     }
   ],
-  "createdAt": "2026-07-17T01:19:47.867Z"
+  "createdAt": "2026-07-17T01:24:35.945Z"
 }
