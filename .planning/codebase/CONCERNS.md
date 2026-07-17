@@ -98,11 +98,11 @@
 - Trigger: Long streaming responses with multi-byte UTF-8 or split `data:` lines.
 - Workaround: Retry question; fix by buffering incomplete lines before `JSON.parse`.
 
-**AI unusable on Cloudflare with local-Ollama defaults:**
-- Symptoms: Production ask routes fail when `OPENAI_BASE_URL` points at `127.0.0.1:11434` (edge cannot reach maintainer laptop) or when `OPENAI_API_KEY` is empty (`enabled: false` → `AI_NOT_CONFIGURED`).
+**AI fails without cloud credentials on deploy:**
+- Symptoms: Production ask routes return `AI_NOT_CONFIGURED` when `OPENAI_API_KEY` is empty; or fail if `OPENAI_BASE_URL` points at `127.0.0.1` (edge cannot reach maintainer laptop).
 - Files: `lib/ai/config.ts`, `docs/SETUP.md`, `app/api/ask/*/route.ts`
-- Trigger: Deploy without cloud-compatible base URL/key (project todos `sd-001`/`sd-002`).
-- Workaround: Configure remote OpenAI-compatible provider in CF env; keep Ollama for WSL `npm run dev` only.
+- Trigger: Deploy without remote OpenAI-compatible env vars.
+- Workaround: Set cloud `OPENAI_*` in CF dashboard; never point production `BASE_URL` at localhost.
 
 **Historical encoding corruption risk (fixed, residual process debt):**
 - Symptoms: Past `????` / mojibake in UI and JSON (documented fixed in `docs/ISSUES-LOG.md`).
