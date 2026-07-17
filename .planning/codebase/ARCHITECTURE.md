@@ -10,7 +10,7 @@
 - Single-repo full stack: SSR/SSG pages, Route Handlers, domain logic, and editorial content live in one Next.js 15 app
 - JSON / Markdown / TXT content pipeline — no database; catalog and deep-reads are source of truth on disk
 - Dual content access paths: Node `fs` for page generation; bundled JSON imports for Edge-compatible API routes
-- Local-first AI via OpenAI-compatible HTTP (`OPENAI_BASE_URL` / Ollama or cloud); streaming chat only
+- Cloud-first AI via OpenAI-compatible HTTP (`OPENAI_BASE_URL` / cloud or optional local); streaming chat only
 - Pure-function recommendation layer (mood / related / daily) scored over in-memory song metadata
 
 ## Layers
@@ -137,7 +137,7 @@
 **OpenAI-compatible AI client:**
 - Purpose: Provider-agnostic chat completion and streaming
 - Examples: `lib/ai/client.ts`, `lib/ai/config.ts`
-- Pattern: Env-driven `baseUrl` / `apiKey` / `model`; Ollama inferred from localhost base URL
+- Pattern: Env-driven `baseUrl` / `apiKey` / `model`; cloud defaults; localhost base URL labeled as optional Ollama
 
 **Prompt / context builders:**
 - Purpose: Assemble system+user messages from song/album context

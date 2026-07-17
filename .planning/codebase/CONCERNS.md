@@ -222,7 +222,7 @@
 - Scaling path: Stay filesystem until multi-editor concurrency appears; then consider build-time index shards or a light DB. Prioritize quality tiers over raw song count.
 
 **AI provider:**
-- Current capacity: Single streaming completion per user action; local Ollama for dev; optional cloud for deploy.
+- Current capacity: Single streaming completion per user action; cloud OpenAI-compatible by default; optional local Ollama for offline dev only.
 - Limit: No queue, no caching, no multi-turn session store; concurrent public users would hit provider rate/cost limits first.
 - Scaling path: Cache frequent Q&A, session memory only if product expands (v2 EXP-03); keep private auth.
 

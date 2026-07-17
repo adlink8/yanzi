@@ -5,34 +5,75 @@
 - Runtime: WSL `Ubuntu-D`
 - Project Root: `/home/li/projects/repos/products/fandom/stefanie-sun-deep-reads`
 - Package Manager: `npm`
-- Default AI Provider: local `Ollama`
-- Default Model: `gemma4:e4b`
+- AI: OpenAI-compatible HTTP API（云端优先；本地 Ollama 仅可选）
 
 ## First Run
 
 ```bash
 cd /home/li/projects/repos/products/fandom/stefanie-sun-deep-reads
 npm install
+cp .env.example .env.local
+# 编辑 .env.local：填入 OPENAI_API_KEY，并按需调整 BASE_URL / MODEL
 npm run dev
 ```
 
-## Default AI Behavior
+开发服务器默认端口：`3008`。
 
-项目默认使用本地 Ollama，不填任何云端配置也可以先跑起来。
+## AI 配置（云端优先）
 
-默认值如下：
+AI 问答依赖 **OpenAI-compatible** 的 Chat Completions 接口（流式）。
 
-- `OPENAI_BASE_URL=http://127.0.0.1:11434/v1`
-- `OPENAI_API_KEY=ollama`
-- `OPENAI_MODEL=gemma4:e4b`
+代码默认（见 `lib/ai/config.ts`）：
 
-只要 WSL 中的 Ollama 服务已经启动，并且本地存在 `gemma4:e4b` 模型，歌曲页和专辑页的 AI 解读助手就可以直接工作。
+| 变量 | 默认 | 说明 |
+|------|------|------|
+| `OPENAI_BASE_URL` | `https://api.openai.com/v1` | 任意兼容端点 |
+| `OPENAI_API_KEY` | （空） | **必填**；未设置时 AI 功能关闭 |
+| `OPENAI_MODEL` | `gpt-4o-mini` | 模型名 |
+
+在 `.env.local`（本地）或 Cloudflare Pages 环境变量（部署）中配置即可启用歌曲页 / 专辑页 AI 助手。
+
+### 常见云端示例
+
+**OpenAI**
+
+```bash
+OPENAI_BASE_URL=https://api.openai.com/v1
+OPENAI_API_KEY=sk-...
+OPENAI_MODEL=gpt-4o-mini
+```
+
+**DeepSeek**
+
+```bash
+OPENAI_BASE_URL=https://api.deepseek.com/v1
+OPENAI_API_KEY=...
+OPENAI_MODEL=deepseek-chat
+```
+
+**智谱 GLM（OpenAI 兼容代理）**
+
+```bash
+OPENAI_BASE_URL=https://open.bigmodel.cn/api/paas/v4
+OPENAI_API_KEY=...
+OPENAI_MODEL=glm-4-flash
+```
+
+### 可选：本地 Ollama
+
+不作为默认路径。仅在需要离线调试时覆盖：
+
+```bash
+OPENAI_BASE_URL=http://127.0.0.1:11434/v1
+OPENAI_API_KEY=ollama
+OPENAI_MODEL=你的本地模型名
+```
+
+注意：Cloudflare Pages 部署环境 **无法** 访问你本机的 `127.0.0.1`；线上必须使用可公网访问的云端或自建兼容端点。
 
 ## Lyrics Directory and File Rules
 
 ### Directories
-
-Lyrics-related content uses these locations:
 
 - `content/songs/raw-lyrics/`
 - `content/songs/deep-reads/`
@@ -40,57 +81,35 @@ Lyrics-related content uses these locations:
 
 ### Full Lyrics Files
 
-Put user-maintained full lyrics text into:
-
-- `content/songs/raw-lyrics/{slug}.txt`
-
-Example:
-
-- `content/songs/raw-lyrics/tian-hei-hei.txt`
-
-Formatting requirements:
-
-- UTF-8 text
-- preserve line breaks
-- blank lines allowed between sections
-- lyrics text only
-- no analysis mixed into this file
-- the app loads this file automatically and shows it on the song page
+- Path: `content/songs/raw-lyrics/{slug}.txt`
+- UTF-8, preserve line breaks, lyrics text only (no analysis)
 
 ### Deep Read Files
 
-Put analysis into:
-
-- `content/songs/deep-reads/{slug}.md`
-
-Suggested responsibilities:
-
-- overall interpretation
-- MV link
-- lyric-by-lyric or section-by-section interpretation
-- whole-song design analysis
+- Path: `content/songs/deep-reads/{slug}.md`
+- Overall interpretation, MV, section interpretations, song design
 
 ### Slug Rule
 
-Use the same slug in all three places:
+Same kebab-case pinyin slug in:
 
 - `content/songs/index.json`
 - `content/songs/raw-lyrics/{slug}.txt`
 - `content/songs/deep-reads/{slug}.md`
 
-## Custom Provider
+## Useful Commands
 
-如果你之后想切换到别的 OpenAI-compatible 服务，再在 `.env.local` 中覆盖：
+```bash
+npm run dev          # 开发 :3008
+npm test             # Vitest
+npm run build        # Next 生产构建
+npm run build:cf     # Cloudflare Pages 构建
+npm run gate:content # 内容质量门禁
+npm run audit:catalog
+npm run audit:content
+```
 
-- `OPENAI_BASE_URL`
-- `OPENAI_API_KEY`
-- `OPENAI_MODEL`
+## Current Focus
 
-## Current Scope
-
-- Phase 1 includes:
-  - local content reading
-  - song and album AI Q&A
-  - mood-based recommendation
-  - song deep-read structure
-  - automatic loading of manually maintained full lyrics files
+- Catalog normalization closed（正式专辑结构 + `songSlugs` 与 `albumSlug` 对齐）
+- Next: deep-read 质量精修（Phase 5）与可靠性（Phase 6）

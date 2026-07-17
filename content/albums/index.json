@@ -6,9 +6,29 @@
     "era": "出道起点",
     "isOfficial": true,
     "summary": "以清澈、直接又带民谣感的表达打开大众认知，是燕姿作品脉络的起点。",
-    "coreThemes": ["青春", "自我表达", "早期辨识度"],
-    "representativeSongs": ["天黑黑", "爱情证书"],
-    "songSlugs": ["tian-hei-hei", "zhi-lai-zhi-wang", "shang-bu-liao", "ai-qing-zheng-shu", "hen-hao", "chao-kuai-gan", "leave-me-alone", "e-lover", "zi-ran"]
+    "coreThemes": [
+      "青春",
+      "自我表达",
+      "早期辨识度"
+    ],
+    "representativeSongs": [
+      "天黑黑",
+      "爱情证书"
+    ],
+    "songSlugs": [
+      "tian-hei-hei",
+      "zhi-lai-zhi-wang",
+      "shang-bu-liao",
+      "ai-qing-zheng-shu",
+      "hen-hao",
+      "chao-kuai-gan",
+      "leave-me-alone",
+      "e-lover",
+      "zi-ran",
+      "e-lover-2",
+      "he-ping",
+      "nong-mei-mao"
+    ]
   },
   {
     "slug": "wo-yao-de-xing-fu",
@@ -17,9 +37,25 @@
     "era": "出道延展",
     "isOfficial": true,
     "summary": "在出道之年继续扩展个人表达，把成长、确认和向前的姿态写得更稳。",
-    "coreThemes": ["成长", "勇气", "继续向前"],
-    "representativeSongs": ["开始懂了", "我要的幸福"],
-    "songSlugs": ["kai-shi-dong-le", "wo-yao-de-xing-fu", "xiang-xin", "hai-pa", "nan-de-yi-jian", "huai-tian-qi", "ling-que-dian"]
+    "coreThemes": [
+      "成长",
+      "勇气",
+      "继续向前"
+    ],
+    "representativeSongs": [
+      "开始懂了",
+      "我要的幸福"
+    ],
+    "songSlugs": [
+      "kai-shi-dong-le",
+      "wo-yao-de-xing-fu",
+      "xiang-xin",
+      "hai-pa",
+      "nan-de-yi-jian",
+      "huai-tian-qi",
+      "ling-que-dian",
+      "lei-zhui"
+    ]
   },
   {
     "slug": "feng-zheng",
@@ -28,9 +64,26 @@
     "era": "展开期",
     "isOfficial": true,
     "summary": "在明亮流行感之外加入自由、距离和前卫气息，是早期风格扩张的重要一步。",
-    "coreThemes": ["希望", "距离", "自由"],
-    "representativeSongs": ["绿光", "风筝"],
-    "songSlugs": ["lu-guang", "feng-zheng", "ren-xing", "zhen-de", "sui-tang-ce-yan", "ai-qing-zi-dian", "tao-wang"]
+    "coreThemes": [
+      "希望",
+      "距离",
+      "自由"
+    ],
+    "representativeSongs": [
+      "绿光",
+      "风筝"
+    ],
+    "songSlugs": [
+      "feng-zheng",
+      "lu-guang",
+      "ren-xing",
+      "zhen-de",
+      "sui-tang-ce-yan",
+      "ai-qing-zi-dian",
+      "tao-wang",
+      "bu-shi-zhen-de-ai-wo",
+      "lian-xi"
+    ]
   },
   {
     "slug": "start",
@@ -39,9 +92,56 @@
     "era": "2002 时期",
     "isOfficial": true,
     "summary": "一本关于音乐基因的传记。燕姿通过翻唱影响其深远的经典，完成了对自我审美源头的深情溯源。",
-    "coreThemes": ["溯源", "致敬", "解构经典"],
-    "representativeSongs": ["Silent All These Years", "Hey Jude"],
-    "songSlugs": ["silent-all-these-years", "hey-jude", "tian-kong", "yuan-lai-ni-shen-me-dou-bu-yao", "gan-lan-shu"]
+    "coreThemes": [
+      "溯源",
+      "致敬",
+      "解构经典"
+    ],
+    "representativeSongs": [
+      "Silent All These Years",
+      "Hey Jude"
+    ],
+    "songSlugs": [
+      "jiu-shi-zhe-yang",
+      "mei-shi-jian"
+    ]
+  },
+  {
+    "slug": "start-live",
+    "title": "Start 演唱会",
+    "releaseYear": 2002,
+    "era": "2002 时期",
+    "isOfficial": true,
+    "summary": "2002 年 Start 演唱会现场版本合集，记录早期代表作在舞台上的即时张力与歌迷共同记忆。",
+    "coreThemes": [
+      "现场",
+      "回望",
+      "早期代表作"
+    ],
+    "representativeSongs": [
+      "绿光（Start演唱会）",
+      "爱情证书（Start演唱会）",
+      "我要的幸福（Start演唱会）"
+    ],
+    "songSlugs": [
+      "ai-qing-zheng-shu-start-concert",
+      "ai-qing-zi-dian-start-concert",
+      "chao-kuai-gan-start-concert",
+      "feng-zheng-start-concert",
+      "hai-pa-start-concert",
+      "hen-hao-start-concert",
+      "hey-jude-start-concert",
+      "leave-me-alone-start-concert",
+      "ling-que-dian-start-concert",
+      "lu-guang-start-concert",
+      "nan-de-yi-jian-start-concert",
+      "someone-start-concert",
+      "sparkling-diamonds-start-concert",
+      "sui-tang-ce-yan-start-concert",
+      "venus-start-concert",
+      "wo-yao-de-xing-fu-start-concert",
+      "zhen-de-start-concert"
+    ]
   },
   {
     "slug": "leave",
@@ -50,9 +150,20 @@
     "era": "2002 时期",
     "isOfficial": true,
     "summary": "出走与成长的摇滚宣言。远赴新西兰荒原取景，展现了从音乐精灵向拥有硬朗张力的音乐人蜕变的过程。",
-    "coreThemes": ["独立", "爆发力", "在路上"],
-    "representativeSongs": ["懂事", "我不爱"],
-    "songSlugs": ["dong-shi", "wo-bu-ai", "zuo-zhan", "yi-yang-de-xia-tian", "ai-cong-ling-kai-shi"]
+    "coreThemes": [
+      "独立",
+      "爆发力",
+      "在路上"
+    ],
+    "representativeSongs": [
+      "懂事",
+      "我不爱"
+    ],
+    "songSlugs": [
+      "ai-cong-ling-kai-shi",
+      "bu-tong",
+      "dong-shi"
+    ]
   },
   {
     "slug": "wei-wan-cheng",
@@ -61,9 +172,24 @@
     "era": "成熟过渡",
     "isOfficial": true,
     "summary": "开始更稳定地处理复杂关系与成年人语境，许多经典情歌的成熟气质在这里成形。",
-    "coreThemes": ["关系变化", "克制", "未完成感"],
-    "representativeSongs": ["我不难过", "第一天"],
-    "songSlugs": ["wo-bu-nan-guo", "di-yi-tian", "shen-qi", "mei-you-ren-de-fang-xiang", "xiu-zhi-fu"]
+    "coreThemes": [
+      "关系变化",
+      "克制",
+      "未完成感"
+    ],
+    "representativeSongs": [
+      "我不难过",
+      "第一天"
+    ],
+    "songSlugs": [
+      "wo-bu-nan-guo",
+      "di-yi-tian",
+      "shen-qi",
+      "mei-you-ren-de-fang-xiang",
+      "xiu-zhi-fu",
+      "nian-qing-wu-xian",
+      "wei-wan-cheng"
+    ]
   },
   {
     "slug": "the-moment",
@@ -72,9 +198,21 @@
     "era": "阶段节点",
     "isOfficial": true,
     "summary": "第一阶段音乐旅程的毕业证书。记录了在巅峰时刻敢于停下、捍卫个人自由的清醒与勇气。",
-    "coreThemes": ["阶段回望", "自由宣言", "暂别"],
-    "representativeSongs": ["遇见", "The Moment"],
-    "songSlugs": ["yu-jian", "the-moment", "shuo-dao-ai", "tai-yang-di-xia"]
+    "coreThemes": [
+      "阶段回望",
+      "自由宣言",
+      "暂别"
+    ],
+    "representativeSongs": [
+      "遇见",
+      "The Moment"
+    ],
+    "songSlugs": [
+      "yu-jian",
+      "bu-neng-he-ni-yi-qi",
+      "lan-de-qu-guan",
+      "the-moment"
+    ]
   },
   {
     "slug": "stefanie-self-titled",
@@ -83,9 +221,27 @@
     "era": "自我整合",
     "isOfficial": true,
     "summary": "归零后的惊世回归。在巴黎的秋风中完成了从女孩向轻熟女的蜕变，展现了理智与感性并重的成熟美学。",
-    "coreThemes": ["归零", "成熟感", "再次出发"],
-    "representativeSongs": ["我的爱", "我也很想他"],
-    "songSlugs": ["wo-de-ai", "wo-ye-hen-xiang-ta", "ben", "zhu-ni-kai-xin", "wei-zhi-de-jing-cai"]
+    "coreThemes": [
+      "归零",
+      "成熟感",
+      "再次出发"
+    ],
+    "representativeSongs": [
+      "我的爱",
+      "我也很想他"
+    ],
+    "songSlugs": [
+      "wo-ye-hen-xiang-ta",
+      "zhu-ni-kai-xin",
+      "wei-zhi-de-jing-cai",
+      "man-man-lai",
+      "zhong",
+      "wo-de-ai",
+      "ben",
+      "fan-guo-lai-zou-zou",
+      "lets-vino",
+      "wei-zhi-de-jing-cai-2"
+    ]
   },
   {
     "slug": "wan-mei-de-yi-tian",
@@ -94,9 +250,27 @@
     "era": "阶段平衡",
     "isOfficial": true,
     "summary": "实验与生活感的平衡。红发造型背后是强烈的生命张力，探讨了现代人如何在平凡日子里活得鲜明。",
-    "coreThemes": ["日常感", "呼吸感", "跨界合作"],
-    "representativeSongs": ["完美的一天", "眼泪成诗", "隐形人"],
-    "songSlugs": ["wan-mei-de-yi-tian", "yan-lei-cheng-shi", "yin-xing-ren", "piao-zhe", "honey-honey"]
+    "coreThemes": [
+      "日常感",
+      "呼吸感",
+      "跨界合作"
+    ],
+    "representativeSongs": [
+      "完美的一天",
+      "眼泪成诗",
+      "隐形人"
+    ],
+    "songSlugs": [
+      "wan-mei-de-yi-tian",
+      "honey-honey",
+      "xin-yuan",
+      "yin-xing-ren",
+      "ling-yi-zhang-lian",
+      "yan-lei-cheng-shi",
+      "liu-lang-di-tu",
+      "meng-bu-luo",
+      "ming-tian-qing-tian"
+    ]
   },
   {
     "slug": "my-story",
@@ -105,9 +279,23 @@
     "era": "阶段回看",
     "isOfficial": true,
     "summary": "像一次阶段性的整理与回看，把重要作品重新放到同一张精选里。",
-    "coreThemes": ["回看", "精选", "阶段整理", "重新记忆"],
-    "representativeSongs": ["雨天", "了解"],
-    "songSlugs": ["yu-tian", "liao-jie", "di-liu-gan", "wo-bu-ai"]
+    "coreThemes": [
+      "回看",
+      "精选",
+      "阶段整理",
+      "重新记忆"
+    ],
+    "representativeSongs": [
+      "雨天",
+      "了解"
+    ],
+    "songSlugs": [
+      "yu-tian",
+      "leave",
+      "liao-jie",
+      "di-liu-gan",
+      "meng-xiang-tian-kong"
+    ]
   },
   {
     "slug": "ni-guang",
@@ -116,9 +304,25 @@
     "era": "成熟高峰",
     "isOfficial": true,
     "summary": "强悍的生命力宣言。在荒芜视觉下构建希望的精神图腾，证明了真正的光芒是从内心散发出来的。",
-    "coreThemes": ["坚韧", "动能", "迎光而行"],
-    "representativeSongs": ["我怀念的", "逆光"],
-    "songSlugs": ["wo-huai-nian-de", "ni-guang", "piao-zhe", "meng-you", "gu-ji-gu-ji"]
+    "coreThemes": [
+      "坚韧",
+      "动能",
+      "迎光而行"
+    ],
+    "representativeSongs": [
+      "我怀念的",
+      "逆光"
+    ],
+    "songSlugs": [
+      "wo-huai-nian-de",
+      "ni-guang",
+      "meng-you",
+      "ai-qing-de-hua-yang",
+      "gu-ji-gu-ji",
+      "piao-zhe",
+      "an-ning",
+      "guan-yu"
+    ]
   },
   {
     "slug": "shi-shi-hou",
@@ -127,9 +331,25 @@
     "era": "成熟内省",
     "isOfficial": true,
     "summary": "沉淀四年后的音乐自白。蓄起长发，开始讨论语言的失效与自我的困局，展现了后期极具压强的人文气息。",
-    "coreThemes": ["内省", "止损", "身份蜕变"],
-    "representativeSongs": ["世说心语", "是时候"],
-    "songSlugs": ["shi-shuo-xin-yu", "yu-ren-de-guo-du", "shi-shi-hou", "kong-kou-yan"]
+    "coreThemes": [
+      "内省",
+      "止损",
+      "身份蜕变"
+    ],
+    "representativeSongs": [
+      "世说心语",
+      "是时候"
+    ],
+    "songSlugs": [
+      "shi-shuo-xin-yu",
+      "kuai-feng-le",
+      "kong-kou-yan",
+      "yu-ren-de-guo-du",
+      "shi-shi-hou",
+      "180-du",
+      "dang-dong-ye-jian-nuan",
+      "ming-tian-de-ji-yi"
+    ]
   },
   {
     "slug": "ke-bu-le",
@@ -138,9 +358,25 @@
     "era": "后期凝练",
     "isOfficial": true,
     "summary": "宏大的宇宙级人文关怀。用引力、星光和时间海包裹孤独，探讨了生命个体间跨越时空的辉映与连接。",
-    "coreThemes": ["时间感", "引力波", "宇宙视野"],
-    "representativeSongs": ["克卜勒", "尚好的青春", "银泰"],
-    "songSlugs": ["ke-bu-le", "shang-hao-de-qing-chun", "yin-tai", "cuo-jue", "bi-jiao-xing-fu"]
+    "coreThemes": [
+      "时间感",
+      "引力波",
+      "宇宙视野"
+    ],
+    "representativeSongs": [
+      "克卜勒",
+      "尚好的青春",
+      "银泰"
+    ],
+    "songSlugs": [
+      "ke-bu-le",
+      "shang-hao-de-qing-chun",
+      "cuo-jue",
+      "yin-tai",
+      "bi-jiao-xing-fu",
+      "yu-hai-shi-bu-ting-de-luo-xia",
+      "ke"
+    ]
   },
   {
     "slug": "cai-hong-jin-gang-ep",
@@ -149,9 +385,17 @@
     "era": "2019 时期",
     "isOfficial": true,
     "summary": "重拾童真的音乐实验。作为母亲后对好奇心的温柔守护，也是给所有“大孩子”的一份心灵避风港。",
-    "coreThemes": ["童心", "探险", "母性光辉"],
-    "representativeSongs": ["彩虹金刚"],
-    "songSlugs": ["cai-hong-jin-gang", "tong-yao-1987", "zhe-ge-shi-jie"]
+    "coreThemes": [
+      "童心",
+      "探险",
+      "母性光辉"
+    ],
+    "representativeSongs": [
+      "彩虹金刚"
+    ],
+    "songSlugs": [
+      "cai-hong-jin-gang"
+    ]
   },
   {
     "slug": "no-13",
@@ -160,9 +404,28 @@
     "era": "2017 时期",
     "isOfficial": true,
     "summary": "理智与疯狂并行的艺术解剖。目前最具野心的实验之作，是对“不完美生命”与艺术宿命的勇敢致敬。",
-    "coreThemes": ["癫狂美学", "自我解构", "艺术殉道"],
-    "representativeSongs": ["跳舞的梵谷", "风衣", "我很愉快"],
-    "songSlugs": ["tiao-wu-de-fan-gu", "feng-yi", "wo-hen-yu-kuai", "tian-tian-nian-nian", "ji-mei"]
+    "coreThemes": [
+      "癫狂美学",
+      "自我解构",
+      "艺术殉道"
+    ],
+    "representativeSongs": [
+      "跳舞的梵谷",
+      "风衣",
+      "我很愉快"
+    ],
+    "songSlugs": [
+      "tiao-wu-de-fan-gu",
+      "feng-yi",
+      "wo-hen-yu-kuai",
+      "tian-tian-nian-nian",
+      "piao-fu-qun-dao",
+      "ji-mei",
+      "chong-yang-qi",
+      "jie-xia-lai",
+      "chao-ren-lei",
+      "ping-ri-kuai-le"
+    ]
   },
   {
     "slug": "official-singles-collection",
@@ -171,8 +434,80 @@
     "era": "单曲/活动单曲",
     "isOfficial": false,
     "summary": "流散珠玉的系统归档。记录了正式专辑之外的每一个生命瞬间、公益发声与跨界探索。",
-    "coreThemes": ["碎片记忆", "公益关怀", "多元尝试"],
-    "representativeSongs": ["余额", "守护永恒的爱"],
-    "songSlugs": ["yu-e", "shou-hu-yong-heng-de-ai", "zui-hou-zhi-hou", "ri-luo"]
+    "coreThemes": [
+      "碎片记忆",
+      "公益关怀",
+      "多元尝试"
+    ],
+    "representativeSongs": [
+      "余额",
+      "守护永恒的爱"
+    ],
+    "songSlugs": [
+      "fei-pu-er-xia",
+      "zui-hou-zhi-hou",
+      "ri-luo",
+      "ban-ju-zai-jian",
+      "shi-jie-zhong-jie-qian-yi-tian",
+      "yu-e",
+      "shou-hu-yong-heng-de-ai",
+      "dream-a-little-dream-of-me",
+      "hey-jude",
+      "my-story-your-song",
+      "ni-hao-bu-hao",
+      "ni-ming-wan-sui",
+      "on-the-road",
+      "one-united-people",
+      "opening",
+      "qin-guang",
+      "quan-xin-quan-yi",
+      "radio",
+      "ren-zhi",
+      "rise",
+      "shi-guang-xiao-tou",
+      "silent-all-these-years",
+      "someone",
+      "sometimes-love-just-aint-enough",
+      "sparking-diamonds",
+      "stefanie",
+      "sweet-child-o-mine",
+      "sweet-child-o-mine-2",
+      "ta-men-de-ge",
+      "tai-yang-di-xia",
+      "that-i-would-be-good",
+      "tian-kong",
+      "tian-yue-liang-ye-yue-hei",
+      "tian-yue-liang-ye-yue-hei-2",
+      "ting-jian",
+      "tong-yao-1987",
+      "up2u",
+      "venus",
+      "we-will-get-there",
+      "wei-rao",
+      "wen-rou-mayday-blue-20th",
+      "wo-bu-ai",
+      "wo-hen-wo-ai-ni",
+      "wo-shi-wo",
+      "wo-wei-shen-me-na-me-ai-ni",
+      "wo-xiang",
+      "wo-yao-kuai-le",
+      "wu-xian-da",
+      "xing-qi-yi-tian-qi-qing-wo-li-kai-ni",
+      "xu-yao-ni",
+      "xuan-wo",
+      "xue-hui",
+      "yan-shen",
+      "yang-zi",
+      "yi-qi-zou-dao",
+      "yi-yang-de-xia-tian",
+      "yong-gan",
+      "yong-yuan",
+      "zai-ye-bu-jian",
+      "zhong-jian-di-dai",
+      "zhong-yu",
+      "zhong-yu-2",
+      "zhui",
+      "zuo-zhan"
+    ]
   }
 ]

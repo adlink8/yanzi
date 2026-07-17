@@ -70,16 +70,16 @@
 - Validation result:
   - visible indexed placeholders: `0`
 
-### 5. Missing local lyrics file
+### 5. Placeholder lyrics for `shang-bu-liao`
 
 - Song:
   - `shang-bu-liao`
-- Missing file:
-  - `content/songs/raw-lyrics/shang-bu-liao.txt`
+- File:
+  - `content/songs/raw-lyrics/shang-bu-liao.txt` exists but body is still a `[待补录]` placeholder
 - Impact:
-  - full lyrics section cannot load local lyrics text for this song
+  - song page can load a file, but users do not see real lyrics
 - Status:
-  - open
+  - open（Phase 5 / META-03）
 
 ## Technical Root Cause Summary
 
@@ -94,7 +94,9 @@ The main sources were:
 
 - indexed song metadata corruption: `0`
 - visible indexed placeholders: `0`
-- build status: passing
+- albumSlug orphans: `0`（2026-07-17 closeout）
+- songSlugs drift: `0`（derived from song `albumSlug`）
+- build status: passing (last verified via project ops notes)
 
 ## Follow-up Rule
 

@@ -80,7 +80,8 @@
 - AI defaults documented in `docs/SETUP.md`; code defaults in `lib/ai/config.ts`:
   - Code fallback base URL: `https://api.openai.com/v1`
   - Code fallback model: `gpt-4o-mini`
-  - Local private-use defaults: Ollama at `http://127.0.0.1:11434/v1`, key `ollama`, model `gemma4:e4b`
+  - Cloud-first defaults in code: `https://api.openai.com/v1`, model `gpt-4o-mini`; AI requires `OPENAI_API_KEY`
+  - Optional local Ollama only via env override (not product default; see `docs/SETUP.md`)
 - AI enabled only when `OPENAI_API_KEY` is non-empty (`getAiConfig().enabled`)
 - Content gate thresholds: `GATE_MAX_ARCHIVE`, `GATE_MAX_MV_MISSING` (optional, `scripts/validate-content-gate.mjs`)
 
@@ -108,7 +109,7 @@
 **Development:**
 - WSL Ubuntu-D; project root `/home/li/projects/repos/products/fandom/stefanie-sun-deep-reads`
 - Node 22+ and npm 10+
-- Optional: local Ollama for AI Q&A without cloud keys
+- Optional: local Ollama for offline dev only (env override; not for Cloudflare deploy)
 - Port 3008 free for `next dev`
 - Content edits under `content/` only (JSON/Markdown/TXT); keep song slugs kebab-case pinyin across index, lyrics, and deep-reads
 

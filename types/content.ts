@@ -21,6 +21,7 @@ export type Album = {
   title: string
   releaseYear: number
   era: string
+  isOfficial?: boolean
   summary: string
   coreThemes: string[]
   representativeSongs: string[]

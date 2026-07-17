@@ -10,8 +10,9 @@
   - Config: `lib/ai/config.ts` (`getAiConfig`)
   - Auth: `Authorization: Bearer ${OPENAI_API_KEY}`
   - Env: `OPENAI_BASE_URL`, `OPENAI_API_KEY`, `OPENAI_MODEL`
-  - Default local path: Ollama OpenAI-compatible endpoint (`docs/SETUP.md`: `http://127.0.0.1:11434/v1`, model `gemma4:e4b`)
-  - Cloud path: any OpenAI-compatible provider (OpenAI, DeepSeek, 智谱 GLM proxies, etc.) by overriding the three env vars
+  - **Default path (cloud-first):** `https://api.openai.com/v1` + `gpt-4o-mini` when env unset (`lib/ai/config.ts`); AI enabled only if `OPENAI_API_KEY` is set
+  - Optional local path: Ollama OpenAI-compatible endpoint via env override (`http://127.0.0.1:11434/v1`) — not the product default; unusable on Cloudflare Pages
+  - Other cloud providers: DeepSeek, 智谱 GLM, etc. by overriding the three env vars
   - Consumers: `app/api/ask/song/route.ts`, `app/api/ask/album/route.ts` → `createChatStream`
   - Response mode: SSE-style stream (`text/event-stream`); non-stream helper `createChatCompletion` also available
   - Use pattern: keep prompts in `lib/ai/prompts.ts` and context assembly in `lib/ai/context-builders.ts`; do not hardcode provider SDKs
@@ -109,7 +110,7 @@
 
 **Required env vars (AI features):**
 - `OPENAI_API_KEY` — enables AI (`getAiConfig().enabled`)
-- `OPENAI_BASE_URL` — provider base (optional; code default OpenAI; local docs default Ollama)
+- `OPENAI_BASE_URL` — provider base (optional; code default `https://api.openai.com/v1`)
 - `OPENAI_MODEL` — model id (optional; code default `gpt-4o-mini`)
 
 **Required env vars (feedback GitHub path):**
